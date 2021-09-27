@@ -85,11 +85,20 @@ The application classifies the *qualifier* as part of finding that mention.
  - *GATE_READER*        - This reader will read in GATE formatted xml files.
  - *GATE_CORPUS_READER* - This reader will read in files within a GATE serial datastore.  
 
-#Example UIMA XMI Output
+# Example UIMA XMI Output
 
-  Here is a screen shot of the UIMA Annotation Viewer viewing a file processed by the application.  
+  Here is a screen shot of the UIMA Annotation Viewer viewing a file processed by the application.
+  
   <img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionUIMAXMI_Output.png" width=1000 />
 
-#Example of GATE Output
+# Example of GATE Output
+
   Here is a screen shot of the GATE Viewer viewing a file processed by the application.
+
 <img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionGATE_ExampleOutput.png" width=1000 />
+
+# Example of VTT Output
+
+  Here is a screen shot of the VTT Viewer viewing a file processed by the application.
+
+<img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionVTT_ExampleOutput.png" width=1000 />
