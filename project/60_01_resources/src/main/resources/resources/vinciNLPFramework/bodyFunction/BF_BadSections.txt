@@ -1,0 +1,74 @@
+# BF_BadSections.txt
+#
+#   This file contains section names that body function mentions should not be found in.
+#   If body function mentions are found in these sections, they are false positives
+#
+#   Last Updated 2021-09-21
+#   Author:      Guy Divita
+#
+#
+
+    
+goal
+plan|impression
+details
+educat
+refer
+intervention
+family history
+vital
+medication
+gait
+balance
+coordination
+mobility
+sitting
+motor learning
+ # Motor function (motor control, motor learning)
+motor function 
+recommendation
+assessment
+a/p
+occupational profile
+illness
+fa
+sensation
+sensory
+history of present illness
+psychiatric
+patient/significant others comments
+developmental history
+posture
+pain impact
+HPI
+# neurological 
+# musculoskeletal 
+# hist
+# hx
+follow 
+      
+######
+# Patterns added from ssa data
+#
+exercise
+precautions
+case info
+therapeutic activities
+therapeutic
+compartment
+genitourinary
+gastrointestinal
+outcome
+treatment
+weight
+procedure
+possibility
+pregnancy
+labs
+vascular
+radiograph
+endocrine
+dysphagia
+
+
+      

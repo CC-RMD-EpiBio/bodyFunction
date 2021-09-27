@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/FAB/RMD-Data/EpiBioStat/NLP/DivitaSandbox/bodyFunction/BodyFunctionExample001.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>January 12, 2018<Node id="17"/>
+
+<Node id="19"/>Chief Complaint:
+  The patient was admitted to the ER with chest pain and rom on his left side. He also was complaining of rom in his feet.<Node id="158"/>
+
+<Node id="160"/>FUNCTIONAL STATUS: 
+   He is independent in activities of daily living and ambulation.   <Node id="249"/>
+
+<Node id="251"/>PHYSICAL EXAMINATION: 
+   He is alert, oriented x3, and cooperative. His <Node id="324"/>active range of motion<Node id="346"/> and <Node id="351"/>strength<Node id="359"/> are <Node id="364"/>within functional limits<Node id="388"/> <Node id="389"/>throughout<Node id="399"/>.<Node id="400"/>
+
+<Node id="402"/>MEDICATIONS
+  Zoloft 10 mg take as needed. <Node id="445"/>
+
+<Node id="447"/>FAMILY HISTORY:
+ Brother had stroke three years ago.<Node id="499"/>
+
+<Node id="501"/>Musculoskeletal Evaluation: <Node id="529"/>
+
+<Node id="531"/>Bilateral lower Extremities: <Node id="560"/>
+
+<Node id="562"/>(from MtSamples)<Node id="578"/>
+
+<Node id="580"/>EXTREMITIES<Node id="591"/>: Orthopedic evaluation of the left knee reveals there to be well-healed portholes. 
+He does have some medial joint line swelling. Negative ballottement. He has significant pain 
+to palpation of the medial joint line, none of the lateral joint line. He has no pain to 
+palpation on the popliteal fossa. <Node id="894"/>Range of motion<Node id="909"/> is approximately <Node id="927"/>-5 degrees to 95 degrees<Node id="951"/> of <Node id="955"/>flexion<Node id="962"/>. 
+It should be noted that  he has <Node id="997"/>extreme<Node id="1004"/> <Node id="1005"/>hyperextension<Node id="1019"/> on the <Node id="1027"/>right<Node id="1032"/> with <Node id="1038"/>95+ degrees<Node id="1049"/> of <Node id="1053"/>flexion<Node id="1060"/> on the <Node id="1068"/>right<Node id="1073"/>. 
+He has a click with McMurray. Negative anterior-posterior drawer.
+No varus or valgus instability noted. Positive patellar grind test. Calf is soft and nontender. 
+Gait is stable and antalgic on the left.<Node id="1279"/>
+
+<Node id="1281"/>STRENGTH<Node id="1289"/>:
+<Node id="1291"/>RIGHT LOWER EXTREMITY<Node id="1312"/>:
+<Node id="1314"/>Knee<Node id="1318"/> <Node id="1319"/>extension<Node id="1328"/> <Node id="1329"/>5/5<Node id="1332"/>, <Node id="1334"/>hip<Node id="1337"/> <Node id="1338"/>flexion<Node id="1345"/> <Node id="1346"/>5/5<Node id="1349"/>, <Node id="1351"/>knee<Node id="1355"/> <Node id="1356"/>flexion<Node id="1363"/> <Node id="1364"/>4/5<Node id="1367"/>, <Node id="1369"/>internal and external <Node id="1391"/>hip<Node id="1394"/> rotation<Node id="1403"/> was <Node id="1408"/>4/5<Node id="1411"/>. 
+With <Node id="1419"/>manual muscle testing<Node id="1440"/> of <Node id="1444"/>knee<Node id="1448"/> <Node id="1449"/>flexion<Node id="1456"/>, <Node id="1458"/>hip<Node id="1461"/>, <Node id="1463"/>internal and external rotation<Node id="1493"/>, the patient reports 
+an increase in right SI joint pain to 8/10.<Node id="1559"/>
+
+<Node id="1561"/>LEFT LOWER EXTREMITY<Node id="1581"/>:
+<Node id="1583"/>Hip<Node id="1586"/> <Node id="1587"/>flexion<Node id="1594"/> <Node id="1595"/>5/5<Node id="1598"/>, <Node id="1600"/>knee<Node id="1604"/> <Node id="1605"/>extension<Node id="1614"/> <Node id="1615"/>5/5<Node id="1618"/>, <Node id="1620"/>knee<Node id="1624"/> <Node id="1625"/>flexion<Node id="1632"/> <Node id="1633"/>4/5<Node id="1636"/>, <Node id="1638"/>hip<Node id="1641"/> <Node id="1642"/>internal and external rotation<Node id="1672"/> <Node id="1673"/>4/5<Node id="1676"/>, with 
+slight increase in pain level with <Node id="1719"/>manual muscle testing<Node id="1740"/> and resistance. It must be noted that PT 
+did not apply as much resistance during <Node id="1823"/>manual muscle testing<Node id="1844"/>, secondary to the 8/10 pain elicited 
+during the right lower extremity.
+<Node id="1917"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="1" EndNode="17">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="19" EndNode="158">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="160" EndNode="249">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="251" EndNode="400">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="402" EndNode="445">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="447" EndNode="499">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="501" EndNode="529">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="531" EndNode="560">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="562" EndNode="578">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="580" EndNode="1279">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="1281" EndNode="1559">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="1561" EndNode="1917">
+</Annotation>
+<Annotation Id="13" Type="Body Function" StartNode="324" EndNode="399">
+</Annotation>
+<Annotation Id="14" Type="Body Function Type" StartNode="324" EndNode="346">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 364564000 (ROM)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Body Function Type" StartNode="351" EndNode="359">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Qualifier" StartNode="364" EndNode="388">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Body location" StartNode="389" EndNode="399">
+</Annotation>
+<Annotation Id="35" Type="Body Function" StartNode="580" EndNode="962">
+</Annotation>
+<Annotation Id="36" Type="Body Function Type" StartNode="894" EndNode="909">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 364564000 (ROM)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Qualifier" StartNode="927" EndNode="951">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Body Function Type" StartNode="955" EndNode="962">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 364564000 (ROM)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Body location" StartNode="580" EndNode="591">
+</Annotation>
+<Annotation Id="40" Type="Body Function" StartNode="580" EndNode="1073">
+</Annotation>
+<Annotation Id="41" Type="Body Function Type" StartNode="1005" EndNode="1019">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 364564000 (ROM)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Qualifier" StartNode="1038" EndNode="1049">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Body Function Type" StartNode="1053" EndNode="1060">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 364564000 (ROM)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="Qualifier" StartNode="997" EndNode="1004">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Body location" StartNode="1291" EndNode="1312">
+</Annotation>
+<Annotation Id="50" Type="Body location" StartNode="1314" EndNode="1318">
+</Annotation>
+<Annotation Id="51" Type="Body Function Type" StartNode="1319" EndNode="1328">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="Qualifier" StartNode="1329" EndNode="1332">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="Body location" StartNode="1334" EndNode="1337">
+</Annotation>
+<Annotation Id="55" Type="Body Function Type" StartNode="1338" EndNode="1345">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Qualifier" StartNode="1346" EndNode="1349">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="Body location" StartNode="1351" EndNode="1355">
+</Annotation>
+<Annotation Id="59" Type="Body Function Type" StartNode="1356" EndNode="1363">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="Qualifier" StartNode="1364" EndNode="1367">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="Body location" StartNode="1391" EndNode="1394">
+</Annotation>
+<Annotation Id="64" Type="Body Function Type" StartNode="1369" EndNode="1403">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Qualifier" StartNode="1408" EndNode="1411">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="Body location" StartNode="1561" EndNode="1581">
+</Annotation>
+<Annotation Id="68" Type="Body location" StartNode="1583" EndNode="1586">
+</Annotation>
+<Annotation Id="69" Type="Body Function Type" StartNode="1587" EndNode="1594">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="Qualifier" StartNode="1595" EndNode="1598">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="Body Function Type" StartNode="1419" EndNode="1440">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="Body location" StartNode="1600" EndNode="1604">
+</Annotation>
+<Annotation Id="76" Type="Body Function Type" StartNode="1605" EndNode="1614">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="Qualifier" StartNode="1615" EndNode="1618">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="Body location" StartNode="1620" EndNode="1624">
+</Annotation>
+<Annotation Id="80" Type="Body Function Type" StartNode="1625" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="Qualifier" StartNode="1633" EndNode="1636">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="Body location" StartNode="1638" EndNode="1641">
+</Annotation>
+<Annotation Id="84" Type="Body Function Type" StartNode="1642" EndNode="1672">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="Qualifier" StartNode="1673" EndNode="1676">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="Body location" StartNode="1027" EndNode="1032">
+</Annotation>
+<Annotation Id="88" Type="Body location" StartNode="1068" EndNode="1073">
+</Annotation>
+<Annotation Id="90" Type="Body Function Type" StartNode="1281" EndNode="1289">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="Body Function Type" StartNode="1823" EndNode="1844">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="Body Function" StartNode="1281" EndNode="1844">
+</Annotation>
+<Annotation Id="93" Type="Body location" StartNode="1444" EndNode="1448">
+</Annotation>
+<Annotation Id="94" Type="Body Function Type" StartNode="1449" EndNode="1456">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="Body location" StartNode="1458" EndNode="1461">
+</Annotation>
+<Annotation Id="96" Type="Body Function Type" StartNode="1463" EndNode="1493">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="98" Type="Body Function Type" StartNode="1719" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Qualifier" StartNode="1005" EndNode="1019">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

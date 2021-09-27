@@ -1,0 +1,101 @@
+BL00000|achilles|<noun>|<base>|||BodyLocation
+BL00000|achilles tendon bilaterally|<noun>|<base>|||BodyLocation
+BL00000|all extremities|<noun>|<base>|||BodyLocation
+BL00000|all four extremities|<noun>|<base>|||BodyLocation
+BL00000|all fours|<noun>|<base>|||BodyLocation
+BL00000|all muscle groups|<noun>|<base>|||BodyLocation
+BL00000|anterior tiblalis|<noun>|<base>|||BodyLocation
+BL00000|bilatera|<noun>|<base>|||BodyLocation
+BL00000|bilater|<noun>|<base>|||BodyLocation
+BL00000|bilat|<noun>|<base>|||BodyLocation
+BL00000|bicep|<noun>|<base>|||BodyLocation
+BL00000|biceps|<noun>|<base>|||BodyLocation
+BL00000|bilaterally|<noun>|<base>|||BodyLocation
+BL00000|bilateral le|<noun>|<base>|||BodyLocation
+BL00000|bilateral,left,right) hand|<noun>|<base>|||BodyLocation
+BL00000|both eyes|<noun>|<base>|||BodyLocation
+BL00000|brachial|<noun>|<base>|||BodyLocation
+BL00000|brachioradiali|<noun>|<base>|||BodyLocation
+BL00000|brachioradialis|<noun>|<base>|||BodyLocation
+BL00000|brisk brachial, patellar bilat|<noun>|<base>|||BodyLocation
+BL00000|c-spine|<noun>|<base>|||BodyLocation
+BL00000|cervical spine|<noun>|<base>|||BodyLocation
+BL00000|deltoids|<noun>|<base>|||BodyLocation
+BL00000|elbows, forearms, wrists|<noun>|<base>|||BodyLocation
+BL00000|eom|<noun>|<base>|||BodyLocation
+BL00000|eomi|<noun>|<base>|||BodyLocation
+BL00000|eoms|<noun>|<base>|||BodyLocation
+BL00000|extra ocular|<noun>|<base>|||BodyLocation
+BL00000|extraocular|<noun>|<base>|||BodyLocation
+BL00000|extraocular muscles|<noun>|<base>|||BodyLocation
+BL00000|extremity|<noun>|<base>|||BodyLocation
+BL00000|fist|<noun>|<base>|||BodyLocation
+BL00000|foot drop, right|<noun>|<base>|||BodyLocation
+BL00000|gastrocnemius|<noun>|<base>|||BodyLocation
+BL00000|hamstrings|<noun>|<base>|||BodyLocation
+BL00000|hands(bilateral ,right,left)|<noun>|<base>|||BodyLocation
+BL00000|hip joints|<noun>|<base>|||BodyLocation
+BL00000|i nterossei|<noun>|<base>|||BodyLocation
+BL00000|i xtraocular movements|<noun>|<base>|||BodyLocation
+BL00000|i xtraocular|<noun>|<base>|||BodyLocation
+BL00000|extraocular movements|<noun>|<base>|||BodyLocation
+BL00000|l ankle|<noun>|<base>|||BodyLocation
+BL00000|l hand and arm|<noun>|<base>|||BodyLocation
+BL00000|l-spine|<noun>|<base>|||BodyLocation
+BL00000|righ|<noun>|<base>|||BodyLocation
+BL00000|left eye|<noun>|<base>|||BodyLocation
+BL00000|left facial|<noun>|<base>|||BodyLocation
+BL00000|left le|<noun>|<base>|||BodyLocation
+BL00000|left side|<noun>|<base>|||BodyLocation
+BL00000|left toes|<noun>|<base>|||BodyLocation
+BL00000|left upper extermity|<noun>|<base>|||BodyLocation
+BL00000|left vii|<noun>|<base>|||BodyLocation
+BL00000|limb|<noun>|<base>|||BodyLocation
+BL00000|lips|<noun>|<base>|||BodyLocation
+BL00000|low back|<noun>|<base>|||BodyLocation
+BL00000|lumbar and le|<noun>|<base>|||BodyLocation
+BL00000|lumbosacral|<noun>|<base>|||BodyLocation
+BL00000|m usculoskeletal|<noun>|<base>|||BodyLocation
+BL00000|muscle|<noun>|<base>|||BodyLocation
+BL00000|muscle power on the right side|<noun>|<base>|||BodyLocation:BodyStrength
+BL00000|muscles|<noun>|<base>|||BodyLocation
+BL00000|muscles of mastication|<noun>|<base>|||BodyLocation
+BL00000|neck, back and extremities|<noun>|<base>|||BodyLocation
+BL00000|patellar|<noun>|<base>|||BodyLocation
+BL00000|patellar tendon|<noun>|<base>|||BodyLocation
+BL00000|patellar tendons|<noun>|<base>|||BodyLocation
+BL00000|perrl|<noun>|<base>|||BodyLocation
+BL00000|perrla|<noun>|<base>|||BodyLocation
+BL00000|plantar|<noun>|<base>|||BodyLocation
+BL00000|pronation|<noun>|<base>|||BodyLocation
+BL00000|proximal|<noun>|<base>|||BodyLocation
+BL00000|proximal and distal muscles|<noun>|<base>|||BodyLocation
+BL00000|pupillary constriction and con|<noun>|<base>|||BodyLocation
+BL00000|pupils|<noun>|<base>|||BodyLocation
+BL00000|r facial|<noun>|<base>|||BodyLocation
+BL00000|right arm|<noun>|<base>|||BodyLocation
+BL00000|right facial|<noun>|<base>|||BodyLocation
+BL00000|right index finger|<noun>|<base>|||BodyLocation
+BL00000|right proximal and distal leg|<noun>|<base>|||BodyLocation
+BL00000|limb|<noun>|<base>|||BodyLocation
+BL00000|right wrist and thumb|<noun>|<base>|||BodyLocation
+BL00000|scm|<noun>|<base>|||BodyLocation
+BL00000|sh|<noun>|<base>|||BodyLocation
+BL00000|shlds|<noun>|<base>|||BodyLocation
+BL00000|small joints of the hands|<noun>|<base>|||BodyLocation
+BL00000|small joints|<noun>|<base>|||BodyLocation
+BL00000|of the hands|<noun>|<base>|||BodyLocation
+BL00000|sternocleidomastoid|<noun>|<base>|||BodyLocation
+BL00000|sternocleidomastoid power|<noun>|<base>|||BodyLocation:BodyStrength
+BL00000|thoracolumbar|<noun>|<base>|||BodyLocation
+BL00000|thoracolumbar spine|<noun>|<base>|||BodyLocation
+BL00000|toes|<noun>|<base>|||BodyLocation
+BL00000|toes downgoing bilaterally|<noun>|<base>|||BodyLocation
+BL00000|toes were down going bilateral|<noun>|<base>|||BodyLocation
+BL00000|tongue|<noun>|<base>|||BodyLocation
+BL00000|tounge|<noun>|<base>|||BodyLocation
+BL00000|trapezius|<noun>|<base>|||BodyLocation
+BL00000|triceps|<noun>|<base>|||BodyLocation
+BL00000|wf|<noun>|<base>|||BodyLocation
+BL00000|upper and lower|<noun>|<base>|||BodyLocation
+BL00000|we|<noun>|<base>|||BodyLocation

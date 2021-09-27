@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<schema xmlns="http://www.w3.org/2000/10/XMLSchema">
+	<include schemaLocation="BodyFunction.xml" />
+	<include schemaLocation="BodyFunctionType.xml" />
+	<include schemaLocation="BodyLocation.xml" />
+	<include schemaLocation="Qualifier.xml" />
+</schema>

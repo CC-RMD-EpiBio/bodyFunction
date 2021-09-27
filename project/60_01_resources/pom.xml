@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+    <!-- =================================================== -->
+    <!--          gov.nih.cc.rmd.framework.resources       -->
+    <!-- =================================================== -->
+
+  <groupId>gov.nih.cc.rmd.framework</groupId>
+  <artifactId>60_01_bodyFunction_resources</artifactId>
+  <packaging>jar</packaging>
+  <version>2020.05.0</version>
+
+  <description>
+               framework.resources is the repository for dictionary 
+               and data files for framework functionality
+  </description>
+
+
+    <!-- ======================================================= -->
+    <!--   Parent Pom - look here for global framework settings  -->
+    <!--   including                                             -->
+    <!--      Distribution Managment                             -->
+    <!--      Java versions                                      -->
+    <!--      Plugin Management and plugins                      -->
+    <!--      Dependencies                                       -->
+    <!-- ======================================================= -->
+  <parent>
+    <groupId>gov.nih.cc.rmd.framework</groupId>
+    <artifactId>60_01-bodyFunction-parent</artifactId>
+    <version>2020.05.0</version>
+  </parent>
+
+
+
+    <!-- =================================================== -->
+    <!-- Dependencies                                        -->
+    <!-- =================================================== -->
+  <dependencies>
+
+  </dependencies>
+
+    <!-- =================================================== -->
+    <!-- Build Phase                                         -->
+    <!-- =================================================== -->
+    <build>
+        <resources>
+            <resource> <directory>src/main/resources</directory> </resource>
+        </resources>
+
+        <!-- =================================================== -->
+        <!-- Build Plugin's                                      -->
+        <!-- =================================================== -->
+        <plugins>
+
+            <!-- ############################################# -->
+            <!-- Create a project jar with only class files    -->
+            <!-- in it. This is placed in target/lib           -->
+            <!-- ############################################# -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>2.3.1</version>
+                <configuration>
+                    <finalName>${jar.final.name}</finalName>
+                    <includes>
+                        <include>resources/**</include>
+                    </includes>
+                    <excludes>
+                        <exclude>**/local/**</exclude>
+                        <exclude>**/bothAndLateral/**</exclude>
+                        <exclude>**/*.jar</exclude>
+                        <exclude>**/pom.xml</exclude>
+                        <exclude>**/pom.properties</exclude>
+                        <exclude>**/*.rrf</exclude>
+                        <exclude>**/*.mrconsosty</exclude>
+                        <exclude>**/*.part1</exclude>
+                        <exclude>**/*.part2</exclude>
+                        <exclude>**/*.sh</exclude>
+                    </excludes>
+                    <outputDirectory>target/lib</outputDirectory>
+                    <archive>
+                        <manifestEntries>
+                            <SCM-Revision>${svn-revision-number.revision}${svn-revision-number.specialStatus}
+                            </SCM-Revision>
+                        </manifestEntries>
+                    </archive>
+                </configuration>
+            </plugin>
+
+
+
+        </plugins>
+    </build>
+
+</project>

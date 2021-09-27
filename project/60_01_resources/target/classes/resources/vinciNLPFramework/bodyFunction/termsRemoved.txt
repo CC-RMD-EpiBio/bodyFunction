@@ -1,0 +1,275 @@
+#abd
+#abdominal
+#abduct
+#activation of axon extension involved in axon guidance
+#activation of axon extension involved in regeneration
+#activation of convergent extension involved in axis elongation
+#activation of convergent extension involved in gastrulation
+#activation of convergent extension involved in neural plate elongation
+#activation of convergent extension involved in notochord morphogenesis
+#activation of convergent extension involved in rhombomere morphogenesis
+#activation of convergent extension involved in somitogenesis
+#acute anteflexion of uterus
+#acute anteflexion of uterus 
+#adduction
+#adductors
+#adf
+#adrenaline regulation of the strength of heart muscle contraction
+#aj
+#all planes
+#axon extension involved in axon guidance
+#axon extension involved in development
+#axon extension involved in regeneration
+#cell wall strengthening in symbiont during entry into host
+#cell wall strengthening in symbiont involved in entry into host
+#convergent extension involved in axis elongation
+#convergent extension involved in gastrulation
+#convergent extension involved in imaginal disc-derived wing morphogenesis
+#convergent extension involved in mesonephric nephron morphogenesis
+#convergent extension involved in metanephric nephron morphogenesis
+#convergent extension involved in nephron morphogenesis
+#convergent extension involved in neural plate elongation
+#convergent extension involved in notochord morphogenesis
+#convergent extension involved in organogenesis
+#convergent extension involved in rhombomere morphogenesis
+#convergent extension involved in somitogenesis
+#decreased strength of cardiac contraction during baroreceptor response to increased blood pressure
+#df
+#down regulation of axon extension involved in axon guidance
+#down regulation of axon extension involved in regeneration
+#down regulation of convergent extension involved in axis elongation
+#down regulation of convergent extension involved in gastrulation
+#down regulation of convergent extension involved in neural plate elongation
+#down regulation of convergent extension involved in notochord morphogenesis
+#down regulation of convergent extension involved in rhombomere morphogenesis
+#down regulation of convergent extension involved in somitogenesis
+#down-regulation of axon extension involved in axon guidance
+#down-regulation of axon extension involved in regeneration
+#down-regulation of convergent extension involved in axis elongation
+#down-regulation of convergent extension involved in gastrulation
+#down-regulation of convergent extension involved in neural plate elongation
+#down-regulation of convergent extension involved in notochord morphogenesis
+#down-regulation of convergent extension involved in rhombomere morphogenesis
+#down-regulation of convergent extension involved in somitogenesis
+#downregulation of axon extension involved in axon guidance
+#downregulation of axon extension involved in regeneration
+#downregulation of convergent extension involved in axis elongation
+#downregulation of convergent extension involved in gastrulation
+#downregulation of convergent extension involved in neural plate elongation
+#downregulation of convergent extension involved in notochord morphogenesis
+#downregulation of convergent extension involved in rhombomere morphogenesis
+#downregulation of convergent extension involved in somitogenesis
+#ego strength finding
+#ego strength finding 
+#ego strength observations
+#endothelial tube lumen extension involved in blood vessel lumen ensheathment
+#exposure as collected pharmaceutical strength
+#exposure as collected pharmaceutical strength units
+#ext
+#exte
+#extend
+#extended
+#extending
+#extends
+#extension
+#extracellular matrix structural constituent conferring tensile strength
+#extrasellar extension 
+#fda insert dose forms/strengths
+#fda package insert dosage forms and strengths section
+#finds strength in faith
+#finds strength in faith [minimum data set]
+#glasses strength checked last phenx
+#grasp65 protein, human
+#graspa
+#hamular notch is well defined to establish the posterior extension of the denture base.
+#has basis of strength substance
+#has basis of strength substance 
+#has concentration strength denominator unit
+#has concentration strength denominator unit 
+#has concentration strength denominator value
+#has concentration strength denominator value 
+#has concentration strength numerator unit
+#has concentration strength numerator unit 
+#has concentration strength numerator value
+#has concentration strength numerator value 
+#has presentation strength denominator unit
+#has presentation strength denominator unit 
+#has presentation strength denominator value
+#has presentation strength denominator value 
+#has presentation strength numerator unit
+#has presentation strength numerator unit 
+#has presentation strength numerator value
+#has presentation strength numerator value 
+#high ego strength
+#high ego strength 
+#high field strength magnetic resonance imaging
+#high field strength mri
+#house extension 
+#increased strength of cardiac contraction by epinephrine-norepinephrine
+#increased strength of cardiac contraction during baroreceptor response to decreased blood pressure
+#inhibition of axon extension involved in axon guidance
+#inhibition of axon extension involved in regeneration
+#inhibition of convergent extension involved in axis elongation
+#inhibition of convergent extension involved in gastrulation
+#inhibition of convergent extension involved in neural plate elongation
+#inhibition of convergent extension involved in notochord morphogenesis
+#inhibition of convergent extension involved in rhombomere morphogenesis
+#inhibition of convergent extension involved in somitogenesis
+#key
+#low ego strength
+#low ego strength 
+#low field strength magnetic resonance imaging
+#low field strength mri
+#low ionic strength saline
+#low ionic strength saline technique
+#low ionic strength saline technique 
+#low-field strength magnetic resonance imaging
+#magnetic field strength
+#major crossmatch [interpretation] by low ionic strength saline (liss)
+#med strength medication.current phenx
+#medication strength
+#medication strength [dosage] current medication [phenx]
+#medication strength:dosage:point in time:medication.current:quantitative:phenx
+#medication strength:dosage:point in time:medication:quantitative
+#medication strength:dosage:pt:medication.current:qn:phenx
+#medication strength:dosage:pt:medication:qn
+#moderate ego strength
+#moderate ego strength 
+#modulation of symbiont cell wall strengthening during entry into host
+#modulation of symbiont cell wall strengthening involved in entry into host
+#negative regulation of axon extension involved in axon guidance
+#negative regulation of axon extension involved in regeneration
+#negative regulation of convergent extension involved in axis elongation
+#negative regulation of convergent extension involved in gastrulation
+#negative regulation of convergent extension involved in neural plate elongation
+#negative regulation of convergent extension involved in notochord morphogenesis
+#negative regulation of convergent extension involved in rhombomere morphogenesis
+#negative regulation of convergent extension involved in somitogenesis
+#negative regulation of symbiont cell wall strengthening during entry into host
+#negative regulation of symbiont cell wall strengthening involved in entry into host
+#neurite extension and migration factor
+#neurite extension involved in neurite guidance
+#neurite extension involved in neuron process guidance
+#neurite extension involved in neuron projection guidance
+#neurite extension involved in neuron protrusion guidance
+#neurite extension involved in neuronal cell projection guidance
+#neurite extension related protein phosphatase, 2c
+#neurite extension related protein phosphatase, 2c protein, rat
+#neuron process extension involved in neurite guidance
+#neuron process extension involved in neuron process guidance
+#neuron process extension involved in neuron projection guidance
+#neuron process extension involved in neuron protrusion guidance
+#neuron process extension involved in neuronal cell projection guidance
+#neuron projection extension involved in neurite guidance
+#neuron projection extension involved in neuron process guidance
+#neuron projection extension involved in neuron projection guidance
+#neuron projection extension involved in neuron protrusion guidance
+#neuron projection extension involved in neuronal cell projection guidance
+#neuron protrusion extension involved in neurite guidance
+#neuron protrusion extension involved in neuron process guidance
+#neuron protrusion extension involved in neuron projection guidance
+#neuron protrusion extension involved in neuron protrusion guidance
+#neuron protrusion extension involved in neuronal cell projection guidance
+#neuronal cell projection extension involved in neurite guidance
+#neuronal cell projection extension involved in neuron process guidance
+#neuronal cell projection extension involved in neuron projection guidance
+#neuronal cell projection extension involved in neuron protrusion guidance
+#neuronal cell projection extension involved in neuronal cell projection guidance
+#parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes, trace elements, and vitamins, including preparation, any strength, hepatic, hepatamine-premix
+#parenteral nutrition solution compounded amino acid and carbohydrates with electrolytes, trace elements, and vitamins, including preparation, any strength, stress-branch chain amino acids-freamine-hbc-premix
+#pharmaceutical strength
+#pharmaceutical strength unit
+#phone number extension dialysis facility [esrd]
+#positive regulation of axon extension involved in axon guidance
+#positive regulation of axon extension involved in regeneration
+#positive regulation of convergent extension involved in axis elongation
+#positive regulation of convergent extension involved in gastrulation
+#positive regulation of convergent extension involved in neural plate elongation
+#positive regulation of convergent extension involved in notochord morphogenesis
+#positive regulation of convergent extension involved in rhombomere morphogenesis
+#positive regulation of convergent extension involved in somitogenesis
+#positive regulation of symbiont cell wall strengthening during entry into host
+#positive regulation of symbiont cell wall strengthening involved in entry into host
+#prism strength
+#proboscis extension in response to sugar stimulus
+#proboscis extension reflex
+#product part pharmaceutical strength
+#prolinoborus fasciculus (strength et al. 1976) pot et al. 1992
+#promis parent proxy item bank - strength impact - version 1.0
+#promis parent proxy strength impact - version 1.0 - t-score
+#promis parent proxy strength impact - version 1.0 t-score
+#promis pediatric item bank - strength impact - version 1.0
+#promis pediatric strength impact - version 1.0 t-score
+#radioisotope source strength
+#radiological/nuclear agent irradiation source beam strength
+#ranbp2-like and grip domain containing 8, human
+#ranbp2-like and grip domain-containing protein 3
+#ranbp2-like and grip domain-containing protein 3, human
+#regulation of axon extension involved in axon guidance
+#regulation of axon extension involved in regeneration
+#regulation of convergent extension involved in axis elongation
+#regulation of convergent extension involved in gastrulation
+#regulation of convergent extension involved in neural plate elongation
+#regulation of convergent extension involved in notochord morphogenesis
+#regulation of convergent extension involved in rhombomere morphogenesis
+#regulation of convergent extension involved in somitogenesis
+#retroflexion of uterus
+#retroflexion, uterine
+#retroflexions, uterine
+#score index of family function and change 15 dimension 1 strengths and adaptability
+#score index of family function and change 15 dimension 1 strengths and adaptability (assessment scale)
+#score index of family function and change 15 dimension 1 strengths and adaptability average score
+#score index of family function and change 15 dimension 1 strengths and adaptability total score
+#score-15 dimension 1 strengths and adaptability
+#score-15-dimension 1-strengths and adaptability average score
+#score-15-dimension 1-strengths and adaptability total score
+#snomedct us extension subset
+#stimulation of axon extension involved in axon guidance
+#stimulation of axon extension involved in regeneration
+#strength of coccidioidin test substance
+#strength of coccioidin test substance
+#strength of prism
+#strength of stream of urine
+#strength of test substance
+#strength of tuberculin test substance
+#strength of uterine contraction
+#strength of uterine contractions
+#subependymal hemorrhage with intraventricular extension with enlargement of ventricle
+#suprasellar extension 
+#symbiont cell wall strengthening during entry into host
+#telephone extension number
+#tip
+#trials
+#unit of electric field strength
+#unit of magnetic field strength
+#up regulation of axon extension involved in axon guidance
+#up regulation of axon extension involved in regeneration
+#up regulation of convergent extension involved in axis elongation
+#up regulation of convergent extension involved in gastrulation
+#up regulation of convergent extension involved in neural plate elongation
+#up regulation of convergent extension involved in notochord morphogenesis
+#up regulation of convergent extension involved in rhombomere morphogenesis
+#up regulation of convergent extension involved in somitogenesis
+#up-regulation of axon extension involved in axon guidance
+#up-regulation of axon extension involved in regeneration
+#up-regulation of convergent extension involved in axis elongation
+#up-regulation of convergent extension involved in gastrulation
+#up-regulation of convergent extension involved in neural plate elongation
+#up-regulation of convergent extension involved in notochord morphogenesis
+#up-regulation of convergent extension involved in rhombomere morphogenesis
+#up-regulation of convergent extension involved in somitogenesis
+#upregulation of axon extension involved in axon guidance
+#upregulation of axon extension involved in regeneration
+#upregulation of convergent extension involved in axis elongation
+#upregulation of convergent extension involved in gastrulation
+#upregulation of convergent extension involved in neural plate elongation
+#upregulation of convergent extension involved in notochord morphogenesis
+#upregulation of convergent extension involved in rhombomere morphogenesis
+#upregulation of convergent extension involved in somitogenesis
+#us extension reference set
+#ventricular septal defect with absent outlet septum and overriding truncal valve with extension of membranous septum
+#when did you last have the strength of your glasses checked
+#when did you last have the strength of your glasses checked [date and time] [phenx]
+#when i'm really craving a cigarette, it feels like i'm in the grip of some unknown force that i cannot control
+#when i'm really craving a cigarette, it feels like i'm in the grip of some unknown force that i cannot control [promis]
+#wrong strength/concentration

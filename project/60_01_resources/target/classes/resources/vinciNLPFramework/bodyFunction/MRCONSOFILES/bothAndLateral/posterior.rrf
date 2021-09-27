@@ -1,0 +1,990 @@
+C0010265|ENG|S|L2895284|PF|S3568331|Y|A3731439|767438014|35763008||SNOMEDCT_US|FN|35763008|Structure of posterior fossa of cranial cavity (body structure)|9|N||
+C0038588|ENG|S|L6389080|PF|S7332143|Y|A11730428|2638669017|33138000||SNOMEDCT_US|FN|33138000|Structure of substantia gelatinosa of posterior horn of spinal cord (body structure)|9|N||
+C0080039|ENG|S|L2898488|PF|S3568301|Y|A3731408|743200017|16219000||SNOMEDCT_US|FN|16219000|Structure of posterior cruciate ligament of knee joint (body structure)|9|N||
+C0086835|ENG|S|L2852753|PF|S3568516|Y|A3731626|738342018|13363002||SNOMEDCT_US|FN|13363002|Structure of posterior tibial artery (body structure)|9|N||
+C0149559|ENG|S|L2852181|PF|S3568288|Y|A3731395|780094011|43119007||SNOMEDCT_US|FN|43119007|Structure of posterior communicating artery (body structure)|9|N||
+C0149573|ENG|S|L2852079|PF|S3568339|Y|A3731447|782460014|45242005||SNOMEDCT_US|FN|45242005|Structure of posterior inferior cerebellar artery (body structure)|9|N||
+C0149576|ENG|S|L2852096|PF|S3568265|Y|A3731372|810432011|70382005||SNOMEDCT_US|FN|70382005|Structure of posterior cerebral artery (body structure)|9|N||
+C0152282|ENG|S|L2908625|PF|S3568335|Y|A3731443|791008014|52943005||SNOMEDCT_US|FN|52943005|Structure of posterior horn of lateral ventricle (body structure)|9|N||
+C0152327|ENG|S|L2895891|PF|S3486764|Y|A3639892|672608017|279336005||SNOMEDCT_US|FN|279336005|Posterior cerebral commissure (body structure)|9|N||
+C0152344|ENG|S|L2894691|PF|S3376087|Y|A3520184|792991010|54728004||SNOMEDCT_US|FN|54728004|Internal capsule posterior limb structure (body structure)|9|N||
+C0175291|ENG|S|L2908935|PF|S3572144|Y|A3735273|785242017|4775000||SNOMEDCT_US|FN|4775000|Structure of ventral posterior inferior nucleus (body structure)|9|N||
+C0175298|ENG|S|L6396081|PF|S7332062|Y|A11727313|2639331012|425308008||SNOMEDCT_US|FN|425308008|Structure of posterior nuclear group of thalamus (body structure)|9|N||
+C0206330|ENG|S|L2910398|PF|S3486946|Y|A3640086|785807011|48259001||SNOMEDCT_US|FN|48259001|Posterior longitudinal ligament structure (body structure)|9|N||
+C0222148|ENG|S|L2870497|PF|S3546431|Y|A3708494|750664012|21377006||SNOMEDCT_US|FN|21377006|Skin structure of posterior axillary fold (body structure)|9|N||
+C0222154|ENG|S|L2870508|PF|S3546433|Y|A3708496|760103016|29231003||SNOMEDCT_US|FN|29231003|Skin structure of posterior axillary line (body structure)|9|N||
+C0222188|ENG|S|L2897412|PF|S3546436|Y|A3708499|747163012|19245008||SNOMEDCT_US|FN|19245008|Skin structure of posterior commissure of labia majora (body structure)|9|N||
+C0222208|ENG|S|L2849247|PF|S3546442|Y|A3708505|813271012|72939005||SNOMEDCT_US|FN|72939005|Skin structure of posterior surface of upper arm (body structure)|9|N||
+C0222216|ENG|S|L2907055|PF|S3546438|Y|A3708501|778351016|41550009||SNOMEDCT_US|FN|41550009|Skin structure of posterior surface of forearm (body structure)|9|N||
+C0222271|ENG|S|L2912969|PF|S3546440|Y|A3708503|783056010|4578000||SNOMEDCT_US|FN|4578000|Skin structure of posterior surface of thigh (body structure)|9|N||
+C0222282|ENG|S|L2910276|PF|S3545793|Y|A3707834|784659013|47224004||SNOMEDCT_US|FN|47224004|Skin of posterior surface of lower leg (body structure)|9|N||
+C0222416|ENG|S|L2870499|PF|S3573718|Y|A3736937|824979014|83361005||SNOMEDCT_US|FN|83361005|Subcutaneous tissue structure of posterior axillary fold (body structure)|9|N||
+C0222423|ENG|S|L2870510|PF|S3573720|Y|A3736939|755440015|25155009||SNOMEDCT_US|FN|25155009|Subcutaneous tissue structure of posterior axillary line (body structure)|9|N||
+C0222454|ENG|S|L2897414|PF|S3573722|Y|A3736941|829832013|87372001||SNOMEDCT_US|FN|87372001|Subcutaneous tissue structure of posterior commissure of labia majora (body structure)|9|N||
+C0222473|ENG|S|L2849248|PF|S3573731|Y|A3736950|758047014|27476007||SNOMEDCT_US|FN|27476007|Subcutaneous tissue structure of posterior surface of upper arm (body structure)|9|N||
+C0222481|ENG|S|L2907056|PF|S3573724|Y|A3736943|754177011|2453002||SNOMEDCT_US|FN|2453002|Subcutaneous tissue structure of posterior surface of forearm (body structure)|9|N||
+C0222537|ENG|S|L2912973|PF|S3573729|Y|A3736948|745769018|18357008||SNOMEDCT_US|FN|18357008|Subcutaneous tissue structure of posterior surface of thigh (body structure)|9|N||
+C0222548|ENG|S|L2910277|PF|S3573726|Y|A3736945|824170012|82694009||SNOMEDCT_US|FN|82694009|Subcutaneous tissue structure of posterior surface of lower leg (body structure)|9|N||
+C0222722|ENG|S|L2891992|PF|S3568290|Y|A3731397|777109018|40460005||SNOMEDCT_US|FN|40460005|Structure of posterior condyle of occipital bone (body structure)|9|N||
+C0222765|ENG|S|L2911117|PF|S3568493|Y|A3731602|766744019|35138002||SNOMEDCT_US|FN|35138002|Structure of posterior surface of manubrium (body structure)|9|N||
+C0222774|ENG|S|L2891899|PF|S3568476|Y|A3731585|816146011|75526008||SNOMEDCT_US|FN|75526008|Structure of posterior surface of body of sternum (body structure)|9|N||
+C0223105|ENG|S|L2846985|PF|S3568212|Y|A3731319|749757017|20561003||SNOMEDCT_US|FN|20561003|Structure of posterior arch of atlas (body structure)|9|N||
+C0223646|ENG|S|L2908769|PF|S3568471|Y|A3731580|739354013|13871007||SNOMEDCT_US|FN|13871007|Structure of posterior superior iliac spine (body structure)|9|N||
+C0223647|ENG|S|L2908763|PF|S3568341|Y|A3731449|789363011|51461009||SNOMEDCT_US|FN|51461009|Structure of posterior inferior iliac spine (body structure)|9|N||
+C0223914|ENG|S|L2906200|PF|S3568391|Y|A3731499|755868010|25539005||SNOMEDCT_US|FN|25539005|Structure of posterior malleolus of fibula (body structure)|9|N||
+C0223927|ENG|S|L2857040|PF|S3568214|Y|A3731321|805078017|65561001||SNOMEDCT_US|FN|65561001|Structure of posterior articular surface for talus (body structure)|9|N||
+C0223934|ENG|S|L2856632|PF|S3568254|Y|A3731361|764175017|32843001||SNOMEDCT_US|FN|32843001|Structure of posterior calcaneal articular surface of talus (body structure)|9|N||
+C0223938|ENG|S|L2912975|PF|S3568532|Y|A3731642|756760018|26339004||SNOMEDCT_US|FN|26339004|Structure of posterior tubercle of talus (body structure)|9|N||
+C0224101|ENG|S|L6396036|PF|S7331722|Y|A11728405|2638919011|79201006||SNOMEDCT_US|FN|79201006|Structure of greater posterior rectus capitis muscle (body structure)|9|N||
+C0224102|ENG|S|L6392110|PF|S7331830|Y|A11728347|2638837011|48598007||SNOMEDCT_US|FN|48598007|Structure of lesser posterior rectus capitis muscle (body structure)|9|N||
+C0224140|ENG|S|L2868374|PF|S3568231|Y|A3731338|777666012|40934004||SNOMEDCT_US|FN|40934004|Structure of posterior auricularis muscle (body structure)|9|N||
+C0224157|ENG|S|L2878902|PF|S3568241|Y|A3731348|822085015|80877003||SNOMEDCT_US|FN|80877003|Structure of posterior belly of digastric muscle (body structure)|9|N||
+C0224175|ENG|S|L2911655|PF|S3569483|Y|A3732598|796864014|58162002||SNOMEDCT_US|FN|58162002|Structure of scalenus posterior muscle (body structure)|9|N||
+C0224179|ENG|S|L2898443|PF|S3568299|Y|A3731406|580176017|10634008||SNOMEDCT_US|FN|10634008|Structure of posterior cricoarytenoid muscle (body structure)|9|N||
+C0224332|ENG|S|L6392135|PF|S7332054|Y|A11728015|2638391016|24563008||SNOMEDCT_US|FN|24563008|Structure of posterior cervical intertransversarius muscle (body structure)|9|N||
+C0224369|ENG|S|L2911656|PF|S3569622|Y|A3732737|828612016|86364005||SNOMEDCT_US|FN|86364005|Structure of serratus posterior muscle (body structure)|9|N||
+C0224370|ENG|S|L2908926|PF|S3368891|Y|A3512559|782509011|45287009||SNOMEDCT_US|FN|45287009|Inferior serratus posterior muscle (body structure)|9|N||
+C0224371|ENG|S|L2911657|PF|S3577468|Y|A3740853|788194014|50409004||SNOMEDCT_US|FN|50409004|Superior serratus posterior muscle (body structure)|9|N||
+C0224463|ENG|S|L2911661|PF|S3590891|Y|A3755327|814804019|74318005||SNOMEDCT_US|FN|74318005|Tibialis posterior muscle structure (body structure)|9|N||
+C0224553|ENG|S|L2906879|PF|S3568327|Y|A3731435|742929015|15994005||SNOMEDCT_US|FN|15994005|Structure of posterior fontanel of skull (body structure)|9|N||
+C0224570|ENG|S|L2909444|PF|S3568354|Y|A3731462|836521012|9290004||SNOMEDCT_US|FN|9290004|Structure of posterior intraoccipital synchondrosis (body structure)|9|N||
+C0224583|ENG|S|L2864633|PF|S3568221|Y|A3731328|768166014|36416001||SNOMEDCT_US|FN|36416001|Structure of posterior atlantooccipital membrane (body structure)|9|N||
+C0224842|ENG|S|L6389480|PF|S7326220|Y|A11730532|2638821017|48730000||SNOMEDCT_US|FN|48730000|Entire subtendinous bursa of posterior tibial muscle (body structure)|9|N||
+C0224957|ENG|S|L2911659|PF|S17287859|Y|A28404859|3451497014|63149002||SNOMEDCT_US|FN|63149002|Tendon structure of posterior tibial muscle (body structure)|9|N||
+C0224958|ENG|S|L2911658|PF|S3568522|Y|A3731632|758904011|28246001||SNOMEDCT_US|FN|28246001|Structure of posterior tibial muscle tendon sheath (body structure)|9|N||
+C0225035|ENG|S|L2910464|PF|S3568467|Y|A3731576|829695010|368167008||SNOMEDCT_US|FN|368167008|Structure of posterior sternoclavicular ligament (body structure)|9|N||
+C0225133|ENG|S|L2910413|PF|S3568402|Y|A3731510|732841012|12880004||SNOMEDCT_US|FN|12880004|Structure of posterior meniscofemoral ligament (body structure)|9|N||
+C0225136|ENG|S|L2906196|PF|S3568374|Y|A3731482|698977014|302825003||SNOMEDCT_US|FN|302825003|Structure of posterior ligament of head of fibula (body structure)|9|N||
+C0225149|ENG|S|L2910466|PF|S3568527|Y|A3731637|778442013|41631004||SNOMEDCT_US|FN|41631004|Structure of posterior tibiofibular ligament (body structure)|9|N||
+C0225165|ENG|S|L2909596|PF|S3568530|Y|A3731640|805456016|65901007||SNOMEDCT_US|FN|65901007|Structure of posterior tibiotalar part of medial ligament of talocrural joint (body structure)|9|N||
+C0225167|ENG|S|L2910465|PF|S3568504|Y|A3731613|761542017|30528002||SNOMEDCT_US|FN|30528002|Structure of posterior talofibular ligament (body structure)|9|N||
+C0225272|ENG|S|L2898502|PF|S3486911|Y|A3640044|833061012|90040008||SNOMEDCT_US|FN|90040008|Posterior intermuscular crural septum (body structure)|9|N||
+C0225421|ENG|S|L2895086|PF|S3568430|Y|A3731538|840380019|9609000||SNOMEDCT_US|FN|9609000|Structure of posterior process of nasal septal cartilage (body structure)|9|N||
+C0225430|ENG|S|L2911122|PF|S3568393|Y|A3731501|819281018|7835005||SNOMEDCT_US|FN|7835005|Structure of posterior margin of nasal septum (body structure)|9|N||
+C0225468|ENG|S|L2895516|PF|S3568263|Y|A3731370|797683013|5890002||SNOMEDCT_US|FN|5890002|Structure of posterior cells of ethmoid sinus (body structure)|9|N||
+C0225484|ENG|S|L2911865|PF|S3568548|Y|A3731658|761130016|30157008||SNOMEDCT_US|FN|30157008|Structure of posterior wall of nasopharynx (body structure)|9|N||
+C0225508|ENG|S|L2905196|PF|S3568314|Y|A3731422|759677013|2894003||SNOMEDCT_US|FN|2894003|Structure of posterior epiglottis (body structure)|9|N||
+C0225554|ENG|S|L2898442|PF|S3568297|Y|A3731404|803175018|63847002||SNOMEDCT_US|FN|63847002|Structure of posterior cricoarytenoid ligament (body structure)|9|N||
+C0225579|ENG|S|L2897416|PF|S3568281|Y|A3731388|822981010|81683007||SNOMEDCT_US|FN|81683007|Structure of posterior commissure of larynx (body structure)|9|N||
+C0225613|ENG|S|L2893533|PF|S3291147|Y|A3429371|671524013|278376006||SNOMEDCT_US|FN|278376006|Entire right upper lobe posterior segmental bronchus (body structure)|9|N||
+C0225627|ENG|S|L2893528|PF|S3291009|Y|A3429233|656364011|264155000||SNOMEDCT_US|FN|264155000|Entire right lower lobe posterior segmental bronchus (body structure)|9|N||
+C0225635|ENG|S|L2843975|PF|S3285880|Y|A3424044|671527018|278379004||SNOMEDCT_US|FN|278379004|Entire left apicoposterior segmental bronchus (body structure)|9|N||
+C0225646|ENG|S|L2893517|PF|S3286060|Y|A3424225|671533010|278384005||SNOMEDCT_US|FN|278384005|Entire left lower lobe posterior segmental bronchus (body structure)|9|N||
+C0225717|ENG|S|L2910662|PF|S3568452|Y|A3731561|763633013|3236000||SNOMEDCT_US|FN|3236000|Structure of posterior segment of right upper lobe of lung (body structure)|9|N||
+C0225728|ENG|S|L2875434|PF|S3568239|Y|A3731346|743005019|16057008||SNOMEDCT_US|FN|16057008|Structure of posterior basal segment of right lower lobe of lung (body structure)|9|N||
+C0225741|ENG|S|L2843978|PF|S3559816|Y|A3722764|740973012|14710002||SNOMEDCT_US|FN|14710002|Structure of apicoposterior segment of upper division of left upper lobe of lung (body structure)|9|N||
+C0225749|ENG|S|L2875427|PF|S3568237|Y|A3731344|783465014|46148009||SNOMEDCT_US|FN|46148009|Structure of posterior basal segment of left lower lobe of lung (body structure)|9|N||
+C0225822|ENG|S|L2911805|PF|S3568404|Y|A3731512|748553010|19914004||SNOMEDCT_US|FN|19914004|Structure of posterior myocardium (body structure)|9|N||
+C0225875|ENG|S|L2909346|PF|S3568426|Y|A3731534|808790011|68903009||SNOMEDCT_US|FN|68903009|Structure of posterior portion of interventricular septum (body structure)|9|N||
+C0225876|ENG|S|L2909349|PF|S3568352|Y|A3731460|799398011|60445004||SNOMEDCT_US|FN|60445004|Structure of posterior interventricular sulcus (body structure)|9|N||
+C0225888|ENG|S|L2911623|PF|S3568410|Y|A3731518|830632013|88033008||SNOMEDCT_US|FN|88033008|Structure of posterior papillary muscle of right ventricle (body structure)|9|N||
+C0225902|ENG|S|L2910214|PF|S3568408|Y|A3731516|760091012|2922005||SNOMEDCT_US|FN|2922005|Structure of posterior papillary muscle of left ventricle (body structure)|9|N||
+C0225919|ENG|S|L2865193|PF|S3565310|Y|A3728378|834325018|91085002||SNOMEDCT_US|FN|91085002|Structure of left posterior division of left branch of atrioventricular bundle (body structure)|9|N||
+C0225930|ENG|S|L2910264|PF|S3568372|Y|A3731480|808019019|68209001||SNOMEDCT_US|FN|68209001|Structure of posterior leaflet of tricuspid valve (body structure)|9|N||
+C0225945|ENG|S|L2897422|PF|S3568286|Y|A3731393|573394014|189888002||SNOMEDCT_US|FN|189888002|Structure of posterior commissure of pulmonic valve (body structure)|9|N||
+C0225951|ENG|S|L2910261|PF|S3568370|Y|A3731478|796454013|57793009||SNOMEDCT_US|FN|57793009|Structure of posterior leaflet of mitral valve (body structure)|9|N||
+C0225956|ENG|S|L2897420|PF|S3568284|Y|A3731391|574962015|191281004||SNOMEDCT_US|FN|191281004|Structure of posterior commissure of mitral valve (body structure)|9|N||
+C0225961|ENG|S|L2843022|PF|S3289774|Y|A3427977|634170015|244366007||SNOMEDCT_US|FN|244366007|Entire posterior cusp of aortic valve (body structure)|9|N||
+C0226018|ENG|S|L2912968|PF|S3568463|Y|A3731572|754550011|24865005||SNOMEDCT_US|FN|24865005|Structure of posterior sinus of Valsalva (body structure)|9|N||
+C0226047|ENG|S|L2851805|PF|S3568308|Y|A3731416|791799019|53655008||SNOMEDCT_US|FN|53655008|Structure of posterior descending branch of right coronary artery (body structure)|9|N||
+C0226056|ENG|S|L2851826|PF|S3568310|Y|A3731418|746027018|18552003||SNOMEDCT_US|FN|18552003|Structure of posterior descending branch of right pulmonary artery (body structure)|9|N||
+C0226058|ENG|S|L2851419|PF|S3568216|Y|A3731323|762777017|31634009||SNOMEDCT_US|FN|31634009|Structure of posterior ascending branch of right pulmonary artery (body structure)|9|N||
+C0226066|ENG|S|L2851609|PF|S3568235|Y|A3731342|789607016|51681000||SNOMEDCT_US|FN|51681000|Structure of posterior basal branch of right pulmonary artery (body structure)|9|N||
+C0226073|ENG|S|L2851967|PF|S3568245|Y|A3731352|791868013|53717005||SNOMEDCT_US|FN|53717005|Structure of posterior branch of left pulmonary artery (body structure)|9|N||
+C0226082|ENG|S|L2851606|PF|S3568233|Y|A3731340|802423014|6317000||SNOMEDCT_US|FN|6317000|Structure of posterior basal branch of left pulmonary artery (body structure)|9|N||
+C0226099|ENG|S|L2851998|PF|S3568251|Y|A3731358|797968017|59157009||SNOMEDCT_US|FN|59157009|Structure of posterior branch of superior thyroid artery (body structure)|9|N||
+C0226125|ENG|S|L2851514|PF|S3568223|Y|A3731330|749477011|20360001||SNOMEDCT_US|FN|20360001|Structure of posterior auricular artery (body structure)|9|N||
+C0226127|ENG|S|L2852754|PF|S3568536|Y|A3731646|817931012|77134005||SNOMEDCT_US|FN|77134005|Structure of posterior tympanic artery (body structure)|9|N||
+C0226128|ENG|S|L2851502|PF|S3560319|Y|A3723267|782949011|45683000||SNOMEDCT_US|FN|45683000|Structure of auricular branch of posterior auricular artery (body structure)|9|N||
+C0226129|ENG|S|L2851508|PF|S3567206|Y|A3730286|767802014|3609007||SNOMEDCT_US|FN|3609007|Structure of occipital branch of posterior auricular artery (body structure)|9|N||
+C0226146|ENG|S|L2852654|PF|S3568562|Y|A3731672|749447017|20345004||SNOMEDCT_US|FN|20345004|Structure of posterior, lateral and septal nasal arteries (body structure)|9|N||
+C0226152|ENG|S|L2817155|PF|S3570791|Y|A3733913|811367016|71224001||SNOMEDCT_US|FN|71224001|Structure of superior posterior alveolar artery, including dental branches (body structure)|9|N||
+C0226165|ENG|S|L2851754|PF|S3561163|Y|A3724132|779399013|42494004||SNOMEDCT_US|FN|42494004|Structure of choroidal branch of posterior cerebral artery (body structure)|9|N||
+C0226177|ENG|S|L2852114|PF|S3569722|Y|A3732837|837354016|368801009||SNOMEDCT_US|FN|368801009|Structure of short posterior ciliary artery (body structure)|9|N||
+C0226178|ENG|S|L2852113|PF|S3565641|Y|A3728709|837366010|368802002||SNOMEDCT_US|FN|368802002|Structure of long posterior ciliary artery (body structure)|9|N||
+C0226183|ENG|S|L2852186|PF|S3568292|Y|A3731399|837391010|368804001||SNOMEDCT_US|FN|368804001|Structure of posterior conjunctival artery (body structure)|9|N||
+C0226185|ENG|S|L2852512|PF|S3568317|Y|A3731425|801372016|62223008||SNOMEDCT_US|FN|62223008|Structure of posterior ethmoidal artery (body structure)|9|N||
+C0226227|ENG|S|L2852732|PF|S3568412|Y|A3731520|843478011|369308003||SNOMEDCT_US|FN|369308003|Structure of posterior parietal artery (body structure)|9|N||
+C0226229|ENG|S|L2852752|PF|S3568508|Y|A3731618|843514017|369311002||SNOMEDCT_US|FN|369311002|Structure of posterior temporal artery (body structure)|9|N||
+C0226233|ENG|S|L2852751|PF|S3568465|Y|A3731574|793109011|54834004||SNOMEDCT_US|FN|54834004|Structure of posterior spinal artery (body structure)|9|N||
+C0226234|ENG|S|L2851789|PF|S3561165|Y|A3724134|828657013|8640002||SNOMEDCT_US|FN|8640002|Structure of choroidal branch of posterior spinal artery (body structure)|9|N||
+C0226235|ENG|S|L2851752|PF|S3566421|Y|A3729492|844071017|369357000||SNOMEDCT_US|FN|369357000|Structure of medullary branch of posterior inferior cerebellar artery (body structure)|9|N||
+C0226247|ENG|S|L2852095|PF|S3569287|Y|A3732402|843381019|369300005||SNOMEDCT_US|FN|369300005|Structure of right posterior cerebral artery (body structure)|9|N||
+C0226248|ENG|S|L2852090|PF|S3565306|Y|A3728374|843393011|369301009||SNOMEDCT_US|FN|369301009|Structure of left posterior cerebral artery (body structure)|9|N||
+C0226249|ENG|S|L2851758|PF|S3561513|Y|A3724502|760352013|29456007||SNOMEDCT_US|FN|29456007|Structure of cortical branch of posterior cerebral artery (body structure)|9|N||
+C0226250|ENG|S|L2851778|PF|S3571075|Y|A3734198|843962017|369348006||SNOMEDCT_US|FN|369348006|Structure of temporal branch of posterior cerebral artery (body structure)|9|N||
+C0226251|ENG|S|L2851775|PF|S3567208|Y|A3730288|843974018|369349003||SNOMEDCT_US|FN|369349003|Structure of occipital branch of posterior cerebral artery (body structure)|9|N||
+C0226252|ENG|S|L2851776|PF|S3567700|Y|A3730803|843998013|369351004||SNOMEDCT_US|FN|369351004|Structure of parietooccipital branch of posterior cerebral artery (body structure)|9|N||
+C0226254|ENG|S|L2852108|PF|S3568271|Y|A3731378|818181018|7736000||SNOMEDCT_US|FN|7736000|Structure of posterior choroidal artery (body structure)|9|N||
+C0226255|ENG|S|L2851787|PF|S3564860|Y|A3727924|843901010|369343002||SNOMEDCT_US|FN|369343002|Structure of lateral branch of posterior choroidal artery (body structure)|9|N||
+C0226256|ENG|S|L2851788|PF|S3566178|Y|A3729249|843914011|369344008||SNOMEDCT_US|FN|369344008|Structure of medial branch of posterior choroidal artery (body structure)|9|N||
+C0226257|ENG|S|L2851748|PF|S3561007|Y|A3723964|843926018|369345009||SNOMEDCT_US|FN|369345009|Structure of central branches of posterior choroidal artery (body structure)|9|N||
+C0226292|ENG|S|L2852621|PF|S3568345|Y|A3731453|821999016|808000||SNOMEDCT_US|FN|808000|Structure of posterior intercostal artery (body structure)|9|N||
+C0226305|ENG|S|L2852674|PF|S3568447|Y|A3731555|767172012|35523009||SNOMEDCT_US|FN|35523009|Structure of posterior segment artery of liver (body structure)|9|N||
+C0226315|ENG|S|L2852554|PF|S3568333|Y|A3731441|822498015|81248003||SNOMEDCT_US|FN|81248003|Structure of posterior gastric artery (body structure)|9|N||
+C0226326|ENG|S|L2852028|PF|S3568260|Y|A3731367|797036010|58317009||SNOMEDCT_US|FN|58317009|Structure of posterior cecal artery (body structure)|9|N||
+C0226338|ENG|S|L2852245|PF|S3568312|Y|A3731420|833721017|90586002||SNOMEDCT_US|FN|90586002|Structure of posterior division of renal artery (body structure)|9|N||
+C0226343|ENG|S|L2851997|PF|S3568454|Y|A3731563|667938019|275107009||SNOMEDCT_US|FN|275107009|Structure of posterior segmental branch of renal artery (body structure)|9|N||
+C0226384|ENG|S|L2851930|PF|S3568441|Y|A3731549|841289013|9684007||SNOMEDCT_US|FN|9684007|Structure of posterior scrotal branch of internal pudendal artery (body structure)|9|N||
+C0226385|ENG|S|L2851924|PF|S3568356|Y|A3731464|784612018|47182008||SNOMEDCT_US|FN|47182008|Structure of posterior labial branch of internal pudendal artery (body structure)|9|N||
+C0226424|ENG|S|L2852127|PF|S3568273|Y|A3731380|749496010|20375009||SNOMEDCT_US|FN|20375009|Structure of posterior circumflex humeral artery (body structure)|9|N||
+C0226432|ENG|S|L2852130|PF|S3568275|Y|A3731382|829550013|368155006||SNOMEDCT_US|FN|368155006|Structure of posterior circumflex ulnar artery (body structure)|9|N||
+C0226474|ENG|S|L2852750|PF|S3569289|Y|A3732404|600888016|214811007||SNOMEDCT_US|FN|214811007|Structure of right posterior tibial artery (body structure)|9|N||
+C0226475|ENG|S|L2852663|PF|S3565315|Y|A3728383|601000019|214912001||SNOMEDCT_US|FN|214912001|Structure of left posterior tibial artery (body structure)|9|N||
+C0226491|ENG|S|L2852749|PF|S3568434|Y|A3731542|790316015|52320005||SNOMEDCT_US|FN|52320005|Structure of posterior recurrent tibial artery (body structure)|9|N||
+C0226544|ENG|S|L2868312|PF|S3568229|Y|A3731336|789018017|5115006||SNOMEDCT_US|FN|5115006|Structure of posterior auricular vein (body structure)|9|N||
+C0226546|ENG|S|L2905550|PF|S3568321|Y|A3731429|539464015|158768009||SNOMEDCT_US|FN|158768009|Structure of posterior external jugular vein (body structure)|9|N||
+C0226600|ENG|S|L2894252|PF|S3568295|Y|A3731402|844289014|369375004||SNOMEDCT_US|FN|369375004|Structure of posterior corpus callosal vein (body structure)|9|N||
+C0226628|ENG|S|L2912981|PF|S3568542|Y|A3731652|531061018|151198003||SNOMEDCT_US|FN|151198003|Structure of posterior vestibular vein (body structure)|9|N||
+C0226639|ENG|S|L2909133|PF|S3568348|Y|A3731456|828449019|368064004||SNOMEDCT_US|FN|368064004|Structure of posterior intercostal vein (body structure)|9|N||
+C0226664|ENG|S|L2910232|PF|S3568540|Y|A3731650|579511014|195416006||SNOMEDCT_US|FN|195416006|Structure of posterior vein of left ventricle (body structure)|9|N||
+C0226674|ENG|S|L2893247|PF|S3568249|Y|A3731356|781487011|44367000||SNOMEDCT_US|FN|44367000|Structure of posterior branch of superior right pulmonary vein (body structure)|9|N||
+C0226683|ENG|S|L2843974|PF|S3559814|Y|A3722762|756744017|26324000||SNOMEDCT_US|FN|26324000|Structure of apicoposterior branch of superior left pulmonary vein (body structure)|9|N||
+C0226781|ENG|S|L2912963|PF|S3568445|Y|A3731553|742858016|15935008||SNOMEDCT_US|FN|15935008|Structure of posterior scrotal vein (body structure)|9|N||
+C0226782|ENG|S|L2909879|PF|S3568360|Y|A3731468|823632017|367665001||SNOMEDCT_US|FN|367665001|Structure of posterior labial vein (body structure)|9|N||
+C0226832|ENG|S|L2912977|PF|S3568525|Y|A3731635|779495018|4258007||SNOMEDCT_US|FN|4258007|Structure of posterior tibial vein (body structure)|9|N||
+C0226848|ENG|S|L2899404|PF|S3568510|Y|A3731620|534312011|154127002||SNOMEDCT_US|FN|154127002|Structure of posterior temporal diploic vein (body structure)|9|N||
+C0226868|ENG|S|L2909086|PF|S3568343|Y|A3731451|827519017|8546004||SNOMEDCT_US|FN|8546004|Structure of posterior intercavernous sinus (body structure)|9|N||
+C0227155|ENG|S|L2912367|PF|S3568551|Y|A3731661|734201011|12999009||SNOMEDCT_US|FN|12999009|Structure of posterior wall of oropharynx (body structure)|9|N||
+C0227174|ENG|S|L2908716|PF|S3568546|Y|A3731656|759260018|28567000||SNOMEDCT_US|FN|28567000|Structure of posterior wall of hypopharynx (body structure)|9|N||
+C0227226|ENG|S|L2912972|PF|S3568553|Y|A3731663|802632017|63358003||SNOMEDCT_US|FN|63358003|Structure of posterior wall of stomach (body structure)|9|N||
+C0227483|ENG|S|L2910634|PF|S3568449|Y|A3731557|835941019|9242006||SNOMEDCT_US|FN|9242006|Structure of posterior segment of right lobe of liver (body structure)|9|N||
+C0227559|ENG|S|L2893058|PF|S3568247|Y|A3731354|802465015|63207002||SNOMEDCT_US|FN|63207002|Structure of posterior branch of right hepatic duct (body structure)|9|N||
+C0227584|ENG|S|L2912463|PF|S3568496|Y|A3731605|834085013|90887002||SNOMEDCT_US|FN|90887002|Structure of posterior surface of pancreas (body structure)|9|N||
+C0227610|ENG|S|L2909827|PF|S3568485|Y|A3731594|766647015|35051009||SNOMEDCT_US|FN|35051009|Structure of posterior surface of kidney (body structure)|9|N||
+C0227627|ENG|S|L2912959|PF|S3568436|Y|A3731544|636615017|246555003||SNOMEDCT_US|FN|246555003|Structure of posterior renal segment (body structure)|9|N||
+C0227701|ENG|S|L2887310|PF|S3568557|Y|A3731667|755980015|25640004||SNOMEDCT_US|FN|25640004|Structure of posterior wall of urinary bladder (body structure)|9|N||
+C0227762|ENG|S|L2897413|PF|S3568279|Y|A3731386|776787015|4019005||SNOMEDCT_US|FN|4019005|Structure of posterior commissure of labia majora (body structure)|9|N||
+C0227787|ENG|S|L2897206|PF|S3568438|Y|A3731546|643631017|252941005||SNOMEDCT_US|FN|252941005|Structure of posterior rugal column (body structure)|9|N||
+C0227796|ENG|S|L2907304|PF|S3568329|Y|A3731437|797498017|58733005||SNOMEDCT_US|FN|58733005|Structure of posterior fornix (body structure)|9|N||
+C0227801|ENG|S|L2912980|PF|S3568559|Y|A3731669|833710014|90577007||SNOMEDCT_US|FN|90577007|Structure of posterior wall of vagina (body structure)|9|N||
+C0227802|ENG|S|L2832428|PF|S3559261|Y|A3722208|760265019|29378004||SNOMEDCT_US|FN|29378004|Structure of anterior and posterior wall of vagina (body structure)|9|N||
+C0227835|ENG|S|L2896294|PF|S3568385|Y|A3731493|759154014|28471000||SNOMEDCT_US|FN|28471000|Structure of posterior lip of cervix (body structure)|9|N||
+C0227961|ENG|S|L2912957|PF|S3568498|Y|A3731607|788029010|5026003||SNOMEDCT_US|FN|5026003|Structure of posterior surface of prostate (body structure)|9|N||
+C0227976|ENG|S|L2910679|PF|S3486944|Y|A3640084|805579017|66012001||SNOMEDCT_US|FN|66012001|Posterior lobe of prostate (body structure)|9|N||
+C0227996|ENG|S|L2892688|PF|S3568243|Y|A3731350|833275010|90217002||SNOMEDCT_US|FN|90217002|Structure of posterior border of testis (body structure)|9|N||
+C0228284|ENG|S|L2848257|PF|S3568416|Y|A3731524|805668016|66093007||SNOMEDCT_US|FN|66093007|Structure of posterior parolfactory area (body structure)|9|N||
+C0228302|ENG|S|L2894688|PF|S3565416|Y|A3728484|776660013|40085005||SNOMEDCT_US|FN|40085005|Structure of lenticular portion of posterior limb of internal capsule (body structure)|9|N||
+C0228305|ENG|S|L2894689|PF|S3569065|Y|A3732180|831556012|88798006||SNOMEDCT_US|FN|88798006|Structure of retrolenticular portion of posterior limb of internal capsule (body structure)|9|N||
+C0228307|ENG|S|L2894693|PF|S3568512|Y|A3731622|756974019|2653009||SNOMEDCT_US|FN|2653009|Structure of posterior thalamic radiation of internal capsule (body structure)|9|N||
+C0228308|ENG|S|L2894690|PF|S3570312|Y|A3733434|768751019|36941001||SNOMEDCT_US|FN|36941001|Structure of sublenticular portion of posterior limb of internal capsule (body structure)|9|N||
+C0228309|ENG|S|L2894692|PF|S3571089|Y|A3734212|820024013|79020004||SNOMEDCT_US|FN|79020004|Structure of temporopontine tract of posterior limb of internal capsule (body structure)|9|N||
+C0228311|ENG|S|L2894550|PF|S3239303|Y|A3374107|799517018|60552004||SNOMEDCT_US|FN|60552004|Corticothalamic fibers of posterior limb of internal capsule (body structure)|9|N||
+C0228336|ENG|S|L2912218|PF|S3572146|Y|A3735275|824177010|82700003||SNOMEDCT_US|FN|82700003|Structure of ventral posterior nucleus of thalamus (body structure)|9|N||
+C0228341|ENG|S|L6394109|PF|S7331815|Y|A11735072|2638934017|7820009||SNOMEDCT_US|FN|7820009|Structure of lateral posterior nucleus of thalamus (body structure)|9|N||
+C0228343|ENG|S|L2912976|PF|S3568534|Y|A3731644|803575013|64207007||SNOMEDCT_US|FN|64207007|Structure of posterior tubercle of thalamus (body structure)|9|N||
+C0228363|ENG|S|L2908743|PF|S3568418|Y|A3731526|801965014|62758009||SNOMEDCT_US|FN|62758009|Structure of posterior perforated substance of hypothalamus (body structure)|9|N||
+C0228385|ENG|S|L2908727|PF|S3568337|Y|A3731445|809797017|6981003||SNOMEDCT_US|FN|6981003|Structure of posterior hypothalamic nucleus (body structure)|9|N||
+C0228481|ENG|S|L2895852|PF|S3213169|Y|A3345351|835086018|91714003||SNOMEDCT_US|FN|91714003|Cerebellar vermis and posterior lobes structure (body structure)|9|N||
+C0228491|ENG|S|L2895851|PF|S3486756|Y|A3639884|832252010|89372008||SNOMEDCT_US|FN|89372008|Posterior cerebellar lobe structure (body structure)|9|N||
+C0228492|ENG|S|L2910691|PF|S3568460|Y|A3731569|752319012|22863004||SNOMEDCT_US|FN|22863004|Structure of posterior semilunar lobule (body structure)|9|N||
+C0228493|ENG|S|L2895835|PF|S3577434|Y|A3740819|710948018|314170001||SNOMEDCT_US|FN|314170001|Superior posterior cerebellar fissure (body structure)|9|N||
+C0228493|ENG|S|L2895881|PF|S3577436|Y|A3740821|769995010|38003002||SNOMEDCT_US|FN|38003002|Superior posterior fissure of cerebellum (body structure)|9|N||
+C0228494|ENG|S|L2830814|PF|S3487087|Y|A3640238|757115017|26655000||SNOMEDCT_US|FN|26655000|Posterior superior ansiform lobule of cerebellum (body structure)|9|N||
+C0228496|ENG|S|L2830813|PF|S3486899|Y|A3640032|819631016|78666002||SNOMEDCT_US|FN|78666002|Posterior inferior ansiform lobule of cerebellum (body structure)|9|N||
+C0228573|ENG|S|L2897393|PF|S3552758|Y|A3715205|750433018|21169000||SNOMEDCT_US|FN|21169000|Spinal cord posterior gray commissure (body structure)|9|N||
+C0228575|ENG|S|L6396080|PF|S7332060|Y|A11728281|2638779010|44985000||SNOMEDCT_US|FN|44985000|Structure of posterior gray horn of spinal cord (body structure)|9|N||
+C0228611|ENG|S|L2895999|PF|S3214073|Y|A3346390|740056012|14131005||SNOMEDCT_US|FN|14131005|Cervical spinal cord posterior horn structure (body structure)|9|N||
+C0228612|ENG|S|L2843561|PF|S3559744|Y|A3722692|807540012|67779000||SNOMEDCT_US|FN|67779000|Structure of apex of cervical spinal cord posterior horn (body structure)|9|N||
+C0228613|ENG|S|L2895996|PF|S3570373|Y|A3733495|831134019|88449001||SNOMEDCT_US|FN|88449001|Structure of substantia gelatinosa of cervical spinal cord posterior horn (body structure)|9|N||
+C0228623|ENG|S|L2896004|PF|S3568267|Y|A3731374|823695017|823005||SNOMEDCT_US|FN|823005|Structure of posterior cervical spinal cord nerve root (body structure)|9|N||
+C0228628|ENG|S|L2897885|PF|S3589250|Y|A3753517|781998017|44826003||SNOMEDCT_US|FN|44826003|Thoracic spinal cord posterior horn structure (body structure)|9|N||
+C0228629|ENG|S|L2843568|PF|S3559779|Y|A3722727|793485010|55173005||SNOMEDCT_US|FN|55173005|Structure of apex of thoracic spinal cord posterior horn (body structure)|9|N||
+C0228630|ENG|S|L2897874|PF|S3570377|Y|A3733499|769938014|37979004||SNOMEDCT_US|FN|37979004|Structure of substantia gelatinosa of thoracic spinal cord posterior horn (body structure)|9|N||
+C0228640|ENG|S|L2897918|PF|S3568514|Y|A3731624|815598014|75033001||SNOMEDCT_US|FN|75033001|Structure of posterior thoracic spinal cord nerve root (body structure)|9|N||
+C0228646|ENG|S|L2897882|PF|S3398857|Y|A3544457|744841013|17526006||SNOMEDCT_US|FN|17526006|Lumbosacral spinal cord posterior horn structure (body structure)|9|N||
+C0228647|ENG|S|L2843567|PF|S3559759|Y|A3722707|760619012|29697005||SNOMEDCT_US|FN|29697005|Structure of apex of lumbar spinal cord posterior horn (body structure)|9|N||
+C0228648|ENG|S|L2897873|PF|S3570375|Y|A3733497|791402016|53299008||SNOMEDCT_US|FN|53299008|Structure of substantia gelatinosa of lumbar spinal cord posterior horn (body structure)|9|N||
+C0228658|ENG|S|L2897900|PF|S3568387|Y|A3731495|778027019|41259006||SNOMEDCT_US|FN|41259006|Structure of posterior lumbosacral spinal cord nerve root (body structure)|9|N||
+C0228718|ENG|S|L2905417|PF|S3568319|Y|A3731427|844521011|9951005||SNOMEDCT_US|FN|9951005|Structure of posterior ethmoidal nerve (body structure)|9|N||
+C0228728|ENG|S|L2817224|PF|S3568469|Y|A3731578|821998012|80799004||SNOMEDCT_US|FN|80799004|Structure of posterior superior alveolar nerve (body structure)|9|N||
+C0228748|ENG|S|L2868298|PF|S3568227|Y|A3731334|822305011|81074001||SNOMEDCT_US|FN|81074001|Structure of posterior auricular nerve (body structure)|9|N||
+C0228781|ENG|S|L2893126|PF|S7332396|Y|A11730478|2638737016|37720009||SNOMEDCT_US|FN|37720009|Structure of vagus nerve posterior gastric branch (body structure)|9|N||
+C0228788|ENG|S|L2912979|PF|S3568538|Y|A3731648|803878018|6448009||SNOMEDCT_US|FN|6448009|Structure of posterior vagal trunk (body structure)|9|N||
+C0228790|ENG|S|L2893226|PF|S3569563|Y|A3732678|844930013|369428000||SNOMEDCT_US|FN|369428000|Structure of selective branches of posterior trunk of vagus nerve (body structure)|9|N||
+C0228828|ENG|S|L2868235|PF|S3563353|Y|A3726407|823652016|82266006||SNOMEDCT_US|FN|82266006|Structure of greater auricular nerve posterior branch (body structure)|9|N||
+C0228836|ENG|S|L2910071|PF|S3388910|Y|A3533795|827164012|85168005||SNOMEDCT_US|FN|85168005|Lateral posterior supraclavicular nerves (body structure)|9|N||
+C0228836|ENG|S|L2912026|PF|S3487088|Y|A3640239|673725016|280331004||SNOMEDCT_US|FN|280331004|Posterior supraclavicular nerve (body structure)|9|N||
+C0228869|ENG|S|L6395439|PF|S7326138|Y|A11726005|2638641013|310550007||SNOMEDCT_US|FN|310550007|Entire posterior cutaneous nerve of arm (body structure)|9|N||
+C0228871|ENG|S|L14902519|PF|S18135581|Y|A29507277|3687989015|43672007||SNOMEDCT_US|FN|43672007|Structure of posterior antebrachial cutaneous nerve (body structure)|9|N||
+C0228915|ENG|S|L2893217|PF|S3567189|Y|A3730269|748917017|20089006||SNOMEDCT_US|FN|20089006|Structure of obturator nerve posterior branch (body structure)|9|N||
+C0228931|ENG|S|L2898687|PF|S3568325|Y|A3731433|789786018|51842002||SNOMEDCT_US|FN|51842002|Structure of posterior femoral cutaneous nerve (body structure)|9|N||
+C0228933|ENG|S|L2893023|PF|S3567917|Y|A3731020|809023016|69113008||SNOMEDCT_US|FN|69113008|Structure of perineal branches of posterior femoral cutaneous nerve (body structure)|9|N||
+C0228962|ENG|S|L2909878|PF|S3568358|Y|A3731466|780039015|43070000||SNOMEDCT_US|FN|43070000|Structure of posterior labial nerves (body structure)|9|N||
+C0228963|ENG|S|L2912025|PF|S3568443|Y|A3731551|767728017|36023006||SNOMEDCT_US|FN|36023006|Structure of posterior scrotal nerves (body structure)|9|N||
+C0229092|ENG|S|L2905710|PF|S3568420|Y|A3731528|742855018|15932006||SNOMEDCT_US|FN|15932006|Structure of posterior pole of eye (body structure)|9|N||
+C0229094|ENG|S|L2896309|PF|S3568269|Y|A3731376|805169013|65643003||SNOMEDCT_US|FN|65643003|Structure of posterior chamber of eye (body structure)|9|N||
+C0229122|ENG|S|L2897995|PF|S3568478|Y|A3731587|809659014|69687002||SNOMEDCT_US|FN|69687002|Structure of posterior surface of cornea (body structure)|9|N||
+C0229179|ENG|S|L2909485|PF|S3568482|Y|A3731591|791843011|53695005||SNOMEDCT_US|FN|53695005|Structure of posterior surface of iris (body structure)|9|N||
+C0229226|ENG|S|L2910308|PF|S3568422|Y|A3731530|818839010|77952006||SNOMEDCT_US|FN|77952006|Structure of posterior pole of lens (body structure)|9|N||
+C0229228|ENG|S|L2910310|PF|S3568487|Y|A3731596|785313011|47813007||SNOMEDCT_US|FN|47813007|Structure of posterior surface of lens (body structure)|9|N||
+C0229250|ENG|S|L2858947|PF|S3568218|Y|A3731325|816569015|75907007||SNOMEDCT_US|FN|75907007|Structure of posterior aspect of eyelids (body structure)|9|N||
+C0229327|ENG|S|L2868289|PF|S3568225|Y|A3731332|783648013|46312003||SNOMEDCT_US|FN|46312003|Structure of posterior auricular ligament (body structure)|9|N||
+C0229362|ENG|S|L2911327|PF|S3568432|Y|A3731540|830297013|87757002||SNOMEDCT_US|FN|87757002|Structure of posterior recess of tympanic membrane (body structure)|9|N||
+C0229374|ENG|S|L2906838|PF|S3568389|Y|A3731497|664231013|11502004||SNOMEDCT_US|FN|11502004|Structure of posterior mallear fold of tympanic membrane (body structure)|9|N||
+C0229388|ENG|S|L2895384|PF|S3568555|Y|A3731665|751520016|22145001||SNOMEDCT_US|FN|22145001|Structure of posterior wall of tympanic cavity (body structure)|9|N||
+C0229407|ENG|S|L2910559|PF|S3568383|Y|A3731491|740235016|1425000||SNOMEDCT_US|FN|1425000|Structure of posterior limb of stapes (body structure)|9|N||
+C0229415|ENG|S|L2908875|PF|S3568376|Y|A3731484|803779016|64391002||SNOMEDCT_US|FN|64391002|Structure of posterior ligament of incus (body structure)|9|N||
+C0229454|ENG|S|L2900580|PF|S3568458|Y|A3731567|787029012|49360001||SNOMEDCT_US|FN|49360001|Structure of posterior semicircular duct (body structure)|9|N||
+C0229463|ENG|S|L2821616|PF|S3289880|Y|A3428083|673194018|279854002||SNOMEDCT_US|FN|279854002|Entire posterior membranous ampulla (body structure)|9|N||
+C0229554|ENG|S|L2802594|PF|S3568474|Y|A3731583|778101017|41325005||SNOMEDCT_US|FN|41325005|Structure of posterior surface of adrenal gland (body structure)|9|N||
+C0229712|ENG|S|L2868294|PF|S3486735|Y|A3639863|761841016|30793004||SNOMEDCT_US|FN|30793004|Posterior auricular lymph node (body structure)|9|N||
+C0229759|ENG|S|L2908108|PF|S3486968|Y|A3640112|635186018|245278003||SNOMEDCT_US|FN|245278003|Posterior mediastinal lymph node group (body structure)|9|N||
+C0229759|ENG|S|L2910898|PF|S3568395|Y|A3731503|755765019|25447008||SNOMEDCT_US|FN|25447008|Structure of posterior mediastinal lymph node (body structure)|9|N||
+C0229860|ENG|S|L2910931|PF|S3568519|Y|A3731629|699829015|303623000||SNOMEDCT_US|FN|303623000|Structure of posterior tibial lymph node (body structure)|9|N||
+C0230052|ENG|S|L2896748|PF|S3568277|Y|A3731384|783431013|46117001||SNOMEDCT_US|FN|46117001|Structure of posterior clinoid process (body structure)|9|N||
+C0230073|ENG|S|L2911940|PF|S3487133|Y|A3640287|565684014|182330007||SNOMEDCT_US|FN|182330007|Posterior triangle of neck (body structure)|9|N||
+C0230086|ENG|S|L2911505|PF|S3486985|Y|A3640129|766266013|3471002||SNOMEDCT_US|FN|3471002|Posterior midline of trunk (body structure)|9|N||
+C0230092|ENG|S|L2870509|PF|S3486744|Y|A3639872|783194012|45903001||SNOMEDCT_US|FN|45903001|Posterior axillary line structure (body structure)|9|N||
+C0230131|ENG|S|L2896361|PF|S3486776|Y|A3639904|816730011|76052000||SNOMEDCT_US|FN|76052000|Posterior chest wall structure (body structure)|9|N||
+C0230150|ENG|S|L2911266|PF|S3568397|Y|A3731505|757841014|27291007||SNOMEDCT_US|FN|27291007|Structure of posterior mediastinum (body structure)|9|N||
+C0230173|ENG|S|L2768547|PF|S3486983|Y|A3640127|783338015|46033001||SNOMEDCT_US|FN|46033001|Posterior midline of abdomen (body structure)|9|N||
+C0230194|ENG|S|L2769330|PF|S3486708|Y|A3639834|752000011|22577007||SNOMEDCT_US|FN|22577007|Posterior abdominal wall structure (body structure)|9|N||
+C0230305|ENG|S|L2910467|PF|S3568379|Y|A3731487|786534013|48913005||SNOMEDCT_US|FN|48913005|Structure of posterior ligament of uterus (body structure)|9|N||
+C0230334|ENG|S|L2870498|PF|S3486742|Y|A3639870|794065011|55665000||SNOMEDCT_US|FN|55665000|Posterior axillary fold structure (body structure)|9|N||
+C0230341|ENG|S|L2849249|PF|S3568502|Y|A3731611|742577013|15703000||SNOMEDCT_US|FN|15703000|Structure of posterior surface of upper arm (body structure)|9|N||
+C0230350|ENG|S|L2898567|PF|S3568303|Y|A3731410|806117013|66498007||SNOMEDCT_US|FN|66498007|Structure of posterior cubital region (body structure)|9|N||
+C0230356|ENG|S|L2907057|PF|S3568480|Y|A3731589|830833018|88200005||SNOMEDCT_US|FN|88200005|Structure of posterior surface of forearm (body structure)|9|N||
+C0230364|ENG|S|L2894941|PF|S3568258|Y|A3731365|577123019|106004||SNOMEDCT_US|FN|106004|Structure of posterior carpal region (body structure)|9|N||
+C0230412|ENG|S|L2905630|PF|S3568489|Y|A3731598|746156016|18636006||SNOMEDCT_US|FN|18636006|Structure of posterior surface of lower extremity (body structure)|9|N||
+C0230422|ENG|S|L2912974|PF|S3568500|Y|A3731609|833651018|90528004||SNOMEDCT_US|FN|90528004|Structure of posterior surface of thigh (body structure)|9|N||
+C0230439|ENG|S|L2910278|PF|S3568491|Y|A3731600|816904015|76209009||SNOMEDCT_US|FN|76209009|Structure of posterior surface of lower leg (body structure)|9|N||
+C0231060|ENG|S|L2893666|PF|S3568381|Y|A3731489|783887011|46528009||SNOMEDCT_US|FN|46528009|Structure of posterior limb bud (body structure)|9|N||
+C0231087|ENG|S|L2894845|PF|S3568256|Y|A3731363|795545016|56974009||SNOMEDCT_US|FN|56974009|Structure of posterior cardinal vein (body structure)|9|N||
+C0262315|ENG|S|L6396083|PF|S7332064|Y|A11740808|2639333010|424735005||SNOMEDCT_US|FN|424735005|Structure of posterior nucleus of thalamus (body structure)|9|N||
+C0262320|ENG|S|L6394131|PF|S7332066|Y|A11731395|2639397013|422519001||SNOMEDCT_US|FN|422519001|Structure of posterior transverse temporal gyrus (body structure)|9|N||
+C0278432|ENG|S|L2851713|PF|S3565313|Y|A3728381|796488019|57823005||SNOMEDCT_US|FN|57823005|Structure of left posterior lateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C0278434|ENG|S|L2851811|PF|S3568368|Y|A3731476|744447015|17269004||SNOMEDCT_US|FN|17269004|Structure of posterior lateral branch of right coronary artery (body structure)|9|N||
+C0278450|ENG|S|L2901369|PF|S3289938|Y|A3428141|674100014|280659009||SNOMEDCT_US|FN|280659009|Entire posterior segment of eyeball (body structure)|9|N||
+C0444553|ENG|S|L2908627|PF|S3486895|Y|A3640028|656360019|264151009||SNOMEDCT_US|FN|264151009|Posterior horn of longitudinal segment of meniscus (body structure)|9|N||
+C0444554|ENG|S|L2910705|PF|S3487100|Y|A3640251|656368014|264157008||SNOMEDCT_US|FN|264157008|Posterior third of longitudinal segment of meniscus (body structure)|9|N||
+C0444564|ENG|S|L5155745|PF|S5880578|Y|A6940202|2462505014|264214007||SNOMEDCT_US|FN|264214007|Entire superficial posterior compartment of lower leg (body structure)|9|N||
+C0444572|ENG|S|L2896298|PF|S3487158|Y|A3640312|656371018|264160001||SNOMEDCT_US|FN|264160001|Posterior wall of cervix (body structure)|9|N||
+C0445122|ENG|S|L2904573|PF|S3289953|Y|A3428157|657176012|264873000||SNOMEDCT_US|FN|264873000|Entire posterior sinus of Valsalva (body structure)|9|N||
+C0446499|ENG|S|L2769329|PF|S3486706|Y|A3639832|633726013|243967004||SNOMEDCT_US|FN|243967004|Posterior abdominal surface region (body structure)|9|N||
+C0446522|ENG|S|L2858935|PF|S3486720|Y|A3639846|565600015|182256002||SNOMEDCT_US|FN|182256002|Posterior aspect of elbow (surface region) (body structure)|9|N||
+C0446579|ENG|S|L2828540|PF|S3486719|Y|A3639845|565653012|182303002||SNOMEDCT_US|FN|182303002|Posterior aspect of ankle (body structure)|9|N||
+C0446768|ENG|S|L2909227|PF|S3486922|Y|A3640055|778609016|41782009||SNOMEDCT_US|FN|41782009|Posterior interosseous nerve structure (body structure)|9|N||
+C0446769|ENG|S|L2902846|PF|S3289822|Y|A3428025|564211013|181013004||SNOMEDCT_US|FN|181013004|Entire posterior interosseous nerve (body structure)|9|N||
+C0446771|ENG|S|L2907032|PF|S3486918|Y|A3640051|634290018|244474007||SNOMEDCT_US|FN|244474007|Posterior interosseous nerve in forearm (body structure)|9|N||
+C0446843|ENG|S|L2828550|PF|S3487117|Y|A3640269|634293016|244477000||SNOMEDCT_US|FN|244477000|Posterior tibial nerve at ankle (body structure)|9|N||
+C0446858|ENG|S|L2894731|PF|S3486936|Y|A3640075|634322018|244502007||SNOMEDCT_US|FN|244502007|Posterior lens capsule (body structure)|9|N||
+C0446871|ENG|S|L2897979|PF|S3289968|Y|A3428172|634315014|244496001||SNOMEDCT_US|FN|244496001|Entire posterior surface of cornea (body structure)|9|N||
+C0446884|ENG|S|L2896475|PF|S3486778|Y|A3639906|634307011|244489003||SNOMEDCT_US|FN|244489003|Posterior choroid (body structure)|9|N||
+C0446897|ENG|S|L2903791|PF|S3289920|Y|A3428123|656369018|264158003||SNOMEDCT_US|FN|264158003|Entire posterior recess of tympanic membrane (body structure)|9|N||
+C0446946|ENG|S|L2875403|PF|S3289698|Y|A3427901|747545016|361980002||SNOMEDCT_US|FN|361980002|Entire posterior basal segment of right lower lobe of lung (body structure)|9|N||
+C0446948|ENG|S|L2843977|PF|S3279165|Y|A3417304|747555017|361985007||SNOMEDCT_US|FN|361985007|Entire apicoposterior segment of upper division of left upper lobe of lung (body structure)|9|N||
+C0446957|ENG|S|L2875400|PF|S3289696|Y|A3427899|747572012|361993007||SNOMEDCT_US|FN|361993007|Entire posterior basal segment of left lower lobe of lung (body structure)|9|N||
+C0447000|ENG|S|L2903295|PF|S3289844|Y|A3428047|652922018|261090009||SNOMEDCT_US|FN|261090009|Entire posterior leaflet of tricuspid valve (body structure)|9|N||
+C0447005|ENG|S|L2903913|PF|S3289894|Y|A3428097|634161018|244358003||SNOMEDCT_US|FN|244358003|Entire posterior papillary muscle of right ventricle (body structure)|9|N||
+C0447010|ENG|S|L2896418|PF|S3486986|Y|A3640130|634154017|244352002||SNOMEDCT_US|FN|244352002|Posterior mitral chordae (body structure)|9|N||
+C0447013|ENG|S|L2903263|PF|S3289891|Y|A3428094|634150014|244348002||SNOMEDCT_US|FN|244348002|Entire posterior papillary muscle of left ventricle (body structure)|9|N||
+C0447035|ENG|S|L2852049|PF|S3376103|Y|A3520200|633993017|244207002||SNOMEDCT_US|FN|244207002|Internal carotid-posterior communicating artery zone (body structure)|9|N||
+C0447062|ENG|S|L14191089|PF|S17252035|Y|A28420173|3453650011|727323009||SNOMEDCT_US|FN|727323009|Entire left posterior descending circumflex coronary artery (body structure)|9|N||
+C0447085|ENG|S|L2851850|PF|S3289929|Y|A3428132|634092018|244295000||SNOMEDCT_US|FN|244295000|Entire posterior scrotal branch of internal pudendal artery (body structure)|9|N||
+C0447091|ENG|S|L2852635|PF|S3568350|Y|A3731458|835167011|91781001||SNOMEDCT_US|FN|91781001|Structure of posterior interosseous artery (body structure)|9|N||
+C0447168|ENG|S|L2896172|PF|S3487132|Y|A3640286|635171012|245264004||SNOMEDCT_US|FN|245264004|Posterior triangle cervical lymph node group (body structure)|9|N||
+C0447168|ENG|S|L2896198|PF|S3487131|Y|A3640285|635237011|245324000||SNOMEDCT_US|FN|245324000|Posterior triangle cervical lymph node (body structure)|9|N||
+C0447178|ENG|S|L2908096|PF|S3486908|Y|A3640041|635190016|245281008||SNOMEDCT_US|FN|245281008|Posterior intercostal lymph node group (body structure)|9|N||
+C0447178|ENG|S|L2909127|PF|S3486910|Y|A3640043|635253014|245339004||SNOMEDCT_US|FN|245339004|Posterior intercostal node (body structure)|9|N||
+C0447189|ENG|S|L2897458|PF|S3486792|Y|A3639921|635206011|245296007||SNOMEDCT_US|FN|245296007|Posterior common iliac lymph node group (body structure)|9|N||
+C0447189|ENG|S|L2897466|PF|S3486793|Y|A3639922|635271019|245354005||SNOMEDCT_US|FN|245354005|Posterior common iliac node (body structure)|9|N||
+C0447194|ENG|S|L2905529|PF|S3486854|Y|A3639985|635212018|245301007||SNOMEDCT_US|FN|245301007|Posterior external iliac lymph node group (body structure)|9|N||
+C0447194|ENG|S|L2905538|PF|S3486855|Y|A3639986|635276012|245359000||SNOMEDCT_US|FN|245359000|Posterior external iliac node (body structure)|9|N||
+C0447414|ENG|S|L2817226|PF|S3487001|Y|A3640146|635767018|245794009||SNOMEDCT_US|FN|245794009|Posterior part of upper alveolar ridge (body structure)|9|N||
+C0447416|ENG|S|L2817215|PF|S3487000|Y|A3640145|635770019|245797002||SNOMEDCT_US|FN|245797002|Posterior part of lower alveolar ridge (body structure)|9|N||
+C0447623|ENG|S|L2912983|PF|S3487175|Y|A3640329|635421019|245487005||SNOMEDCT_US|FN|245487005|Posterior wall of uterus (body structure)|9|N||
+C0447692|ENG|S|L2897511|PF|S3312298|Y|A3451768|565069018|181783004||SNOMEDCT_US|FN|181783004|Fascia of leg superficial posterior compartment (body structure)|9|N||
+C0447693|ENG|S|L2897498|PF|S3312293|Y|A3451763|565070017|181784005||SNOMEDCT_US|FN|181784005|Fascia of leg deep posterior compartment (body structure)|9|N||
+C0447810|ENG|S|L2905813|PF|S3486858|Y|A3639989|565552013|182214001||SNOMEDCT_US|FN|182214001|Posterior facet of subtalar joint (body structure)|9|N||
+C0447840|ENG|S|L2908623|PF|S3486894|Y|A3640027|565819010|182451009||SNOMEDCT_US|FN|182451009|Posterior horn of lateral meniscus (body structure)|9|N||
+C0447843|ENG|S|L2908629|PF|S3486896|Y|A3640029|565816015|182448002||SNOMEDCT_US|FN|182448002|Posterior horn of medial meniscus (body structure)|9|N||
+C0447878|ENG|S|L2910390|PF|S3397019|Y|A3542469|634444012|244610004||SNOMEDCT_US|FN|244610004|Long posterior sacroiliac ligament (body structure)|9|N||
+C0447879|ENG|S|L2910463|PF|S3542649|Y|A3704462|634446014|244612007||SNOMEDCT_US|FN|244612007|Short posterior sacroiliac ligament (body structure)|9|N||
+C0448162|ENG|S|L2912961|PF|S3487101|Y|A3640252|655474015|263362007||SNOMEDCT_US|FN|263362007|Posterior third of shaft of rib (body structure)|9|N||
+C0448171|ENG|S|L2898411|PF|S3486999|Y|A3640144|634539015|244695008||SNOMEDCT_US|FN|244695008|Posterior part of iliac crest (body structure)|9|N||
+C0448180|ENG|S|L2790426|PF|S3486943|Y|A3640083|655481010|263368006||SNOMEDCT_US|FN|263368006|Posterior lip of acetabulum (body structure)|9|N||
+C0448185|ENG|S|L2790418|PF|S3486789|Y|A3639918|655485018|263372005||SNOMEDCT_US|FN|263372005|Posterior column of acetabulum (body structure)|9|N||
+C0448238|ENG|S|L2856869|PF|S3289667|Y|A3427870|565437015|182112009||SNOMEDCT_US|FN|182112009|Entire posterior articular surface for talus (body structure)|9|N||
+C0448337|ENG|S|L2898440|PF|S3289765|Y|A3427968|634669017|244812005||SNOMEDCT_US|FN|244812005|Entire posterior cricoarytenoid muscle (body structure)|9|N||
+C0448351|ENG|S|L2911588|PF|S3487145|Y|A3640299|634706016|244846006||SNOMEDCT_US|FN|244846006|Posterior vertebral muscle of neck (body structure)|9|N||
+C0448472|ENG|S|L2903938|PF|S3289885|Y|A3428088|564947018|181673007||SNOMEDCT_US|FN|181673007|Entire posterior muscle of thigh (body structure)|9|N||
+C0448482|ENG|S|L2898507|PF|S3486811|Y|A3639942|1466746019|392565009||SNOMEDCT_US|FN|392565009|Posterior crural muscle structure (body structure)|9|N||
+C0448483|ENG|S|L13766136|PF|S16787082|Y|A27772956|3324016014|245031006||SNOMEDCT_US|FN|245031006|Entire deep posterior crural muscle (body structure)|9|N||
+C0448484|ENG|S|L13771879|PF|S16788921|Y|A27764267|3324014012|245030007||SNOMEDCT_US|FN|245030007|Entire superficial posterior crural muscle (body structure)|9|N||
+C0448524|ENG|S|L2912962|PF|S3585606|Y|A3749653|634956019|245070000||SNOMEDCT_US|FN|245070000|Tendon of scalenus posterior (body structure)|9|N||
+C0448527|ENG|S|L2894505|PF|S3585597|Y|A3749644|634959014|245072008||SNOMEDCT_US|FN|245072008|Tendon of rectus capitis posterior major (body structure)|9|N||
+C0448529|ENG|S|L2894507|PF|S3585598|Y|A3749645|634960016|245073003||SNOMEDCT_US|FN|245073003|Tendon of rectus capitis posterior minor (body structure)|9|N||
+C0448638|ENG|S|L2898510|PF|S3585588|Y|A3749635|635096013|245196001||SNOMEDCT_US|FN|245196001|Tendon of posterior crural muscle (body structure)|9|N||
+C0448639|ENG|S|L2898509|PF|S3585635|Y|A3749682|635097016|245197005||SNOMEDCT_US|FN|245197005|Tendon of superficial posterior crural muscle (body structure)|9|N||
+C0448644|ENG|S|L2898496|PF|S3585491|Y|A3749537|635101013|245201005||SNOMEDCT_US|FN|245201005|Tendon of deep posterior crural muscle (body structure)|9|N||
+C0448820|ENG|S|L2912970|PF|S3545795|Y|A3707836|633886017|244111001||SNOMEDCT_US|FN|244111001|Skin of posterior surface of thorax (body structure)|9|N||
+C0448834|ENG|S|L2768553|PF|S3545788|Y|A3707828|564770019|181514002||SNOMEDCT_US|FN|181514002|Skin of posterior surface of abdomen (body structure)|9|N||
+C0448862|ENG|S|L2900888|PF|S3545792|Y|A3707833|564795018|181536004||SNOMEDCT_US|FN|181536004|Skin of posterior surface of elbow (body structure)|9|N||
+C0448909|ENG|P|L2898511|PF|S3545790|Y|A3864516||||MTH|PN|NOCODE|Skin of posterior surface of crural region (body structure)|0|N|256|
+C0448932|ENG|S|L2828648|PF|S3545789|Y|A3707829|564823014|181562008||SNOMEDCT_US|FN|181562008|Skin of posterior surface of ankle (body structure)|9|N||
+C0449044|ENG|S|L2909450|PF|S3378052|Y|A3522244|635910018|245922008||SNOMEDCT_US|FN|245922008|Intraregional part of posterior longitudinal ligament (body structure)|9|N||
+C0449045|ENG|S|L2910397|PF|S3589230|Y|A3753497|565731015|182372008||SNOMEDCT_US|FN|182372008|Thoracic region of posterior longitudinal ligament (body structure)|9|N||
+C0449046|ENG|S|L2910391|PF|S3398706|Y|A3544285|565739018|182379004||SNOMEDCT_US|FN|182379004|Lumbar region of posterior longitudinal ligament (body structure)|9|N||
+C0449047|ENG|S|L2896194|PF|S3213955|Y|A3346244|565723013|182364006||SNOMEDCT_US|FN|182364006|Cervical region of posterior longitudinal ligament (body structure)|9|N||
+C0449048|ENG|S|L2910396|PF|S3525242|Y|A3685190|635911019|245923003||SNOMEDCT_US|FN|245923003|Sacral region of posterior longitudinal ligament (body structure)|9|N||
+C0449049|ENG|S|L2909073|PF|S3375341|Y|A3519405|635913016|245924009||SNOMEDCT_US|FN|245924009|Inter-regional part of posterior longitudinal ligament (body structure)|9|N||
+C0449050|ENG|S|L2896268|PF|S3214221|Y|A3346550|635914010|245925005||SNOMEDCT_US|FN|245925005|Cervicothoracic part of posterior longitudinal ligament (body structure)|9|N||
+C0449051|ENG|S|L2910395|PF|S3589342|Y|A3753617|635915011|245926006||SNOMEDCT_US|FN|245926006|Thoracolumbar part of posterior longitudinal ligament (body structure)|9|N||
+C0449052|ENG|S|L2910393|PF|S3398829|Y|A3544429|635916012|245927002||SNOMEDCT_US|FN|245927002|Lumbosacral part of posterior longitudinal ligament (body structure)|9|N||
+C0449136|ENG|S|L6394478|PF|S7326156|Y|A11736998|2638418012|245994002||SNOMEDCT_US|FN|245994002|Entire rectus capitis posterior major (body structure)|9|N||
+C0449137|ENG|S|L6395442|PF|S7326158|Y|A11728044|2638419016|245995001||SNOMEDCT_US|FN|245995001|Entire rectus capitis posterior minor (body structure)|9|N||
+C0449172|ENG|S|L13771530|PF|S16785880|Y|A27778605|3324064017|246036007||SNOMEDCT_US|FN|246036007|Entire C1-C2 intertransversarius cervicis posterior (body structure)|9|N||
+C0449173|ENG|S|L13762396|PF|S16785884|Y|A27781281|3324066015|246037003||SNOMEDCT_US|FN|246037003|Entire C2-C3 intertransversarius cervicis posterior (body structure)|9|N||
+C0449174|ENG|S|L13769735|PF|S16785897|Y|A27781724|3324068019|246038008||SNOMEDCT_US|FN|246038008|Entire C3-C4 intertransversarius cervicis posterior (body structure)|9|N||
+C0449175|ENG|S|L13769737|PF|S16785912|Y|A27770631|3324070011|246039000||SNOMEDCT_US|FN|246039000|Entire C4-C5 intertransversarius cervicis posterior (body structure)|9|N||
+C0449176|ENG|S|L13775156|PF|S16785926|Y|A27767409|3324072015|246040003||SNOMEDCT_US|FN|246040003|Entire C5-C6 intertransversarius cervicis posterior (body structure)|9|N||
+C0449177|ENG|S|L13775157|PF|S16785940|Y|A27764707|3324074019|246041004||SNOMEDCT_US|FN|246041004|Entire C6-C7 intertransversarius cervicis posterior (body structure)|9|N||
+C0449178|ENG|S|L13769743|PF|S16785954|Y|A27786656|3324076017|246042006||SNOMEDCT_US|FN|246042006|Entire C7-T1 intertransversarius cervicis posterior (body structure)|9|N||
+C0450278|ENG|S|L5155736|PF|S5880404|Y|A6940028|2462507018|264458005||SNOMEDCT_US|FN|264458005|Entire deep posterior compartment of lower leg (body structure)|9|N||
+C0456457|ENG|S|L2907329|PF|S3487118|Y|A3640270|670128010|277129009||SNOMEDCT_US|FN|277129009|Posterior tibial nerve in popliteal fossa (body structure)|9|N||
+C0456477|ENG|S|L2897400|PF|S3289747|Y|A3427950|670151010|277149000||SNOMEDCT_US|FN|277149000|Entire posterior commissure of larynx (body structure)|9|N||
+C0456481|ENG|S|L2895488|PF|S3289723|Y|A3427926|670155018|277153003||SNOMEDCT_US|FN|277153003|Entire posterior cells of ethmoid sinus (body structure)|9|N||
+C0457149|ENG|S|L2912613|PF|S3487018|Y|A3640165|671067013|277966004||SNOMEDCT_US|FN|277966004|Posterior preferential pathway (body structure)|9|N||
+C0457887|ENG|S|L6393504|PF|S7326140|Y|A11723481|2638207014|181005000||SNOMEDCT_US|FN|181005000|Entire posterior fasciculus of brachial plexus (body structure)|9|N||
+C0457895|ENG|S|L2892805|PF|S3486833|Y|A3639964|672000011|278799008||SNOMEDCT_US|FN|278799008|Posterior division of upper trunk of brachial plexus (body structure)|9|N||
+C0457897|ENG|S|L2892803|PF|S3486832|Y|A3639963|672002015|278801006||SNOMEDCT_US|FN|278801006|Posterior division of middle trunk of brachial plexus (body structure)|9|N||
+C0457899|ENG|S|L2892801|PF|S3486831|Y|A3639962|672004019|278803009||SNOMEDCT_US|FN|278803009|Posterior division of lower trunk of brachial plexus (body structure)|9|N||
+C0457966|ENG|S|L2892789|PF|S3197221|Y|A3327718|672106019|278891003||SNOMEDCT_US|FN|278891003|Branch of posterior cord of brachial plexus (body structure)|9|N||
+C0458323|ENG|S|L2908207|PF|S3486997|Y|A3640142|672451012|279197009||SNOMEDCT_US|FN|279197009|Posterior orbital gyrus (body structure)|9|N||
+C0458349|ENG|S|L2833455|PF|S3481679|Y|A3634369|672497014|279237004||SNOMEDCT_US|FN|279237004|Anteroposterior plane (body structure)|9|N||
+C0458448|ENG|S|L2887276|PF|S3486860|Y|A3639991|672713011|279430000||SNOMEDCT_US|FN|279430000|Posterior false ligament of bladder (body structure)|9|N||
+C0458531|ENG|S|L2892655|PF|S3486747|Y|A3639875|672809011|279515007||SNOMEDCT_US|FN|279515007|Posterior border of thyroid lamina (body structure)|9|N||
+C0458547|ENG|S|L2858164|PF|S3487089|Y|A3640240|672831015|279535008||SNOMEDCT_US|FN|279535008|Posterior surface of arytenoid (body structure)|9|N||
+C0458556|ENG|S|L2895072|PF|S3487091|Y|A3640242|672843019|279545005||SNOMEDCT_US|FN|279545005|Posterior surface of epiglottic cartilage (body structure)|9|N||
+C0458599|ENG|S|L2912964|PF|S3487046|Y|A3640194|672879010|279575000||SNOMEDCT_US|FN|279575000|Posterior scrotal wall (body structure)|9|N||
+C0458604|ENG|S|L2912965|PF|S3487095|Y|A3640246|672883010|279579006||SNOMEDCT_US|FN|279579006|Posterior surface of scrotum (body structure)|9|N||
+C0458674|ENG|S|L2912966|PF|S3487096|Y|A3640247|672988017|279672006||SNOMEDCT_US|FN|279672006|Posterior surface of seminal vesicle (body structure)|9|N||
+C0458737|ENG|S|L2894386|PF|S3450218|Y|A3599787|673071016|279745008||SNOMEDCT_US|FN|279745008|Opening of posterior semicircular canal (body structure)|9|N||
+C0458739|ENG|S|L2832013|PF|S3450215|Y|A3599784|673074012|279747000||SNOMEDCT_US|FN|279747000|Opening of posterior end of anterior semicircular canal (body structure)|9|N||
+C0458742|ENG|S|L2894316|PF|S3450202|Y|A3599771|673078010|279751003||SNOMEDCT_US|FN|279751003|Opening of lower end of posterior semicircular canal (body structure)|9|N||
+C0458744|ENG|S|L2894317|PF|S3450236|Y|A3599806|673080016|279753000||SNOMEDCT_US|FN|279753000|Opening of upper end of posterior semicircular canal (body structure)|9|N||
+C0458746|ENG|S|L2894315|PF|S3450216|Y|A3599785|673082012|279755007||SNOMEDCT_US|FN|279755007|Opening of posterior end of lateral semicircular canal (body structure)|9|N||
+C0458754|ENG|S|L2821599|PF|S3432003|Y|A3579720|673094015|279766000||SNOMEDCT_US|FN|279766000|Ampulla of posterior semicircular canal (body structure)|9|N||
+C0458797|ENG|S|L2900461|PF|S3450217|Y|A3599786|673158017|279822006||SNOMEDCT_US|FN|279822006|Opening of posterior end of lateral semicircular duct (body structure)|9|N||
+C0458799|ENG|S|L2821609|PF|S3450170|Y|A3599738|673160015|279824007||SNOMEDCT_US|FN|279824007|Opening of ampulla of posterior semicircular duct (body structure)|9|N||
+C0458804|ENG|S|L2900565|PF|S3450219|Y|A3599788|673167017|279830007||SNOMEDCT_US|FN|279830007|Opening of posterior semicircular duct (body structure)|9|N||
+C0458824|ENG|S|L2821622|PF|S3568400|Y|A3731508|762802016|31657003||SNOMEDCT_US|FN|31657003|Structure of posterior membranous ampulla (body structure)|9|N||
+C0458859|ENG|S|L2894293|PF|S3487157|Y|A3640311|673230018|279885006||SNOMEDCT_US|FN|279885006|Posterior wall of cervical canal (body structure)|9|N||
+C0458866|ENG|S|L2896284|PF|S3486879|Y|A3640011|673238013|279892001||SNOMEDCT_US|FN|279892001|Posterior fornicial surface of vaginal cervix (body structure)|9|N||
+C0458902|ENG|S|L2908606|PF|S3487036|Y|A3640184|673287010|279937006||SNOMEDCT_US|FN|279937006|Posterior right Hjortso liver segment (body structure)|9|N||
+C0458904|ENG|S|L2908603|PF|S3486935|Y|A3640074|673289013|279939009||SNOMEDCT_US|FN|279939009|Posterior left Hjortso liver segment (body structure)|9|N||
+C0458917|ENG|S|L2908459|PF|S3345808|Y|A3487662|673304019|279952004||SNOMEDCT_US|FN|279952004|Healey and Schroy posterior superior right liver segment (body structure)|9|N||
+C0458919|ENG|S|L2908453|PF|S3345807|Y|A3487661|673307014|279955002||SNOMEDCT_US|FN|279955002|Healey and Schroy posterior inferior right liver segment (body structure)|9|N||
+C0458925|ENG|S|L2858928|PF|S3568424|Y|A3731532|759945012|2909002||SNOMEDCT_US|FN|2909002|Structure of posterior portion of diaphragmatic aspect of liver (body structure)|9|N||
+C0459065|ENG|S|L2892670|PF|S3486748|Y|A3639876|673441019|280077000||SNOMEDCT_US|FN|280077000|Posterior border of thyroid lobe (body structure)|9|N||
+C0459158|ENG|S|L2865192|PF|S3286108|Y|A3424273|673513016|280141005||SNOMEDCT_US|FN|280141005|Entire left posterior division of left branch of atrioventricular bundle (body structure)|9|N||
+C0459204|ENG|S|L2897510|PF|S3312297|Y|A3451767|673519017|280146000||SNOMEDCT_US|FN|280146000|Fascia of leg posterior compartment (body structure)|9|N||
+C0459280|ENG|S|L2911104|PF|S3487134|Y|A3640288|673632018|280247000||SNOMEDCT_US|FN|280247000|Posterior trunk of mandibular nerve (body structure)|9|N||
+C0459284|ENG|S|L2893192|PF|S3197225|Y|A3327722|673637012|280252005||SNOMEDCT_US|FN|280252005|Branch of posterior trunk of mandibular nerve (body structure)|9|N||
+C0459286|ENG|S|L2898922|PF|S3486822|Y|A3639953|673644015|280258009||SNOMEDCT_US|FN|280258009|Posterior deep temporal nerve (body structure)|9|N||
+C0459301|ENG|S|L2878904|PF|S3432573|Y|A3580331|673667018|280279009||SNOMEDCT_US|FN|280279009|Nerve to posterior belly of digastric (body structure)|9|N||
+C0459390|ENG|S|L2907325|PF|S3486881|Y|A3640013|673776018|280376004||SNOMEDCT_US|FN|280376004|Posterior fossa meninges (body structure)|9|N||
+C0459537|ENG|S|L2912873|PF|S3487025|Y|A3640172|673940010|280521005||SNOMEDCT_US|FN|280521005|Posterior pulmonary plexus (body structure)|9|N||
+C0459579|ENG|S|L2912958|PF|S3487027|Y|A3640174|673989017|280562004||SNOMEDCT_US|FN|280562004|Posterior rectus sheath (body structure)|9|N||
+C0459610|ENG|S|L2843495|PF|S3487038|Y|A3640186|674034013|280602009||SNOMEDCT_US|FN|280602009|Posterior scleral aperture (body structure)|9|N||
+C0459643|ENG|S|L14180200|PF|S17254635|Y|A29569239|3687973018|280650008||SNOMEDCT_US|FN|280650008|Entire posterior uveal tract (body structure)|9|N||
+C0459694|ENG|S|L2769326|PF|S3486707|Y|A3639833|674153017|280707006||SNOMEDCT_US|FN|280707006|Posterior abdominal wall peritoneum (body structure)|9|N||
+C0459698|ENG|S|L2911170|PF|S3487060|Y|A3640208|674156013|280710004||SNOMEDCT_US|FN|280710004|Posterior segment of maxilla (body structure)|9|N||
+C0459717|ENG|S|L2900902|PF|S3487144|Y|A3640298|674169012|280721008||SNOMEDCT_US|FN|280721008|Posterior vertebral element (body structure)|9|N||
+C0459748|ENG|S|L2909474|PF|S3486934|Y|A3640073|674352019|280885005||SNOMEDCT_US|FN|280885005|Posterior layer of stroma of iris (body structure)|9|N||
+C0459749|ENG|S|L2909479|PF|S3486979|Y|A3640123|674353012|280886006||SNOMEDCT_US|FN|280886006|Posterior membrane of iris (body structure)|9|N||
+C0459930|ENG|S|L2894365|PF|S3487164|Y|A3640318|674644011|281147002||SNOMEDCT_US|FN|281147002|Posterior wall of inguinal canal (body structure)|9|N||
+C0460019|ENG|S|L2864524|PF|S3487135|Y|A3640289|674735016|281225006||SNOMEDCT_US|FN|281225006|Posterior tubercle of atlas (body structure)|9|N||
+C0475854|ENG|S|L6392517|PF|S7326142|Y|A11730337|2638525015|279442005||SNOMEDCT_US|FN|279442005|Entire posterior gray horn of spinal cord (body structure)|9|N||
+C0500492|ENG|S|L2851804|PF|S3289776|Y|A3427979|656359012|264150005||SNOMEDCT_US|FN|264150005|Entire posterior descending branch of right coronary artery (body structure)|9|N||
+C0500547|ENG|S|L2852618|PF|S3569542|Y|A3732657|824879010|367769004||SNOMEDCT_US|FN|367769004|Structure of second posterior intercostal artery (body structure)|9|N||
+C0501156|ENG|S|L2909104|PF|S3535873|Y|A3696451|746803016|361643005||SNOMEDCT_US|FN|361643005|Second left posterior intercostal vein (body structure)|9|N||
+C0501157|ENG|S|L2909108|PF|S3588925|Y|A3753176|746805011|361644004||SNOMEDCT_US|FN|361644004|Third left posterior intercostal vein (body structure)|9|N||
+C0501203|ENG|S|L2900932|PF|S3274468|Y|A3412340|746814018|361648001||SNOMEDCT_US|FN|361648001|Eleventh right posterior intercostal vein (body structure)|9|N||
+C0501204|ENG|S|L2909131|PF|S3585990|Y|A3750067|746816016|361649009||SNOMEDCT_US|FN|361649009|Tenth right posterior intercostal vein (body structure)|9|N||
+C0501216|ENG|S|L2909125|PF|S3434380|Y|A3582328|746818015|361650009||SNOMEDCT_US|FN|361650009|Ninth right posterior intercostal vein (body structure)|9|N||
+C0501217|ENG|S|L2900846|PF|S3273215|Y|A3411030|746820017|361651008||SNOMEDCT_US|FN|361651008|Eighth right posterior intercostal vein (body structure)|9|N||
+C0501218|ENG|S|L2909129|PF|S3541402|Y|A3703143|746822013|361652001||SNOMEDCT_US|FN|361652001|Seventh right posterior intercostal vein (body structure)|9|N||
+C0501219|ENG|S|L2909130|PF|S3544798|Y|A3706746|746824014|361653006||SNOMEDCT_US|FN|361653006|Sixth right posterior intercostal vein (body structure)|9|N||
+C0501220|ENG|S|L2906239|PF|S3316411|Y|A3456129|746826011|361654000||SNOMEDCT_US|FN|361654000|Fifth right posterior intercostal vein (body structure)|9|N||
+C0501221|ENG|S|L2907374|PF|S3327121|Y|A3467393|746812019|361647006||SNOMEDCT_US|FN|361647006|Fourth right posterior intercostal vein (body structure)|9|N||
+C0501222|ENG|S|L2909132|PF|S3588977|Y|A3753233|746809017|361646002||SNOMEDCT_US|FN|361646002|Third right posterior intercostal vein (body structure)|9|N||
+C0501223|ENG|S|L2909128|PF|S3535909|Y|A3696492|746807015|361645003||SNOMEDCT_US|FN|361645003|Second right posterior intercostal vein (body structure)|9|N||
+C0501287|ENG|S|L2900930|PF|S3274460|Y|A3412332|746828012|361655004||SNOMEDCT_US|FN|361655004|Eleventh left posterior intercostal vein (body structure)|9|N||
+C0501300|ENG|S|L2909107|PF|S3585980|Y|A3750056|746830014|361656003||SNOMEDCT_US|FN|361656003|Tenth left posterior intercostal vein (body structure)|9|N||
+C0501307|ENG|S|L2909103|PF|S3434372|Y|A3582320|746833011|361657007||SNOMEDCT_US|FN|361657007|Ninth left posterior intercostal vein (body structure)|9|N||
+C0501314|ENG|S|L2900844|PF|S3273206|Y|A3411021|746835016|361658002||SNOMEDCT_US|FN|361658002|Eighth left posterior intercostal vein (body structure)|9|N||
+C0501321|ENG|S|L2909105|PF|S3541393|Y|A3703134|746837012|361659005||SNOMEDCT_US|FN|361659005|Seventh left posterior intercostal vein (body structure)|9|N||
+C0501327|ENG|S|L2909106|PF|S3544787|Y|A3706735|746839010|361660000||SNOMEDCT_US|FN|361660000|Sixth left posterior intercostal vein (body structure)|9|N||
+C0501333|ENG|S|L2906237|PF|S3316397|Y|A3456115|746841011|361661001||SNOMEDCT_US|FN|361661001|Fifth left posterior intercostal vein (body structure)|9|N||
+C0501340|ENG|S|L2907372|PF|S3327095|Y|A3467367|746843014|361662008||SNOMEDCT_US|FN|361662008|Fourth left posterior intercostal vein (body structure)|9|N||
+C0504781|ENG|S|L2852541|PF|S3562919|Y|A3725973|824867010|367768007||SNOMEDCT_US|FN|367768007|Structure of first posterior intercostal artery (body structure)|9|N||
+C0506238|ENG|S|L2852623|PF|S3588969|Y|A3753225|1763647018|361614002||SNOMEDCT_US|FN|361614002|Third posterior intercostal artery (body structure)|9|N||
+C0506239|ENG|S|L2852550|PF|S3327116|Y|A3467388|746744014|361615001||SNOMEDCT_US|FN|361615001|Fourth posterior intercostal artery (body structure)|9|N||
+C0506240|ENG|S|L2852539|PF|S3316407|Y|A3456125|746746011|361616000||SNOMEDCT_US|FN|361616000|Fifth posterior intercostal artery (body structure)|9|N||
+C0506241|ENG|S|L2852620|PF|S3544796|Y|A3706744|746749016|361617009||SNOMEDCT_US|FN|361617009|Sixth posterior intercostal artery (body structure)|9|N||
+C0506242|ENG|S|L2852619|PF|S3541400|Y|A3703141|746751017|361618004||SNOMEDCT_US|FN|361618004|Seventh posterior intercostal artery (body structure)|9|N||
+C0506243|ENG|S|L2852274|PF|S3273213|Y|A3411028|746753019|361619007||SNOMEDCT_US|FN|361619007|Eighth posterior intercostal artery (body structure)|9|N||
+C0506244|ENG|S|L2852617|PF|S3434377|Y|A3582325|746755014|361620001||SNOMEDCT_US|FN|361620001|Ninth posterior intercostal artery (body structure)|9|N||
+C0506245|ENG|S|L2852622|PF|S3585987|Y|A3750063|746757018|361621002||SNOMEDCT_US|FN|361621002|Tenth posterior intercostal artery (body structure)|9|N||
+C0506246|ENG|S|L2852275|PF|S3274467|Y|A3412339|746759015|361622009||SNOMEDCT_US|FN|361622009|Eleventh posterior intercostal artery (body structure)|9|N||
+C0524440|ENG|S|L14195150|PF|S17287217|Y|A28435529|3482697012|91760001||SNOMEDCT_US|FN|91760001|Structure of left posterior descending circumflex coronary artery (body structure)|9|N||
+C0524441|ENG|S|L2851722|PF|S3562923|Y|A3725977|835143015|91761002||SNOMEDCT_US|FN|91761002|Structure of first right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C0524442|ENG|S|L2851723|PF|S3569546|Y|A3732661|835144014|91762009||SNOMEDCT_US|FN|91762009|Structure of second right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C0524443|ENG|S|L2851724|PF|S3571286|Y|A3734414|835145010|91763004||SNOMEDCT_US|FN|91763004|Structure of third right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C0555946|ENG|S|L13773635|PF|S16788353|Y|A27787093|3323984010|244951004||SNOMEDCT_US|FN|244951004|Entire posterior muscle of abdomen (body structure)|9|N||
+C0578853|ENG|S|L2905730|PF|S3486857|Y|A3639988|818010014|77205005||SNOMEDCT_US|FN|77205005|Posterior eyeball segment structure (body structure)|9|N||
+C0580755|ENG|S|L2905711|PF|S3487161|Y|A3640315|699449019|303283006||SNOMEDCT_US|FN|303283006|Posterior wall of eye (body structure)|9|N||
+C0580787|ENG|S|L14526674|PF|S17632015|Y|A28890081|3517903014|303336006||SNOMEDCT_US|FN|303336006|Structure of posterior margin of nasal septum and/or choana (body structure)|9|N||
+C0584895|ENG|S|L2911660|PF|S3486990|Y|A3640134|732514014|128511007||SNOMEDCT_US|FN|128511007|Posterior muscle of thigh structure (body structure)|9|N||
+C0584896|ENG|S|L2865996|PF|S3423635|Y|A3570886|703493011|307022007||SNOMEDCT_US|FN|307022007|Muscle attachment of posterior muscle of thigh (body structure)|9|N||
+C0584897|ENG|S|L2911616|PF|S3453712|Y|A3603508|703494017|307023002||SNOMEDCT_US|FN|307023002|Origin of posterior muscle of thigh (body structure)|9|N||
+C0584898|ENG|S|L2909054|PF|S3372974|Y|A3516956|703495016|307024008||SNOMEDCT_US|FN|307024008|Insertion of posterior muscle of thigh (body structure)|9|N||
+C0584902|ENG|S|L2878912|PF|S3423650|Y|A3570901|703499010|307028006||SNOMEDCT_US|FN|307028006|Muscle belly of posterior muscle of thigh (body structure)|9|N||
+C0584916|ENG|S|L13762650|PF|S16788326|Y|A27765619|3324180012|307041005||SNOMEDCT_US|FN|307041005|Entire posterior compartment of lower leg (body structure)|9|N||
+C0588071|ENG|S|L2909226|PF|S3486921|Y|A3640054|665185010|272636003||SNOMEDCT_US|FN|272636003|Posterior interosseous nerve region (body structure)|9|N||
+C0588089|ENG|S|L2912978|PF|S3487139|Y|A3640293|707150015|310576007||SNOMEDCT_US|FN|310576007|Posterior uveal tract structure (body structure)|9|N||
+C0588346|ENG|S|L2891997|PF|S3194622|Y|A3324120|707274011|310786005||SNOMEDCT_US|FN|310786005|Bone structure of posterior cranial fossa (body structure)|9|N||
+C0729841|ENG|S|L2867697|PF|S3486960|Y|A3640100|709164011|312490003||SNOMEDCT_US|FN|312490003|Posterior meatal wall of external auditory canal (body structure)|9|N||
+C0729869|ENG|S|L2910394|PF|S3467741|Y|A3618657|709194017|312517004||SNOMEDCT_US|FN|312517004|Part of posterior longitudinal ligament (body structure)|9|N||
+C0730473|ENG|S|L2903368|PF|S3290015|Y|A3428219|709875013|313126004||SNOMEDCT_US|FN|313126004|Entire posterior tibiofibular ligament (body structure)|9|N||
+C0736138|ENG|S|L2907517|PF|S3487162|Y|A3640316|731801018|127870007||SNOMEDCT_US|FN|127870007|Posterior wall of fundus of stomach (body structure)|9|N||
+C0736139|ENG|S|L2891900|PF|S3487155|Y|A3640309|731804014|127872004||SNOMEDCT_US|FN|127872004|Posterior wall of body of stomach (body structure)|9|N||
+C0923086|ENG|S|L2851510|PF|S3197218|Y|A3327715|711078016|314288000||SNOMEDCT_US|FN|314288000|Branch of posterior auricular artery (body structure)|9|N||
+C0923792|ENG|S|L2851777|PF|S3197220|Y|A3327717|711097016|314305001||SNOMEDCT_US|FN|314305001|Branch of posterior cerebral artery (body structure)|9|N||
+C0923795|ENG|S|L5428245|PF|S6214404|Y|A7880869|2531624018|415144009||SNOMEDCT_US|FN|415144009|Posterior cerebral artery P1 segment (body structure)|9|N||
+C0923796|ENG|S|L5428246|PF|S6214406|Y|A7880871|2531625017|415145005||SNOMEDCT_US|FN|415145005|Posterior cerebral artery P2 segment (body structure)|9|N||
+C0923804|ENG|S|L15255833|PF|S18551206|Y|A30205983|3717725010|772214001||SNOMEDCT_US|FN|772214001|Posterior cerebral artery P3 segment (body structure)|9|N||
+C0934289|ENG|S|L6396117|PF|S7332309|Y|A11731590|2639491013|423932005||SNOMEDCT_US|FN|423932005|Structure of tributary of posterior auricular vein (body structure)|9|N||
+C1181956|ENG|S|L2851999|PF|S3197224|Y|A3327721|711161010|314363005||SNOMEDCT_US|FN|314363005|Branch of posterior tibial artery (body structure)|9|N||
+C1181969|ENG|S|L2852244|PF|S3486830|Y|A3639961|711118012|314325002||SNOMEDCT_US|FN|314325002|Posterior division of internal iliac artery (body structure)|9|N||
+C1261060|ENG|S|L2893574|PF|S3569356|Y|A3732471|755428015|25144009||SNOMEDCT_US|FN|25144009|Structure of right upper lobe posterior segmental bronchus (body structure)|9|N||
+C1261068|ENG|S|L2893566|PF|S3569249|Y|A3732364|803516017|64154003||SNOMEDCT_US|FN|64154003|Structure of right lower lobe posterior segmental bronchus (body structure)|9|N||
+C1261069|ENG|S|L2843976|PF|S3565151|Y|A3728215|781687015|44546001||SNOMEDCT_US|FN|44546001|Structure of left apicoposterior segmental bronchus (body structure)|9|N||
+C1261073|ENG|S|L2893552|PF|S3565281|Y|A3728349|780912014|43851006||SNOMEDCT_US|FN|43851006|Structure of left lower lobe posterior segmental bronchus (body structure)|9|N||
+C1261080|ENG|S|L2843026|PF|S3568306|Y|A3731414|809312010|69374003||SNOMEDCT_US|FN|69374003|Structure of posterior cusp of aortic valve (body structure)|9|N||
+C1261097|ENG|S|L2905649|PF|S3568323|Y|A3731431|732298010|12832002||SNOMEDCT_US|FN|12832002|Structure of posterior extremity of spleen (body structure)|9|N||
+C1267086|ENG|S|L2900128|PF|S3487019|Y|A3640166|731791018|127860005||SNOMEDCT_US|FN|127860005|Posterior process of distal tibia (body structure)|9|N||
+C1267177|ENG|S|L2903366|PF|S3289957|Y|A3428161|744347019|17180009||SNOMEDCT_US|FN|17180009|Entire posterior sternoclavicular ligament (body structure)|9|N||
+C1267191|ENG|S|L2901585|PF|S3289846|Y|A3428049|830533014|87951009||SNOMEDCT_US|FN|87951009|Entire posterior ligament of head of fibula (body structure)|9|N||
+C1267216|ENG|S|L2842066|PF|S3487167|Y|A3640321|727239016|123869007||SNOMEDCT_US|FN|123869007|Posterior wall of maxillary antrum (body structure)|9|N||
+C1267228|ENG|S|L2897925|PF|S3521837|Y|A3681549|733235018|129148004||SNOMEDCT_US|FN|129148004|Right vocal cord, posterior third (body structure)|9|N||
+C1267231|ENG|S|L2897890|PF|S3390285|Y|A3535264|733239012|129151006||SNOMEDCT_US|FN|129151006|Left vocal cord, posterior third (body structure)|9|N||
+C1267253|ENG|S|L2897405|PF|S3289752|Y|A3427955|789626012|51699008||SNOMEDCT_US|FN|51699008|Entire posterior commissure of pulmonic valve (body structure)|9|N||
+C1267255|ENG|S|L2897403|PF|S3289750|Y|A3427953|824705010|83135001||SNOMEDCT_US|FN|83135001|Entire posterior commissure of mitral valve (body structure)|9|N||
+C1267285|ENG|S|L2852111|PF|S3291672|Y|A3429901|789582018|51659005||SNOMEDCT_US|FN|51659005|Entire short posterior ciliary artery (body structure)|9|N||
+C1267286|ENG|S|L2852110|PF|S3286495|Y|A3424663|810692019|70617003||SNOMEDCT_US|FN|70617003|Entire long posterior ciliary artery (body structure)|9|N||
+C1267287|ENG|S|L2852184|PF|S3289758|Y|A3427961|780279017|43286003||SNOMEDCT_US|FN|43286003|Entire posterior conjunctival artery (body structure)|9|N||
+C1267309|ENG|S|L2852429|PF|S3289896|Y|A3428099|782073018|44894007||SNOMEDCT_US|FN|44894007|Entire posterior parietal artery (body structure)|9|N||
+C1267311|ENG|S|L2852445|PF|S3289996|Y|A3428200|753396012|23830002||SNOMEDCT_US|FN|23830002|Entire posterior temporal artery (body structure)|9|N||
+C1267317|ENG|S|L2851750|PF|S3287356|Y|A3425530|758457017|27843001||SNOMEDCT_US|FN|27843001|Entire medullary branch of posterior inferior cerebellar artery (body structure)|9|N||
+C1267319|ENG|S|L2852086|PF|S3291063|Y|A3429287|805932011|6633007||SNOMEDCT_US|FN|6633007|Entire right posterior cerebral artery (body structure)|9|N||
+C1267320|ENG|S|L2852083|PF|S3286104|Y|A3424269|648049018|113265005||SNOMEDCT_US|FN|113265005|Entire left posterior cerebral artery (body structure)|9|N||
+C1267321|ENG|S|L2851766|PF|S3294388|Y|A3432629|763466017|32209002||SNOMEDCT_US|FN|32209002|Entire temporal branch of posterior cerebral artery (body structure)|9|N||
+C1267322|ENG|S|L2851764|PF|S3288327|Y|A3426505|757433015|26924009||SNOMEDCT_US|FN|26924009|Entire occipital branch of posterior cerebral artery (body structure)|9|N||
+C1267323|ENG|S|L2851765|PF|S3288955|Y|A3427134|753039011|23510007||SNOMEDCT_US|FN|23510007|Entire parietooccipital branch of posterior cerebral artery (body structure)|9|N||
+C1267325|ENG|S|L2851783|PF|S3285569|Y|A3423732|783114013|45831009||SNOMEDCT_US|FN|45831009|Entire lateral branch of posterior choroidal artery (body structure)|9|N||
+C1267326|ENG|S|L2851784|PF|S3287103|Y|A3425273|819996014|78995008||SNOMEDCT_US|FN|78995008|Entire medial branch of posterior choroidal artery (body structure)|9|N||
+C1267327|ENG|S|L2851747|PF|S3280550|Y|A3418694|766112012|34573002||SNOMEDCT_US|FN|34573002|Entire central branches of posterior choroidal artery (body structure)|9|N||
+C1267330|ENG|S|L2852303|PF|S3283046|Y|A3421198|835109012|91733008||SNOMEDCT_US|FN|91733008|Entire first posterior intercostal artery (body structure)|9|N||
+C1267331|ENG|S|L2852355|PF|S3291416|Y|A3429641|835110019|91734002||SNOMEDCT_US|FN|91734002|Entire second posterior intercostal artery (body structure)|9|N||
+C1267343|ENG|S|L2851875|PF|S3289944|Y|A3428147|648060010|113266006||SNOMEDCT_US|FN|113266006|Entire posterior segmental branch of renal artery (body structure)|9|N||
+C1267371|ENG|S|L2852124|PF|S3289741|Y|A3427944|778091010|41316004||SNOMEDCT_US|FN|41316004|Entire posterior circumflex ulnar artery (body structure)|9|N||
+C1267397|ENG|S|L2852443|PF|S3291065|Y|A3429289|828722015|86455004||SNOMEDCT_US|FN|86455004|Entire right posterior tibial artery (body structure)|9|N||
+C1267398|ENG|S|L2852385|PF|S3286113|Y|A3424278|828996017|86681005||SNOMEDCT_US|FN|86681005|Entire left posterior tibial artery (body structure)|9|N||
+C1267417|ENG|S|L2901291|PF|S3289789|Y|A3427992|798436019|59579009||SNOMEDCT_US|FN|59579009|Entire posterior external jugular vein (body structure)|9|N||
+C1267442|ENG|S|L2894251|PF|S3289761|Y|A3427964|804405017|64955001||SNOMEDCT_US|FN|64955001|Entire posterior corpus callosal vein (body structure)|9|N||
+C1267452|ENG|S|L2904584|PF|S3290029|Y|A3428233|818524017|77669006||SNOMEDCT_US|FN|77669006|Entire posterior vestibular vein (body structure)|9|N||
+C1267459|ENG|S|L2902800|PF|S3289818|Y|A3428021|832054017|89209000||SNOMEDCT_US|FN|89209000|Entire posterior intercostal vein (body structure)|9|N||
+C1267462|ENG|S|L2903275|PF|S3290027|Y|A3428231|799433017|60477001||SNOMEDCT_US|FN|60477001|Entire posterior vein of left ventricle (body structure)|9|N||
+C1267509|ENG|S|L2903074|PF|S3289833|Y|A3428036|774058013|38470008||SNOMEDCT_US|FN|38470008|Entire posterior labial vein (body structure)|9|N||
+C1267527|ENG|S|L2905624|PF|S3486961|Y|A3640101|732577011|128569001||SNOMEDCT_US|FN|128569001|Posterior medial tributary of superficial venous system of lower extremity (body structure)|9|N||
+C1267535|ENG|S|L2899401|PF|S3289998|Y|A3428202|777158019|405008||SNOMEDCT_US|FN|405008|Entire posterior temporal diploic vein (body structure)|9|N||
+C1267586|ENG|S|L2842067|PF|S3487153|Y|A3640307|731809016|127876001||SNOMEDCT_US|FN|127876001|Posterior wall of antrum of stomach (body structure)|9|N||
+C1267590|ENG|S|L2893684|PF|S3487159|Y|A3640313|623760012|110608004||SNOMEDCT_US|FN|110608004|Posterior wall of duodenal bulb (body structure)|9|N||
+C1267624|ENG|S|L2904571|PF|S3289924|Y|A3428127|798743012|59855004||SNOMEDCT_US|FN|59855004|Entire posterior renal segment (body structure)|9|N||
+C1267641|ENG|S|L2897194|PF|S3289927|Y|A3428130|818299018|77466006||SNOMEDCT_US|FN|77466006|Entire posterior rugal column (body structure)|9|N||
+C1267643|ENG|S|L2912982|PF|S3487173|Y|A3640327|731818019|127884002||SNOMEDCT_US|FN|127884002|Posterior wall of upper third of vagina (body structure)|9|N||
+C1267650|ENG|S|L2911491|PF|S3487170|Y|A3640324|731823019|127889007||SNOMEDCT_US|FN|127889007|Posterior wall of middle third of vagina (body structure)|9|N||
+C1267655|ENG|S|L2910740|PF|S3487165|Y|A3640319|731829015|127894007||SNOMEDCT_US|FN|127894007|Posterior wall of lower third of vagina (body structure)|9|N||
+C1267750|ENG|S|L2893101|PF|S3291448|Y|A3429673|797048013|58328008||SNOMEDCT_US|FN|58328008|Entire selective branches of posterior trunk of vagus nerve (body structure)|9|N||
+C1268083|ENG|S|L2903585|PF|S3290006|Y|A3428210|797423016|58666003||SNOMEDCT_US|FN|58666003|Entire posterior tibial lymph node (body structure)|9|N||
+C1268254|ENG|S|L5154354|PF|S5888786|Y|A6948497|2461314017|118513009||SNOMEDCT_US|FN|118513009|Structure of posterior compartment of upper arm (body structure)|9|N||
+C1268266|ENG|S|L5155737|PF|S5888567|Y|A6948277|2461318019|118517005||SNOMEDCT_US|FN|118517005|Structure of deep posterior compartment of lower leg (body structure)|9|N||
+C1268267|ENG|S|L5155769|PF|S5888797|Y|A6948508|2461319010|118518000||SNOMEDCT_US|FN|118518000|Structure of superficial posterior compartment of lower leg (body structure)|9|N||
+C1268996|ENG|S|L2904574|PF|S3292243|Y|A3430474|564809012|181549009||SNOMEDCT_US|FN|181549009|Entire skin of posterior surface of thigh (body structure)|9|N||
+C1269013|ENG|S|L2852087|PF|S3289728|Y|A3427931|564545017|181313007||SNOMEDCT_US|FN|181313007|Entire posterior cerebral artery (body structure)|9|N||
+C1269014|ENG|S|L2852180|PF|S3289754|Y|A3427957|564547013|181314001||SNOMEDCT_US|FN|181314001|Entire posterior communicating artery (body structure)|9|N||
+C1269021|ENG|S|L2852446|PF|S3290004|Y|A3428208|564596015|181358001||SNOMEDCT_US|FN|181358001|Entire posterior tibial artery (body structure)|9|N||
+C1269035|ENG|S|L2849210|PF|S3292245|Y|A3430476|564792015|181533007||SNOMEDCT_US|FN|181533007|Entire skin of posterior surface of upper arm (body structure)|9|N||
+C1269037|ENG|S|L2901953|PF|S3292241|Y|A3430472|564798016|181539006||SNOMEDCT_US|FN|181539006|Entire skin of posterior surface of forearm (body structure)|9|N||
+C1269066|ENG|S|L2902623|PF|S3289962|Y|A3428166|565348014|182032008||SNOMEDCT_US|FN|182032008|Entire posterior superior iliac spine (body structure)|9|N||
+C1269067|ENG|S|L2902619|PF|S3289811|Y|A3428014|565349018|182033003||SNOMEDCT_US|FN|182033003|Entire posterior inferior iliac spine (body structure)|9|N||
+C1269584|ENG|S|L2894338|PF|S3289946|Y|A3428149|673090012|279762003||SNOMEDCT_US|FN|279762003|Entire posterior semicircular canal (body structure)|9|N||
+C1269594|ENG|S|L2817207|PF|S3289960|Y|A3428164|673623015|280239000||SNOMEDCT_US|FN|280239000|Entire posterior superior alveolar nerve (body structure)|9|N||
+C1269878|ENG|S|L2852076|PF|S3289809|Y|A3428012|633999018|244212001||SNOMEDCT_US|FN|244212001|Entire posterior inferior cerebellar artery (body structure)|9|N||
+C1269903|ENG|S|L2898500|PF|S3289769|Y|A3427972|634910010|245029002||SNOMEDCT_US|FN|245029002|Entire posterior crural muscle (body structure)|9|N||
+C1272492|ENG|S|L2750959|PF|S3278061|Y|A3416198|1458963017|384785008||SNOMEDCT_US|FN|384785008|Entire Brodmann area 31, dorsal posterior cingulate (body structure)|9|N||
+C1272503|ENG|S|L2754427|PF|S3278086|Y|A3416223|1458975010|384797009||SNOMEDCT_US|FN|384797009|Entire Brodmann area 42, posterior transverse temporal (body structure)|9|N||
+C1272541|ENG|S|L2744744|PF|S3278044|Y|A3416181|1458956017|384778009||SNOMEDCT_US|FN|384778009|Entire Brodmann area 23, ventral posterior cingulate (body structure)|9|N||
+C1277594|ENG|S|L2891991|PF|S3289756|Y|A3427959|518055016|139481001||SNOMEDCT_US|FN|139481001|Entire posterior condyle of occipital bone (body structure)|9|N||
+C1277628|ENG|S|L2896746|PF|S3289743|Y|A3427946|518616016|139986003||SNOMEDCT_US|FN|139986003|Entire posterior clinoid process (body structure)|9|N||
+C1277647|ENG|S|L2902910|PF|S3289827|Y|A3428030|519400019|140693008||SNOMEDCT_US|FN|140693008|Entire posterior intraoccipital synchondrosis (body structure)|9|N||
+C1277659|ENG|S|L2864631|PF|S3289674|Y|A3427877|520185012|141400004||SNOMEDCT_US|FN|141400004|Entire posterior atlantooccipital membrane (body structure)|9|N||
+C1277677|ENG|S|L2878901|PF|S3289700|Y|A3427903|520745012|141905002||SNOMEDCT_US|FN|141905002|Entire posterior belly of digastric muscle (body structure)|9|N||
+C1278310|ENG|S|L2852447|PF|S3290023|Y|A3428227|525455013|146147003||SNOMEDCT_US|FN|146147003|Entire posterior tympanic artery (body structure)|9|N||
+C1278311|ENG|S|L2851501|PF|S3279647|Y|A3417786|525567013|146248002||SNOMEDCT_US|FN|146248002|Entire auricular branch of posterior auricular artery (body structure)|9|N||
+C1278312|ENG|S|L2851505|PF|S3288325|Y|A3426503|525679016|146349008||SNOMEDCT_US|FN|146349008|Entire occipital branch of posterior auricular artery (body structure)|9|N||
+C1278432|ENG|S|L2868273|PF|S3289683|Y|A3427886|529940015|150188002||SNOMEDCT_US|FN|150188002|Entire posterior auricular vein (body structure)|9|N||
+C1278582|ENG|S|L2851876|PF|S3289711|Y|A3427914|541614015|160674003||SNOMEDCT_US|FN|160674003|Entire posterior branch of superior thyroid artery (body structure)|9|N||
+C1278677|ENG|S|L2901190|PF|S3289783|Y|A3427986|553107017|171085008||SNOMEDCT_US|FN|171085008|Entire posterior epiglottis (body structure)|9|N||
+C1278705|ENG|S|L2898439|PF|S3289763|Y|A3427966|554733014|172533001||SNOMEDCT_US|FN|172533001|Entire posterior cricoarytenoid ligament (body structure)|9|N||
+C1278742|ENG|S|L2843560|PF|S3279095|Y|A3417234|556885016|174452008||SNOMEDCT_US|FN|174452008|Entire apex of cervical spinal cord posterior horn (body structure)|9|N||
+C1278744|ENG|S|L2895981|PF|S3293549|Y|A3431786|556988018|174544008||SNOMEDCT_US|FN|174544008|Entire substantia gelatinosa of cervical spinal cord posterior horn (body structure)|9|N||
+C1278751|ENG|S|L2895989|PF|S3289730|Y|A3427933|557522019|175023008||SNOMEDCT_US|FN|175023008|Entire posterior cervical spinal cord nerve root (body structure)|9|N||
+C1278800|ENG|S|L2904053|PF|S3289889|Y|A3428092|561285013|178385007||SNOMEDCT_US|FN|178385007|Entire posterior nasopharynx (body structure)|9|N||
+C1278862|ENG|S|L2898682|PF|S3289794|Y|A3427997|564271019|181066001||SNOMEDCT_US|FN|181066001|Entire posterior femoral cutaneous nerve (body structure)|9|N||
+C1278947|ENG|S|L2852444|PF|S3289955|Y|A3428159|564565012|181330009||SNOMEDCT_US|FN|181330009|Entire posterior spinal artery (body structure)|9|N||
+C1279004|ENG|S|L2870479|PF|S3292235|Y|A3430466|564749013|181495000||SNOMEDCT_US|FN|181495000|Entire skin of posterior axillary fold (body structure)|9|N||
+C1279064|ENG|S|L2846984|PF|S3289665|Y|A3427868|565190012|181892007||SNOMEDCT_US|FN|181892007|Entire posterior arch of atlas (body structure)|9|N||
+C1279129|ENG|S|L2904579|PF|S3290019|Y|A3428223|565430018|182106004||SNOMEDCT_US|FN|182106004|Entire posterior tubercle of talus (body structure)|9|N||
+C1279150|ENG|S|L2851824|PF|S3289778|Y|A3427981|565607017|182263002||SNOMEDCT_US|FN|182263002|Entire posterior descending branch of right pulmonary artery (body structure)|9|N||
+C1279173|ENG|S|L2851413|PF|S3289669|Y|A3427872|565810014|182444000||SNOMEDCT_US|FN|182444000|Entire posterior ascending branch of right pulmonary artery (body structure)|9|N||
+C1279191|ENG|S|L2851602|PF|S3289694|Y|A3427897|566448015|183015003||SNOMEDCT_US|FN|183015003|Entire posterior basal branch of right pulmonary artery (body structure)|9|N||
+C1279196|ENG|S|L2893107|PF|S3289709|Y|A3427912|566977014|183490004||SNOMEDCT_US|FN|183490004|Entire posterior branch of superior right pulmonary vein (body structure)|9|N||
+C1279219|ENG|S|L2851857|PF|S3289705|Y|A3427908|568767011|185733002||SNOMEDCT_US|FN|185733002|Entire posterior branch of left pulmonary artery (body structure)|9|N||
+C1279233|ENG|S|L2851600|PF|S3289691|Y|A3427894|569519012|186483001||SNOMEDCT_US|FN|186483001|Entire posterior basal branch of left pulmonary artery (body structure)|9|N||
+C1279236|ENG|S|L2843973|PF|S3279163|Y|A3417302|569673012|186615008||SNOMEDCT_US|FN|186615008|Entire apicoposterior branch of superior left pulmonary vein (body structure)|9|N||
+C1279276|ENG|S|L2902875|PF|S3289913|Y|A3428116|572514019|189134005||SNOMEDCT_US|FN|189134005|Entire posterior portion of interventricular septum (body structure)|9|N||
+C1279342|ENG|S|L2904012|PF|S3289887|Y|A3428090|576824016|192986001||SNOMEDCT_US|FN|192986001|Entire posterior myocardium (body structure)|9|N||
+C1279359|ENG|S|L2851719|PF|S3283052|Y|A3421204|578098019|194142006||SNOMEDCT_US|FN|194142006|Entire first right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C1279361|ENG|S|L2851720|PF|S3291423|Y|A3429648|578175013|194212001||SNOMEDCT_US|FN|194212001|Entire second right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C1279362|ENG|S|L2851721|PF|S3294642|Y|A3432884|578270010|194296004||SNOMEDCT_US|FN|194296004|Entire third right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C1279365|ENG|S|L2851807|PF|S3289840|Y|A3428043|578545011|194539008||SNOMEDCT_US|FN|194539008|Entire posterior lateral branch of right coronary artery (body structure)|9|N||
+C1279533|ENG|S|L2904577|PF|S3293344|Y|A3431580|593899016|208252006||SNOMEDCT_US|FN|208252006|Entire subcutaneous tissue of posterior surface of thigh (body structure)|9|N||
+C1279601|ENG|S|L2903302|PF|S3293342|Y|A3431578|598996012|213092006||SNOMEDCT_US|FN|213092006|Entire subcutaneous tissue of posterior surface of lower leg (body structure)|9|N||
+C1279622|ENG|S|L2901588|PF|S3289872|Y|A3428075|600663014|214608009||SNOMEDCT_US|FN|214608009|Entire posterior malleolus of fibula (body structure)|9|N||
+C1279975|ENG|S|L2856629|PF|S3289714|Y|A3427917|627078013|238227008||SNOMEDCT_US|FN|238227008|Entire posterior calcaneal articular surface of talus (body structure)|9|N||
+C1280023|ENG|S|L2903367|PF|S3289994|Y|A3428198|631975011|242570004||SNOMEDCT_US|FN|242570004|Entire posterior talofibular ligament (body structure)|9|N||
+C1280028|ENG|S|L2902955|PF|S3290017|Y|A3428221|632429012|242979009||SNOMEDCT_US|FN|242979009|Entire posterior tibiotalar part of medial ligament of talocrural joint (body structure)|9|N||
+C1280080|ENG|S|L2903757|PF|S3289878|Y|A3428081|633715019|243957009||SNOMEDCT_US|FN|243957009|Entire posterior mediastinum (body structure)|9|N||
+C1280113|ENG|S|L2851513|PF|S3289676|Y|A3427879|634008011|244220004||SNOMEDCT_US|FN|244220004|Entire posterior auricular artery (body structure)|9|N||
+C1280120|ENG|S|L2852356|PF|S3289816|Y|A3428019|634030012|244240006||SNOMEDCT_US|FN|244240006|Entire posterior intercostal artery (body structure)|9|N||
+C1280167|ENG|S|L2852363|PF|S3289820|Y|A3428023|634117014|244318000||SNOMEDCT_US|FN|244318000|Entire posterior interosseous artery (body structure)|9|N||
+C1280218|ENG|S|L2903335|PF|S3289863|Y|A3428066|634436012|244603005||SNOMEDCT_US|FN|244603005|Entire posterior longitudinal ligament (body structure)|9|N||
+C1280279|ENG|S|L2903935|PF|S3291542|Y|A3429768|634805010|244934006||SNOMEDCT_US|FN|244934006|Entire serratus posterior muscle (body structure)|9|N||
+C1280349|ENG|S|L2901979|PF|S3289798|Y|A3428001|635410011|245477006||SNOMEDCT_US|FN|245477006|Entire posterior fornix (body structure)|9|N||
+C1280354|ENG|S|L2896278|PF|S3289861|Y|A3428064|635425011|245491000||SNOMEDCT_US|FN|245491000|Entire posterior lip of cervix (body structure)|9|N||
+C1280405|ENG|S|L2903340|PF|S3289883|Y|A3428086|635930019|245940007||SNOMEDCT_US|FN|245940007|Entire posterior meniscofemoral ligament (body structure)|9|N||
+C1280731|ENG|S|L2852027|PF|S3289721|Y|A3427924|658168012|265759005||SNOMEDCT_US|FN|265759005|Entire posterior cecal artery (body structure)|9|N||
+C1280795|ENG|S|L2893054|PF|S3289707|Y|A3427910|662620014|269727007||SNOMEDCT_US|FN|269727007|Entire posterior branch of right hepatic duct (body structure)|9|N||
+C1280801|ENG|S|L2903444|PF|S3289940|Y|A3428143|663018017|270327004||SNOMEDCT_US|FN|270327004|Entire posterior segment of right lobe of liver (body structure)|9|N||
+C1280856|ENG|S|L2852394|PF|S3289935|Y|A3428138|665271010|272709009||SNOMEDCT_US|FN|272709009|Entire posterior segment artery of liver (body structure)|9|N||
+C1280865|ENG|S|L2852243|PF|S3289780|Y|A3427983|666494018|273810001||SNOMEDCT_US|FN|273810001|Entire posterior division of renal artery (body structure)|9|N||
+C1280925|ENG|S|L2904286|PF|S3290036|Y|A3428240|669939017|276960004||SNOMEDCT_US|FN|276960004|Entire posterior wall of oropharynx (body structure)|9|N||
+C1280927|ENG|S|L2902593|PF|S3290031|Y|A3428235|669946014|276966005||SNOMEDCT_US|FN|276966005|Entire posterior wall of hypopharynx (body structure)|9|N||
+C1280936|ENG|S|L2902878|PF|S3289824|Y|A3428027|670779012|277711007||SNOMEDCT_US|FN|277711007|Entire posterior interventricular sulcus (body structure)|9|N||
+C1281056|ENG|S|L2894616|PF|S3289855|Y|A3428058|672563016|279296006||SNOMEDCT_US|FN|279296006|Entire posterior limb of internal capsule (body structure)|9|N||
+C1281088|ENG|S|L2903051|PF|S3289976|Y|A3428180|672653015|279376000||SNOMEDCT_US|FN|279376000|Entire posterior surface of kidney (body structure)|9|N||
+C1281135|ENG|S|L2868270|PF|S3289678|Y|A3427881|672947017|279635000||SNOMEDCT_US|FN|279635000|Entire posterior auricular ligament (body structure)|9|N||
+C1281147|ENG|S|L2904570|PF|S3289987|Y|A3428191|673017014|279697005||SNOMEDCT_US|FN|279697005|Entire posterior surface of prostate (body structure)|9|N||
+C1281164|ENG|S|L2900502|PF|S3289949|Y|A3428153|673173016|279835002||SNOMEDCT_US|FN|279835002|Entire posterior semicircular duct (body structure)|9|N||
+C1281184|ENG|S|L2904335|PF|S3289985|Y|A3428189|673345010|279987004||SNOMEDCT_US|FN|279987004|Entire posterior surface of pancreas (body structure)|9|N||
+C1281193|ENG|S|L2802579|PF|S3289964|Y|A3428168|673449017|280084008||SNOMEDCT_US|FN|280084008|Entire posterior surface of adrenal gland (body structure)|9|N||
+C1281224|ENG|S|L2901240|PF|S3289787|Y|A3427990|673613012|280230001||SNOMEDCT_US|FN|280230001|Entire posterior ethmoidal nerve (body structure)|9|N||
+C1281232|ENG|S|L2868272|PF|S3289680|Y|A3427883|673665014|280277006||SNOMEDCT_US|FN|280277006|Entire posterior auricular nerve (body structure)|9|N||
+C1281235|ENG|S|L2904582|PF|S3290025|Y|A3428229|673700013|280309007||SNOMEDCT_US|FN|280309007|Entire posterior vagal trunk (body structure)|9|N||
+C1281302|ENG|S|L2902925|PF|S3289974|Y|A3428178|674345016|280879003||SNOMEDCT_US|FN|280879003|Entire posterior surface of iris (body structure)|9|N||
+C1281319|ENG|S|L2904581|PF|S3290012|Y|A3428216|674556017|281067009||SNOMEDCT_US|FN|281067009|Entire posterior tibial vein (body structure)|9|N||
+C1281364|ENG|S|L2852306|PF|S3289802|Y|A3428005|676600010|282894005||SNOMEDCT_US|FN|282894005|Entire posterior gastric artery (body structure)|9|N||
+C1281477|ENG|S|L2904572|PF|S3289933|Y|A3428136|689343015|294353006||SNOMEDCT_US|FN|294353006|Entire posterior scrotal vein (body structure)|9|N||
+C1281545|ENG|S|L2893096|PF|S3288304|Y|A3426481|697490011|301669009||SNOMEDCT_US|FN|301669009|Entire obturator nerve posterior branch (body structure)|9|N||
+C1281558|ENG|S|L2903311|PF|S3289909|Y|A3428112|698024018|302144008||SNOMEDCT_US|FN|302144008|Entire posterior pole of lens (body structure)|9|N||
+C1281561|ENG|S|L2893019|PF|S3289241|Y|A3427430|698100011|302212002||SNOMEDCT_US|FN|302212002|Entire perineal branches of posterior femoral cutaneous nerve (body structure)|9|N||
+C1281607|ENG|S|L2852442|PF|S3289922|Y|A3428125|698755017|302711005||SNOMEDCT_US|FN|302711005|Entire posterior recurrent tibial artery (body structure)|9|N||
+C1281754|ENG|S|L2894841|PF|S3289717|Y|A3427920|705278013|308781005||SNOMEDCT_US|FN|308781005|Entire posterior cardinal vein (body structure)|9|N||
+C1281830|ENG|S|L2897835|PF|S3289865|Y|A3428068|706838016|310246001||SNOMEDCT_US|FN|310246001|Entire posterior lumbosacral spinal cord nerve root (body structure)|9|N||
+C1281853|ENG|S|L2852285|PF|S3289785|Y|A3427988|708801014|312161000||SNOMEDCT_US|FN|312161000|Entire posterior ethmoidal artery (body structure)|9|N||
+C1281856|ENG|S|L2870486|PF|S3292237|Y|A3430468|708974016|312315008||SNOMEDCT_US|FN|312315008|Entire skin of posterior axillary line (body structure)|9|N||
+C1281857|ENG|S|L2870488|PF|S3293335|Y|A3431571|709020017|312351001||SNOMEDCT_US|FN|312351001|Entire subcutaneous tissue of posterior axillary line (body structure)|9|N||
+C1281893|ENG|S|L2851785|PF|S3280814|Y|A3418958|710135018|313362009||SNOMEDCT_US|FN|313362009|Entire choroidal branch of posterior spinal artery (body structure)|9|N||
+C1281979|ENG|S|L2895833|PF|S3486754|Y|A3639882|710946019|314168005||SNOMEDCT_US|FN|314168005|Posterior cerebellar lobe fissure (body structure)|9|N||
+C1282014|ENG|S|L6394480|PF|S7326188|Y|A11734858|2638645016|314226004||SNOMEDCT_US|FN|314226004|Entire spinal cord posterior median sulcus (body structure)|9|N||
+C1282082|ENG|S|L2851828|PF|S3197222|Y|A3327719|711120010|314327005||SNOMEDCT_US|FN|314327005|Branch of posterior division of internal iliac artery (body structure)|9|N||
+C1282146|ENG|S|L2843565|PF|S3279110|Y|A3417249|711227018|314425003||SNOMEDCT_US|FN|314425003|Entire apex of lumbar spinal cord posterior horn (body structure)|9|N||
+C1282211|ENG|S|L2897817|PF|S3293552|Y|A3431789|711331010|314519000||SNOMEDCT_US|FN|314519000|Entire substantia gelatinosa of lumbar spinal cord posterior horn (body structure)|9|N||
+C1282734|ENG|S|L2901337|PF|S3289791|Y|A3427994|720101015|329245006||SNOMEDCT_US|FN|329245006|Entire posterior extremity of spleen (body structure)|9|N||
+C1282736|ENG|P|L2849250|PF|S3573288|Y|A3865697||||MTH|PN|NOCODE|Subcutaneous tissue of posterior surface of arm (body structure)|0|N|256|
+C1282860|ENG|P|L2910292|PF|S3573290|Y|A3865707||||MTH|PN|NOCODE|Subcutaneous tissue of posterior surface of leg (body structure)|0|N||
+C1282896|ENG|S|L2893664|PF|S3289853|Y|A3428056|724427018|346164003||SNOMEDCT_US|FN|346164003|Entire posterior limb bud (body structure)|9|N||
+C1283328|ENG|S|L2911292|PF|S3486971|Y|A3640115|740493010|360482005||SNOMEDCT_US|FN|360482005|Posterior medullary nucleus (body structure)|9|N||
+C1283462|ENG|S|L2731468|PF|S3486905|Y|A3640038|741003016|360662000||SNOMEDCT_US|FN|360662000|Posterior intercostal arteries 3 to 11 (body structure)|9|N||
+C1283497|ENG|S|L2909111|PF|S3398425|Y|A3543979|741078014|360700004||SNOMEDCT_US|FN|360700004|Lower right posterior intercostal veins (body structure)|9|N||
+C1283498|ENG|S|L2909109|PF|S3390012|Y|A3534964|741080015|360701000||SNOMEDCT_US|FN|360701000|Left posterior intercostal vein (body structure)|9|N||
+C1283847|ENG|S|L2903369|PF|S3289851|Y|A3428054|744607015|361301006||SNOMEDCT_US|FN|361301006|Entire posterior ligament of uterus (body structure)|9|N||
+C1284002|ENG|S|L2898649|PF|S3486847|Y|A3639978|746100015|361467008||SNOMEDCT_US|FN|361467008|Posterior endocardial cushion (body structure)|9|N||
+C1284036|ENG|S|L2894843|PF|S3390000|Y|A3534950|746391017|361504002||SNOMEDCT_US|FN|361504002|Left posterior cardinal vein (body structure)|9|N||
+C1284037|ENG|S|L2894844|PF|S3521622|Y|A3681331|746394013|361505001||SNOMEDCT_US|FN|361505001|Right posterior cardinal vein (body structure)|9|N||
+C1284073|ENG|S|L2911294|PF|S3486975|Y|A3640119|746612017|361556005||SNOMEDCT_US|FN|361556005|Posterior medullary spinothalamic tract (body structure)|9|N||
+C1284074|ENG|S|L2912918|PF|S3487078|Y|A3640228|746614016|361557001||SNOMEDCT_US|FN|361557001|Posterior spinocerebellar tract of pons (body structure)|9|N||
+C1284076|ENG|S|L2911293|PF|S3486973|Y|A3640117|746618018|361559003||SNOMEDCT_US|FN|361559003|Posterior medullary spinocerebellar tract (body structure)|9|N||
+C1284092|ENG|S|L2723076|PF|S3486903|Y|A3640036|746740017|361613008||SNOMEDCT_US|FN|361613008|Posterior intercostal arteries 1 and 2 (body structure)|9|N||
+C1284093|ENG|S|L2851728|PF|S3204044|Y|A3335304|746763010|361624005||SNOMEDCT_US|FN|361624005|Calcanean branch of posterior tibial artery (body structure)|9|N||
+C1284267|ENG|S|L2904054|PF|S3290033|Y|A3428237|747451012|361936002||SNOMEDCT_US|FN|361936002|Entire posterior wall of nasopharynx (body structure)|9|N||
+C1284460|ENG|S|L2858924|PF|S3289911|Y|A3428114|747991017|362188007||SNOMEDCT_US|FN|362188007|Entire posterior portion of diaphragmatic aspect of liver (body structure)|9|N||
+C1284505|ENG|S|L2897398|PF|S3289745|Y|A3427948|748100011|362239003||SNOMEDCT_US|FN|362239003|Entire posterior commissure of labia majora (body structure)|9|N||
+C1284513|ENG|S|L2904583|PF|S3290044|Y|A3428248|748122016|362249000||SNOMEDCT_US|FN|362249000|Entire posterior wall of vagina (body structure)|9|N||
+C1284514|ENG|S|L2832243|PF|S3278584|Y|A3416721|748124015|362250000||SNOMEDCT_US|FN|362250000|Entire anterior and posterior wall of vagina (body structure)|9|N||
+C1284573|ENG|S|L2902559|PF|S3289805|Y|A3428008|748262013|362314009||SNOMEDCT_US|FN|362314009|Entire posterior horn of lateral ventricle (body structure)|9|N||
+C1284622|ENG|S|L2894614|PF|S3290760|Y|A3428982|748366014|362363008||SNOMEDCT_US|FN|362363008|Entire retrolenticular portion of posterior limb of internal capsule (body structure)|9|N||
+C1284624|ENG|S|L2894615|PF|S3293471|Y|A3431707|748370018|362365001||SNOMEDCT_US|FN|362365001|Entire sublenticular portion of posterior limb of internal capsule (body structure)|9|N||
+C1284633|ENG|S|L2904205|PF|S3295792|Y|A11728125|2638565016|279147005||SNOMEDCT_US|FN|279147005|Entire ventral posterior nucleus of thalamus (body structure)|9|N||
+C1284673|ENG|S|L2895819|PF|S3280627|Y|A3418771|748473015|362414005||SNOMEDCT_US|FN|362414005|Entire cerebellar vermis and posterior lobes (body structure)|9|N||
+C1284698|ENG|S|L2895984|PF|S3280730|Y|A3418874|748527019|362439001||SNOMEDCT_US|FN|362439001|Entire cervical spinal cord posterior horn (body structure)|9|N||
+C1284701|ENG|S|L2897827|PF|S3294703|Y|A3432946|748533011|362442007||SNOMEDCT_US|FN|362442007|Entire thoracic spinal cord posterior horn (body structure)|9|N||
+C1284705|ENG|S|L2897824|PF|S3286673|Y|A3424841|748541011|362446005||SNOMEDCT_US|FN|362446005|Entire lumbosacral spinal cord posterior horn (body structure)|9|N||
+C1284744|ENG|S|L2896307|PF|S3289732|Y|A3427935|748664015|362504004||SNOMEDCT_US|FN|362504004|Entire posterior chamber of eye (body structure)|9|N||
+C1284759|ENG|S|L2903312|PF|S3289978|Y|A3428182|748703018|362522001||SNOMEDCT_US|FN|362522001|Entire posterior surface of lens (body structure)|9|N||
+C1284883|ENG|S|L2904061|PF|S3289916|Y|A3428119|748988015|362654002||SNOMEDCT_US|FN|362654002|Entire posterior portion of neck (body structure)|9|N||
+C1284889|ENG|S|L2870487|PF|S3289689|Y|A3427892|749000016|362660002||SNOMEDCT_US|FN|362660002|Entire posterior axillary line (body structure)|9|N||
+C1284912|ENG|S|L2896350|PF|S3289734|Y|A3427937|749052015|362684005||SNOMEDCT_US|FN|362684005|Entire posterior chest wall (body structure)|9|N||
+C1284952|ENG|S|L2870480|PF|S3289687|Y|A3427890|749154017|362731004||SNOMEDCT_US|FN|362731004|Entire posterior axillary fold (body structure)|9|N||
+C1284957|ENG|S|L2849212|PF|S3289991|Y|A3428195|749164014|362736009||SNOMEDCT_US|FN|362736009|Entire posterior surface of upper arm (body structure)|9|N||
+C1284962|ENG|S|L2901955|PF|S3289972|Y|A3428176|749177017|362742008||SNOMEDCT_US|FN|362742008|Entire posterior surface of forearm (body structure)|9|N||
+C1284997|ENG|S|L2901328|PF|S3289980|Y|A3428184|749259015|362781008||SNOMEDCT_US|FN|362781008|Entire posterior surface of lower extremity (body structure)|9|N||
+C1285004|ENG|S|L2904578|PF|S3289989|Y|A3428193|749274018|362788002||SNOMEDCT_US|FN|362788002|Entire posterior surface of thigh (body structure)|9|N||
+C1285012|ENG|S|L2894237|PF|S3487092|Y|A3640243|749290018|362796007||SNOMEDCT_US|FN|362796007|Posterior surface of lower leg (calf) (body structure)|9|N||
+C1285487|ENG|S|L2905747|PF|S3568366|Y|A3731474|757135016|363541006||SNOMEDCT_US|FN|363541006|Structure of posterior lamella of upper eyelid (body structure)|9|N||
+C1285488|ENG|S|L2901377|PF|S3289838|Y|A3428041|757137012|363542004||SNOMEDCT_US|FN|363542004|Entire posterior lamella of upper eyelid (body structure)|9|N||
+C1285490|ENG|S|L2905746|PF|S3568362|Y|A3731470|757141011|363544003||SNOMEDCT_US|FN|363544003|Structure of posterior lamella of eyelid (body structure)|9|N||
+C1285492|ENG|S|L2905745|PF|S3568364|Y|A3731472|757145019|363546001||SNOMEDCT_US|FN|363546001|Structure of posterior lamella of lower eyelid (body structure)|9|N||
+C1285494|ENG|S|L2901376|PF|S3289835|Y|A3428038|757150013|363548000||SNOMEDCT_US|FN|363548000|Entire posterior lamella of lower eyelid (body structure)|9|N||
+C1288300|ENG|S|L2894396|PF|S3568456|Y|A3731565|788827011|367569002||SNOMEDCT_US|FN|367569002|Structure of posterior semicircular canal (body structure)|9|N||
+C1288319|ENG|S|L2911864|PF|S3568406|Y|A3731514|793845011|367592002||SNOMEDCT_US|FN|367592002|Structure of posterior nasopharynx (body structure)|9|N||
+C1288364|ENG|S|L2897397|PF|S3292239|Y|A3430470|823680019|367669007||SNOMEDCT_US|FN|367669007|Entire skin of posterior commissure of labia majora (body structure)|9|N||
+C1288370|ENG|S|L2897399|PF|S3293338|Y|A3431574|823753015|367675003||SNOMEDCT_US|FN|367675003|Entire subcutaneous tissue of posterior commissure of labia majora (body structure)|9|N||
+C1288406|ENG|S|L2892600|PF|S3289702|Y|A3427905|824225013|367714002||SNOMEDCT_US|FN|367714002|Entire posterior border of testis (body structure)|9|N||
+C1288445|ENG|S|L2903073|PF|S3289831|Y|A3428034|824819017|367764009||SNOMEDCT_US|FN|367764009|Entire posterior labial nerves (body structure)|9|N||
+C1288446|ENG|S|L2904109|PF|S3289931|Y|A3428134|824831015|367765005||SNOMEDCT_US|FN|367765005|Entire posterior scrotal nerves (body structure)|9|N||
+C1288553|ENG|S|L2843566|PF|S3279129|Y|A3417268|826186019|367877009||SNOMEDCT_US|FN|367877009|Entire apex of thoracic spinal cord posterior horn (body structure)|9|N||
+C1288554|ENG|S|L2897818|PF|S3293554|Y|A3431791|826198012|367878004||SNOMEDCT_US|FN|367878004|Entire substantia gelatinosa of thoracic spinal cord posterior horn (body structure)|9|N||
+C1288559|ENG|S|L2897844|PF|S3290002|Y|A3428206|826259014|367883007||SNOMEDCT_US|FN|367883007|Entire posterior thoracic spinal cord nerve root (body structure)|9|N||
+C1288561|ENG|S|L2903679|PF|S3289983|Y|A3428187|826283018|367885000||SNOMEDCT_US|FN|367885000|Entire posterior surface of manubrium (body structure)|9|N||
+C1288566|ENG|S|L2891802|PF|S3289966|Y|A3428170|826343012|367890002||SNOMEDCT_US|FN|367890002|Entire posterior surface of body of sternum (body structure)|9|N||
+C1288654|ENG|S|L2895066|PF|S3289918|Y|A3428121|829151017|368122001||SNOMEDCT_US|FN|368122001|Entire posterior process of nasal septal cartilage (body structure)|9|N||
+C1288664|ENG|S|L2898561|PF|S3289772|Y|A3427975|829272011|368132008||SNOMEDCT_US|FN|368132008|Entire posterior cubital region (body structure)|9|N||
+C1288721|ENG|S|L2849211|PF|S3293346|Y|A3431582|830119016|368202007||SNOMEDCT_US|FN|368202007|Entire subcutaneous tissue of posterior surface of upper arm (body structure)|9|N||
+C1288730|ENG|S|L2901954|PF|S3293340|Y|A3431576|830252016|368213005||SNOMEDCT_US|FN|368213005|Entire subcutaneous tissue of posterior surface of forearm (body structure)|9|N||
+C1288750|ENG|S|L2894938|PF|S3289719|Y|A3427922|830506010|368234003||SNOMEDCT_US|FN|368234003|Entire posterior carpal region (body structure)|9|N||
+C1288970|ENG|S|L2870481|PF|S3293333|Y|A3431569|833616014|368492003||SNOMEDCT_US|FN|368492003|Entire subcutaneous tissue of posterior axillary fold (body structure)|9|N||
+C1288980|ENG|S|L2852123|PF|S3289739|Y|A3427942|833810018|368508005||SNOMEDCT_US|FN|368508005|Entire posterior circumflex humeral artery (body structure)|9|N||
+C1289111|ENG|S|L2901844|PF|S3289868|Y|A3428071|835527019|368650000||SNOMEDCT_US|FN|368650000|Entire posterior mallear fold of tympanic membrane (body structure)|9|N||
+C1289235|ENG|S|L2858936|PF|S3289672|Y|A3427875|837185017|368787004||SNOMEDCT_US|FN|368787004|Entire posterior aspect of eyelids (body structure)|9|N||
+C1289318|ENG|S|L2817153|PF|S3294003|Y|A3432241|838286014|368878002||SNOMEDCT_US|FN|368878002|Entire superior posterior alveolar artery, including dental branches (body structure)|9|N||
+C1289320|ENG|S|L2852377|PF|S3290047|Y|A3428251|838310013|368880008||SNOMEDCT_US|FN|368880008|Entire posterior, lateral and septal nasal arteries (body structure)|9|N||
+C1289333|ENG|S|L2903682|PF|S3289874|Y|A3428077|838468013|368893003||SNOMEDCT_US|FN|368893003|Entire posterior margin of nasal septum (body structure)|9|N||
+C1289364|ENG|S|L2902666|PF|S3289849|Y|A3428052|838927010|368931002||SNOMEDCT_US|FN|368931002|Entire posterior ligament of incus (body structure)|9|N||
+C1289367|ENG|S|L2903408|PF|S3289857|Y|A3428060|838964016|368934005||SNOMEDCT_US|FN|368934005|Entire posterior limb of stapes (body structure)|9|N||
+C1289376|ENG|S|L2895330|PF|S3290040|Y|A3428244|839073019|368943001||SNOMEDCT_US|FN|368943001|Entire posterior wall of tympanic cavity (body structure)|9|N||
+C1289471|ENG|S|L2903479|PF|S3289951|Y|A3428155|840270015|369042004||SNOMEDCT_US|FN|369042004|Entire posterior semilunar lobule (body structure)|9|N||
+C1289538|ENG|S|L2848200|PF|S3289900|Y|A3428103|841105010|369111007||SNOMEDCT_US|FN|369111007|Entire posterior parolfactory area (body structure)|9|N||
+C1289552|ENG|S|L2902611|PF|S3289905|Y|A3428108|841275015|369125008||SNOMEDCT_US|FN|369125008|Entire posterior perforated substance of hypothalamus (body structure)|9|N||
+C1289574|ENG|S|L2902599|PF|S3289807|Y|A3428010|841541017|369147008||SNOMEDCT_US|FN|369147008|Entire posterior hypothalamic nucleus (body structure)|9|N||
+C1289600|ENG|S|L2902700|PF|S3295789|Y|A3434040|841856016|369173003||SNOMEDCT_US|FN|369173003|Entire ventral posterior inferior nucleus (body structure)|9|N||
+C1289602|ENG|S|L2904580|PF|S3290021|Y|A3428225|841880017|369175005||SNOMEDCT_US|FN|369175005|Entire posterior tubercle of thalamus (body structure)|9|N||
+C1289629|ENG|S|L2894613|PF|S3286233|Y|A3424401|842267011|369207006||SNOMEDCT_US|FN|369207006|Entire lenticular portion of posterior limb of internal capsule (body structure)|9|N||
+C1289631|ENG|S|L2894618|PF|S3290000|Y|A3428204|842291019|369209009||SNOMEDCT_US|FN|369209009|Entire posterior thalamic radiation of internal capsule (body structure)|9|N||
+C1289634|ENG|S|L2894617|PF|S3294412|Y|A3432653|842327012|369212007||SNOMEDCT_US|FN|369212007|Entire temporopontine tract of posterior limb of internal capsule (body structure)|9|N||
+C1289736|ENG|S|L2852106|PF|S3289736|Y|A3427939|843889011|369342007||SNOMEDCT_US|FN|369342007|Entire posterior choroidal artery (body structure)|9|N||
+C1289737|ENG|S|L2851753|PF|S3280812|Y|A3418956|843938010|369346005||SNOMEDCT_US|FN|369346005|Entire choroidal branch of posterior cerebral artery (body structure)|9|N||
+C1289738|ENG|S|L2851756|PF|S3281256|Y|A3419403|843950016|369347001||SNOMEDCT_US|FN|369347001|Entire cortical branch of posterior cerebral artery (body structure)|9|N||
+C1289742|ENG|S|L2902790|PF|S3289813|Y|A3428016|844119011|369361006||SNOMEDCT_US|FN|369361006|Entire posterior intercavernous sinus (body structure)|9|N||
+C1289777|ENG|S|L2893066|PF|S7326273|Y|A11737232|2638790017|369425002||SNOMEDCT_US|FN|369425002|Entire vagus nerve posterior gastric branch (body structure)|9|N||
+C1289782|ENG|S|L2868233|PF|S3283612|Y|A3421764|845027010|369436009||SNOMEDCT_US|FN|369436009|Entire greater auricular nerve posterior branch (body structure)|9|N||
+C1298204|ENG|S|L2905400|PF|S3487136|Y|A3640290|774863011|370082001||SNOMEDCT_US|FN|370082001|Posterior upper third of esophagus (body structure)|9|N||
+C1298209|ENG|S|L2905396|PF|S3486980|Y|A3640124|774871010|370087007||SNOMEDCT_US|FN|370087007|Posterior middle third of esophagus (body structure)|9|N||
+C1298214|ENG|S|L2905392|PF|S3486947|Y|A3640087|774876017|370092009||SNOMEDCT_US|FN|370092009|Posterior lower third of esophagus (body structure)|9|N||
+C1298220|ENG|S|L2824015|PF|S3568544|Y|A3731654|774883012|370098008||SNOMEDCT_US|FN|370098008|Structure of posterior wall of anal canal (body structure)|9|N||
+C1301130|ENG|S|L2898412|PF|S3521624|Y|A3681333|1764910010|396993003||SNOMEDCT_US|FN|396993003|Right posterior iliac crest (body structure)|9|N||
+C1301131|ENG|S|L2898408|PF|S3390005|Y|A3534956|1764911014|396994009||SNOMEDCT_US|FN|396994009|Left posterior iliac crest (body structure)|9|N||
+C1301413|ENG|S|L2831505|PF|S3481157|Y|A3633564|1765337014|397419001||SNOMEDCT_US|FN|397419001|Anterior-posterior cerebral artery bifurcation (body structure)|9|N||
+C1301427|ENG|S|L2847139|PF|S3486717|Y|A3639843|1765353012|397435008||SNOMEDCT_US|FN|397435008|Posterior arch vein (body structure)|9|N||
+C1302486|ENG|S|L2898409|PF|S3521627|Y|A3681336|1767456016|399536002||SNOMEDCT_US|FN|399536002|Right posterior iliac crest marrow structure (body structure)|9|N||
+C1302611|ENG|S|L2898407|PF|S3390008|Y|A3534959|1767602018|399682004||SNOMEDCT_US|FN|399682004|Left posterior iliac crest marrow structure (body structure)|9|N||
+C1304953|ENG|S|L2868370|PF|S3289685|Y|A3427888|634612016|244761000||SNOMEDCT_US|FN|244761000|Entire posterior auricularis muscle (body structure)|9|N||
+C1304971|ENG|S|L2903934|PF|S3291337|Y|A3429562|634705017|244845005||SNOMEDCT_US|FN|244845005|Entire scalenus posterior muscle (body structure)|9|N||
+C1305066|ENG|S|L2903939|PF|S3294830|Y|A3433077|747207018|361824007||SNOMEDCT_US|FN|361824007|Entire tibialis posterior muscle (body structure)|9|N||
+C1305082|ENG|S|L2901875|PF|S3289796|Y|A3427999|634523010|244681005||SNOMEDCT_US|FN|244681005|Entire posterior fontanel of skull (body structure)|9|N||
+C1305113|ENG|S|L2903936|PF|S3290009|Y|A3428213|673451018|280086005||SNOMEDCT_US|FN|280086005|Entire posterior tibial muscle tendon sheath (body structure)|9|N||
+C1305132|ENG|S|L2903458|PF|S3289942|Y|A3428145|747526013|361971002||SNOMEDCT_US|FN|361971002|Entire posterior segment of right upper lobe of lung (body structure)|9|N||
+C1305165|ENG|S|L2903293|PF|S3289842|Y|A3428045|634158019|244355000||SNOMEDCT_US|FN|244355000|Entire posterior leaflet of mitral valve (body structure)|9|N||
+C1305172|ENG|S|L2851705|PF|S3286110|Y|A3424275|656372013|264161002||SNOMEDCT_US|FN|264161002|Entire left posterior lateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C1305178|ENG|S|L2851845|PF|S3289829|Y|A3428032|634096015|244299006||SNOMEDCT_US|FN|244299006|Entire posterior labial branch of internal pudendal artery (body structure)|9|N||
+C1305186|ENG|S|L2904576|PF|S3290038|Y|A3428242|747876015|362136000||SNOMEDCT_US|FN|362136000|Entire posterior wall of stomach (body structure)|9|N||
+C1305271|ENG|S|L2769298|PF|S3289663|Y|A3427866|749081019|362697007||SNOMEDCT_US|FN|362697007|Entire posterior abdominal wall (body structure)|9|N||
+C1305391|ENG|S|L2903561|PF|S3289876|Y|A3428079|635250012|245336006||SNOMEDCT_US|FN|245336006|Entire posterior mediastinal lymph node (body structure)|9|N||
+C1305393|ENG|S|L2895278|PF|S3289800|Y|A3428003|634520013|244678000||SNOMEDCT_US|FN|244678000|Entire posterior fossa of cranial cavity (body structure)|9|N||
+C1305633|ENG|S|L2903937|PF|S3290008|Y|A3428212|564995010|181716002||SNOMEDCT_US|FN|181716002|Entire posterior tibial muscle tendon (body structure)|9|N||
+C1305725|ENG|S|L2895818|PF|S3289725|Y|A3427928|672634013|279360009||SNOMEDCT_US|FN|279360009|Entire posterior cerebellar lobe (body structure)|9|N||
+C1306519|ENG|S|L2901357|PF|S3289907|Y|A3428110|674102018|280661000||SNOMEDCT_US|FN|280661000|Entire posterior pole of eye (body structure)|9|N||
+C1321534|ENG|S|L2887266|PF|S3290042|Y|A3428246|674913016|281386008||SNOMEDCT_US|FN|281386008|Entire posterior wall of urinary bladder (body structure)|9|N||
+C1444813|ENG|S|L5155758|PF|S5888788|Y|A6948499|2466215019|410764008||SNOMEDCT_US|FN|410764008|Structure of posterior fascial compartment of lower leg (body structure)|9|N||
+C1446346|ENG|S|L5155876|PF|S5886859|Y|A6946551|2468728018|413275005||SNOMEDCT_US|FN|413275005|Posterior wall of pre-pylorus (body structure)|9|N||
+C1456808|ENG|S|L2832229|PF|S6990614|Y|A10891391|2610206010|272650008||SNOMEDCT_US|FN|272650008|Naris, entire, anterior or posterior (body structure)|9|N||
+C1562751|ENG|S|L5542957|PF|S6349272|Y|A8392701|2547468018|417598000||SNOMEDCT_US|FN|417598000|Short posterior ciliary nerve (body structure)|9|N||
+C1744543|ENG|S|L6391173|PF|S7332145|Y|A11737900|2639241012|424972008||SNOMEDCT_US|FN|424972008|Structure of subtendinous bursa of posterior tibial muscle (body structure)|9|N||
+C1744555|ENG|S|L14906554|PF|S18135584|Y|A29564171|3687988011|44929009||SNOMEDCT_US|FN|44929009|Structure of posterior cutaneous nerve of upper limb (body structure)|9|N||
+C1744588|ENG|S|L6390128|PF|S7332058|Y|A11726134|2638848016|5828001||SNOMEDCT_US|FN|5828001|Structure of posterior fasciculus of brachial plexus (body structure)|9|N||
+C1744714|ENG|S|L2898484|PF|S3289767|Y|A3427970|565812018|182445004||SNOMEDCT_US|FN|182445004|Entire posterior cruciate ligament of knee joint (body structure)|9|N||
+C1761540|ENG|S|L6392527|PF|S7326218|Y|A11728118|2638559016|280409008||SNOMEDCT_US|FN|280409008|Entire substantia gelatinosa of posterior horn of spinal cord (body structure)|9|N||
+C1761568|ENG|S|L6393506|PF|S7326148|Y|A11732563|2638505019|279193008||SNOMEDCT_US|FN|279193008|Entire posterior transverse temporal gyrus (body structure)|9|N||
+C1761578|ENG|S|L6393481|PF|S7325949|Y|A11730371|2638572015|279155003||SNOMEDCT_US|FN|279155003|Entire lateral posterior nucleus of thalamus (body structure)|9|N||
+C1827261|ENG|S|L6395431|PF|S7326093|Y|A11729156|2639335015|424395006||SNOMEDCT_US|FN|424395006|Entire nucleus of posterior nuclear group of thalamus (body structure)|9|N||
+C1828249|ENG|S|L6392164|PF|S7332311|Y|A11736547|2639492018|422911008||SNOMEDCT_US|FN|422911008|Structure of tributary of posterior tibial vein (body structure)|9|N||
+C1828482|ENG|S|L6393505|PF|S7326146|Y|A11727708|2639334016|424901000||SNOMEDCT_US|FN|424901000|Entire posterior nucleus of thalamus (body structure)|9|N||
+C2584571|ENG|S|L8518404|PF|S10608344|Y|A16375253|2788764018|439930000||SNOMEDCT_US|FN|439930000|Posterior aspect of heel (body structure)|9|N||
+C2732720|ENG|S|L9068346|PF|S11319179|Y|A17326284|2835397019|443113009||SNOMEDCT_US|FN|443113009|Structure of posterior descending coronary artery (body structure)|9|N||
+C2939121|ENG|S|L2852227|PF|S3521394|Y|A3681097|634051010|244259008||SNOMEDCT_US|FN|244259008|Right dominant posterior descending artery (body structure)|9|N||
+C3696917|ENG|S|L11416842|PF|S14179320|Y|A23470114|2987452014|699923004||SNOMEDCT_US|FN|699923004|Entire skin of posterior cubital region of upper limb (body structure)|9|N||
+C3696969|ENG|S|L11414848|PF|S14188293|Y|A23447821|2986284013|699925006||SNOMEDCT_US|FN|699925006|Skin structure of posterior part of lower limb (body structure)|9|N||
+C3697072|ENG|S|L11413562|PF|S14188846|Y|A23458747|2985309014|699632004||SNOMEDCT_US|FN|699632004|Structure of posterior part of heel (body structure)|9|N||
+C3697590|ENG|S|L11417726|PF|S14188848|Y|A23456497|2985261012|699620003||SNOMEDCT_US|FN|699620003|Structure of posterior part of lower limb (body structure)|9|N||
+C3697637|ENG|S|L11419010|PF|S14188299|Y|A23461312|2986226012|699928008||SNOMEDCT_US|FN|699928008|Skin structure of renal area of posterior abdominal wall (body structure)|9|N||
+C3697684|ENG|S|L11410753|PF|S14188297|Y|A23452929|2986222014|699927003||SNOMEDCT_US|FN|699927003|Skin structure of posterior superior iliac crest region of back (body structure)|9|N||
+C3697752|ENG|S|L11419084|PF|S14188852|Y|A23471795|2985248012|699643007||SNOMEDCT_US|FN|699643007|Structure of posterior superior iliac crest region of back (body structure)|9|N||
+C3698337|ENG|S|L11409417|PF|S14188694|Y|A23461090|2985176014|699608006||SNOMEDCT_US|FN|699608006|Structure of Achilles region of posterior lower limb (body structure)|9|N||
+C3698340|ENG|S|L11413484|PF|S14188295|Y|A23457126|2986176016|699926007||SNOMEDCT_US|FN|699926007|Skin structure of posterior part of scrotum (body structure)|9|N||
+C3698481|ENG|S|L11413483|PF|S14188291|Y|A23471967|2986160013|699924005||SNOMEDCT_US|FN|699924005|Skin structure of posterior part of heel (body structure)|9|N||
+C3698491|ENG|S|L11416328|PF|S14188850|Y|A23459221|2985168012|699623001||SNOMEDCT_US|FN|699623001|Structure of posterior part of scrotum (body structure)|9|N||
+C3698558|ENG|S|L11414926|PF|S14188864|Y|A23471963|2985164014|699644001||SNOMEDCT_US|FN|699644001|Structure of renal area of posterior abdominal wall (body structure)|9|N||
+C4039172|ENG|S|L12164974|PF|S15084497|Y|A24818362|3047341011|711102002||SNOMEDCT_US|FN|711102002|Posterior point of nasal spine (body structure)|9|N||
+C4252893|ENG|S|L14175305|PF|S17261271|Y|A28444871|3426537013|723837008||SNOMEDCT_US|FN|723837008|Left posterior lens capsule (body structure)|9|N||
+C4252894|ENG|S|L14178146|PF|S17285467|Y|A28459086|3426551013|723836004||SNOMEDCT_US|FN|723836004|Right posterior lens capsule (body structure)|9|N||
+C4273542|ENG|S|L13497031|PF|S16491735|Y|A27168059|3312077014|716915008||SNOMEDCT_US|FN|716915008|Structure of posterior middle regional part of transition zone of right half prostate (body structure)|9|N||
+C4273553|ENG|S|L13496654|PF|S16488419|Y|A27170360|3312021012|716949000||SNOMEDCT_US|FN|716949000|Entire posterior basal part of transition zone of right half prostate (body structure)|9|N||
+C4274099|ENG|S|L13499206|PF|S16491727|Y|A27175237|3308207015|716932007||SNOMEDCT_US|FN|716932007|Structure of posterior apical part of transition zone of right half prostate (body structure)|9|N||
+C4274113|ENG|S|L13497747|PF|S16491737|Y|A27168910|3308161011|717005008||SNOMEDCT_US|FN|717005008|Structure of posterior section of prostate (body structure)|9|N||
+C4274127|ENG|S|L13497400|PF|S16488415|Y|A27169686|3308092011|716983007||SNOMEDCT_US|FN|716983007|Entire posterior apical part of transition zone of right half prostate (body structure)|9|N||
+C4274129|ENG|S|L13497398|PF|S16488413|Y|A27170061|3308088016|716984001||SNOMEDCT_US|FN|716984001|Entire posterior apical part of transition zone of left half prostate (body structure)|9|N||
+C4274144|ENG|S|L13498874|PF|S16488421|Y|A27168796|3308056012|716967007||SNOMEDCT_US|FN|716967007|Entire posterior middle regional part of transition zone of left half prostate (body structure)|9|N||
+C4274145|ENG|S|L13495893|PF|S16488423|Y|A27173966|3308054010|716966003||SNOMEDCT_US|FN|716966003|Entire posterior middle regional part of transition zone of right half prostate (body structure)|9|N||
+C4274161|ENG|S|L13495191|PF|S16488417|Y|A27175379|3308014013|716950000||SNOMEDCT_US|FN|716950000|Entire posterior basal part of transition zone of left half prostate (body structure)|9|N||
+C4274173|ENG|S|L13498481|PF|S16491725|Y|A27169299|3307988016|716933002||SNOMEDCT_US|FN|716933002|Structure of posterior apical part of transition zone of left half prostate (body structure)|9|N||
+C4274189|ENG|S|L13500702|PF|S16491733|Y|A27168017|3307954010|716916009||SNOMEDCT_US|FN|716916009|Structure of posterior middle regional part of transition zone of left half prostate (body structure)|9|N||
+C4274204|ENG|S|L13498483|PF|S16491729|Y|A27175516|3307918011|716899002||SNOMEDCT_US|FN|716899002|Structure of posterior basal part of transition zone of left half prostate (body structure)|9|N||
+C4274205|ENG|S|L13495531|PF|S16491731|Y|A27172060|3307916010|716898005||SNOMEDCT_US|FN|716898005|Structure of posterior basal part of transition zone of right half prostate (body structure)|9|N||
+C4281582|ENG|S|L13775346|PF|S16787582|Y|A27775290|3324062018|246035006||SNOMEDCT_US|FN|246035006|Entire intertransversarius cervicis posterior (body structure)|9|N||
+C4281584|ENG|S|L13775455|PF|S16788610|Y|A27771572|3323976011|244936008||SNOMEDCT_US|FN|244936008|Entire serratus posterior inferior (body structure)|9|N||
+C4281585|ENG|S|L13762676|PF|S16788612|Y|A27772479|3323974014|244935007||SNOMEDCT_US|FN|244935007|Entire serratus posterior superior (body structure)|9|N||
+C4302311|ENG|S|L13763531|PF|S16796407|Y|A27771692|3333460017|722780001||SNOMEDCT_US|FN|722780001|Structure of posterior horn of medial meniscus of right knee joint (body structure)|9|N||
+C4302320|ENG|S|L13767167|PF|S16796405|Y|A27766621|3333360018|722779004||SNOMEDCT_US|FN|722779004|Structure of posterior horn of medial meniscus of left knee joint (body structure)|9|N||
+C4302619|ENG|S|L13770819|PF|S16796248|Y|A27784154|3331650012|722347005||SNOMEDCT_US|FN|722347005|Structure of hyaline cartilage of right posterior patella (body structure)|9|N||
+C4302620|ENG|S|L13770818|PF|S16796246|Y|A27774524|3331646017|722345002||SNOMEDCT_US|FN|722345002|Structure of hyaline cartilage of posterior patella (body structure)|9|N||
+C4302625|ENG|S|L13765315|PF|S16796244|Y|A27774053|3331632017|722348000||SNOMEDCT_US|FN|722348000|Structure of hyaline cartilage of left posterior patella (body structure)|9|N||
+C4302642|ENG|S|L13775416|PF|S16788341|Y|A27787201|3331572017|722324009||SNOMEDCT_US|FN|722324009|Entire posterior glenoid labrum (body structure)|9|N||
+C4302651|ENG|S|L13767165|PF|S16796403|Y|A27780957|3331546014|722312002||SNOMEDCT_US|FN|722312002|Structure of posterior glenoid labrum (body structure)|9|N||
+C4303954|ENG|S|L13765345|PF|S16796482|Y|A27764242|3321569019|720625008||SNOMEDCT_US|FN|720625008|Structure of right posterior tibial muscle tendon (body structure)|9|N||
+C4304077|ENG|S|L13770835|PF|S16796343|Y|A27774381|3320836016|720472001||SNOMEDCT_US|FN|720472001|Structure of left posterior tibial muscle tendon (body structure)|9|N||
+C4304626|ENG|S|L13776007|PF|S16794177|Y|A27788805|3316870013|719540008||SNOMEDCT_US|FN|719540008|Posterior column of left acetabulum (body structure)|9|N||
+C4304627|ENG|S|L13776008|PF|S16794179|Y|A27761957|3316868016|719539006||SNOMEDCT_US|FN|719539006|Posterior column of right acetabulum (body structure)|9|N||
+C4509793|ENG|S|L14200676|PF|S17287321|Y|A28455735|3335306012|723274003||SNOMEDCT_US|FN|723274003|Structure of posterior cruciate ligament of left knee joint (body structure)|9|N||
+C4509794|ENG|S|L14211826|PF|S17287323|Y|A28403631|3335308013|723275002||SNOMEDCT_US|FN|723275002|Structure of posterior cruciate ligament of right knee joint (body structure)|9|N||
+C4512026|ENG|S|L14178357|PF|S17287853|Y|A28424576|3451472010|726671007||SNOMEDCT_US|FN|726671007|Tendon structure of anterior and/or posterior tibial muscle (body structure)|9|N||
+C4512027|ENG|S|L14202756|PF|S17256654|Y|A28425610|3451512016|726673005||SNOMEDCT_US|FN|726673005|Entire tendon of anterior and posterior tibial muscle (body structure)|9|N||
+C4512149|ENG|S|L14197147|PF|S17255968|Y|A28427795|3452796019|726896008||SNOMEDCT_US|FN|726896008|Entire spinal cord posterior gray commissure (body structure)|9|N||
+C4512175|ENG|S|L14180196|PF|S17254602|Y|A28458145|3452850018|726923009||SNOMEDCT_US|FN|726923009|Entire posterior superior ansiform lobule of cerebellum (body structure)|9|N||
+C4512204|ENG|S|L14207989|PF|S17254488|Y|A28415800|3452912011|726954008||SNOMEDCT_US|FN|726954008|Entire posterior auricular lymph node (body structure)|9|N||
+C4512245|ENG|S|L14180394|PF|S17256353|Y|A28466808|3452996013|726996007||SNOMEDCT_US|FN|726996007|Entire superior posterior fissure of cerebellum (body structure)|9|N||
+C4512275|ENG|S|L14196968|PF|S17254478|Y|A28449281|3453060015|727028008||SNOMEDCT_US|FN|727028008|Entire posterior antebrachial cutaneous nerve (body structure)|9|N||
+C4512293|ENG|S|L14208142|PF|S17255783|Y|A28400609|3453098015|727047006||SNOMEDCT_US|FN|727047006|Entire skin of posterior surface of lower leg (body structure)|9|N||
+C4512411|ENG|S|L14207997|PF|S17254560|Y|A28414770|3453342011|727169002||SNOMEDCT_US|FN|727169002|Entire posterior lobe of prostate (body structure)|9|N||
+C4512481|ENG|S|L14207996|PF|S17254540|Y|A28457023|3453488018|727242006||SNOMEDCT_US|FN|727242006|Entire posterior inferior ansiform lobule of cerebellum (body structure)|9|N||
+C4512503|ENG|S|L14191074|PF|S17251900|Y|A28460319|3453536011|727266000||SNOMEDCT_US|FN|727266000|Entire lateral posterior supraclavicular nerves (body structure)|9|N||
+C4512540|ENG|S|L14202464|PF|S17254546|Y|A28462526|3453614016|727305001||SNOMEDCT_US|FN|727305001|Entire posterior intermuscular crural septum (body structure)|9|N||
+C4512618|ENG|S|L14174565|PF|S17254651|Y|A28467894|3453772019|727384000||SNOMEDCT_US|FN|727384000|Entire posterior wall of duodenal bulb (body structure)|9|N||
+C4512686|ENG|S|L14196993|PF|S17254661|Y|A28448230|3453914019|727455005||SNOMEDCT_US|FN|727455005|Entire posterior wall of maxillary antrum (body structure)|9|N||
+C4512689|ENG|S|L14191384|PF|S17254586|Y|A28421263|3453920018|727458007||SNOMEDCT_US|FN|727458007|Entire posterior process of distal tibia (body structure)|9|N||
+C4512693|ENG|S|L14196992|PF|S17254655|Y|A28451520|3453928013|727462001||SNOMEDCT_US|FN|727462001|Entire posterior wall of fundus of stomach (body structure)|9|N||
+C4512695|ENG|S|L14213707|PF|S17254645|Y|A28452586|3453932019|727464000||SNOMEDCT_US|FN|727464000|Entire posterior wall of body of stomach (body structure)|9|N||
+C4512699|ENG|S|L14202476|PF|S17254643|Y|A28426703|3453940013|727468002||SNOMEDCT_US|FN|727468002|Entire posterior wall of antrum of stomach (body structure)|9|N||
+C4512705|ENG|S|L14196994|PF|S17254667|Y|A28403799|3453952018|727474002||SNOMEDCT_US|FN|727474002|Entire posterior wall of upper third of vagina (body structure)|9|N||
+C4512707|ENG|S|L14202478|PF|S17254663|Y|A28449301|3453956015|727476000||SNOMEDCT_US|FN|727476000|Entire posterior wall of middle third of vagina (body structure)|9|N||
+C4512709|ENG|S|L14213708|PF|S17254659|Y|A28448231|3453960017|727478004||SNOMEDCT_US|FN|727478004|Entire posterior wall of lower third of vagina (body structure)|9|N||
+C4512729|ENG|S|L14202467|PF|S17254569|Y|A28407028|3454014010|727505000||SNOMEDCT_US|FN|727505000|Entire posterior medial tributary of superficial venous system of lower extremity (body structure)|9|N||
+C4512850|ENG|S|L14202637|PF|S17255777|Y|A28423484|3454256016|727626006||SNOMEDCT_US|FN|727626006|Entire skin of posterior surface of abdomen (body structure)|9|N||
+C4512852|ENG|S|L14202638|PF|S17255781|Y|A28461420|3454260018|727628007||SNOMEDCT_US|FN|727628007|Entire skin of posterior surface of elbow (body structure)|9|N||
+C4512857|ENG|S|L14191532|PF|S17255779|Y|A28464685|3454270016|727633006||SNOMEDCT_US|FN|727633006|Entire skin of posterior surface of ankle (body structure)|9|N||
+C4512894|ENG|S|L14174078|PF|S17250514|Y|A28405922|3454344015|727670002||SNOMEDCT_US|FN|727670002|Entire fascia of leg superficial posterior compartment (body structure)|9|N||
+C4512895|ENG|S|L14201986|PF|S17250506|Y|A28400628|3454346018|727671003||SNOMEDCT_US|FN|727671003|Entire fascia of leg deep posterior compartment (body structure)|9|N||
+C4512955|ENG|S|L14174548|PF|S17254526|Y|A28437427|3454468010|727732008||SNOMEDCT_US|FN|727732008|Entire posterior facet of subtalar joint (body structure)|9|N||
+C4512964|ENG|S|L14207988|PF|S17254484|Y|A28409254|3454486013|727741003||SNOMEDCT_US|FN|727741003|Entire posterior aspect of elbow (surface region) (body structure)|9|N||
+C4512971|ENG|S|L14213684|PF|S17254482|Y|A28405924|3454500019|727748009||SNOMEDCT_US|FN|727748009|Entire posterior aspect of ankle (body structure)|9|N||
+C4512981|ENG|S|L14196305|PF|S17249181|Y|A28466838|3454520018|727758008||SNOMEDCT_US|FN|727758008|Entire cervical region of posterior longitudinal ligament (body structure)|9|N||
+C4512987|ENG|S|L14186062|PF|S17257070|Y|A28460339|3454532019|727764001||SNOMEDCT_US|FN|727764001|Entire thoracic region of posterior longitudinal ligament (body structure)|9|N||
+C4512993|ENG|S|L14179920|PF|S17252428|Y|A28450446|3454544016|727770007||SNOMEDCT_US|FN|727770007|Entire lumbar region of posterior longitudinal ligament (body structure)|9|N||
+C4513027|ENG|S|L14202462|PF|S17254538|Y|A28436386|3454612010|727804007||SNOMEDCT_US|FN|727804007|Entire posterior horn of medial meniscus (body structure)|9|N||
+C4513029|ENG|S|L14202459|PF|S17254534|Y|A28431086|3454616013|727806009||SNOMEDCT_US|FN|727806009|Entire posterior horn of lateral meniscus (body structure)|9|N||
+C4513078|ENG|S|L14213848|PF|S17255785|Y|A28424615|3454716019|727856004||SNOMEDCT_US|FN|727856004|Entire skin of posterior surface of thorax (body structure)|9|N||
+C4513131|ENG|S|L14185362|PF|S17251432|Y|A28414791|3454822019|727909003||SNOMEDCT_US|FN|727909003|Entire internal carotid-posterior communicating artery zone (body structure)|9|N||
+C4513144|ENG|S|L14197038|PF|S17255114|Y|A28401698|3454848010|727922006||SNOMEDCT_US|FN|727922006|Entire right dominant posterior descending artery (body structure)|9|N||
+C4513166|ENG|S|L14174558|PF|S17254582|Y|A28435315|3454892012|727944001||SNOMEDCT_US|FN|727944001|Entire posterior mitral chordae (body structure)|9|N||
+C4513225|ENG|S|L14213695|PF|S17254548|Y|A28453663|3455010011|728003002||SNOMEDCT_US|FN|728003002|Entire posterior interosseous nerve in forearm (body structure)|9|N||
+C4513228|ENG|S|L14202471|PF|S17254622|Y|A28441779|3455016017|728006005||SNOMEDCT_US|FN|728006005|Entire posterior tibial nerve at ankle (body structure)|9|N||
+C4513235|ENG|S|L14196973|PF|S17254502|Y|A28438540|3455030010|728013005||SNOMEDCT_US|FN|728013005|Entire posterior choroid (body structure)|9|N||
+C4513242|ENG|S|L14196979|PF|S17254556|Y|A28461436|3455044016|728020003||SNOMEDCT_US|FN|728020003|Entire posterior lens capsule (body structure)|9|N||
+C4513267|ENG|S|L14202190|PF|S17252308|Y|A28437434|3455094015|728045000||SNOMEDCT_US|FN|728045000|Entire long posterior sacroiliac ligament (body structure)|9|N||
+C4513268|ENG|S|L14174647|PF|S17255424|Y|A28407041|3455096018|728046004||SNOMEDCT_US|FN|728046004|Entire short posterior sacroiliac ligament (body structure)|9|N||
+C4513301|ENG|S|L14191391|PF|S17254639|Y|A28448253|3455164012|728080001||SNOMEDCT_US|FN|728080001|Entire posterior vertebral muscle of neck (body structure)|9|N||
+C4513330|ENG|S|L14213983|PF|S17256864|Y|A28465794|3455222019|728109001||SNOMEDCT_US|FN|728109001|Entire tendon of scalenus posterior (body structure)|9|N||
+C4513332|ENG|S|L14213982|PF|S17256848|Y|A28450457|3455226016|728111005||SNOMEDCT_US|FN|728111005|Entire tendon of rectus capitis posterior major (body structure)|9|N||
+C4513333|ENG|S|L14208269|PF|S17256850|Y|A28449319|3455228015|728112003||SNOMEDCT_US|FN|728112003|Entire tendon of rectus capitis posterior minor (body structure)|9|N||
+C4513434|ENG|S|L14197231|PF|S17256834|Y|A28455926|3455430016|728213000||SNOMEDCT_US|FN|728213000|Entire tendon of posterior crural muscle (body structure)|9|N||
+C4513435|ENG|S|L14202784|PF|S17256914|Y|A28457060|3455432012|728214006||SNOMEDCT_US|FN|728214006|Entire tendon of superficial posterior crural muscle (body structure)|9|N||
+C4513438|ENG|S|L14191660|PF|S17256670|Y|A28441790|3455438011|728217004||SNOMEDCT_US|FN|728217004|Entire tendon of deep posterior crural muscle (body structure)|9|N||
+C4513482|ENG|S|L14213705|PF|S17254626|Y|A28427827|3455526017|728261007||SNOMEDCT_US|FN|728261007|Entire posterior triangle cervical lymph node (body structure)|9|N||
+C4513486|ENG|S|L14202463|PF|S17254544|Y|A28413689|3455534011|728265003||SNOMEDCT_US|FN|728265003|Entire posterior intercostal node (body structure)|9|N||
+C4513494|ENG|S|L14196975|PF|S17254506|Y|A28425652|3455550015|728273007||SNOMEDCT_US|FN|728273007|Entire posterior common iliac node (body structure)|9|N||
+C4513496|ENG|S|L14196976|PF|S17254524|Y|A28439698|3455554012|728275000||SNOMEDCT_US|FN|728275000|Entire posterior external iliac node (body structure)|9|N||
+C4513524|ENG|S|L14185753|PF|S17254669|Y|A28433202|3455612019|728304004||SNOMEDCT_US|FN|728304004|Entire posterior wall of uterus (body structure)|9|N||
+C4513689|ENG|S|L14197048|PF|S17255190|Y|A28425656|3455942019|728469007||SNOMEDCT_US|FN|728469007|Entire sacral region of posterior longitudinal ligament (body structure)|9|N||
+C4513758|ENG|S|L14180199|PF|S17254620|Y|A28419074|3456086016|728541002||SNOMEDCT_US|FN|728541002|Entire posterior third of shaft of rib (body structure)|9|N||
+C4513764|ENG|S|L14213697|PF|S17254558|Y|A28422379|3456098014|728547003||SNOMEDCT_US|FN|728547003|Entire posterior lip of acetabulum (body structure)|9|N||
+C4513768|ENG|S|L14213688|PF|S17254504|Y|A28453682|3456106015|728551001||SNOMEDCT_US|FN|728551001|Entire posterior column of acetabulum (body structure)|9|N||
+C4513873|ENG|S|L14202461|PF|S17254536|Y|A28432181|3456320019|728658003||SNOMEDCT_US|FN|728658003|Entire posterior horn of longitudinal segment of meniscus (body structure)|9|N||
+C4513874|ENG|S|L14180198|PF|S17254618|Y|A28409286|3456322010|728659006||SNOMEDCT_US|FN|728659006|Entire posterior third of longitudinal segment of meniscus (body structure)|9|N||
+C4513875|ENG|S|L14180204|PF|S17254649|Y|A28434295|3456324011|728660001||SNOMEDCT_US|FN|728660001|Entire posterior wall of cervix (body structure)|9|N||
+C4513933|ENG|S|L14191378|PF|S17254550|Y|A28418009|3456442017|728719000||SNOMEDCT_US|FN|728719000|Entire posterior interosseous nerve region (body structure)|9|N||
+C4513964|ENG|S|L14213704|PF|S17254624|Y|A28433211|3456508011|728752006||SNOMEDCT_US|FN|728752006|Entire posterior tibial nerve in popliteal fossa (body structure)|9|N||
+C4514017|ENG|S|L14185744|PF|S17254584|Y|A28416975|3456614013|728805005||SNOMEDCT_US|FN|728805005|Entire posterior preferential pathway (body structure)|9|N||
+C4514067|ENG|S|L14185736|PF|S17254520|Y|A28438561|3456714018|728855002||SNOMEDCT_US|FN|728855002|Entire posterior division of upper trunk of brachial plexus (body structure)|9|N||
+C4514069|ENG|S|L14180189|PF|S17254518|Y|A28461464|3456718015|728857005||SNOMEDCT_US|FN|728857005|Entire posterior division of middle trunk of brachial plexus (body structure)|9|N||
+C4514071|ENG|S|L14202455|PF|S17254516|Y|A28402762|3456722013|728859008||SNOMEDCT_US|FN|728859008|Entire posterior division of lower trunk of brachial plexus (body structure)|9|N||
+C4514084|ENG|S|L14207297|PF|S17248787|Y|A28454797|3456748017|728872009||SNOMEDCT_US|FN|728872009|Entire branch of posterior cord of brachial plexus (body structure)|9|N||
+C4514144|ENG|S|L14213687|PF|S17254500|Y|A28434305|3456874018|728935004||SNOMEDCT_US|FN|728935004|Entire posterior cerebral commissure (body structure)|9|N||
+C4514176|ENG|S|L14196977|PF|S17254528|Y|A28462565|3456938014|728967001||SNOMEDCT_US|FN|728967001|Entire posterior false ligament of bladder (body structure)|9|N||
+C4514222|ENG|S|L14207990|PF|S17254490|Y|A28453697|3457030014|729013003||SNOMEDCT_US|FN|729013003|Entire posterior border of thyroid lamina (body structure)|9|N||
+C4514233|ENG|S|L14207999|PF|S17254608|Y|A28421316|3457052017|729024001||SNOMEDCT_US|FN|729024001|Entire posterior surface of arytenoid (body structure)|9|N||
+C4514238|ENG|S|L14208001|PF|S17254610|Y|A28420223|3457062012|729029006||SNOMEDCT_US|FN|729029006|Entire posterior surface of epiglottic cartilage (body structure)|9|N||
+C4514250|ENG|S|L14196983|PF|S17254594|Y|A28463640|3457086014|729041004||SNOMEDCT_US|FN|729041004|Entire posterior scrotal wall (body structure)|9|N||
+C4514253|ENG|S|L14191386|PF|S17254614|Y|A28408180|3457092015|729044007||SNOMEDCT_US|FN|729044007|Entire posterior surface of scrotum (body structure)|9|N||
+C4514283|ENG|S|L14191387|PF|S17254616|Y|A28455949|3457152015|729074004||SNOMEDCT_US|FN|729074004|Entire posterior surface of seminal vesicle (body structure)|9|N||
+C4514313|ENG|S|L14185652|PF|S17253809|Y|A28449356|3457216010|729106000||SNOMEDCT_US|FN|729106000|Entire opening of posterior semicircular canal (body structure)|9|N||
+C4514315|ENG|S|L14174471|PF|S17253803|Y|A28438570|3457220014|729108004||SNOMEDCT_US|FN|729108004|Entire opening of posterior end of anterior semicircular canal (body structure)|9|N||
+C4514317|ENG|S|L14180089|PF|S17253795|Y|A28424654|3457224017|729110002||SNOMEDCT_US|FN|729110002|Entire opening of lower end of posterior semicircular canal (body structure)|9|N||
+C4514318|ENG|S|L14174473|PF|S17253819|Y|A28411537|3457226015|729111003||SNOMEDCT_US|FN|729111003|Entire opening of upper end of posterior semicircular canal (body structure)|9|N||
+C4514319|ENG|S|L14180093|PF|S17253805|Y|A28454807|3457228019|729112005||SNOMEDCT_US|FN|729112005|Entire opening of posterior end of lateral semicircular canal (body structure)|9|N||
+C4514324|ENG|S|L14212802|PF|S17247433|Y|A28455951|3457238012|729117004||SNOMEDCT_US|FN|729117004|Entire ampulla of posterior semicircular canal (body structure)|9|N||
+C4514341|ENG|S|L14191304|PF|S17253807|Y|A28443985|3457280011|729138005||SNOMEDCT_US|FN|729138005|Entire opening of posterior end of lateral semicircular duct (body structure)|9|N||
+C4514343|ENG|S|L14196867|PF|S17253757|Y|A28428971|3457284019|729140000||SNOMEDCT_US|FN|729140000|Entire opening of ampulla of posterior semicircular duct (body structure)|9|N||
+C4514345|ENG|S|L14202376|PF|S17253811|Y|A28400668|3457290015|729143003||SNOMEDCT_US|FN|729143003|Entire opening of posterior semicircular duct (body structure)|9|N||
+C4514371|ENG|S|L14180203|PF|S17254647|Y|A28408184|3457342012|729169009||SNOMEDCT_US|FN|729169009|Entire posterior wall of cervical canal (body structure)|9|N||
+C4514376|ENG|S|L14213692|PF|S17254530|Y|A28466889|3457352011|729174001||SNOMEDCT_US|FN|729174001|Entire posterior fornicial surface of vaginal cervix (body structure)|9|N||
+C4514444|ENG|S|L14185734|PF|S17254492|Y|A28462578|3457488019|729242000||SNOMEDCT_US|FN|729242000|Entire posterior border of thyroid lobe (body structure)|9|N||
+C4514452|ENG|S|L14185235|PF|S17250512|Y|A28457091|3457504017|729250009||SNOMEDCT_US|FN|729250009|Entire fascia of leg posterior compartment (body structure)|9|N||
+C4514488|ENG|S|L14202472|PF|S17254628|Y|A28424662|3457582016|729289003||SNOMEDCT_US|FN|729289003|Entire posterior trunk of mandibular nerve (body structure)|9|N||
+C4514492|ENG|S|L14201777|PF|S17248793|Y|A28455954|3457590016|729293009||SNOMEDCT_US|FN|729293009|Entire branch of posterior trunk of mandibular nerve (body structure)|9|N||
+C4514495|ENG|S|L14185735|PF|S17254510|Y|A28419092|3457596010|729296001||SNOMEDCT_US|FN|729296001|Entire posterior deep temporal nerve (body structure)|9|N||
+C4514510|ENG|S|L14202352|PF|S17253550|Y|A28440753|3457626010|729311008||SNOMEDCT_US|FN|729311008|Entire nerve to posterior belly of digastric (body structure)|9|N||
+C4514542|ENG|S|L14196987|PF|S17254606|Y|A28446152|3457690010|729343008||SNOMEDCT_US|FN|729343008|Entire posterior supraclavicular nerve (body structure)|9|N||
+C4514570|ENG|S|L14174549|PF|S17254532|Y|A28434319|3457746012|729371002||SNOMEDCT_US|FN|729371002|Entire posterior fossa meninges (body structure)|9|N||
+C4514613|ENG|S|L14191385|PF|S17254588|Y|A28420239|3457834018|729415003||SNOMEDCT_US|FN|729415003|Entire posterior pulmonary plexus (body structure)|9|N||
+C4514633|ENG|S|L14213701|PF|S17254590|Y|A28400674|3457876014|729436001||SNOMEDCT_US|FN|729436001|Entire posterior rectus sheath (body structure)|9|N||
+C4514653|ENG|S|L14202468|PF|S17254592|Y|A28432212|3457918017|729457009||SNOMEDCT_US|FN|729457009|Entire posterior scleral aperture (body structure)|9|N||
+C4514685|ENG|S|L14213683|PF|S17254476|Y|A28400676|3457986011|729491008||SNOMEDCT_US|FN|729491008|Entire posterior abdominal wall peritoneum (body structure)|9|N||
+C4514687|ENG|S|L14180195|PF|S17254598|Y|A28458219|3457990013|729493006||SNOMEDCT_US|FN|729493006|Entire posterior segment of maxilla (body structure)|9|N||
+C4514690|ENG|S|L14208004|PF|S17254637|Y|A28419100|3457996019|729496003||SNOMEDCT_US|FN|729496003|Entire posterior vertebral element (body structure)|9|N||
+C4514705|ENG|S|L14213696|PF|S17254554|Y|A28412653|3458028014|729512002||SNOMEDCT_US|FN|729512002|Entire posterior layer of stroma of iris (body structure)|9|N||
+C4514706|ENG|S|L14191383|PF|S17254577|Y|A28420244|3458030011|729513007||SNOMEDCT_US|FN|729513007|Entire posterior membrane of iris (body structure)|9|N||
+C4514741|ENG|S|L14191392|PF|S17254657|Y|A28442940|3458100018|729548000||SNOMEDCT_US|FN|729548000|Entire posterior wall of inguinal canal (body structure)|9|N||
+C4514744|ENG|S|L14213706|PF|S17254630|Y|A28402781|3458108013|729552000||SNOMEDCT_US|FN|729552000|Entire posterior tubercle of atlas (body structure)|9|N||
+C4514814|ENG|S|L14196991|PF|S17254653|Y|A28442943|3458256014|729626000||SNOMEDCT_US|FN|729626000|Entire posterior wall of eye (body structure)|9|N||
+C4514817|ENG|S|L14185742|PF|S17254565|Y|A28426766|3458264015|729630002||SNOMEDCT_US|FN|729630002|Entire posterior margin of nasal septum and choanae (body structure)|9|N||
+C4515036|ENG|S|L14207844|PF|S17253261|Y|A28414847|3458720010|729858008||SNOMEDCT_US|FN|729858008|Entire muscle attachment of posterior muscle of thigh (body structure)|9|N||
+C4515037|ENG|S|L14213609|PF|S17253875|Y|A28422422|3458722019|729859000||SNOMEDCT_US|FN|729859000|Entire origin of posterior muscle of thigh (body structure)|9|N||
+C4515038|ENG|S|L14179780|PF|S17251352|Y|A28469054|3458724018|729860005||SNOMEDCT_US|FN|729860005|Entire insertion of posterior muscle of thigh (body structure)|9|N||
+C4515042|ENG|S|L14174408|PF|S17253277|Y|A28405987|3458732014|729864001||SNOMEDCT_US|FN|729864001|Entire muscle belly of posterior muscle of thigh (body structure)|9|N||
+C4515111|ENG|S|L14196981|PF|S17254567|Y|A28427880|3458874014|729935009||SNOMEDCT_US|FN|729935009|Entire posterior meatal wall of external auditory canal (body structure)|9|N||
+C4515195|ENG|S|L14191372|PF|S17254494|Y|A28414852|3459054010|730025003||SNOMEDCT_US|FN|730025003|Entire posterior cerebellar lobe fissure (body structure)|9|N||
+C4515197|ENG|S|L14180393|PF|S17256351|Y|A28434333|3459058013|730027006||SNOMEDCT_US|FN|730027006|Entire superior posterior cerebellar fissure (body structure)|9|N||
+C4515231|ENG|S|L14173883|PF|S17248783|Y|A28405994|3459128016|730062001||SNOMEDCT_US|FN|730062001|Entire branch of posterior auricular artery (body structure)|9|N||
+C4515241|ENG|S|L14173884|PF|S17248785|Y|A28414853|3459148011|730072003||SNOMEDCT_US|FN|730072003|Entire branch of posterior cerebral artery (body structure)|9|N||
+C4515247|ENG|S|L14180188|PF|S17254514|Y|A28438601|3459160012|730078004||SNOMEDCT_US|FN|730078004|Entire posterior division of internal iliac artery (body structure)|9|N||
+C4515249|ENG|S|L14190685|PF|S17248789|Y|A28410480|3459164015|730080005||SNOMEDCT_US|FN|730080005|Entire branch of posterior division of internal iliac artery (body structure)|9|N||
+C4515260|ENG|S|L14185018|PF|S17248791|Y|A28432227|3459186019|730091003||SNOMEDCT_US|FN|730091003|Entire branch of posterior tibial artery (body structure)|9|N||
+C4515360|ENG|S|L14213699|PF|S17254571|Y|A28423574|3459388013|730192007||SNOMEDCT_US|FN|730192007|Entire posterior medullary nucleus (body structure)|9|N||
+C4515394|ENG|S|L14213693|PF|S17254542|Y|A28469070|3459456016|730226005||SNOMEDCT_US|FN|730226005|Entire posterior intercostal arteries 3 to 11 (body structure)|9|N||
+C4515398|ENG|S|L14185480|PF|S17252400|Y|A28458238|3459464010|730230008||SNOMEDCT_US|FN|730230008|Entire lower right posterior intercostal veins (body structure)|9|N||
+C4515600|ENG|S|L14174547|PF|S17254522|Y|A28430028|3459868019|730432002||SNOMEDCT_US|FN|730432002|Entire posterior endocardial cushion (body structure)|9|N||
+C4515632|ENG|S|L14202150|PF|S17252033|Y|A28461504|3459932011|730464009||SNOMEDCT_US|FN|730464009|Entire left posterior cardinal vein (body structure)|9|N||
+C4515633|ENG|S|L14174613|PF|S17255122|Y|A28404972|3459934012|730465005||SNOMEDCT_US|FN|730465005|Entire right posterior cardinal vein (body structure)|9|N||
+C4515664|ENG|S|L14191381|PF|S17254575|Y|A28403876|3459996012|730496001||SNOMEDCT_US|FN|730496001|Entire posterior medullary spinothalamic tract (body structure)|9|N||
+C4515665|ENG|S|L14213702|PF|S17254600|Y|A28457129|3459998013|730497005||SNOMEDCT_US|FN|730497005|Entire posterior spinocerebellar tract of pons (body structure)|9|N||
+C4515667|ENG|S|L14180192|PF|S17254573|Y|A28442973|3460002014|730499008||SNOMEDCT_US|FN|730499008|Entire posterior medullary spinocerebellar tract (body structure)|9|N||
+C4515686|ENG|S|L14180473|PF|S17257036|Y|A28418057|3460042016|730519009||SNOMEDCT_US|FN|730519009|Entire third posterior intercostal artery (body structure)|9|N||
+C4515687|ENG|S|L14185282|PF|S17250835|Y|A28421358|3460044015|730520003||SNOMEDCT_US|FN|730520003|Entire fourth posterior intercostal artery (body structure)|9|N||
+C4515688|ENG|S|L14190923|PF|S17250647|Y|A28410494|3460046018|730521004||SNOMEDCT_US|FN|730521004|Entire fifth posterior intercostal artery (body structure)|9|N||
+C4515689|ENG|S|L14213803|PF|S17255458|Y|A28460430|3460048017|730522006||SNOMEDCT_US|FN|730522006|Entire sixth posterior intercostal artery (body structure)|9|N||
+C4515690|ENG|S|L14191483|PF|S17255368|Y|A28425717|3460050013|730523001||SNOMEDCT_US|FN|730523001|Entire seventh posterior intercostal artery (body structure)|9|N||
+C4515691|ENG|S|L14207450|PF|S17249989|Y|A28463689|3460052017|730524007||SNOMEDCT_US|FN|730524007|Entire eighth posterior intercostal artery (body structure)|9|N||
+C4515692|ENG|S|L14202358|PF|S17253624|Y|A28434345|3460054016|730525008||SNOMEDCT_US|FN|730525008|Entire ninth posterior intercostal artery (body structure)|9|N||
+C4515693|ENG|S|L14213997|PF|S17256972|Y|A28434346|3460056019|730526009||SNOMEDCT_US|FN|730526009|Entire tenth posterior intercostal artery (body structure)|9|N||
+C4515694|ENG|S|L14196415|PF|S17250007|Y|A28434347|3460058018|730527000||SNOMEDCT_US|FN|730527000|Entire eleventh posterior intercostal artery (body structure)|9|N||
+C4515709|ENG|S|L14197064|PF|S17255294|Y|A28452673|3460088010|730542002||SNOMEDCT_US|FN|730542002|Entire second right posterior intercostal vein (body structure)|9|N||
+C4515710|ENG|S|L14186057|PF|S17257040|Y|A28451609|3460090011|730543007||SNOMEDCT_US|FN|730543007|Entire third right posterior intercostal vein (body structure)|9|N||
+C4515711|ENG|S|L14207540|PF|S17250839|Y|A28429003|3460092015|730544001||SNOMEDCT_US|FN|730544001|Entire fourth right posterior intercostal vein (body structure)|9|N||
+C4515712|ENG|S|L14207456|PF|S17250009|Y|A28418058|3460094019|730545000||SNOMEDCT_US|FN|730545000|Entire eleventh right posterior intercostal vein (body structure)|9|N||
+C4515713|ENG|S|L14202790|PF|S17256974|Y|A28417024|3460096017|730546004||SNOMEDCT_US|FN|730546004|Entire tenth right posterior intercostal vein (body structure)|9|N||
+C4515714|ENG|S|L14202359|PF|S17253626|Y|A28431162|3460098016|730547008||SNOMEDCT_US|FN|730547008|Entire ninth right posterior intercostal vein (body structure)|9|N||
+C4515715|ENG|S|L14185169|PF|S17249991|Y|A28417026|3460100016|730548003||SNOMEDCT_US|FN|730548003|Entire eighth right posterior intercostal vein (body structure)|9|N||
+C4515716|ENG|S|L14208087|PF|S17255370|Y|A28440792|3460102012|730549006||SNOMEDCT_US|FN|730549006|Entire seventh right posterior intercostal vein (body structure)|9|N||
+C4515717|ENG|S|L14185862|PF|S17255460|Y|A28457131|3460104013|730550006||SNOMEDCT_US|FN|730550006|Entire sixth right posterior intercostal vein (body structure)|9|N||
+C4515718|ENG|S|L14179693|PF|S17250651|Y|A28420284|3460106010|730551005||SNOMEDCT_US|FN|730551005|Entire fifth right posterior intercostal vein (body structure)|9|N||
+C4515783|ENG|S|L14201632|PF|S17247653|Y|A28433264|3460236011|730616005||SNOMEDCT_US|FN|730616005|Entire anterior-posterior cerebral artery bifurcation (body structure)|9|N||
+C4515785|ENG|S|L14196969|PF|S17254480|Y|A28422437|3460240019|730618006||SNOMEDCT_US|FN|730618006|Entire posterior arch vein (body structure)|9|N||
+C4515813|ENG|S|L14180207|PF|S17254665|Y|A28424698|3460298010|730647004||SNOMEDCT_US|FN|730647004|Entire posterior wall of pre-pylorus (body structure)|9|N||
+C4515819|ENG|S|L14213686|PF|S17254496|Y|A28404976|3460310018|730653004||SNOMEDCT_US|FN|730653004|Entire posterior cerebral artery P1 segment (body structure)|9|N||
+C4515820|ENG|S|L14196972|PF|S17254498|Y|A28446205|3460312014|730654005||SNOMEDCT_US|FN|730654005|Entire posterior cerebral artery P2 segment (body structure)|9|N||
+C4515829|ENG|S|L14191489|PF|S17255422|Y|A28446206|3460330019|730663007||SNOMEDCT_US|FN|730663007|Entire short posterior ciliary nerve (body structure)|9|N||
+C4515942|ENG|S|L14213685|PF|S17254486|Y|A28459336|3460556013|730776008||SNOMEDCT_US|FN|730776008|Entire posterior aspect of heel (body structure)|9|N||
+C4516186|ENG|S|L14174562|PF|S17254612|Y|A28401793|3461180013|731088009||SNOMEDCT_US|FN|731088009|Entire posterior surface of lower leg (body structure)|9|N||
+C4516339|ENG|S|L14202465|PF|S17254552|Y|A28438628|3461496019|731246007||SNOMEDCT_US|FN|731246007|Entire posterior lamella of eyelid (body structure)|9|N||
+C4516343|ENG|S|L14196989|PF|S17254641|Y|A28468020|3461508012|731252008||SNOMEDCT_US|FN|731252008|Entire posterior wall of anal canal (body structure)|9|N||
+C4516427|ENG|S|L14180501|PF|S17257301|Y|A28462633|3461690016|731343001||SNOMEDCT_US|FN|731343001|Entire tributary of posterior tibial vein (body structure)|9|N||
+C4516458|ENG|S|L14191746|PF|S17257299|Y|A28425745|3461760017|731378001||SNOMEDCT_US|FN|731378001|Entire tributary of posterior auricular vein (body structure)|9|N||
+C4516510|ENG|S|L14191375|PF|S17254512|Y|A28431181|3461876017|731436008||SNOMEDCT_US|FN|731436008|Entire posterior descending coronary artery (body structure)|9|N||
+C4516552|ENG|S|L14179214|PF|S17246979|Y|A28426815|3461960013|731478002||SNOMEDCT_US|FN|731478002|Entire Achilles region of posterior lower limb (body structure)|9|N||
+C4516563|ENG|S|L14196986|PF|S17254604|Y|A28448346|3461984017|731490000||SNOMEDCT_US|FN|731490000|Entire posterior superior iliac crest region of back (body structure)|9|N||
+C4516564|ENG|S|L14197030|PF|S17255028|Y|A28469117|3461986015|731491001||SNOMEDCT_US|FN|731491001|Entire renal area of posterior abdominal wall (body structure)|9|N||
+C4516707|ENG|S|L14202469|PF|S17254596|Y|A28420326|3462282014|731639008||SNOMEDCT_US|FN|731639008|Entire posterior section of prostate (body structure)|9|N||
+C4516711|ENG|S|L14196550|PF|S17251165|Y|A28406032|3462296015|731646004||SNOMEDCT_US|FN|731646004|Entire hyaline cartilage of posterior patella (body structure)|9|N||
+C4516818|ENG|S|L14212922|PF|S17248353|Y|A28422478|3462610015|731803004||SNOMEDCT_US|FN|731803004|Entire bone of posterior cranial fossa (body structure)|9|N||
+C4516926|ENG|S|L14213845|PF|S17255775|Y|A28458286|3462896011|731946002||SNOMEDCT_US|FN|731946002|Entire skin of posterior superior iliac crest region of back (body structure)|9|N||
+C4516927|ENG|S|L14202641|PF|S17255809|Y|A28412716|3462898012|731947006||SNOMEDCT_US|FN|731947006|Entire skin of renal area of posterior abdominal wall (body structure)|9|N||
+C4517290|ENG|S|L14212992|PF|S17248930|Y|A28409411|3464504013|731032000||SNOMEDCT_US|FN|731032000|Entire calcanean branch of posterior tibial artery (body structure)|9|N||
+C4517968|ENG|S|L14196354|PF|S17249502|Y|A28411646|3467430017|727132000||SNOMEDCT_US|FN|727132000|Entire corticothalamic fibers of posterior limb of internal capsule (body structure)|9|N||
+C4518056|ENG|S|L14191379|PF|S17254562|Y|A28432325|3467737015|726822000||SNOMEDCT_US|FN|726822000|Entire posterior lower third of esophagus (body structure)|9|N||
+C4518057|ENG|S|L14185743|PF|S17254579|Y|A28425816|3467740015|726818005||SNOMEDCT_US|FN|726818005|Entire posterior middle third of esophagus (body structure)|9|N||
+C4518058|ENG|S|L14191390|PF|S17254632|Y|A28443051|3467743018|726814007||SNOMEDCT_US|FN|726814007|Entire posterior upper third of esophagus (body structure)|9|N||
+C4543018|ENG|S|L14516445|PF|S17631824|Y|A28907518|3506200019|734394009||SNOMEDCT_US|FN|734394009|Structure of left posterior communicating artery (body structure)|9|N||
+C4543019|ENG|S|L14516489|PF|S17632122|Y|A28883033|3506206013|734395005||SNOMEDCT_US|FN|734395005|Structure of right posterior communicating artery (body structure)|9|N||
+C4543397|ENG|S|L14524076|PF|S17631826|Y|A28898614|3511298013|734883002||SNOMEDCT_US|FN|734883002|Structure of left posterior interosseous nerve (body structure)|9|N||
+C4543398|ENG|S|L14524111|PF|S17632124|Y|A28889840|3511300013|734882007||SNOMEDCT_US|FN|734882007|Structure of right posterior interosseous nerve (body structure)|9|N||
+C4543552|ENG|S|L14521607|PF|S17632126|Y|A28912119|3513242018|734889003||SNOMEDCT_US|FN|734889003|Structure of right posterior tibial nerve (body structure)|9|N||
+C4543553|ENG|S|L14524077|PF|S17631828|Y|A28894346|3513244017|734888006||SNOMEDCT_US|FN|734888006|Structure of left posterior tibial nerve (body structure)|9|N||
+C4544775|ENG|S|L14520257|PF|S17621422|Y|A28912610|3526191011|736981004||SNOMEDCT_US|FN|736981004|Posterior crural muscle structure of left lower leg (body structure)|9|N||
+C4544776|ENG|S|L14517728|PF|S17621424|Y|A28883732|3526193014|736980003||SNOMEDCT_US|FN|736980003|Posterior crural muscle structure of right lower leg (body structure)|9|N||
+C4544911|ENG|S|L14516474|PF|S17632011|Y|A28888149|3526860015|737123005||SNOMEDCT_US|FN|737123005|Structure of posterior horn of lateral meniscus of left knee (body structure)|9|N||
+C4544912|ENG|S|L14534324|PF|S17632013|Y|A28894828|3526863018|737124004||SNOMEDCT_US|FN|737124004|Structure of posterior horn of lateral meniscus of right knee (body structure)|9|N||
+C4545683|ENG|S|L14516475|PF|S17632017|Y|A28904255|3620792019|758635003||SNOMEDCT_US|FN|758635003|Structure of posterior pole of lens of left eye (body structure)|9|N||
+C4545684|ENG|S|L14526675|PF|S17632019|Y|A28884344|3620795017|758636002||SNOMEDCT_US|FN|758636002|Structure of posterior pole of lens of right eye (body structure)|9|N||
+C4545849|ENG|S|L14518971|PF|S17632021|Y|A28899787|3634363019|761944007||SNOMEDCT_US|FN|761944007|Structure of posterior process of distal left tibia (body structure)|9|N||
+C4545850|ENG|S|L14529202|PF|S17632023|Y|A28913291|3634364013|761945008||SNOMEDCT_US|FN|761945008|Structure of posterior process of distal right tibia (body structure)|9|N||
+C4708687|ENG|S|L14910529|PF|S18135703|Y|A29538186|3688846015|769149003||SNOMEDCT_US|FN|769149003|Structure of superior posterior pancreaticoduodenal artery (body structure)|9|N||
+C4708689|ENG|S|L14891789|PF|S18107528|Y|A29543364|3688854018|769151004||SNOMEDCT_US|FN|769151004|Entire superior posterior pancreaticoduodenal artery (body structure)|9|N||
+C4749894|ENG|S|L15254804|PF|S18539939|Y|A30254364|3706086016|771407002||SNOMEDCT_US|FN|771407002|Entire posterior rectus capitis muscle (body structure)|9|N||
+C4749895|ENG|S|L15273767|PF|S18564916|Y|A30194757|3706087013|771408007||SNOMEDCT_US|FN|771408007|Structure of posterior rectus capitis muscle (body structure)|9|N||
+C4749896|ENG|S|L15249318|PF|S18564930|Y|A30194758|3706090019|771409004||SNOMEDCT_US|FN|771409004|Structure of rectus capitis posterior major (body structure)|9|N||
+C4749897|ENG|S|L15253425|PF|S18564932|Y|A30264199|3706092010|771410009||SNOMEDCT_US|FN|771410009|Structure of rectus capitis posterior minor (body structure)|9|N||
+C4758306|ENG|S|L15270596|PF|S18534182|Y|A30239058|3751620016|781694001||SNOMEDCT_US|FN|781694001|Bone structure of posterior wall of acetabulum (body structure)|9|N||
+C4758307|ENG|S|L15250760|PF|S18539850|Y|A30229251|3751621017|781695000||SNOMEDCT_US|FN|781695000|Entire bone of posterior wall of acetabulum (body structure)|9|N||

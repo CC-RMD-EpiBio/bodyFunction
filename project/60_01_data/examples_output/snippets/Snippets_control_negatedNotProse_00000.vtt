@@ -1,0 +1,318 @@
+#<---------------------------------------------------------------------->
+#<Meta Data>
+#<Tags file|confirmation|path of default tags file>
+#<File History|VTT file format version|User name|Time stamp>
+#<---------------------------------------------------------------------->
+FILE_SAVE|Version 1|v3NLP|2020-10-02_12_48_06
+FILE_SAVE|VTT.2010.0|v3NLP|10/2/20 12:48:06 PM
+#<---------------------------------------------------------------------->
+#<Text Content>
+#<---------------------------------------------------------------------->
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000000093:0000000108
+Snippet ID:     0000000000
+File Snippet Id:  1
+FocusBeginOffset: 93
+FocusEndOffset: 108
+Focus: rom on his left
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+January 12, 2018
+
+Chief Complaint:
+  The patient was admitted to the ER with chest pain and rom on his left side. He also was complaining of rom in his feet.
+
+FUNCTIONAL STATUS: 
+   He is independent in activities of daily living and ambulation.   
+
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000000142:0000000145
+Snippet ID:     0000000001
+File Snippet Id:  1
+FocusBeginOffset: 93
+FocusEndOffset: 96
+Focus: rom
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+January 12, 2018
+
+Chief Complaint:
+  The patient was admitted to the ER with chest pain and rom on his left side. He also was complaining of rom in his feet.
+
+FUNCTIONAL STATUS: 
+   He is independent in activities of daily living and ambulation.   
+
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000000324:0000000399
+Snippet ID:     0000000002
+File Snippet Id:  1
+FocusBeginOffset: 145
+FocusEndOffset: 220
+Focus: active range of motion and strength are within functional limits throughout
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+   He is independent in activities of daily living and ambulation.   
+
+PHYSICAL EXAMINATION: 
+   He is alert, oriented x3, and cooperative. His active range of motion and strength are within functional limits throughout.
+
+MEDICATIONS
+  Zoloft 10 mg take as needed. 
+
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000000752:0000000839
+Snippet ID:     0000000003
+File Snippet Id:  1
+FocusBeginOffset: 191
+FocusEndOffset: 278
+Focus: significant pain 
+to palpation of the medial joint line, none of the lateral joint line
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+(from MtSamples)
+
+EXTREMITIES: Orthopedic evaluation of the left knee reveals there to be well-healed portholes. 
+He does have some medial joint line swelling. Negative ballottement. He has significant pain 
+to palpation of the medial joint line, none of the lateral joint line. He has no pain to 
+palpation on the popliteal fossa. Range of motion is approximately -5 degrees to 95 degrees of flexion. 
+It should be noted that she has extreme hyperextension on the right with 95+ degrees of flexion on the right. 
+He has a click with McMurray. Negative anterior-posterior drawer.
+No varus or valgus instability noted. Positive patellar grind test. Calf is soft and nontender. 
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000000894:0000000962
+Snippet ID:     0000000004
+File Snippet Id:  1
+FocusBeginOffset: 315
+FocusEndOffset: 383
+Focus: Range of motion is approximately -5 degrees to 95 degrees of flexion
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+EXTREMITIES: Orthopedic evaluation of the left knee reveals there to be well-healed portholes. 
+He does have some medial joint line swelling. Negative ballottement. He has significant pain 
+to palpation of the medial joint line, none of the lateral joint line. He has no pain to 
+palpation on the popliteal fossa. Range of motion is approximately -5 degrees to 95 degrees of flexion. 
+It should be noted that she has extreme hyperextension on the right with 95+ degrees of flexion on the right. 
+He has a click with McMurray. Negative anterior-posterior drawer.
+No varus or valgus instability noted. Positive patellar grind test. Calf is soft and nontender. 
+Gait is stable and antalgic on the left.
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000000997:0000001073
+Snippet ID:     0000000005
+File Snippet Id:  1
+FocusBeginOffset: 322
+FocusEndOffset: 398
+Focus: extreme hyperextension on the right with 95+ degrees of flexion on the right
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+He does have some medial joint line swelling. Negative ballottement. He has significant pain 
+to palpation of the medial joint line, none of the lateral joint line. He has no pain to 
+palpation on the popliteal fossa. Range of motion is approximately -5 degrees to 95 degrees of flexion. 
+It should be noted that she has extreme hyperextension on the right with 95+ degrees of flexion on the right. 
+He has a click with McMurray. Negative anterior-posterior drawer.
+No varus or valgus instability noted. Positive patellar grind test. Calf is soft and nontender. 
+Gait is stable and antalgic on the left.
+
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000001281:0000001289
+Snippet ID:     0000000006
+File Snippet Id:  1
+FocusBeginOffset: 140
+FocusEndOffset: 148
+Focus: STRENGTH
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+No varus or valgus instability noted. Positive patellar grind test. Calf is soft and nontender. 
+Gait is stable and antalgic on the left.
+
+STRENGTH:
+RIGHT LOWER EXTREMITY:
+Knee extension 5/5, hip flexion 5/5, knee flexion 4/5, internal and external hip rotation was 4/5. 
+With manual muscle testing of knee flexion, hip, internal and external rotation, the patient reports 
+an increase in right SI joint pain to 8/10.
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000001314:0000001411
+Snippet ID:     0000000007
+File Snippet Id:  1
+FocusBeginOffset: 35
+FocusEndOffset: 132
+Focus: Knee extension 5/5, hip flexion 5/5, knee flexion 4/5, internal and external hip rotation was 4/5
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+
+STRENGTH:
+RIGHT LOWER EXTREMITY:
+Knee extension 5/5, hip flexion 5/5, knee flexion 4/5, internal and external hip rotation was 4/5. 
+With manual muscle testing of knee flexion, hip, internal and external rotation, the patient reports 
+an increase in right SI joint pain to 8/10.
+
+LEFT LOWER EXTREMITY:
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000001583:0000001755
+Snippet ID:     0000000008
+File Snippet Id:  1
+FocusBeginOffset: 68
+FocusEndOffset: 240
+Focus: Hip flexion 5/5, knee extension 5/5, knee flexion 4/5, hip internal and external rotation 4/5, with 
+slight increase in pain level with manual muscle testing and resistance
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+an increase in right SI joint pain to 8/10.
+
+LEFT LOWER EXTREMITY:
+Hip flexion 5/5, knee extension 5/5, knee flexion 4/5, hip internal and external rotation 4/5, with 
+slight increase in pain level with manual muscle testing and resistance. It must be noted that PT 
+did not apply as much resistance during manual muscle testing, secondary to the 8/10 pain elicited 
+during the right lower extremity.
+
+========================================================================Snippet-End=
+
+=Snippet-Begin=====================================================================
+Patient ID: 
+Document ID: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt
+AnnotationId: C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt:0000001805:0000001915
+Snippet ID:     0000000009
+File Snippet Id:  1
+FocusBeginOffset: 245
+FocusEndOffset: 355
+Focus: resistance during manual muscle testing, secondary to the 8/10 pain elicited 
+during the right lower extremity
+AssertionStatus: Asserted|Patient
+Conditional: false
+Historical: false
+Subject: Patient
+Category: BodyFunctionMention
+OtherFeatures: unknown
+============================================================================Snippet=
+
+LEFT LOWER EXTREMITY:
+Hip flexion 5/5, knee extension 5/5, knee flexion 4/5, hip internal and external rotation 4/5, with 
+slight increase in pain level with manual muscle testing and resistance. It must be noted that PT 
+did not apply as much resistance during manual muscle testing, secondary to the 8/10 pain elicited 
+during the right lower extremity.
+
+========================================================================Snippet-End=
+
+#<---------------------------------------------------------------------->
+#<Tags Configuration>
+#<Name|Category|Bold|Italic|Underline|Display|FR|FG|FB|BR|BG|BB|FontFamily|FontSize>
+#<---------------------------------------------------------------------->
+highlight||false|false|false|true|0|0|0|192|192|192|Monospaced|+0
+#<---------------------------------------------------------------------->
+Snippet||false|false|false|true|0|0|0|255|255|0|Monospaced|+0
+True||false|false|false|true|0|0|0|0|255|0|Monospaced|+0
+False||false|false|false|true|0|0|0|255|0|0|Monospaced|+0
+Uncertain||false|false|false|true|0|0|0|255|175|175|Monospaced|+0
+Snippet||false|false|false|true|255|255|255|0|0|255|Monospaced|+0
+A||false|false|false|true|255|255|255|0|0|0|Monospaced|+0
+B||false|false|false|true|0|0|0|192|192|192|Monospaced|+0
+#<---------------------------------------------------------------------->
+#<MarkUps Information>
+#<Offset|Length|TagName|TagCategory|Annotation|TagText>
+#<---------------------------------------------------------------------->
+  867|15|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=0<::>annotationId=null<::>focus=null<::>focusBeginOffset=867<::>focusEndOffset=882<::>fileSnippetId=0<::>focusCategory=null<::>|rom on his left
+ 1965| 3|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=1<::>annotationId=null<::>focus=null<::>focusBeginOffset=1965<::>focusEndOffset=1968<::>fileSnippetId=1<::>focusCategory=null<::>|rom
+ 3189|75|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=2<::>annotationId=null<::>focus=null<::>focusBeginOffset=3189<::>focusEndOffset=3264<::>fileSnippetId=2<::>focusCategory=null<::>|active range of motion and strength are within functional limits throughout
+ 4436|87|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=3<::>annotationId=null<::>focus=null<::>focusBeginOffset=4436<::>focusEndOffset=4523<::>fileSnippetId=3<::>focusCategory=null<::>|significant pain  to palpation of the medial joint line, none of the lateral joint line
+ 6152|68|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=4<::>annotationId=null<::>focus=null<::>focusBeginOffset=6152<::>focusEndOffset=6220<::>fileSnippetId=4<::>focusCategory=null<::>|Range of motion is approximately -5 degrees to 95 degrees of flexion
+ 7782|76|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=5<::>annotationId=null<::>focus=null<::>focusBeginOffset=7782<::>focusEndOffset=7858<::>fileSnippetId=5<::>focusCategory=null<::>|extreme hyperextension on the right with 95+ degrees of flexion on the right
+ 9060| 8|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=6<::>annotationId=null<::>focus=null<::>focusBeginOffset=9060<::>focusEndOffset=9068<::>fileSnippetId=6<::>focusCategory=null<::>|STRENGTH
+10316|97|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=7<::>annotationId=null<::>focus=null<::>focusBeginOffset=10316<::>focusEndOffset=10413<::>fileSnippetId=7<::>focusCategory=null<::>|Knee extension 5/5, hip flexion 5/5, knee flexion 4/5, internal and external hip rotation was 4/5
+11670|172|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=8<::>annotationId=null<::>focus=null<::>focusBeginOffset=11670<::>focusEndOffset=11842<::>fileSnippetId=8<::>focusCategory=null<::>|Hip flexion 5/5, knee extension 5/5, knee flexion 4/5, hip internal and external rotation 4/5, with  slight increase in pain level with manual muscle testing and resistance
+13205|110|Snippet||assertionStatus=Asserted:Patient<::>conditional=false<::>subject=null<::>historical=false<::>otherFeatures=unknown<::>category=BodyFunctionMention<::>documentId=C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_libs/../60_01_data/examples/BodyFunctionExample001.txt<::>patientId=<::>snippetId=9<::>annotationId=null<::>focus=null<::>focusBeginOffset=13205<::>focusEndOffset=13315<::>fileSnippetId=9<::>focusCategory=null<::>|resistance during manual muscle testing, secondary to the 8/10 pain elicited  during the right lower extremity

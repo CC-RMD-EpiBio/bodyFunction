@@ -1,0 +1,211 @@
+                           bit
+                           cup
+                           dec
+                           hpi
+                           inr
+                           low
+                           min
+                           pmh
+                           wfl
+                           yes
+                          able
+                          area
+                          bent
+                          deep
+                          dose
+                          drop
+                          foot
+                          full
+                          goal
+                          good
+                          high
+                          keep
+                          late
+                          less
+                          line
+                          long
+                          loss
+                          name
+                          none
+                          open
+                          over
+                          slow
+                          sure
+                          very
+                          weak
+                          well
+                         equal
+                         found
+                         grade
+                         great
+                         large
+                         level
+                         liter
+                         minor
+                         point
+                         rapid
+                         score
+                         short
+                         small
+                         stage
+                         start
+                         trace
+                         worse
+                        absent
+                        change
+                        clonus
+                        degree
+                        highly
+                        intact
+                        length
+                        limits
+                        little
+                        manual
+                        nature
+                        normal
+                        pounds
+                        reason
+                        severe
+                        slowly
+                        static
+                        strong
+                        timing
+                        unable
+                        weight
+                       +clonus
+                       ability
+                       address
+                       altered
+                       at rest
+                       between
+                       certain
+                       changed
+                       decline
+                       degrees
+                       extreme
+                       fatigue
+                       improve
+                       leading
+                       limited
+                       medical
+                       minutes
+                       neutral
+                       opening
+                       partial
+                       percent
+                       present
+                       reduced
+                       seconds
+                       smaller
+                       spastic
+                       variant
+                      abnormal
+                      accuracy
+                      accurate
+                      asthenia
+                      decrease
+                      deficits
+                      diameter
+                      duration
+                      elevated
+                      epidural
+                      examined
+                      improved
+                      increase
+                      junction
+                      modified
+                      multiple
+                      need for
+                      negative
+                      onset of
+                      positive
+                      previous
+                      reflexes
+                      relieved
+                      slightly
+                      stage iv
+                      velocity
+                     available
+                     change in
+                     declining
+                     decreased
+                     decreases
+                     determine
+                     deviation
+                     dimension
+                     dysmetria
+                     excessive
+                     extending
+                     extremely
+                     following
+                     immediate
+                     inability
+                     increased
+                     isolation
+                     less than
+                     more than
+                     nystagmus
+                     review of
+                     symmetric
+                     threshold
+                     tightness
+                     unchanged
+                     worsening
+                    absence of
+                    diminished
+                    directions
+                    discomfort
+                    evaluation
+                    exhaustion
+                    extends to
+                    functional
+                    impairment
+                    inaccurate
+                    increasing
+                    maintained
+                    neurologic
+                    pronounced
+                    sensations
+                    spasticity
+                   evidence of
+                   exacerbated
+                   immediately
+                   improvement
+                   limitations
+                   presence of
+                   significant
+                   weaker than
+                  1 full grade
+                  anti-gravity
+                  contact with
+                  extension of
+                  greater than
+                  high risk of
+                  neurological
+                  restrictions
+                 circumference
+                 hypermobility
+                 long duration
+                 mild increase
+                 mild weakness
+                exacerbated by
+                hyperextension
+                no evidence of
+                well preserved
+               against gravity
+               most pronounced
+               severe weakness
+              light resistance
+              mildly decreased
+              most significant
+              not feeling well
+            slightly decreased
+            slightly increased
+           muscle contractions
+          generalized weakness
+       significant improvement
+      lower extremity weakness
+------------------------------------
+False Positives that are explainable and maybe fixable
+False Positives to look at 
+xxxxxx

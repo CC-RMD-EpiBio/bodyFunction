@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">created from String</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>January 12,<Node id="12"/> 2018
+<Node id="18"/>
+<Node id="19"/>Chief Complaint<Node id="34"/>:<Node id="35"/>
+  <Node id="38"/>The patient was admitted to the ER with chest pain and <Node id="93"/>rom<Node id="96"/> on his <Node id="104"/>left<Node id="108"/> side<Node id="113"/>. <Node id="115"/>He also was complaining of <Node id="142"/>rom<Node id="145"/> in his feet<Node id="157"/>.
+<Node id="159"/>
+<Node id="160"/>FUNCTIONAL STATUS<Node id="177"/>:<Node id="178"/> 
+   <Node id="183"/>He is independent in activities of daily living and ambulation<Node id="245"/>.   
+<Node id="250"/>
+<Node id="251"/>PHYSICAL EXAMINATION<Node id="271"/>:<Node id="272"/> 
+   <Node id="277"/>He is alert, oriented x3, and cooperative<Node id="318"/>. <Node id="320"/>His <Node id="324"/>active range of motion<Node id="346"/> and <Node id="351"/>strength<Node id="359"/> are within functional limits <Node id="389"/>throughout<Node id="399"/>.
+<Node id="401"/>
+<Node id="402"/>MEDICATIONS<Node id="413"/>
+  <Node id="416"/>Zoloft 10 mg take as needed<Node id="443"/>. 
+<Node id="446"/>
+<Node id="447"/>FAMILY HISTORY<Node id="461"/>:<Node id="462"/>
+ <Node id="464"/>Brother had stroke three years ago<Node id="498"/>.
+<Node id="500"/>
+<Node id="501"/>Musculoskeletal Evaluation<Node id="527"/>:<Node id="528"/> 
+<Node id="530"/>
+<Node id="531"/>Bilateral lower Extremities<Node id="558"/>:<Node id="559"/> 
+
+<Node id="562"/>(from MtSamples)<Node id="578"/>
+<Node id="579"/>
+<Node id="580"/>EXTREMITIES<Node id="591"/>:<Node id="592"/> <Node id="593"/>Orthopedic evaluation of the left knee reveals there to be well-healed portholes<Node id="673"/>. 
+<Node id="676"/>He does have some medial joint line swelling<Node id="720"/>. <Node id="722"/>Negative ballottement<Node id="743"/>. <Node id="745"/>He has significant pain 
+to palpation of the medial <Node id="797"/>joint<Node id="802"/> line, none of the <Node id="821"/>lateral<Node id="828"/> <Node id="829"/>joint<Node id="834"/> line<Node id="839"/>. <Node id="841"/>He has no pain to <Node id="859"/>
+<Node id="860"/>palpation<Node id="869"/> <Node id="870"/>on the popliteal fossa<Node id="892"/>. <Node id="894"/>Range of motion<Node id="909"/> is approximately -5 degrees to 95 degrees of <Node id="955"/>flexion<Node id="962"/>. 
+<Node id="965"/>It should be noted that she has extreme <Node id="1005"/>hyperextension<Node id="1019"/> on the <Node id="1027"/>right<Node id="1032"/> with 95+ degrees of <Node id="1053"/>flexion<Node id="1060"/> on the <Node id="1068"/>right<Node id="1073"/>. 
+<Node id="1076"/>He has a click with McMurray<Node id="1104"/>. <Node id="1106"/>Negative anterior-posterior drawer<Node id="1140"/>.
+<Node id="1142"/>No varus or valgus instability noted<Node id="1178"/>. <Node id="1180"/>Positive patellar grind test<Node id="1208"/>. <Node id="1210"/>Calf is soft and nontender<Node id="1236"/>. <Node id="1238"/>
+<Node id="1239"/>Gait <Node id="1244"/>is stable and antalgic on the left<Node id="1278"/>.
+<Node id="1280"/>
+<Node id="1281"/>STRENGTH<Node id="1289"/>:<Node id="1290"/>
+<Node id="1291"/>RIGHT LOWER EXTREMITY<Node id="1312"/>:<Node id="1313"/>
+<Node id="1314"/>Knee extension<Node id="1328"/> 5/5, <Node id="1334"/>hip<Node id="1337"/> <Node id="1338"/>flexion<Node id="1345"/> 5/5, <Node id="1351"/>knee<Node id="1355"/> <Node id="1356"/>flexion<Node id="1363"/> 4/5, <Node id="1369"/>internal and external hip rotation<Node id="1403"/> was 4/5<Node id="1411"/>. 
+<Node id="1414"/>With <Node id="1419"/>manual muscle testing<Node id="1440"/> of <Node id="1444"/>knee<Node id="1448"/> <Node id="1449"/>flexion<Node id="1456"/>, <Node id="1458"/>hip, internal and external rotation<Node id="1493"/>, the patient reports 
+an increase in <Node id="1531"/>right<Node id="1536"/> SI joint pain to 8/10<Node id="1558"/>.
+<Node id="1560"/>
+<Node id="1561"/>LEFT LOWER EXTREMITY<Node id="1581"/>:<Node id="1582"/>
+<Node id="1583"/>Hip<Node id="1586"/> <Node id="1587"/>flexion<Node id="1594"/> 5/5, <Node id="1600"/>knee extension<Node id="1614"/> 5/5, <Node id="1620"/>knee<Node id="1624"/> <Node id="1625"/>flexion<Node id="1632"/> 4/5, <Node id="1638"/>hip internal and external rotation<Node id="1672"/> 4/5, with 
+slight increase in pain level with <Node id="1719"/>manual muscle testing<Node id="1740"/> and <Node id="1745"/>resistance<Node id="1755"/>. <Node id="1757"/>It must be noted that PT 
+did not apply as much <Node id="1805"/>resistance<Node id="1815"/> during <Node id="1823"/>manual muscle testing<Node id="1844"/>, secondary to the 8/10 pain elicited 
+during the <Node id="1894"/>right lower extremity<Node id="1915"/>.<Node id="1916"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="0" Type="SectionZone" StartNode="0" EndNode="18">
+</Annotation>
+<Annotation Id="1" Type="Sentence" StartNode="1" EndNode="12">
+</Annotation>
+<Annotation Id="2" Type="SectionZone" StartNode="19" EndNode="159">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">Chief Complaint</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="ContentHeading" StartNode="19" EndNode="34">
+</Annotation>
+<Annotation Id="4" Type="SectionHeadingDelimiter" StartNode="34" EndNode="35">
+</Annotation>
+<Annotation Id="5" Type="Sentence" StartNode="38" EndNode="113">
+</Annotation>
+<Annotation Id="6" Type="U_RangeOfMotion" StartNode="93" EndNode="96">
+</Annotation>
+<Annotation Id="7" Type="U_BodyLocation" StartNode="104" EndNode="108">
+</Annotation>
+<Annotation Id="8" Type="Sentence" StartNode="115" EndNode="157">
+</Annotation>
+<Annotation Id="9" Type="U_RangeOfMotion" StartNode="142" EndNode="145">
+</Annotation>
+<Annotation Id="10" Type="SectionZone" StartNode="160" EndNode="250">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">FUNCTIONAL STATUS</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="ContentHeading" StartNode="160" EndNode="177">
+</Annotation>
+<Annotation Id="12" Type="SectionHeadingDelimiter" StartNode="177" EndNode="178">
+</Annotation>
+<Annotation Id="13" Type="Sentence" StartNode="183" EndNode="245">
+</Annotation>
+<Annotation Id="14" Type="SectionZone" StartNode="251" EndNode="401">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">PHYSICAL EXAMINATION</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="ContentHeading" StartNode="251" EndNode="271">
+</Annotation>
+<Annotation Id="16" Type="SectionHeadingDelimiter" StartNode="271" EndNode="272">
+</Annotation>
+<Annotation Id="17" Type="Sentence" StartNode="277" EndNode="318">
+</Annotation>
+<Annotation Id="18" Type="Sentence" StartNode="320" EndNode="399">
+</Annotation>
+<Annotation Id="19" Type="U_RangeOfMotion" StartNode="324" EndNode="346">
+</Annotation>
+<Annotation Id="20" Type="U_Strength" StartNode="351" EndNode="359">
+</Annotation>
+<Annotation Id="21" Type="U_BodyLocation" StartNode="389" EndNode="399">
+</Annotation>
+<Annotation Id="22" Type="SectionZone" StartNode="402" EndNode="446">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">MEDICATIONS</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="ContentHeading" StartNode="402" EndNode="413">
+</Annotation>
+<Annotation Id="24" Type="Sentence" StartNode="416" EndNode="443">
+</Annotation>
+<Annotation Id="25" Type="SectionZone" StartNode="447" EndNode="500">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">FAMILY HISTORY</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="ContentHeading" StartNode="447" EndNode="461">
+</Annotation>
+<Annotation Id="27" Type="SectionHeadingDelimiter" StartNode="461" EndNode="462">
+</Annotation>
+<Annotation Id="28" Type="Sentence" StartNode="464" EndNode="498">
+</Annotation>
+<Annotation Id="29" Type="SectionZone" StartNode="501" EndNode="530">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">Musculoskeletal Evaluation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="SectionHeadingDelimiter" StartNode="527" EndNode="528">
+</Annotation>
+<Annotation Id="31" Type="SectionZone" StartNode="531" EndNode="579">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">Bilateral lower Extremities</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="SectionHeadingDelimiter" StartNode="558" EndNode="559">
+</Annotation>
+<Annotation Id="33" Type="Sentence" StartNode="562" EndNode="578">
+</Annotation>
+<Annotation Id="34" Type="SectionZone" StartNode="580" EndNode="859">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">EXTREMITIES</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="SectionHeadingDelimiter" StartNode="591" EndNode="592">
+</Annotation>
+<Annotation Id="36" Type="Sentence" StartNode="593" EndNode="673">
+</Annotation>
+<Annotation Id="37" Type="Sentence" StartNode="676" EndNode="720">
+</Annotation>
+<Annotation Id="38" Type="Sentence" StartNode="722" EndNode="743">
+</Annotation>
+<Annotation Id="39" Type="Sentence" StartNode="745" EndNode="839">
+</Annotation>
+<Annotation Id="40" Type="U_BodyLocation" StartNode="797" EndNode="802">
+</Annotation>
+<Annotation Id="41" Type="U_Strength" StartNode="821" EndNode="828">
+</Annotation>
+<Annotation Id="42" Type="U_BodyLocation" StartNode="829" EndNode="834">
+</Annotation>
+<Annotation Id="43" Type="Sentence" StartNode="841" EndNode="859">
+</Annotation>
+<Annotation Id="44" Type="SectionZone" StartNode="860" EndNode="1238">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">palpation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Sentence" StartNode="860" EndNode="869">
+</Annotation>
+<Annotation Id="46" Type="Sentence" StartNode="870" EndNode="892">
+</Annotation>
+<Annotation Id="47" Type="Sentence" StartNode="894" EndNode="962">
+</Annotation>
+<Annotation Id="48" Type="U_RangeOfMotion" StartNode="894" EndNode="909">
+</Annotation>
+<Annotation Id="49" Type="U_Strength" StartNode="955" EndNode="962">
+</Annotation>
+<Annotation Id="50" Type="Sentence" StartNode="965" EndNode="1073">
+</Annotation>
+<Annotation Id="51" Type="U_RangeOfMotion" StartNode="1005" EndNode="1019">
+</Annotation>
+<Annotation Id="52" Type="U_BodyLocation" StartNode="1027" EndNode="1032">
+</Annotation>
+<Annotation Id="53" Type="U_Strength" StartNode="1053" EndNode="1060">
+</Annotation>
+<Annotation Id="54" Type="U_BodyLocation" StartNode="1068" EndNode="1073">
+</Annotation>
+<Annotation Id="55" Type="Sentence" StartNode="1076" EndNode="1104">
+</Annotation>
+<Annotation Id="56" Type="Sentence" StartNode="1106" EndNode="1140">
+</Annotation>
+<Annotation Id="57" Type="Sentence" StartNode="1142" EndNode="1178">
+</Annotation>
+<Annotation Id="58" Type="Sentence" StartNode="1180" EndNode="1208">
+</Annotation>
+<Annotation Id="59" Type="Sentence" StartNode="1210" EndNode="1236">
+</Annotation>
+<Annotation Id="60" Type="SectionZone" StartNode="1239" EndNode="1280">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">Gait</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="Sentence" StartNode="1244" EndNode="1278">
+</Annotation>
+<Annotation Id="62" Type="SectionZone" StartNode="1281" EndNode="1290">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">STRENGTH</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="ContentHeading" StartNode="1281" EndNode="1289">
+</Annotation>
+<Annotation Id="64" Type="U_Strength" StartNode="1281" EndNode="1289">
+</Annotation>
+<Annotation Id="65" Type="SectionHeadingDelimiter" StartNode="1289" EndNode="1290">
+</Annotation>
+<Annotation Id="66" Type="SectionZone" StartNode="1291" EndNode="1560">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">RIGHT LOWER EXTREMITY</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="SectionHeadingDelimiter" StartNode="1312" EndNode="1313">
+</Annotation>
+<Annotation Id="68" Type="Sentence" StartNode="1314" EndNode="1411">
+</Annotation>
+<Annotation Id="69" Type="U_Strength" StartNode="1314" EndNode="1328">
+</Annotation>
+<Annotation Id="70" Type="U_BodyLocation" StartNode="1314" EndNode="1328">
+</Annotation>
+<Annotation Id="71" Type="U_BodyLocation" StartNode="1334" EndNode="1337">
+</Annotation>
+<Annotation Id="72" Type="U_Strength" StartNode="1338" EndNode="1345">
+</Annotation>
+<Annotation Id="73" Type="U_BodyLocation" StartNode="1351" EndNode="1355">
+</Annotation>
+<Annotation Id="74" Type="U_Strength" StartNode="1356" EndNode="1363">
+</Annotation>
+<Annotation Id="75" Type="U_RangeOfMotion" StartNode="1369" EndNode="1403">
+</Annotation>
+<Annotation Id="76" Type="Sentence" StartNode="1414" EndNode="1558">
+</Annotation>
+<Annotation Id="77" Type="U_Strength" StartNode="1419" EndNode="1440">
+</Annotation>
+<Annotation Id="78" Type="U_BodyLocation" StartNode="1444" EndNode="1448">
+</Annotation>
+<Annotation Id="79" Type="U_Strength" StartNode="1449" EndNode="1456">
+</Annotation>
+<Annotation Id="80" Type="U_RangeOfMotion" StartNode="1458" EndNode="1493">
+</Annotation>
+<Annotation Id="81" Type="U_BodyLocation" StartNode="1531" EndNode="1536">
+</Annotation>
+<Annotation Id="82" Type="SectionZone" StartNode="1561" EndNode="1916">
+<Feature>
+  <Name className="java.lang.String">SectionName</Name>
+  <Value className="java.lang.String">LEFT LOWER EXTREMITY</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="SectionHeadingDelimiter" StartNode="1581" EndNode="1582">
+</Annotation>
+<Annotation Id="84" Type="Sentence" StartNode="1583" EndNode="1755">
+</Annotation>
+<Annotation Id="85" Type="U_BodyLocation" StartNode="1583" EndNode="1586">
+</Annotation>
+<Annotation Id="86" Type="U_Strength" StartNode="1587" EndNode="1594">
+</Annotation>
+<Annotation Id="87" Type="U_Strength" StartNode="1600" EndNode="1614">
+</Annotation>
+<Annotation Id="88" Type="U_BodyLocation" StartNode="1600" EndNode="1614">
+</Annotation>
+<Annotation Id="89" Type="U_BodyLocation" StartNode="1620" EndNode="1624">
+</Annotation>
+<Annotation Id="90" Type="U_Strength" StartNode="1625" EndNode="1632">
+</Annotation>
+<Annotation Id="91" Type="U_RangeOfMotion" StartNode="1638" EndNode="1672">
+</Annotation>
+<Annotation Id="92" Type="U_Strength" StartNode="1719" EndNode="1740">
+</Annotation>
+<Annotation Id="93" Type="U_Strength" StartNode="1745" EndNode="1755">
+</Annotation>
+<Annotation Id="94" Type="Sentence" StartNode="1757" EndNode="1915">
+</Annotation>
+<Annotation Id="95" Type="U_Strength" StartNode="1805" EndNode="1815">
+</Annotation>
+<Annotation Id="96" Type="U_Strength" StartNode="1823" EndNode="1844">
+</Annotation>
+<Annotation Id="97" Type="U_BodyLocation" StartNode="1894" EndNode="1915">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

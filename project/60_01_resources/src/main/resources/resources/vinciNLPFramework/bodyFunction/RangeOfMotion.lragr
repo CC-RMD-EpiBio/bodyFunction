@@ -1,0 +1,856 @@
+# =============================
+# May 4, 2020
+#  Body Function Terminology -  
+# =============================
+#  
+#   cui|key|pos|inflection|uninflectedForm|citation|Category(ies)|source|
+#
+# 
+#    
+# ===============================================
+C0080078|rom|<noun>|<base>|range of motion|range of motion|RangeOfMotion|asserted|LOINC
+C0080078|arom|<noun>|<base>|range of motion|range of motion|RangeOfMotion|asserted|LOINC
+C0080078|range of motion|<noun>|<base>|range of motion|range of motion|RangeOfMotion|asserted|LOINC
+#
+#------------------------------------
+#LOIC
+#------------------------------------
+c000000|range of motion:find:pt:foot:ord:mds |<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+c2607871:c0080078|joint range of motion |<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+c000000|range of motion:find:pt:upper extremity:ord:mds |<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+c000000|range of motion:find:pt:lower extremity:ord:cms assessment|<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+c000000|range of motion:find:pt:lower extremity:ord:mds|<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+c000000|range of motion:find:pt:upper extremity:ord:cms assessment|<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+c000000|range of motion:find:pt:neck:ord:mds||<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+c000000|range of motion:find:pt:hand:ord:mds|<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+c2607871:c0080078|joint range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|loinc
+#------------------------------------
+#national cancer institute thesaurus, ontology of consumer health vocabulary (ochv), rheumatoid arthritis ontology
+#------------------------------------
+c2607871:c0080078|joint range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|ncit:ochv:rao
+c2607871|joint mobility|<noun>|<base>|uninflected|citation|category|ncit:ochv:rao
+c2607871|joint range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|ncit:ochv:rao
+c0000000|passive range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|ncit:ochv:rao
+c0000000|active range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|ncit:ochv:rao
+c0000000|range of motion, abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|ncit:ochv:rao
+c0000000|range of motion, dorsiflection|<noun>|<base>|uninflected|citation|RangeOfMotion|ncit:ochv:rao
+c0000000|range of motion, extension|<noun>|<base>|uninflected|citation|RangeOfMotion|ncit:ochv:rao
+#------------------------------------------
+#taxonomy for rehability of knee conditions (trak)
+#------------------------------------------
+#c0000000|joint measurement|<noun>|<base>|uninflected|citation|RangeOfMotion|trak
+#c0000000|q angle|<noun>|<base>|uninflected|citation|RangeOfMotion|trak
+#------------------------
+#mesh
+#--------------------------
+c0079991:c0080078|range of motion, articular||<noun>|<base>|uninflected|citation|RangeOfMotion|msh
+c1721021|arthrometry, articular|<noun>|<base>|uninflected|citation|RangeOfMotion|msh
+c1721021|articular goniometry|<noun>|<base>|uninflected|citation|RangeOfMotion|msh
+c1721021|goniometry, articular|<noun>|<base>|uninflected|citation|RangeOfMotion|msh
+#------------------------
+#icd-9 
+#------------------------
+c0204061|range of motion testing|<noun>|<base>|uninflected|citation|RangeOfMotion|icd9
+#----------------------
+#icd-10cm
+#----------------------
+c0000000|limited mandibular range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|icd10cm
+#omim, human phenotype ontology
+#------------------------------
+c1859212|limited neck range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|omim:hp
+#snomed-international version, interlinking ontology for biological concepts (iobc)
+#------------------------
+c0150220|range of motion exercise|<noun>|<base>|uninflected|citation|RangeOfMotion|snmi:iobc
+c0203998|kenetic activities for range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmi:iobc
+#fanconi anemia ontology	ifar
+#------------------------
+c0000000|decreased range of motion of wrist|<noun>|<base>|uninflected|citation|RangeOfMotion|ifar
+#--------------------------
+#surgical secondary events
+#--------------------------
+c0000000|limited range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|icd10cm
+#------------------------
+#meddra
+#------------------------
+c3888501|joint range of motion measurement|<noun>|<base>|uninflected|citation|RangeOfMotion|icd10cm
+#---------------------------------
+#common terminology criteria for adverse events (ctcae)
+#---------------------------------
+c0000000|joint range of motion decreased|<noun>|<base>|uninflected|citation|RangeOfMotion|icd10cm
+#--------------------------
+#ontology of adverse events 
+#--------------------------
+c0000000|joint range of motion decreased ae|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+#-------------------------
+#snomed-ct 2020-03 edition
+#-------------------------
+c0000000|joint movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+C0231448|extension|<noun>|<base>|extension|extension|RangeOfMotion|snmct 
+C0231448|extend|<verb>|<base>|extension|extension|RangeOfMotion|snmct 
+C0231448|extends|<verb>|<present>|extension|extension|RangeOfMotion|snmct 
+C0231448|extended|<verb>|<past>|extension|extension|RangeOfMotion|snmct 
+C0231448|extending|<verb>|<prespart>|extension|extension|RangeOfMotion|snmct 
+C0231451|hyperextension|<noun>|<base>|hyperextension|hyperextension|RangeOfMotion:Qualifier|snmct 
+C0231451|hyperextensible|<noun>|<base>|hyperextension|hyperextension|RangeOfMotion:Qualifier|snmct 
+364564000|range of joint movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+364564000|range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of joint movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of ankle eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of ankle extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of ankle flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of ankle inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of cervical spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of cervical spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of cervical spine protraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of cervical spine retraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of elbow extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of elbow flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of elbow pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of elbow supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of finger abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of finger adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of finger extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of finger flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of knee extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of knee flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of lumbar spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of midtarsal pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of midtarsal supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder circumduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder horizontal extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder horizontal flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of subtalar joint eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of subtalar joint inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb opposition|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of toe abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of toe adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of toe extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of toe flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of wrist abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of wrist adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of wrist extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of wrist flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of wrist pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of wrist supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|ankle joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of ankle eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of ankle eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of ankle eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of ankle extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of ankle extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of ankle extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of ankle flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of ankle flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of ankle flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of ankle inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of ankle inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of ankle inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|beginning of range of joint movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|elbow joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of elbow extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of elbow extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of elbow extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of elbow flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of elbow flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of elbow flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of elbow pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of elbow pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of elbow pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of elbow supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of elbow supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of elbow supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|end of range of joint movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|foot joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of midtarsal pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of midtarsal pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of midtarsal pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of midtarsal supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of midtarsal supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of midtarsal supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|subtalar joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range eversion of subtalar joint|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of subtalar joint eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of subtalar joint eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of inversion of subtalar joint|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of subtalar joint inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of subtalar joint inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|toe joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of toe abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of toe abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of toe abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of toe adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of toe adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of toe adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of toe extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of toe extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of toe extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of toe flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of toe flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of toe flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of hallux dorsiflexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|dorsiflexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|dfl|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|dorsiflexors|<noun>|<plural>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|hand joint range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|finger joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of finger abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of finger abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of finger abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of finger adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of finger adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of finger adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of finger extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of finger extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of finger extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of finger flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of finger flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of finger flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|thumb joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of thumb abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of thumb abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of thumb adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of thumb adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of thumb extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of thumb extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of thumb flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of thumb flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of thumb opposition|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of thumb opposition|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of thumb opposition|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|hip joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|active range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|knee joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of knee extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of knee external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of knee flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of knee internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|neck joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|range of passive joint movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of ankle eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of ankle extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of ankle flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of ankle inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of cervical spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of cervical spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of elbow extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of elbow flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of elbow pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of elbow supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of finger abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of finger adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of finger extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of finger flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of knee extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of knee external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of knee flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of knee internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of lumbar spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0000000|passive range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of midtarsal pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of midtarsal supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder circumduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|forward flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|forward bending|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|forward bend|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+C2019684|straight back bend exercises|<noun>|<plural>|straight back bend exercises|straight back bend exercises|RangeOfMotion|MEDCIN
+C2019684|back bend exercises|<noun>|<plural>|straight back bend exercises|straight back bend exercises|RangeOfMotion|MEDCIN
+C2019684|back bend|<noun>|<plural>|straight back bend exercises|straight back bend exercises|RangeOfMotion|MEDCIN
+C2019684|back-bend|<noun>|<plural>|straight back bend exercises|straight back bend exercises|RangeOfMotion|MEDCIN
+c000000|passive range of shoulder horizontal extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder horizontal flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of subtalar joint eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of subtalar joint inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thumb abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thumb adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thumb flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thumb opposition|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of toe abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of toe adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of toe extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of toe flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of wrist abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of wrist adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of wrist extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of wrist flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of wrist pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of wrist supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|shoulder joint - range of movement|<noun>|<base>|uninflected|itation|RangeOfMotion|snmct 
+c000000|range of shoulder abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of shoulder adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of shoulder circumduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder circumduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder circumduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of shoulder extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0575601|range of shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0575601|shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c0575601|shoulder er|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of shoulder flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of shoulder horizontal extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder horizontal extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder horizontal extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of shoulder horizontal flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder horizontal flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder horizontal flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|cervical spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of cervical spine protraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of cervical spine protraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of cervical spine retraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of cervical spine retraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of extension of cervical spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of cervical spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of cervical spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of flexion of cervical spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of cervical spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of cervical spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|lumbar spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of flexion of lumbar spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of lumbar spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of lumbar spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|thoracic spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|active range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|passive range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|wrist joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+#-----------------------
+#there are 48 more specific range of motions in snomed -|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+#https://browser.ihtsdotools.org/?perspective=full&conceptid1=299238003&edition=main/2020-03-09&release=&languages=en
+#-----------------------
+299261001|range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct	
+299272006|range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct	
+299250009|range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+299295002|range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct	
+299239006|range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct	
+299284008|range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct	
+c000000|range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of hip abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of hip adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of hip extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of hip external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of hip flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of hip internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+404979006|neck range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+404979006|joint movement: neck|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+404979006|neck joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+299332000|knee joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|knee range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|knee joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|joint movement: knee|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|range of knee extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of knee extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of knee extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of knee external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of knee external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of knee flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of knee flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of knee flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of knee internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of knee internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+410085000|range of motion education (procedure)|<noun>|<base>|uninflected|citation|(procedure)|snmct 
+410085000|teach range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct 
+410085000|range of motion education|<noun>|<base>|uninflected|citation|(procedure)|snmct 
+298878008|elbow joint - range of movement |<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298878008|elbow range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298878008|elbow joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298878008|joint movement: elbow|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of elbow extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of elbow extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of elbow extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of elbow flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of elbow flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of elbow flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of elbow pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of elbow pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of elbow pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of elbow supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of elbow supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of elbow supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298946001|wrist joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298946001|wrist range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298946001|wrist joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298946001|joint movement: wrist|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of wrist abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of wrist abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of wrist abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of wrist adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of wrist adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of wrist adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of wrist extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of wrist extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of wrist extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of wrist flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of wrist flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of wrist flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of wrist pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of wrist pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of wrist pronation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of wrist supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of wrist supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of wrist supination|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+404980009|spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+404980009|spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+404980009|spine range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+404980009|joint movement: spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+c000000|cervical spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine protraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine retraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of extension of cervical spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of flexion of cervical spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|lumbar spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of flexion of lumbar spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|thoracic spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+299420003|ankle joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+299420003|ankle joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+299420003|joint movement: ankle|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+299420003|ankle range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of ankle eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of ankle eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of ankle eversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of ankle extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of ankle extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of ankle extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of ankle flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of ankle flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of ankle flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of ankle inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of ankle inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of ankle inversion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+410086004|range of motion management|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410086004|manage range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410084001|range of motion assessment|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410084001|assess range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410084001|range of motion assessment|<noun>|<base>|uninflected|citation|(procedure)|snmct
+c000000|assessment of active range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+c000000|assessment of passive range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+299062003|finger joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+299062003|joint movement: finger|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+299062003|finger joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+299062003|finger range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of finger abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of finger abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of finger abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of finger adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of finger adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of finger adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of finger extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of finger extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of finger extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of finger flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of finger flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of finger flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298773006|shoulder joint - range of movement |<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298773006|shoulder range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298773006|shoulder joint - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298773006|joint movement: shoulder|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of shoulder abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of shoulder abduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of shoulder adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of shoulder adduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder circumduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of shoulder circumduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of shoulder circumduction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of shoulder extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of shoulder extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of shoulder external rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder horizontal extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of shoulder horizontal extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of shoulder horizontal extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder horizontal flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of shoulder horizontal flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of shoulder horizontal flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of shoulder internal rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+228528009|range of motion activity|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+228528009|rom - range of motion activity|<base>|uninflected|citation|(regime/therapy)|snmct
+228528009|range of motion activity|<base>|uninflected|citation|(regime/therapy)|snmct
+228528009|range of motion activity|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+228528009|rom - range of movement activity|<base>|uninflected|citation|(regime/therapy)|snmct
+c000000|lower limb activities|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+c000000|range of motion exercise|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+c000000|upper limb activities|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+410084001|range of motion assessment|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410084001|assess range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410084001|range of motion assessment|<noun>|<base>|uninflected|citation|(procedure)|snmct
+c000000|assessment of active range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+c000000|assessment of passive range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410086004|range of motion management|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410086004|range of motion management|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410086004|manage range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+410086004|range of motion management|<noun>|<base>|uninflected|citation|(procedure)|snmct
+298599001|lumbar spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298599001|lumbar spine range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of flexion of lumbar spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of lumbar spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of lumbar spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of lumbar spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of lumbar spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of lumbar spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of lumbar spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of lumbar spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298505002|thoracic spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298505002|dorsal spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298505002|thoracic spine range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of thoracic spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of thoracic spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of thoracic spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of thoracic spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of thoracic spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of thoracic spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298403006|cervical spine - range of movement|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+298403006|cervical spine range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of cervical spine left rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine protraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of cervical spine protraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine retraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of cervical spine retraction|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of cervical spine right rotation|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of extension of cervical spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of cervical spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of cervical spine extension|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|range of flexion of cervical spine|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|active range of cervical spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c000000|passive range of cervical spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+95522001|limitation of movement of temporomandibular joint|<noun>|<base>|uninflected|citation|(finding)|snmct
+95522001|limitation of movement of jaw|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+95522001|limitation of movement of temporomandibular joint|<noun>|<base>|uninflected|citation|(finding)|snmct
+95522001|limited mandibular range of motion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct 
+462265003|hand prosthesis range-of-motion aid|<noun>|<base>|uninflected|citation|(physical object)|snmct 
+462265003|hand prosthesis range-of-motion aid|<noun>|<base>|uninflected|citation|(physical object)|snmct
+462265003|hand prosthesis range of motion aid|<noun>|<base>|uninflected|citation|(physical object)|snmct
+710829000|assessment of active range of motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+710829000|assessment of active range-of-motion|<noun>|<base>|uninflected|citation|(procedure)|snmct
+1121002|kinetic activities for range of motion|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+1121002|kinetic activities for range of motion|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+1121002|kinetic activities to increase range of motion|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+1121002|kinetic activities for range of motion|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+85680003|range of motion exercise|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+85680003|range of motion exercises|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+1121002|kinetic activities for range of motion|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+1121002|kinetic activities for range of motion|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+1121002|kinetic activities to increase range of motion|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+1121002|kinetic activities for range of motion|<noun>|<base>|uninflected|citation|(regime/therapy)|snmct
+298409005|no active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|active range of cervical spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|no active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|normal active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|finding of active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|increased active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|decreased active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|finding of active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|no active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|no active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|no active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|no active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|normal active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|no active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|normal active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|normal active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|decreased active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|normal active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|increased active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|active range of cervical spine flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|increased active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|decreased active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|finding of active range of cervical spine flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|normal active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|decreased active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|decreased active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|finding of active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|increased active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|decreased active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|finding of active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|finding of active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|increased active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|finding of active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|no active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|no active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|normal active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|normal active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|increased active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|decreased active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|finding of active range of cervical spine left lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|increased active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|decreased active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|RangeOfMotion|snmct
+c00000000|finding of active range of cervical spine right lateral flexion|<noun>|<base>|uninflected|citation|(finding)|snmct
+c00000000|hip rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
+c00000000|external hip rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
+c00000000|external rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
+c00000000|internal hip rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
+c00000000|internal and external hip rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
+c00000000|external and internal hip rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
+c00000000|hip external and internal rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
+c00000000|hip internal and external rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
+ROM000002|full range of motion|<noun>|<base>|full range of motion|full range of motion|RangeOfMotion:Qualifier|RMD|
+ROM000003|abduct|<noun>|<base>|abduct|abduct|RangeOfMotion|RMD|
+ROM000003|abduction|<noun>|<base>|abduct|abduct|RangeOfMotion|RMD|
+C0231456|abduction|<noun>|<base>|abduction|abduction|RangeOfMotion|RMD|
+C0231456|abd|<noun>|<base>|abduction|abduction|RangeOfMotion|RMD|
+ROM000004|all planes|<noun>|<base>|all planes|all planes|RangeOfMotion|RMD|
+#
+#
+C0422926|straight leg raise test response|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|straight leg raising|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|straight-leg raising|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|leg raise slr straight|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|leg raise straight|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|leg raises straight|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|straight leg raises|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|straight-leg raises|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|straight leg raise|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|straight-leg raise|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C0422926|SLR|<noun>|<base>|Straight leg raise test response|Straight leg raise test response|RangeOfMotion|RMD|
+C1844820|range of joint movement increased|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|double-jointed|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|extensible joints|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|flexible joints|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|hyperextensible joints|<noun>|<plural>|range of joint movement increased|range of joint movement increased|RangeOfMotion:Qualifier|SNOMEDCT_US|298181000
+C1844820|increased mobility of joints|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|joint hyperextensibility|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|joint hypermobility|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|hypermobility|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|hyperextensibility of joint|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|musculoskeletal hyperextensibility was observed|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|hyperextensibility of joints|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|hypermobility of joints|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|joint hyperextensibility|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|joint hypermobility|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C1844820|hypermobility of joint|<noun>|<base>|range of joint movement increased|range of joint movement increased|RangeOfMotion|SNOMEDCT_US|298181000
+C0079991|passive range of motion function|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|prom|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|motion of passive range|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|motion passive|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|passive motion|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|passive movement|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|passive movements|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|range of motion passive|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|passive range of motion|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|passive motion|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0079991|passive manipulation|<noun>|<base>|passive range of motion function|passive range of motion function|RangeOfMotion|SNOMEDCT_US|21278004
+C0677597|musculoskeletal rotation|<noun>|<base>|Musculoskeletal rotation|Musculoskeletal rotation|RangeOfMotion|SNOMEDCT_US|257912008
+C0677597|rotation|<noun>|<base>|Musculoskeletal rotation|Musculoskeletal rotation|RangeOfMotion|SNOMEDCT_US|257912008
+ROM00000|pf|<noun>|<base>|pf|pf|RangeOfMotion|RMD
+C0080078|range of motion, articular|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|articular range of motion|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|flexibility|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|pliability|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|Range-of-motion tests and/or measurements|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|joint range of motion|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|range of joint motion|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|joints--range of motion|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|flexibility, joint|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|joint mobility|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|joint range of movement|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|joint flexibility|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0080078|range of joint movement|<noun>|<base>|Range of Motion, Articular|Range of Motion, Articular|RangeOfMotion|SNOMEDCT_US|364564000
+C0576197|normal active range of ankle extension|<noun>|<base>|normal active range of ankle extension|normal active range of ankle extension|RangeOfMotion|SNOWMEDCT_US
+C0181061|goniometers|<noun>|<plural>|Goniometers|Goniometers|RangeOfMotion|CHV
+C0181061|goniometer|<noun>|<base>|Goniometers|Goniometers|RangeOfMotion|CHV
+ROM00000||gh er|<noun>|<base>|gh er|gh er|RangeOfMotion:BodyLocation|CHV
+

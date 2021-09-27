@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+<!--
+                                    NIH Clinical Center 
+                              Department of Rehabilitation 
+                         Epidemiology and Biostatistics Branch 
+                                          2019
+     
+   This work is licensed under the Creative Commons Attribution 4.0 International License. 
+   
+   This license allows you to use, share and  adapt for any purpose, provided:
+      Provide attribution to the creators of this work within your work.
+      Indicate if changes were made to this work.
+      No claim to merchantability, implied warranty, or liability can be made.
+      
+    When attributing this code, please make reference to
+     [citation/url here] .  
+     
+      In the absence of a specific paper or url listed above, reference http://clinicalcenter.nih.gov/rmd/eb/nlp
+   
+   To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+-->
+  <!-- =========================================================== -->
+  <!-- Framework Multi-module pom                                  -->
+  <!-- =========================================================== -->
+  <groupId>gov.nih.cc.rmd.framework</groupId>
+  <artifactId>60_00-bodyFunction-Top</artifactId>
+  <version>2020.05.0</version>
+  <packaging>pom</packaging>
+  <description>Top level project for BodyFunction </description>
+
+  <organization>
+    <name>NIH Clinical Center Rehabilitation Department</name>
+    <url>http:// </url>
+  </organization>
+
+  <!-- ======================================================= -->
+  <!-- Modules                                                 -->
+  <!-- ======================================================= -->
+  <modules>
+
+    <!-- =================================================== -->
+    <!-- overarching global projects -->
+    <!-- =================================================== -->
+
+    <module>     00_parent               </module>
+    <module>     00_framework-jars       </module>
+    <module>     60_01_parent            </module>
+
+    <module>     60_01_resources         </module>
+    <module>     60_03_type-descriptors  </module>
+<!--
+    <module>     60_05_annotators        </module>
+    <module>     60_08_pipelines         </module>
+    <module>     60_09_applications      </module>
+-->
+  </modules>
+
+
+
+</project>

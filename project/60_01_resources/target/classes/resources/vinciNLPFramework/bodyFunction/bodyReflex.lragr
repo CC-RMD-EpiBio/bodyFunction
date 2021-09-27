@@ -1,0 +1,52 @@
+# =============================
+# May 4, 2020
+#  Body Reflex Terminology 
+# =============================
+#  
+#   cui|key|pos|inflection|uninflectedForm|citation|Category(ies)|source|
+#
+# 
+#    
+# ===============================================
+C0000000|reflexes|<noun>|<plural>|reflex|reflex|BodyReflex|asserted|None
+C0000000|reflex|<noun>|<base>|reflex|reflex|BodyReflex|asserted|None
+C0000000|deep reflexes|<noun>|<plural>|deep reflex|deep reflex|BodyReflex|asserted|None
+C0000000|deep reflex|<noun>|<plural>|deep reflex|deep reflex|BodyReflex|asserted|None
+C0000000|deep tendon reflexes|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0000000|jerks|<verb>|<plural>|jerk|jerk|BodyReflex|asserted|None
+C0000000|jerk|<verb>|<base>|jerk|jerk|BodyReflex|asserted|None
+C0000000|clonus|<verb>|<base>|clonus|clonus|BodyReflex:Qualifier|asserted|None
+C0000000|ankle clonus|<verb>|<base>|clonus|clonus|BodyReflex:Qualifier:BodyLocation|asserted|None
+C0234147|knee reflex|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|knee jerks|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|knee jerk|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|knee jerk reflex|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|knee-jerk reflex|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|patellar reflex|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|jerking knee reflex|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|jerking knee|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|reflex knee jerk|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|kj|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234147|quadricepts reflex|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|ankle reflex|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|ankle jerks|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|ankle jerk|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|ankle jerk reflex|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|ankle-jerk reflex|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|tricepts surae reflex|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|tricepts surae jerk|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|jerking ankle reflex|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|jerking ankle|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|reflex ankle jerk|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|aj|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0234171|quadricepts reflex|<noun>|<base>|ankle reflex|ankle reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
+C0230953|winged scapula|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|scapula winging|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|winged scapulae|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|winging of scapulae|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|winging of scapulas|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|winging of scapula|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|winged scapula|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|winged scapulas|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|scapulae alata|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
+C0230953|scapulas winged|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD

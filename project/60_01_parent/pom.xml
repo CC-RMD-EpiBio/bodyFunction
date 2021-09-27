@@ -1,0 +1,53 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <!-- ====================================================== -->
+  <!-- Lists the dependencies for all bodyFunction projects      -->
+  <!-- ====================================================== -->
+  <groupId>gov.nih.cc.rmd.framework</groupId>
+  <artifactId>60_01-bodyFunction-parent</artifactId>
+  <version>2020.05.0</version>
+  <packaging>pom</packaging>
+  <name>${project.groupId}: ${project.artifactId}</name>
+  <description>Contains the list of dependencies for the bodyFunction projects</description>
+
+
+  <!-- ======================================================= -->
+  <!-- Parent Pom - look here for global framework settings    -->
+  <!-- including                                               -->
+  <!-- Distribution Managment                                  -->
+  <!-- Java versions                                           -->
+  <!-- Plugin Management and plugins                           -->
+  <!-- ======================================================= -->
+  <parent>
+    <groupId>gov.nih.cc.rmd.framework</groupId>
+    <artifactId>00-nlp-parent</artifactId>
+    <version>2021.02.0</version>
+  </parent>
+
+  <!-- =================================================== -->
+  <!-- Module Dependency Versions                          -->
+  <!-- =================================================== -->
+  <dependencyManagement>
+    <dependencies>
+
+      <!-- =================================================== -->
+      <!-- other Framework Functionalities                     -->
+      <!-- =================================================== -->
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>01-nlp-resources       </artifactId> <version>2021.02.0</version> </dependency>
+
+    </dependencies>
+  </dependencyManagement>
+
+  <build>
+    <!-- =================================================== -->
+    <!-- Plugins                                             -->
+    <!-- =================================================== -->
+    <plugins>
+
+    </plugins>
+  </build>
+
+</project>
+

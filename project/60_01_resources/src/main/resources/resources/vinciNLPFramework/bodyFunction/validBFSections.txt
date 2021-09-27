@@ -1,0 +1,184 @@
+abdomen
+abdominal
+adm
+admission
+ambulation
+ankle
+ankles
+arm x
+arom
+arom - flexion
+assessment
+assessment/plan
+assets
+back
+brudzinski's skin
+cardiovascular
+cervical
+cervical arom
+cervical range-of-motion
+cervical spine
+cervical spine examination
+cn
+cn ii
+cn ii-kii
+cn iii, iv, vi
+cn vii
+cn xi
+cn xi, x
+cn xii
+cns
+constitutional
+coordination
+cranial nerve exam
+cranial nerves
+date of birth
+date of service
+deep tendon reflexes
+dermatological
+description
+diagnoses
+diagnosis
+diagnostic impression & treatment plan
+dift
+discussion
+dors lumbar
+dorsolumilar spine
+dressing
+dtr
+ears/nose/throat
+elbows
+exercise
+ext
+extension
+extraocular motion intact,ears
+extremities
+extremity
+eye
+eyes
+eyes comments
+fine motor activity of hands
+fingers and thumbs
+foot
+functional
+general
+general findings
+genitourinary
+halmaggie head thrust
+halmagyie head thrust
+hand
+hands
+heent
+hematologic and lymphatic
+hip
+hip joints
+hips
+hpi comments
+i mpressions
+impairments/limitations
+impression
+inspection/palpation 
+knee
+knees
+laboratory data
+le
+le general
+left
+left shoulder
+left shoulder exam
+left upper extermity
+left upper extremity
+light, extraocular movements
+lower extremities
+lpp
+lue
+lumbar - forward flexion
+lumbar spine
+lumbosacral spine
+lymphatic neck
+m usculoskeletal
+m/s
+membrane neck
+mental status
+mental status/cognitionnisual perceptual
+mks reflex
+mmt
+moist , neck/thyroid
+motor
+motor exam
+motor. strength
+mrn
+muscle strength
+muscular strength
+musculdskeletal
+musculoskektal
+musculoskeletal exam
+musculoskeletal/extremity
+n euro
+neck
+neck exam
+neuro
+neurologic
+neurological
+neurological comments
+neurological examination
+neuroscreen
+objective
+objective body systems
+objective findings
+office visit
+palpation
+patent
+patient problems
+pe
+physical exam
+physical examination
+pinch strength
+problem list
+professional
+pt diagnosis
+pt summary note
+pyramidal tract
+range of motion
+range of motion exam
+re
+re-evaluation
+referring physician
+reflexes
+review of systems
+right
+right elbow
+right hand
+right knee
+right shoulder
+right upper extermity
+right upper extremity
+right wrist
+right/left knee
+rom
+rue
+sensation
+sensory exam
+shoulder
+shoulders
+skin
+skin 
+special test
+spine
+starting with the left foot
+strength
+subjective
+subjective reports
+therapeutic activities
+thoracic and lumbar spines
+thoracolumbar
+thoracolumbar spine
+to
+treatment plan
+treatment time
+upper extremities
+vascular
+vii
+viii
+vital signs
+wrist

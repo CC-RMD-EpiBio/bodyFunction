@@ -1,0 +1,9 @@
+# BodyFunctionMentions  
+#  These are terms that are full body function mentions that are odd in some way 
+#  either that they do not have a body function type (strength,rom,reflex) or
+#  no qualifier. 
+#
+#   cui|key|pos|infl|uninflect|citation|semanticType|
+#
+bfm00000|musculoskeletal positive|<noun>|<base>|musculoskeletal positive|musculoskeletal positive|BodyFunctionMention
+bfm00001|neurological negative|<noun>|<base>|neurological negative|neurological negative|BodyFunctionMention

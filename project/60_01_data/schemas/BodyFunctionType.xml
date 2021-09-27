@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2000/10/XMLSchema">
+  <!-- XSchema definition for Body Function Type -->
+  <element name="Body Function Type">
+   <complexType>
+	   <attribute name="Function" use="required" value="(blank)" >
+              <simpleType>
+                  <restriction base="string">
+                      <enumeration value="(blank)"/>
+                      <enumeration value="SCTID: 44432004 (Strength)"/>
+		      <enumeration value="SCTID: 364564000 (ROM)"/>
+		      <enumeration value="SCTID: 87572000 (Reflex)"/>
+                  </restriction>
+              </simpleType>
+      </attribute>
+      </complexType>
+  </element>
+</schema>

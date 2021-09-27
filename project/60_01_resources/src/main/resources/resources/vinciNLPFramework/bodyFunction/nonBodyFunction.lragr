@@ -1,0 +1,202 @@
+# NonBodyFucntion LRAGR
+#  These are terms that would indicate NOT a body function. While not pertinant negatives per-say, they
+#  are are evidence that this phrase does not contain a body function mention 
+#
+#   cui|key|pos|infl|uninflect|citation|semanticType|
+#
+pn000000|NIHFA score|<noun>|<base>|NIHFA score|NIHFA score|ConfoundingTerm|
+pn000001|protocol|<noun>|<base>|protocol|protocol|ConfoundingTerm|
+pn000001|w/c|<noun>|<base>|c/o|c/o|ConfoundingTerm|
+#pn000001|seen|<noun>|<base>|seen|seen|ConfoundingTerm|
+pn000001|MRI|<noun>|<base>|MRI|MRI|ConfoundingTerm|
+pn000001|flexibilty exercises|<noun>|<base>|MRI|MRI|ConfoundingTerm|
+pn000001|exercises|<noun>|<base>|exercises|exercises|ConfoundingTerm|
+pn000001|education|<noun>|<base>|education|education|ConfoundingTerm|
+pn000001|re-education|<noun>|<base>|re-education|re-education|ConfoundingTerm|
+pn000001|pathology|<noun>|<base>|pathology|pathology|ConfoundingTerm|
+pn000001|at risk|<noun>|<base>|at risk|at risk|ConfoundingTerm|
+pn000001|sensation|<noun>|<base>|sensation|sensation|ConfoundingTerm|
+pn000001|sensations|<noun>|<plural>|sensation|sensation|ConfoundingTerm|
+pn000001|sensation intact|<noun>|<base>|sensation|sensation|sensaton|
+pn000001|intact sensation|<noun>|<base>|sensation|sensation|sensaton|
+pn000001|touch|<noun>|<base>|sensation|sensation|sensaton|
+pn000001|light touch|<noun>|<base>|sensation|sensation|sensaton|
+pn000001|candidate|<noun>|<base>|candidate|candidate|ConfoundingTerm|
+pn000001|fine motor activities|<noun>|<base>||||
+pn000001|fine motor difficulties|<noun>|<base>||||
+pn000001|fine motor coordination|<noun>|<base>||||
+pn000001|fine-motor coordination|<noun>|<base>||||
+pn000001|fine motor task|<noun>|<base>||||
+pn000001|fine motor tasks|<noun>|<base>||||
+pn000001|fine motor deficit|<noun>|<base>||||
+pn000001|fine motor play|<noun>|<base>||||
+pn000001|fine motor games|<noun>|<base>||||
+pn000001|fine motor examination|<noun>|<base>||||
+pn000001|motor development|<noun>|<base>||||
+pn000001|fine motor dressing activities|<noun>|<base>||||
+pn000001|motor tasks|<noun>|<base>||||
+pn000001|gross motor activities|<noun>|<base>||||
+pn000001|gross motor coordination|<noun>|<base>||||
+pn000001|motor distal neuropathy|<noun>|<base>|||||
+pn000001|motor chair|<noun>|<base>|||||
+pn000001|motor performance|<noun>|<base>|||||
+pn000001|motor scales|<noun>|<base>|||||
+pn000001|developmental motor|<noun>|<base>|||||
+pn000001|motor learning|<noun>|<base>|||||
+#
+#
+#
+# BodyFunctionMentions  
+#  These are terms that are full body function mentions that are odd in some way 
+#  either that they do not have a body function type (strength,rom,reflex) or
+#  no qualifier. 
+#
+#
+#bfm00000|musculoskeletal positive|<noun>|<base>|musculoskeletal positive|musculoskeletal positive|BodyFunctionMention
+#bfm00001|neurological negative|<noun>|<base>|neurological negative|neurological negative|BodyFunctionMention
+pn000001|benefit from|<noun>|<base>|benefit|benefit|ConfoundingTerm|
+pn000001|ready to|<noun>|<base>|ready|ready|ConfoundingTerm|
+pn000001|mass|<noun>|<base>|ready|ready|ConfoundingTerm|
+pn000001|age-matched norms|<noun>|<pural>|age-matched norm|age-matched norm|ConfoundingTerm|
+pn000001|age-matched norm|<noun>|<base>|age-matched norm|age-matched norm|ConfoundingTerm|
+pn000001|age-matched|<noun>|<base>|age-matched|age-matched|ConfoundingTerm|
+pn000001|xii|<noun>|<base>|xii|xii|ConfoundingTerm|
+pn000001|frontotemporal region|<noun>|<base>|fronotermporal region|fronotermporal region|ConfoundingTerm|
+pn000002|alert and oriented x 3|<noun>|<base>|alert and oriented x 3|alert and oriented x 3|ConfoundingTerm|||
+pn000002|alert and oriented x3|<noun>|<base>|alert and oriented x 3|alert and oriented x 3|ConfoundingTerm|||
+pn000002|x 3|<noun>|<base>|alert and oriented x 3|alert and oriented x 3|ConfoundingTerm|||
+pn000002|x 4|<noun>|<base>|alert and oriented x 3|alert and oriented x 3|ConfoundingTerm|||
+pn000002|BAMF|<noun>|<base>|brief assessment of motor function|brief assessment of motor function|ConfoundingTerm|||
+pn000002|brief assessment of motor function|<noun>|<base>|brief assessment of motor function|brief assessment of motor function|ConfoundingTerm|||
+C0013604|edema|<noun>|<base>|Edema|Edema|ConfoundingTerm|
+C0013604|cm|<noun>|<base>|cm|cm|ConfoundingTerm|
+pn000011|well-healed|<noun>|<base>|well healed|well healed|ConfoundingTerm|
+pn000011|well healed|<noun>|<base>|well healed|well healed|ConfoundingTerm|
+pn000011|CN VII|<noun>|<base>|||ConfoundingTerm|
+pn000011|CN VIII|<noun>|<base>|||ConfoundingTerm|
+pn000012|normal shape|<noun>|<base>|||ConfoundingTerm|
+pn000013|change in position|<noun>|<base>|||ConfoundingTerm|
+pn000014|sensory loss|<noun>|<base>|||ConfoundingTerm|
+pn000015|dynamometer measured in pounds of strength|<noun>|<base>|||ConfoundingTerm|
+pn000016|n/v|<noun>|<base>|||ConfoundingTerm|
+pn000016|degrees c|<noun>|<base>|||ConfoundingTerm|
+pn000016|3 trials|<noun>|<base>|||ConfoundingTerm|
+pn000016|4 trials|<noun>|<base>|||ConfoundingTerm|
+pn000017|y/o|<noun>|<base>|||ConfoundingTerm|
+pn000017|yo|<noun>|<base>|||ConfoundingTerm|
+pn000018|cardiovascular|<noun>|<base>|||confoundingTerm
+pn000019|gastrointestinal|<noun>|<base>|||confoundingTerm
+pn000020|genitourinary|<noun>|<base>|||confoundingTerm
+pn000021|pale|<noun>|<base>|||confoundingTerm
+pn000022|balance|<noun>|<base>|||confoundingTerm
+pn000022|b|<noun>|<base>|||confoundingTerm
+pn000023|coordination|<noun>|<base>|||confoundingTerm
+pn000023|coord|<noun>|<base>|||confoundingTerm
+pn000024|endocrine|<noun>|<base>|||confoundingTerm
+pn000025|lymphatic|<noun>|<base>|||confoundingTerm
+pn000025|lymphatics|<noun>|<base>|||confoundingTerm
+pn000026|psychiatric|<noun>|<base>|||confoundingTerm
+pn000027|immunologic|<noun>|<base>|||confoundingTerm
+#
+# From SSA observations
+#   09/21/2021
+#
+pn0000000|effort|<noun>|<base>|||confoundingTerm
+pn0000000|speech|<noun>|<base>|||confoundingTerm
+pn0000000|respiratory|<noun>|<base>|||confoundingTerm
+pn0000000|breath sounds|<noun>|<base>|||confoundingTerm
+pn0000000|tenderness|<noun>|<base>|||confoundingTerm
+pn0000000|line tenderness|<noun>|<base>|||confoundingTerm
+pn0000000|appearance|<noun>|<base>|||confoundingTerm
+pn0000000|respiration|<noun>|<base>|||confoundingTerm
+pn0000000|respiration rhythm|<noun>|<base>|||confoundingTerm
+pn0000000|respiration rhythm and depth|<noun>|<base>|||confoundingTerm
+pn0000000|Respirations|<noun>|<base>|||confoundingTerm
+pn0000000|gait and station|<noun>|<base>|||confoundingTerm
+pn0000000|glasses|<noun>|<base>|||confoundingTerm
+pn0000000|20/20|<noun>|<base>|||confoundingTerm
+pn0000000|20/40|<noun>|<base>|||confoundingTerm
+pn0000000|20/30|<noun>|<base>|||confoundingTerm
+pn0000000|nares|<noun>|<base>|||confoundingTerm
+pn0000000|clear|<noun>|<base>|||confoundingTerm
+pn0000000|mood/affect|<noun>|<base>|||confoundingTerm
+pn0000000|achiness|<noun>|<base>|||confoundingTerm
+pn0000000|weight change|<noun>|<base>|||confoundingTerm
+pn0000000|pain in muscles or joints|<noun>|<base>|||confoundingTerm
+pn0000000|bp|<noun>|<base>|||confoundingTerm
+pn0000000|pulse|<noun>|<base>|||confoundingTerm
+pn0000000|posture|<noun>|<base>|||confoundingTerm
+pn0000000|C7-C1|<noun>|<base>|||confoundingTerm
+pn0000000|Spine|<noun>|<base>|||confoundingTerm
+pn0000000|c-2|<noun>|<base>|||confoundingTerm
+pn0000000|C-7|<noun>|<base>|||confoundingTerm
+pn0000000|c4-05|<noun>|<base>|||confoundingTerm
+pn0000000|exhibit no.|<noun>|<base>|||confoundingTerm
+pn0000000|panel|<noun>|<base>|||confoundingTerm
+pn0000000|glucose|<noun>|<base>|||confoundingTerm
+pn0000000|lungs|<noun>|<base>|||confoundingTerm
+pn0000000|NTND|<noun>|<base>|||confoundingTerm
+pn0000000|bowel sounds|<noun>|<base>|||confoundingTerm
+pn0000000|bs|<noun>|<base>|||confoundingTerm
+pn0000000|small bowel|<noun>|<base>|||confoundingTerm
+pn0000000|tone|<noun>|<base>|||confoundingTerm
+pn0000000|pain score|<noun>|<base>|||confoundingTerm
+pn0000000|joint stiffness|<noun>|<base>|||confoundingTerm
+pn0000000|muscle bulk and tone|<noun>|<base>|||confoundingTerm
+pn0000000|tracheal deviation|<noun>|<base>|||confoundingTerm
+pn0000000|neck stiffness|<noun>|<base>|||confoundingTerm
+pn0000000|warm|<noun>|<base>|||confoundingTerm
+pn0000000|brisk capillary refill|<noun>|<base>|||confoundingTerm
+pn0000000|rash|<noun>|<base>|||confoundingTerm
+pn0000000|femur|<noun>|<base>|||confoundingTerm
+pn0000000|take|<noun>|<base>|||confoundingTerm
+pn0000000|capsule|<noun>|<base>|||confoundingTerm
+pn0000000|refill/refills|<noun>|<base>|||confoundingTerm
+pn0000000|as directed|<noun>|<base>|||confoundingTerm
+pn0000000|dispense|<noun>|<base>|||confoundingTerm
+pn0000000|lichenification|<noun>|<base>|||confoundingTerm
+pn0000000|palpation|<noun>|<base>|||confoundingTerm
+pn0000000|masses|<noun>|<base>|||confoundingTerm
+pn0000000|percussion|<noun>|<base>|||confoundingTerm
+pn0000000|lymphatic|<noun>|<base>|||confoundingTerm
+pn0000000|thyromegaly|<noun>|<base>|||confoundingTerm
+pn0000000|rrr|<noun>|<base>|||confoundingTerm
+pn0000000|curvature|<noun>|<base>|||confoundingTerm
+pn0000000|shoes not present|<noun>|<base>|||confoundingTerm
+pn0000000|pulses|<noun>|<base>|||confoundingTerm
+pn0000000|icd|<noun>|<base>|||confoundingTerm
+pn0000000|x-ray|<noun>|<base>|||confoundingTerm
+pn0000000|x ray|<noun>|<base>|||confoundingTerm
+pn0000000|xray|<noun>|<base>|||confoundingTerm
+pn0000000|f/c|<noun>|<base>|||confoundingTerm
+pn0000000|measured in|<noun>|<base>|||confoundingTerm
+pn0000000|degree of disability|<noun>|<base>|||confoundingTerm
+pn0000000|increased neck apin|<noun>|<base>|||confoundingTerm
+pn0000000|pec minor|<noun>|<base>|||confoundingTerm
+pn0000000|pectoralis minor|<noun>|<base>|||confoundingTerm
+pn0000000|each|<noun>|<base>|||confoundingTerm
+pn0000000|10x|<noun>|<base>|||confoundingTerm
+pn0000000|reps|<noun>|<base>|||confoundingTerm
+pn0000000|severe increase in in pain|<noun>|<base>|||confoundingTerm
+pn0000000|causes|<noun>|<base>|||confoundingTerm
+pn0000000|spasms|<noun>|<base>|||confoundingTerm
+pn0000000|visible|<noun>|<base>|||confoundingTerm
+pn0000000|Romberg's|<noun>|<base>|||confoundingTerm
+pn0000000|Romberg's test|<noun>|<base>|||confoundingTerm
+pn0000000|lumbar facet loading|<noun>|<base>|||confoundingTerm
+pn0000000|conjunctivae|<noun>|<base>|||confoundingTerm
+pn0000000|swelling|<noun>|<base>|||confoundingTerm
+pn0000000|muscle bulk|<noun>|<base>|||confoundingTerm
+pn0000000|alignment|<noun>|<base>|||confoundingTerm
+pn0000000|fevers or chills|<noun>|<base>|||confoundingTerm
+pn0000000|completed|<noun>|<base>|||confoundingTerm
+pn0000000|remembered|<noun>|<base>|||confoundingTerm
+pn0000000|performed|<noun>|<base>|||confoundingTerm
+pn0000000|efficiency|<noun>|<base>|||confoundingTerm
+pn0000000|minutes|<noun>|<base>|||confoundingTerm
+pn0000000|q uestions|<noun>|<base>|||confoundingTerm
+pn0000000|rate|<noun>|<base>|||confoundingTerm
+pn0000000|auscultation|<noun>|<base>|||confoundingTerm
+pn0000000|longer|<noun>|<base>|||confoundingTerm
+pn0000000|description|<noun>|<base>|||confoundingTerm
+pn0000000|hearing|<noun>|<base>|||confoundingTerm

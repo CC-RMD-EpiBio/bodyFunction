@@ -1,0 +1,74 @@
+#
+# Pain LRAGR
+#
+#   cui|key|pos|infl|uninflect|citation|semanticType|
+#
+C0233131|strength of uterine contractions|<noun>|<base>|Strength of uterine contractions|Strength of uterine contractions|BodyStrength|SNOMEDCT_US|251680002|n|0||||SY|C0233131|A2.3.1
+C0030193|pain|<noun>|<base>|pain|pain|Pain|
+C0030193|pain in|<noun>|<base>|pain|pain|Pain|
+C4551516|hip pain|<noun>|<base>|hip pain|hip pain|Pain
+C4551516|pain in the hip|<noun>|<base>|hip pain|hip pain|Pain
+C4551516|pain in hip|<noun>|<base>|hip pain|hip pain|Pain
+C4551516|pain, hip|<noun>|<base>|hip pain|hip pain|Pain
+C0030193|painful|<noun>|<base>|pain|pain|Pain|
+C0030193|part hurts|<noun>|<base>|pain|pain|Pain|
+C0030193|dolar|<noun>|<base>|pain|pain|Pain|
+C0030193|unspecified pain|<noun>|<base>|pain|pain|Pain|
+C0030193|pain observation|<noun>|<base>|pain|pain|Pain|
+C0030193|pain observations|<noun>|<base>|pain|pain|Pain|
+C0234238|ache|<noun>|<base>|ache|ache|Pain
+C0234238|aches|<noun>|<base>|ache|ache|Pain
+C0234238|ache|<noun>|<base>|ache|ache|Pain
+C0234238|aches and pain|<noun>|<base>|ache|ache|Pain
+C0234238|aching pain|<noun>|<base>|ache|ache|Pain
+C0234238|aching|<noun>|<base>|ache|ache|Pain
+C0234238|pain aching|<noun>|<base>|ache|ache|Pain
+C0234238|aching sensation|<noun>|<base>|ache|ache|Pain
+C0234238|hurts|<noun>|<base>|ache|ache|Pain
+C0018681|headache|<noun>|<base>|ache|ache|Pain:bodyLocation
+C0040460|toothache|<noun>|<base>|ache|ache|Pain:bodyLocation
+C0234238|stomach ache|<noun>|<base>|ache|ache|Pain:bodyLocation
+C0235309|stomachache|<noun>|<base>|ache|ache|Pain:bodyLocation
+C0235309|upset stomach|<noun>|<base>|ache|ache|Pain:bodyLocation
+C0234233|sore to touch|<noun>|<base>|sore to touch|Pain
+C0234233|sore, painful|<noun>|<base>|sore to touch|Pain
+C0234233|sore painful|<noun>|<base>|sore to touch|Pain
+C0234233|soreness|<noun>|<base>|sore to touch|Pain
+C0234233|tenderness|<noun>|<base>|sore to touch|Pain
+C0234233|tender pain|<noun>|<base>|sore to touch|Pain
+C0030193|agony|<noun>|<base>|pain|pain|Pain|
+C0030193|agononizing pain|<noun>|<base>|pain|pain|Pain|
+C0030193|extreme pain|<noun>|<base>|pain|pain|Pain|
+C0030193|extremely painful|<noun>|<base>|pain|pain|Pain|
+C0030193|severe pain|<noun>|<base>|pain|pain|Pain|
+C0030193|severely painful|<noun>|<base>|pain|pain|Pain|
+C0030193|excruciating|<noun>|<base>|pain|pain|Pain|
+C0030193|excruciating pain|<noun>|<base>|pain|pain|Pain|
+C0030193|dull pain|<noun>|<base>|pain|pain|Pain|
+C2365135|discomfort|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|throbbing|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|smarting|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|pricking|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|pinch|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|pinching|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|piercing pain|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|unpleasant|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|stinging|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|sting|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|stings|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|strain|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|twinge|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|burn|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|burning sensation|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|burning|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|inflamed|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|irrated|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|raw|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|sensitive|<noun>|<base>|discomfort|discomfort|Pain
+C2365135|muscle tightness|<noun>|<base>|discomfort|discomfort|Pain
+C0037011|shoulder pain|<noun>|<base>|shoulder pain|shoulder pain|Pain
+C0003862|arthralgia|<noun>|<base>|arthralgia|arthralgia|Pain
+C0003862|joint pain|<noun>|<base>|arthralgia|arthralgia|Pain
+C0003862|pain in the joints|<noun>|<base>|arthralgia|arthralgia|Pain
+C0003862|pain in the joints|<noun>|<base>|arthralgia|arthralgia|Pain
+C0518087|pain level|<noun>|<base>|pain level|pain level|Pain

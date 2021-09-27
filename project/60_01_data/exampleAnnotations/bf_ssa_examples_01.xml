@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/divitag2/work/softwareRepos/framework-legacy/01_Sandboxes/600_BodyFunction/60_01_data/examples/bf_ssa_examples_01.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+
+<Node id="2"/>Nose Nose normal
+Mouth/Throat. Oropharynx is clear and moist. No oropharyngeal exudate
+<Node id="89"/>Eyes<Node id="93"/> EOMI<Node id="98"/>
+
+<Node id="100"/>Abdominal Soft  Bowel sounds are normal No tenderness.
+<Node id="155"/>Musculoskeletal<Node id="170"/>: <Node id="172"/> Can raise right arm above head<Node id="203"/> <Node id="204"/>but need extra effort.
+Neurological: He is alert and oriented to person, place, and time
+Skin. Skin is warm and dry
+<Node id="320"/>Pupils<Node id="326"/> we <Node id="330"/>equal, central, circular, and<Node id="359"/> reacting to light<Node id="377"/>.<Node id="378"/>
+There are no cranial , ocular or cervical bruits heard<Node id="433"/>
+
+<Node id="435"/>Field of veer' Inoonsletent field defects. There is<Node id="486"/> <Node id="487"/>no <Node id="490"/>facial<Node id="496"/>
+<Node id="497"/>weakness<Node id="505"/>. Neck reveals normal range of movement.
+<Node id="546"/>Deep tendon reflexes<Node id="566"/> are <Node id="571"/>absent<Node id="577"/> in <Node id="581"/>biceps, triceps, 
+supinetore, knees, and ankles<Node id="628"/>. <Node id="630"/>Planters<Node id="638"/> are <Node id="643"/>downgoing<Node id="652"/>, 
+Patient<Node id="662"/> can walk well <Node id="677"/>on toes, heels, arid tandem.<Node id="705"/>
+
+<Node id="707"/>HENT:
+Head: Normocephalic and atraumatic.
+Eyes: <Node id="755"/>EOM<Node id="758"/> are <Node id="763"/>normal<Node id="769"/>.<Node id="770"/> <Node id="771"/>Pupils<Node id="777"/> are<Node id="781"/> <Node id="782"/>equal, round, and<Node id="799"/> reactive to light<Node id="817"/>.<Node id="818"/>
+<Node id="819"/>Neck<Node id="823"/>: <Node id="825"/>Normal<Node id="831"/> <Node id="832"/>range of motion<Node id="847"/>.<Node id="848"/> Neck supple.
+<Node id="862"/>Motor <Node id="868"/>weakness<Node id="876"/> <Node id="877"/>RT leg and RI upper arm<Node id="900"/>; Slightly Slurred speech; <Node id="927"/>No <Node id="930"/>facial<Node id="936"/> <Node id="937"/>weakness<Node id="945"/>;<Node id="946"/> <Node id="947"/>
+
+<Node id="949"/>HEENT: Normocephalic, atraumatic.<Node id="982"/> <Node id="983"/>Pupils<Node id="989"/> <Node id="990"/>equal, round and <Node id="1007"/>reactive to ligh<Node id="1023"/>t<Node id="1024"/>
+<Node id="1025"/>E0Ms<Node id="1029"/> <Node id="1030"/>intact<Node id="1036"/> <Node id="1037"/>Oropharynx clear. 
+No weight change, generally healthy,<Node id="1092"/> <Node id="1093"/>no changein<Node id="1104"/> <Node id="1105"/>strength<Node id="1113"/> or exercise tolerance.
+Cranial nerves 2-12 2-12 grossly intact.<Node id="1177"/> No motor or sensory deficits.
+1: fields full to confrontation. <Node id="1241"/>PERRLA<Node id="1247"/>, <Node id="1249"/>5 mm<Node id="1253"/> <Node id="1254"/>pupils<Node id="1260"/>.<Node id="1261"/>
+
+<Node id="1263"/>Speech is fluent, slight dysarthria<Node id="1298"/>
+
+<Node id="1300"/>CNS: <Node id="1305"/>PERRL<Node id="1310"/>, <Node id="1312"/>EOMI<Node id="1316"/>, no nystagmus, no field cuts, no ptosis,<Node id="1357"/> sensation to touch/pin<Node id="1380"/>: <Node id="1382"/>intact<Node id="1388"/>,
+eye closure equal, no facial asymmetry, hearing is intact to finger rub, elevates palate
+symmetrically,<Node id="1493"/> <Node id="1494"/>tongue midline<Node id="1508"/>, nlstrength of head flexion/extension/turns/shoulder shrug
+
+<Node id="1569"/>Muscle strength<Node id="1584"/>: <Node id="1586"/>4<Node id="1587"/> at <Node id="1591"/>right side<Node id="1601"/>,<Node id="1602"/> 0<Node id="1604"/> at<Node id="1607"/> left UE<Node id="1615"/>. <Node id="1617"/>No movements<Node id="1629"/> 'observed at<Node id="1642"/> left LE<Node id="1650"/>.
+<Node id="1652"/>DTR<Node id="1655"/>: <Node id="1657"/>0-1 <Node id="1661"/>at<Node id="1663"/> left side<Node id="1673"/>, and<Node id="1678"/> 'I+<Node id="1682"/> at<Node id="1685"/> right side<Node id="1696"/>.
+<Node id="1698"/>Plantar reflex<Node id="1712"/>: <Node id="1714"/>Extensor response<Node id="1731"/> <Node id="1732"/>bilaterally
+
+<Node id="1745"/>8trenth:
+ UERlvu : 5/5  a*ERmva' uvaperk: wnl but hip alurava'e3kv  ua  o/5 
+ Patient believes he will be at full strength within aurave; afivlue .<Node id="1892"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="66" Type="Body Function Context" StartNode="1569" EndNode="1584">
+<Feature>
+  <Name className="java.lang.String">Context Type</Name>
+  <Value className="java.lang.String">BF Type: Strength</Value>
+</Feature>
+</Annotation>
+<Annotation Id="114" Type="Possible Body Function" StartNode="1745" EndNode="1892">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="BodyFunction">
+<Annotation Id="7" Type="Qualifier" StartNode="93" EndNode="98">
+</Annotation>
+<Annotation Id="8" Type="Body location" StartNode="89" EndNode="93">
+</Annotation>
+<Annotation Id="9" Type="Body Function" StartNode="89" EndNode="98">
+</Annotation>
+<Annotation Id="10" Type="Qualifier" StartNode="172" EndNode="203">
+</Annotation>
+<Annotation Id="11" Type="Body Function Type" StartNode="155" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Body location" StartNode="330" EndNode="377">
+</Annotation>
+<Annotation Id="13" Type="Body Function Type" StartNode="359" EndNode="377">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Body location" StartNode="320" EndNode="326">
+</Annotation>
+<Annotation Id="15" Type="Body Function" StartNode="320" EndNode="378">
+</Annotation>
+<Annotation Id="16" Type="Body location" StartNode="487" EndNode="505">
+</Annotation>
+<Annotation Id="17" Type="Body Function Type" StartNode="497" EndNode="505">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Body Function Type" StartNode="571" EndNode="577">
+</Annotation>
+<Annotation Id="19" Type="Body Function Type" StartNode="546" EndNode="566">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Body location" StartNode="581" EndNode="628">
+</Annotation>
+<Annotation Id="21" Type="Body Function" StartNode="546" EndNode="628">
+</Annotation>
+<Annotation Id="22" Type="Qualifier" StartNode="643" EndNode="652">
+</Annotation>
+<Annotation Id="23" Type="Body location" StartNode="630" EndNode="638">
+</Annotation>
+<Annotation Id="24" Type="Body Function Type" StartNode="630" EndNode="638">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Body location" StartNode="662" EndNode="677">
+</Annotation>
+<Annotation Id="26" Type="Body location" StartNode="755" EndNode="758">
+</Annotation>
+<Annotation Id="27" Type="Qualifier" StartNode="763" EndNode="769">
+</Annotation>
+<Annotation Id="28" Type="Body Function Type" StartNode="755" EndNode="758">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Body location" StartNode="781" EndNode="817">
+</Annotation>
+<Annotation Id="30" Type="Body Function Type" StartNode="799" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Body Function Type" StartNode="832" EndNode="847">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 364564000 (ROM)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Qualifier" StartNode="825" EndNode="831">
+</Annotation>
+<Annotation Id="33" Type="Body location" StartNode="819" EndNode="823">
+</Annotation>
+<Annotation Id="34" Type="Body Function" StartNode="819" EndNode="848">
+</Annotation>
+<Annotation Id="35" Type="Body Function" StartNode="755" EndNode="770">
+</Annotation>
+<Annotation Id="36" Type="Body location" StartNode="771" EndNode="777">
+</Annotation>
+<Annotation Id="37" Type="Body Function" StartNode="770" EndNode="818">
+</Annotation>
+<Annotation Id="38" Type="Body location" StartNode="877" EndNode="900">
+</Annotation>
+<Annotation Id="39" Type="Body Function Type" StartNode="868" EndNode="876">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Body Function" StartNode="868" EndNode="900">
+</Annotation>
+<Annotation Id="41" Type="Qualifier" StartNode="930" EndNode="945">
+</Annotation>
+<Annotation Id="42" Type="Body Function Type" StartNode="937" EndNode="945">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Body location" StartNode="930" EndNode="936">
+</Annotation>
+<Annotation Id="44" Type="Body Function" StartNode="927" EndNode="946">
+</Annotation>
+<Annotation Id="45" Type="Body Function" StartNode="155" EndNode="204">
+</Annotation>
+<Annotation Id="46" Type="Body Function" StartNode="486" EndNode="505">
+</Annotation>
+<Annotation Id="47" Type="Body Function" StartNode="486" EndNode="652">
+</Annotation>
+<Annotation Id="48" Type="Qualifier" StartNode="990" EndNode="1024">
+</Annotation>
+<Annotation Id="49" Type="Body Function Type" StartNode="1007" EndNode="1023">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="Body location" StartNode="983" EndNode="989">
+</Annotation>
+<Annotation Id="51" Type="Body Function" StartNode="982" EndNode="1024">
+</Annotation>
+<Annotation Id="52" Type="Qualifier" StartNode="1030" EndNode="1036">
+</Annotation>
+<Annotation Id="53" Type="Body location" StartNode="1025" EndNode="1029">
+</Annotation>
+<Annotation Id="54" Type="Body Function Type" StartNode="1025" EndNode="1029">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="Body Function" StartNode="1025" EndNode="1037">
+</Annotation>
+<Annotation Id="56" Type="Qualifier" StartNode="1092" EndNode="1104">
+</Annotation>
+<Annotation Id="57" Type="Body Function Type" StartNode="1105" EndNode="1113">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="Body Function" StartNode="1093" EndNode="1113">
+</Annotation>
+<Annotation Id="63" Type="Qualifier" StartNode="1493" EndNode="1508">
+</Annotation>
+<Annotation Id="64" Type="Body Function Type" StartNode="1494" EndNode="1508">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Body Function" StartNode="1494" EndNode="1508">
+</Annotation>
+<Annotation Id="69" Type="Qualifier" StartNode="1586" EndNode="1587">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="Qualifier" StartNode="1602" EndNode="1604">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="Qualifier" StartNode="1617" EndNode="1629">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="Body location" StartNode="1591" EndNode="1601">
+</Annotation>
+<Annotation Id="73" Type="Body location" StartNode="1642" EndNode="1650">
+</Annotation>
+<Annotation Id="74" Type="Body location" StartNode="1607" EndNode="1615">
+</Annotation>
+<Annotation Id="75" Type="Body location" StartNode="1652" EndNode="1655">
+<Feature>
+  <Name className="java.lang.String">Context Type</Name>
+  <Value className="java.lang.String">BF Type: Reflexes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Qualifier" StartNode="1657" EndNode="1661">
+</Annotation>
+<Annotation Id="77" Type="Body location" StartNode="1663" EndNode="1673">
+</Annotation>
+<Annotation Id="78" Type="Qualifier" StartNode="1678" EndNode="1682">
+</Annotation>
+<Annotation Id="79" Type="Body location" StartNode="1685" EndNode="1696">
+</Annotation>
+<Annotation Id="80" Type="Body Function" StartNode="1698" EndNode="1712">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="Qualifier" StartNode="1714" EndNode="1731">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="Body location" StartNode="1732" EndNode="1892">
+</Annotation>
+<Annotation Id="83" Type="Body Function" StartNode="1678" EndNode="1696">
+</Annotation>
+<Annotation Id="84" Type="Body Function" StartNode="1617" EndNode="1650">
+</Annotation>
+<Annotation Id="85" Type="Body Function" StartNode="1602" EndNode="1615">
+</Annotation>
+<Annotation Id="86" Type="Body Function" StartNode="1586" EndNode="1601">
+</Annotation>
+<Annotation Id="87" Type="Body Function" StartNode="705" EndNode="1177">
+</Annotation>
+<Annotation Id="88" Type="Qualifier" StartNode="571" EndNode="577">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="Qualifier" StartNode="782" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="90" Type="Qualifier" StartNode="862" EndNode="876">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="Qualifier" StartNode="1305" EndNode="1310">
+</Annotation>
+<Annotation Id="95" Type="Body Function" StartNode="1312" EndNode="1316">
+</Annotation>
+<Annotation Id="97" Type="Body Function Type" StartNode="1382" EndNode="1388">
+</Annotation>
+<Annotation Id="98" Type="Body Function" StartNode="1357" EndNode="1380">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Body Function" StartNode="490" EndNode="496">
+</Annotation>
+<Annotation Id="100" Type="Body Function" StartNode="490" EndNode="505">
+</Annotation>
+<Annotation Id="101" Type="Body Function" StartNode="490" EndNode="505">
+</Annotation>
+<Annotation Id="102" Type="Qualifier" StartNode="490" EndNode="505">
+</Annotation>
+<Annotation Id="103" Type="Qualifier" StartNode="1312" EndNode="1316">
+</Annotation>
+<Annotation Id="104" Type="Qualifier" StartNode="1382" EndNode="1388">
+</Annotation>
+<Annotation Id="107" Type="Qualifier" StartNode="1249" EndNode="1253">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="108" Type="Body Function Type" StartNode="1241" EndNode="1249">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 87572000 (Reflex)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="109" Type="Body location" StartNode="1241" EndNode="1247">
+</Annotation>
+<Annotation Id="110" Type="Body location" StartNode="1254" EndNode="1260">
+</Annotation>
+<Annotation Id="111" Type="Body Function" StartNode="1241" EndNode="1260">
+</Annotation>
+<Annotation Id="112" Type="Body Function" StartNode="1241" EndNode="1247">
+</Annotation>
+<Annotation Id="113" Type="Qualifier" StartNode="1241" EndNode="1247">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="2" EndNode="98">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="100" EndNode="433">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="435" EndNode="705">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="707" EndNode="947">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="949" EndNode="1261">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1263" EndNode="1298">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1300" EndNode="1892">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

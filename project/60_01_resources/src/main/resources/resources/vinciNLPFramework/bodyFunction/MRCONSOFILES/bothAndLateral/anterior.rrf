@@ -1,0 +1,993 @@
+C0003151|ENG|S|L2832081|PF|S3476060|Y|A3627789|762779019|31636006||SNOMEDCT_US|FN|31636006|Anterior chamber of eye structure (body structure)|9|N||
+C0003153|ENG|S|L2832274|PF|S3477158|Y|A3628961|763521012|32259006||SNOMEDCT_US|FN|32259006|Anterior eyeball segment structure (body structure)|9|N||
+C0014258|ENG|S|L2832073|PF|S3276967|Y|A3415034|1198936010|373636009||SNOMEDCT_US|FN|373636009|Endothelium of anterior chamber of eye (body structure)|9|N||
+C0020653|ENG|S|L2832312|PF|S3559400|Y|A3722347|779925017|42967006||SNOMEDCT_US|FN|42967006|Structure of anterior hypothalamic nucleus (body structure)|9|N||
+C0078960|ENG|S|L2832128|PF|S3559365|Y|A3722312|832408017|895007||SNOMEDCT_US|FN|895007|Structure of anterior cruciate ligament of knee joint (body structure)|9|N||
+C0085816|ENG|S|L2831634|PF|S3559600|Y|A3722548|807846013|68053000||SNOMEDCT_US|FN|68053000|Structure of anterior tibial artery (body structure)|9|N||
+C0149560|ENG|S|L2831577|PF|S3559339|Y|A3722286|798815010|59920002||SNOMEDCT_US|FN|59920002|Structure of anterior choroidal artery (body structure)|9|N||
+C0149561|ENG|S|L2831575|PF|S3559330|Y|A3722277|799099011|60176003||SNOMEDCT_US|FN|60176003|Structure of anterior cerebral artery (body structure)|9|N||
+C0149562|ENG|S|L2831585|PF|S3559361|Y|A3722308|821246017|8012006||SNOMEDCT_US|FN|8012006|Structure of anterior communicating artery (body structure)|9|N||
+C0149583|ENG|S|L2832242|PF|S3278843|Y|A3416982|810834018|70745004||SNOMEDCT_US|FN|70745004|Entire anterior pontomesencephalic vein (body structure)|9|N||
+C0149603|ENG|S|L2831632|PF|S3559548|Y|A3722496|744591018|17388009||SNOMEDCT_US|FN|17388009|Structure of anterior spinal artery (body structure)|9|N||
+C0152281|ENG|S|L2832309|PF|S3559398|Y|A3722345|761398016|30399003||SNOMEDCT_US|FN|30399003|Structure of anterior horn of lateral ventricle (body structure)|9|N||
+C0152335|ENG|S|L2832111|PF|S3559350|Y|A3722297|802092015|62872008||SNOMEDCT_US|FN|62872008|Structure of anterior commissure (body structure)|9|N||
+C0152342|ENG|S|L2832025|PF|S3376083|Y|A3520180|760990010|3003007||SNOMEDCT_US|FN|3003007|Internal capsule anterior limb structure (body structure)|9|N||
+C0152385|ENG|S|L2832379|PF|S3559545|Y|A3722493|805755016|66171000||SNOMEDCT_US|FN|66171000|Structure of anterior semilunar lobule (body structure)|9|N||
+C0175276|ENG|S|L6394170|PF|S7332402|Y|A11726018|2638668013|3295003||SNOMEDCT_US|FN|3295003|Structure of ventral anterior nucleus of thalamus (body structure)|9|N||
+C0206329|ENG|S|L2832369|PF|S3478212|Y|A3630089|778777014|41933003||SNOMEDCT_US|FN|41933003|Anterior longitudinal ligament structure (body structure)|9|N||
+C0222131|ENG|S|L2832413|PF|S3546038|Y|A3708099|672443014|11584001||SNOMEDCT_US|FN|11584001|Skin structure of anterior portion of neck (body structure)|9|N||
+C0222147|ENG|S|L2831861|PF|S3546032|Y|A3708093|747285011|19306000||SNOMEDCT_US|FN|19306000|Skin structure of anterior axillary fold (body structure)|9|N||
+C0222153|ENG|S|L2831864|PF|S3546034|Y|A3708095|647165016|113181008||SNOMEDCT_US|FN|113181008|Skin structure of anterior axillary line (body structure)|9|N||
+C0222187|ENG|S|L2832106|PF|S3546036|Y|A3708097|834259017|91030001||SNOMEDCT_US|FN|91030001|Skin structure of anterior commissure of labia majora (body structure)|9|N||
+C0222207|ENG|S|L2831468|PF|S3546044|Y|A3708105|783280018|45981001||SNOMEDCT_US|FN|45981001|Skin structure of anterior surface of upper arm (body structure)|9|N||
+C0222217|ENG|S|L2832290|PF|S3546040|Y|A3708101|810628011|70559009||SNOMEDCT_US|FN|70559009|Skin structure of anterior surface of forearm (body structure)|9|N||
+C0222270|ENG|S|L2832440|PF|S3546042|Y|A3708103|800289017|61248009||SNOMEDCT_US|FN|61248009|Skin structure of anterior surface of thigh (body structure)|9|N||
+C0222280|ENG|S|L2832357|PF|S3545472|Y|A3707493|756118014|25763004||SNOMEDCT_US|FN|25763004|Skin of anterior surface of lower leg (body structure)|9|N||
+C0222397|ENG|S|L2832415|PF|S3573330|Y|A3736549|796141014|5751008||SNOMEDCT_US|FN|5751008|Subcutaneous tissue structure of anterior portion of neck (body structure)|9|N||
+C0222415|ENG|S|L2831863|PF|S3573324|Y|A3736543|800375013|61325001||SNOMEDCT_US|FN|61325001|Subcutaneous tissue structure of anterior axillary fold (body structure)|9|N||
+C0222422|ENG|S|L2831866|PF|S3573326|Y|A3736545|778651011|41820005||SNOMEDCT_US|FN|41820005|Subcutaneous tissue structure of anterior axillary line (body structure)|9|N||
+C0222453|ENG|S|L2832108|PF|S3573328|Y|A3736547|761864019|30813007||SNOMEDCT_US|FN|30813007|Subcutaneous tissue structure of anterior commissure of labia majora (body structure)|9|N||
+C0222472|ENG|S|L2831470|PF|S3573338|Y|A3736557|804665012|65190002||SNOMEDCT_US|FN|65190002|Subcutaneous tissue structure of anterior surface of upper arm (body structure)|9|N||
+C0222482|ENG|S|L2832291|PF|S3573332|Y|A3736551|784769010|47323007||SNOMEDCT_US|FN|47323007|Subcutaneous tissue structure of anterior surface of forearm (body structure)|9|N||
+C0222536|ENG|S|L2832446|PF|S3573336|Y|A3736555|765191013|33750000||SNOMEDCT_US|FN|33750000|Subcutaneous tissue structure of anterior surface of thigh (body structure)|9|N||
+C0222764|ENG|S|L2832388|PF|S3559581|Y|A3722529|819214015|7829005||SNOMEDCT_US|FN|7829005|Structure of anterior surface of manubrium (body structure)|9|N||
+C0222773|ENG|S|L2831952|PF|S3559561|Y|A3722509|782048018|44871006||SNOMEDCT_US|FN|44871006|Structure of anterior surface of body of sternum (body structure)|9|N||
+C0223108|ENG|S|L2831449|PF|S3559263|Y|A3722210|767118017|35475002||SNOMEDCT_US|FN|35475002|Structure of anterior arch of atlas (body structure)|9|N||
+C0223635|ENG|S|L13776257|PF|S16796139|Y|A27764365|3331519016|30663000||SNOMEDCT_US|FN|30663000|Structure of anterior glenoid labrum (body structure)|9|N||
+C0223644|ENG|S|L2832314|PF|S3559554|Y|A3722502|776063014|39583001||SNOMEDCT_US|FN|39583001|Structure of anterior superior iliac spine (body structure)|9|N||
+C0223645|ENG|S|L2832313|PF|S3559405|Y|A3722352|749856018|20650001||SNOMEDCT_US|FN|20650001|Structure of anterior inferior iliac spine (body structure)|9|N||
+C0223925|ENG|S|L2831782|PF|S3559265|Y|A3722212|781101016|4402002||SNOMEDCT_US|FN|4402002|Structure of anterior articular surface for talus (body structure)|9|N||
+C0223936|ENG|S|L2831780|PF|S3559318|Y|A3722265|745974015|18505009||SNOMEDCT_US|FN|18505009|Structure of anterior calcaneal articular surface of talus (body structure)|9|N||
+C0224100|ENG|S|L2832019|PF|S3559518|Y|A3722466|802821019|63528005||SNOMEDCT_US|FN|63528005|Structure of anterior rectus capitis muscle (body structure)|9|N||
+C0224138|ENG|S|L2831852|PF|S3559285|Y|A3722232|835035011|91671008||SNOMEDCT_US|FN|91671008|Structure of anterior auricularis muscle (body structure)|9|N||
+C0224156|ENG|S|L2831910|PF|S3559300|Y|A3722247|786543016|48921004||SNOMEDCT_US|FN|48921004|Structure of anterior belly of digastric muscle (body structure)|9|N||
+C0224173|ENG|S|L2832401|PF|S3569479|Y|A3732594|788578013|50755001||SNOMEDCT_US|FN|50755001|Structure of scalenus anterior muscle (body structure)|9|N||
+C0224333|ENG|S|L6396015|PF|S7331505|Y|A11730558|2638847014|58159000||SNOMEDCT_US|FN|58159000|Structure of anterior cervical intertransversarius muscle (body structure)|9|N||
+C0224349|ENG|S|L2832402|PF|S3569620|Y|A3732735|745757014|18346003||SNOMEDCT_US|FN|18346003|Structure of serratus anterior muscle (body structure)|9|N||
+C0224549|ENG|S|L2832288|PF|S3559390|Y|A3722337|818408015|77564006||SNOMEDCT_US|FN|77564006|Structure of anterior fontanel of skull (body structure)|9|N||
+C0224571|ENG|S|L2832336|PF|S3559419|Y|A3722367|795287015|56741003||SNOMEDCT_US|FN|56741003|Structure of anterior intraoccipital synchondrosis (body structure)|9|N||
+C0224582|ENG|S|L2831821|PF|S3559274|Y|A3722221|789719016|51782004||SNOMEDCT_US|FN|51782004|Structure of anterior atlantooccipital membrane (body structure)|9|N||
+C0224841|ENG|S|L2832003|PF|S3570389|Y|A3733511|780785013|43737004||SNOMEDCT_US|FN|43737004|Structure of subtendinous bursa of anterior tibial muscle (body structure)|9|N||
+C0224947|ENG|S|L2832404|PF|S17287855|Y|A28408101|3451484012|49738002||SNOMEDCT_US|FN|49738002|Tendon structure of anterior tibial muscle (body structure)|9|N||
+C0224948|ENG|S|L2832403|PF|S3559606|Y|A3722554|776445018|39903009||SNOMEDCT_US|FN|39903009|Structure of anterior tibial muscle tendon sheath (body structure)|9|N||
+C0225034|ENG|S|L2832372|PF|S3559550|Y|A3722498|829683010|368166004||SNOMEDCT_US|FN|368166004|Structure of anterior sternoclavicular ligament (body structure)|9|N||
+C0225132|ENG|S|L2832371|PF|S3559478|Y|A3722426|816965016|76264001||SNOMEDCT_US|FN|76264001|Structure of anterior meniscofemoral ligament (body structure)|9|N||
+C0225135|ENG|S|L2832280|PF|S3559445|Y|A3722393|698915013|302774007||SNOMEDCT_US|FN|302774007|Structure of anterior ligament of head of fibula (body structure)|9|N||
+C0225148|ENG|S|L2832374|PF|S3559611|Y|A3722559|765155018|33718005||SNOMEDCT_US|FN|33718005|Structure of anterior tibiofibular ligament (body structure)|9|N||
+C0225164|ENG|S|L2832343|PF|S3559614|Y|A3722562|810273014|70239006||SNOMEDCT_US|FN|70239006|Structure of anterior tibiotalar part of medial ligament of talocrural joint (body structure)|9|N||
+C0225166|ENG|S|L2832373|PF|S3559592|Y|A3722540|740993016|14719001||SNOMEDCT_US|FN|14719001|Structure of anterior talofibular ligament (body structure)|9|N||
+C0225258|ENG|S|L2832094|PF|S3562029|Y|A3725046|817622014|76856003||SNOMEDCT_US|FN|76856003|Structure of distal anterior closed space of finger (body structure)|9|N||
+C0225271|ENG|S|L2832130|PF|S3477656|Y|A3629510|761953016|30894002||SNOMEDCT_US|FN|30894002|Anterior intermuscular crural septum (body structure)|9|N||
+C0225466|ENG|S|L2832042|PF|S3559328|Y|A3722275|756780017|26357003||SNOMEDCT_US|FN|26357003|Structure of anterior cells of ethmoid sinus (body structure)|9|N||
+C0225489|ENG|S|L2832411|PF|S3559631|Y|A3722579|823962014|82521001||SNOMEDCT_US|FN|82521001|Structure of anterior wall of nasopharynx (body structure)|9|N||
+C0225507|ENG|S|L2832260|PF|S3559379|Y|A3722326|571329018|10537009||SNOMEDCT_US|FN|10537009|Structure of anterior epiglottis (body structure)|9|N||
+C0225578|ENG|S|L2832109|PF|S3559355|Y|A3722302|745788013|18374008||SNOMEDCT_US|FN|18374008|Structure of anterior commissure of larynx (body structure)|9|N||
+C0225614|ENG|S|L2831994|PF|S3291140|Y|A3429364|671523019|278375005||SNOMEDCT_US|FN|278375005|Entire right upper lobe anterior segmental bronchus (body structure)|9|N||
+C0225625|ENG|S|L2831993|PF|S3290996|Y|A3429220|656693019|264440004||SNOMEDCT_US|FN|264440004|Entire right lower lobe anterior segmental bronchus (body structure)|9|N||
+C0225636|ENG|S|L2831992|PF|S3286188|Y|A3424356|671528011|278380001||SNOMEDCT_US|FN|278380001|Entire left upper lobe anterior segmental bronchus (body structure)|9|N||
+C0225644|ENG|S|L2831991|PF|S3286049|Y|A3424214|671530013|278382009||SNOMEDCT_US|FN|278382009|Entire left lower lobe anterior segmental bronchus (body structure)|9|N||
+C0225689|ENG|S|L2832382|PF|S3559465|Y|A3722413|820886014|79797003||SNOMEDCT_US|FN|79797003|Structure of anterior margin of lung (body structure)|9|N||
+C0225718|ENG|S|L2832378|PF|S3559537|Y|A3722485|776255017|39743006||SNOMEDCT_US|FN|39743006|Structure of anterior segment of right upper lobe of lung (body structure)|9|N||
+C0225726|ENG|S|L2831890|PF|S3559298|Y|A3722245|627080019|11098002||SNOMEDCT_US|FN|11098002|Structure of anterior basal segment of right lower lobe of lung (body structure)|9|N||
+C0225742|ENG|S|L2832141|PF|S3559539|Y|A3722487|751658014|22270008||SNOMEDCT_US|FN|22270008|Structure of anterior segment of upper division of left upper lobe of lung (body structure)|9|N||
+C0225747|ENG|S|L2831888|PF|S3559296|Y|A3722243|802474018|63215004||SNOMEDCT_US|FN|63215004|Structure of anterior basal segment of left lower lobe of lung (body structure)|9|N||
+C0225821|ENG|S|L2832408|PF|S3559481|Y|A3722429|809730017|6975006||SNOMEDCT_US|FN|6975006|Structure of anterior myocardium (body structure)|9|N||
+C0225873|ENG|S|L2832334|PF|S3559509|Y|A3722457|822896010|81606001||SNOMEDCT_US|FN|81606001|Structure of anterior portion of interventricular septum (body structure)|9|N||
+C0225874|ENG|S|L2832335|PF|S3559417|Y|A3722365|796979015|58266008||SNOMEDCT_US|FN|58266008|Structure of anterior interventricular sulcus (body structure)|9|N||
+C0225887|ENG|S|L2832400|PF|S3559492|Y|A3722440|791365015|53265005||SNOMEDCT_US|FN|53265005|Structure of anterior papillary muscle of right ventricle (body structure)|9|N||
+C0225901|ENG|S|L2832353|PF|S3559489|Y|A3722437|765090011|3366005||SNOMEDCT_US|FN|3366005|Structure of anterior papillary muscle of left ventricle (body structure)|9|N||
+C0225918|ENG|S|L2831827|PF|S3565145|Y|A3728209|826543013|84654008||SNOMEDCT_US|FN|84654008|Structure of left anterior division of left branch of atrioventricular bundle (body structure)|9|N||
+C0225929|ENG|S|L2832356|PF|S3559443|Y|A3722391|760470012|29562000||SNOMEDCT_US|FN|29562000|Structure of anterior leaflet of tricuspid valve (body structure)|9|N||
+C0225939|ENG|S|L2832135|PF|S3559367|Y|A3722314|759450012|28737008||SNOMEDCT_US|FN|28737008|Structure of anterior cusp of pulmonic valve (body structure)|9|N||
+C0225950|ENG|S|L2832355|PF|S3559441|Y|A3722389|750799018|21498007||SNOMEDCT_US|FN|21498007|Structure of anterior leaflet of mitral valve (body structure)|9|N||
+C0225955|ENG|S|L2832110|PF|S3559357|Y|A3722304|574868017|191198007||SNOMEDCT_US|FN|191198007|Structure of anterior commissure of mitral valve (body structure)|9|N||
+C0225967|ENG|S|L2831414|PF|S3559351|Y|A3722298|575547019|191810003||SNOMEDCT_US|FN|191810003|Structure of anterior commissure of aortic valve (body structure)|9|N||
+C0226032|ENG|S|L2831546|PF|S3559371|Y|A3722318|798280017|59438005||SNOMEDCT_US|FN|59438005|Structure of anterior descending branch of left coronary artery (body structure)|9|N||
+C0226033|ENG|S|L2831545|PF|S3568739|Y|A3731851|808660010|68787002||SNOMEDCT_US|FN|68787002|Structure of proximal portion of anterior descending branch of left coronary artery (body structure)|9|N||
+C0226034|ENG|S|L2831540|PF|S3562065|Y|A3725086|768451018|36672000||SNOMEDCT_US|FN|36672000|Structure of distal portion of anterior descending branch of left coronary artery (body structure)|9|N||
+C0226035|ENG|S|L2831538|PF|S3561994|Y|A3725011|779988017|43023001||SNOMEDCT_US|FN|43023001|Structure of descending segment of anterior descending branch of left coronary artery (body structure)|9|N||
+C0226036|ENG|S|L2831514|PF|S3562000|Y|A3725017|781105013|44024001||SNOMEDCT_US|FN|44024001|Structure of diagonal branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C0226057|ENG|S|L2831550|PF|S3559375|Y|A3722322|806818018|67128002||SNOMEDCT_US|FN|67128002|Structure of anterior descending branch of right pulmonary artery (body structure)|9|N||
+C0226062|ENG|S|L2831499|PF|S3559294|Y|A3722241|810098016|70081006||SNOMEDCT_US|FN|70081006|Structure of anterior basal branch of right pulmonary artery (body structure)|9|N||
+C0226067|ENG|S|L2831487|PF|S3559269|Y|A3722216|747020012|19176007||SNOMEDCT_US|FN|19176007|Structure of anterior ascending branch of right pulmonary artery (body structure)|9|N||
+C0226072|ENG|S|L2831549|PF|S3559373|Y|A3722320|795709016|57121005||SNOMEDCT_US|FN|57121005|Structure of anterior descending branch of left pulmonary artery (body structure)|9|N||
+C0226074|ENG|S|L2831486|PF|S3559267|Y|A3722214|798180010|59348006||SNOMEDCT_US|FN|59348006|Structure of anterior ascending branch of left pulmonary artery (body structure)|9|N||
+C0226080|ENG|S|L2831498|PF|S3559291|Y|A3722238|810188013|70162000||SNOMEDCT_US|FN|70162000|Structure of anterior basal branch of left pulmonary artery (body structure)|9|N||
+C0226098|ENG|S|L2831563|PF|S3559314|Y|A3722261|820648015|79582003||SNOMEDCT_US|FN|79582003|Structure of anterior branch of superior thyroid artery (body structure)|9|N||
+C0226133|ENG|S|L2831493|PF|S3559276|Y|A3722223|760699013|29769007||SNOMEDCT_US|FN|29769007|Structure of anterior auricular branch of superficial temporal artery (body structure)|9|N||
+C0226140|ENG|S|L2831635|PF|S3559618|Y|A3722566|800740011|61654003||SNOMEDCT_US|FN|61654003|Structure of anterior tympanic artery (body structure)|9|N||
+C0226154|ENG|S|L2817131|PF|S3570553|Y|A3733675|783244018|45949005||SNOMEDCT_US|FN|45949005|Structure of superior anterior alveolar artery, including dental branches (body structure)|9|N||
+C0226179|ENG|S|L2831579|PF|S3559341|Y|A3722288|826820013|84883009||SNOMEDCT_US|FN|84883009|Structure of anterior ciliary artery (body structure)|9|N||
+C0226182|ENG|S|L2831587|PF|S3559363|Y|A3722310|807935014|68133001||SNOMEDCT_US|FN|68133001|Structure of anterior conjunctival artery (body structure)|9|N||
+C0226186|ENG|S|L2831610|PF|S3559382|Y|A3722329|757239018|2675006||SNOMEDCT_US|FN|2675006|Structure of anterior ethmoidal artery (body structure)|9|N||
+C0226187|ENG|S|L2831628|PF|S3559476|Y|A3722424|811955014|71754005||SNOMEDCT_US|FN|71754005|Structure of anterior meningeal artery (body structure)|9|N||
+C0226200|ENG|S|L2831400|PF|S3559647|Y|A3722595|809509011|69551001||SNOMEDCT_US|FN|69551001|Structure of anteromedial central branch of anterior communicating artery (body structure)|9|N||
+C0226201|ENG|S|L2831574|PF|S3569112|Y|A3732227|843357014|369298005||SNOMEDCT_US|FN|369298005|Structure of right anterior cerebral artery (body structure)|9|N||
+C0226202|ENG|S|L2831573|PF|S3565143|Y|A3728207|843369018|369299002||SNOMEDCT_US|FN|369299002|Structure of left anterior cerebral artery (body structure)|9|N||
+C0226203|ENG|S|L2831525|PF|S3561509|Y|A3724498|815857010|75267004||SNOMEDCT_US|FN|75267004|Structure of cortical branch of anterior cerebral artery (body structure)|9|N||
+C0226204|ENG|S|L2831531|PF|S3563169|Y|A3726223|843805019|369335007||SNOMEDCT_US|FN|369335007|Structure of frontopolar branch of anterior cerebral artery (body structure)|9|N||
+C0226205|ENG|S|L2831530|PF|S3563132|Y|A3726186|843817017|369336008||SNOMEDCT_US|FN|369336008|Structure of frontal branch of anterior cerebral artery (body structure)|9|N||
+C0226206|ENG|S|L2831533|PF|S3567321|Y|A3730413|843829014|369337004||SNOMEDCT_US|FN|369337004|Structure of orbital branch of anterior cerebral artery (body structure)|9|N||
+C0226207|ENG|S|L2831521|PF|S3560712|Y|A3723666|843841019|369338009||SNOMEDCT_US|FN|369338009|Structure of callosomarginal branch of anterior cerebral artery (body structure)|9|N||
+C0226208|ENG|S|L2831519|PF|S3560710|Y|A3723664|843853015|369339001||SNOMEDCT_US|FN|369339001|Structure of callosal branch of anterior cerebral artery (body structure)|9|N||
+C0226209|ENG|S|L2831534|PF|S3567676|Y|A3730779|843865016|369340004||SNOMEDCT_US|FN|369340004|Structure of parietal branch of anterior cerebral artery (body structure)|9|N||
+C0226210|ENG|S|L2831523|PF|S3561001|Y|A3723958|786213017|48624009||SNOMEDCT_US|FN|48624009|Structure of central branch of anterior cerebral artery (body structure)|9|N||
+C0226226|ENG|S|L2831629|PF|S3559494|Y|A3722442|843466012|369307008||SNOMEDCT_US|FN|369307008|Structure of anterior parietal artery (body structure)|9|N||
+C0226228|ENG|S|L2831633|PF|S3559594|Y|A3722542|843502013|369310001||SNOMEDCT_US|FN|369310001|Structure of anterior temporal artery (body structure)|9|N||
+C0226232|ENG|S|L2799096|PF|S3563346|Y|A3726400|824823013|83232007||SNOMEDCT_US|FN|83232007|Structure of great anterior radicular artery of Adamkiewicz (body structure)|9|N||
+C0226238|ENG|S|L2831636|PF|S3559622|Y|A3722570|809542012|69581009||SNOMEDCT_US|FN|69581009|Structure of anterior vestibular artery (body structure)|9|N||
+C0226245|ENG|S|L2831569|PF|S3559403|Y|A3722350|788178019|50395001||SNOMEDCT_US|FN|50395001|Structure of anterior inferior cerebellar artery (body structure)|9|N||
+C0226304|ENG|S|L2831625|PF|S3559532|Y|A3722480|809713019|69735007||SNOMEDCT_US|FN|69735007|Structure of anterior segment artery of liver (body structure)|9|N||
+C0226325|ENG|S|L2831566|PF|S3559326|Y|A3722273|741627018|1502004||SNOMEDCT_US|FN|1502004|Structure of anterior cecal artery (body structure)|9|N||
+C0226337|ENG|S|L2831591|PF|S3559377|Y|A3722324|749147011|202009||SNOMEDCT_US|FN|202009|Structure of anterior division of renal artery (body structure)|9|N||
+C0226340|ENG|S|L2831562|PF|S3571842|Y|A3734970|667620019|274822009||SNOMEDCT_US|FN|274822009|Structure of upper anterior segmental branch of renal artery (body structure)|9|N||
+C0226342|ENG|S|L2831561|PF|S3565675|Y|A3728743|667825014|275005004||SNOMEDCT_US|FN|275005004|Structure of lower anterior segmental branch of renal artery (body structure)|9|N||
+C0226423|ENG|S|L2831582|PF|S3559343|Y|A3722290|762459011|31348002||SNOMEDCT_US|FN|31348002|Structure of anterior circumflex humeral artery (body structure)|9|N||
+C0226431|ENG|S|L2831583|PF|S3559345|Y|A3722292|829538019|368154005||SNOMEDCT_US|FN|368154005|Structure of anterior circumflex ulnar artery (body structure)|9|N||
+C0226450|ENG|S|L2831559|PF|S3559526|Y|A3722474|745697015|18297008||SNOMEDCT_US|FN|18297008|Structure of anterior scrotal branch of external pudendal artery (body structure)|9|N||
+C0226451|ENG|S|L2831558|PF|S3559426|Y|A3722374|820422015|79379009||SNOMEDCT_US|FN|79379009|Structure of anterior labial branch of external pudendal artery (body structure)|9|N||
+C0226483|ENG|S|L2831631|PF|S3569114|Y|A3732229|601112018|215013000||SNOMEDCT_US|FN|215013000|Structure of right anterior tibial artery (body structure)|9|N||
+C0226484|ENG|S|L2831624|PF|S3565147|Y|A3728211|601226016|215116005||SNOMEDCT_US|FN|215116005|Structure of left anterior tibial artery (body structure)|9|N||
+C0226485|ENG|S|L2831627|PF|S3559463|Y|A3722411|794497017|56030005||SNOMEDCT_US|FN|56030005|Structure of anterior malleolar artery (body structure)|9|N||
+C0226486|ENG|S|L2831623|PF|S3559439|Y|A3722387|786311017|48712007||SNOMEDCT_US|FN|48712007|Structure of anterior lateral malleolar artery (body structure)|9|N||
+C0226487|ENG|S|L2831626|PF|S3566141|Y|A3729212|744808010|17500001||SNOMEDCT_US|FN|17500001|Structure of medial anterior malleolar artery (body structure)|9|N||
+C0226490|ENG|S|L2831630|PF|S3559520|Y|A3722468|798715015|59830005||SNOMEDCT_US|FN|59830005|Structure of anterior recurrent tibial artery (body structure)|9|N||
+C0226527|ENG|S|L2831840|PF|S3559283|Y|A3722230|796904012|58199002||SNOMEDCT_US|FN|58199002|Structure of anterior auricular vein (body structure)|9|N||
+C0226545|ENG|S|L2832345|PF|S3559423|Y|A3722371|539355012|158670005||SNOMEDCT_US|FN|158670005|Structure of anterior jugular vein (body structure)|9|N||
+C0226561|ENG|S|L2832453|PF|S3559620|Y|A3722568|783949019|46584009||SNOMEDCT_US|FN|46584009|Structure of anterior vertebral vein (body structure)|9|N||
+C0226587|ENG|S|L2832047|PF|S3559332|Y|A3722279|793465011|55155007||SNOMEDCT_US|FN|55155007|Structure of anterior cerebral vein (body structure)|9|N||
+C0226627|ENG|S|L2832454|PF|S3559625|Y|A3722573|530949017|151097005||SNOMEDCT_US|FN|151097005|Structure of anterior vestibular vein (body structure)|9|N||
+C0226638|ENG|S|L2832328|PF|S3559411|Y|A3722358|828437015|368063005||SNOMEDCT_US|FN|368063005|Structure of anterior intercostal vein (body structure)|9|N||
+C0226662|ENG|S|L2832029|PF|S3559320|Y|A3722267|579040015|194996006||SNOMEDCT_US|FN|194996006|Structure of anterior cardiac vein (body structure)|9|N||
+C0226673|ENG|S|L2831990|PF|S3559312|Y|A3722259|783836013|46482006||SNOMEDCT_US|FN|46482006|Structure of anterior branch of superior right pulmonary vein (body structure)|9|N||
+C0226680|ENG|S|L2831884|PF|S3559289|Y|A3722236|818950014|78052006||SNOMEDCT_US|FN|78052006|Structure of anterior basal branch of inferior right pulmonary vein (body structure)|9|N||
+C0226684|ENG|S|L2831985|PF|S3559310|Y|A3722257|775944016|39484005||SNOMEDCT_US|FN|39484005|Structure of anterior branch of superior left pulmonary vein (body structure)|9|N||
+C0226690|ENG|S|L2831883|PF|S3559287|Y|A3722234|766724013|35120000||SNOMEDCT_US|FN|35120000|Structure of anterior basal branch of inferior left pulmonary vein (body structure)|9|N||
+C0226819|ENG|S|L2832435|PF|S3559530|Y|A3722478|828875011|86581002||SNOMEDCT_US|FN|86581002|Structure of anterior scrotal vein (body structure)|9|N||
+C0226820|ENG|S|L2832350|PF|S3559430|Y|A3722378|823644019|367666000||SNOMEDCT_US|FN|367666000|Structure of anterior labial vein (body structure)|9|N||
+C0226833|ENG|S|L2832449|PF|S3559609|Y|A3722557|757187017|26703007||SNOMEDCT_US|FN|26703007|Structure of anterior tibial vein (body structure)|9|N||
+C0226847|ENG|S|L2832138|PF|S3559596|Y|A3722544|534199012|154026008||SNOMEDCT_US|FN|154026008|Structure of anterior temporal diploic vein (body structure)|9|N||
+C0226867|ENG|S|L2832320|PF|S3559409|Y|A3722356|757235012|26747001||SNOMEDCT_US|FN|26747001|Structure of anterior intercavernous sinus (body structure)|9|N||
+C0226914|ENG|S|L2832285|PF|S3559388|Y|A3722335|790107014|52131005||SNOMEDCT_US|FN|52131005|Structure of anterior floor of mouth (body structure)|9|N||
+C0226954|ENG|S|L2832144|PF|S3562261|Y|A3725291|818572016|77711009||SNOMEDCT_US|FN|77711009|Structure of dorsum of anterior tongue (body structure)|9|N||
+C0227160|ENG|S|L2832261|PF|S3559565|Y|A3722513|807006015|67298002||SNOMEDCT_US|FN|67298002|Structure of anterior surface of epiglottis (body structure)|9|N||
+C0227225|ENG|S|L2832445|PF|S3559633|Y|A3722581|778212012|41425009||SNOMEDCT_US|FN|41425009|Structure of anterior wall of stomach (body structure)|9|N||
+C0227475|ENG|S|L2832297|PF|S3478133|Y|A3630004|805288010|65750006||SNOMEDCT_US|FN|65750006|Anterior lingual gland structure (body structure)|9|N||
+C0227476|ENG|S|L2832149|PF|S3562279|Y|A3725313|765673016|34181005||SNOMEDCT_US|FN|34181005|Structure of duct of anterior lingual gland (body structure)|9|N||
+C0227477|ENG|S|L2832148|PF|S3567346|Y|A3730438|836701014|368747009||SNOMEDCT_US|FN|368747009|Structure of orifice of duct of anterior lingual gland (body structure)|9|N||
+C0227482|ENG|S|L2832377|PF|S3559534|Y|A3722482|817692016|76919008||SNOMEDCT_US|FN|76919008|Structure of anterior segment of right lobe of liver (body structure)|9|N||
+C0227502|ENG|S|L2831790|PF|S3559507|Y|A3722455|797331010|58583003||SNOMEDCT_US|FN|58583003|Structure of anterior portion of diaphragmatic aspect of liver (body structure)|9|N||
+C0227558|ENG|S|L2831971|PF|S3559308|Y|A3722255|811282011|71148004||SNOMEDCT_US|FN|71148004|Structure of anterior branch of right hepatic duct (body structure)|9|N||
+C0227583|ENG|S|L2832423|PF|S3559583|Y|A3722531|746287013|18748000||SNOMEDCT_US|FN|18748000|Structure of anterior surface of pancreas (body structure)|9|N||
+C0227587|ENG|S|L2832389|PF|S3559467|Y|A3722415|755830013|25504005||SNOMEDCT_US|FN|25504005|Structure of anterior margin of pancreas (body structure)|9|N||
+C0227609|ENG|S|L2832347|PF|S3559572|Y|A3722520|764879013|33471009||SNOMEDCT_US|FN|33471009|Structure of anterior surface of kidney (body structure)|9|N||
+C0227624|ENG|S|L2832432|PF|S3559556|Y|A3722504|636306017|246279002||SNOMEDCT_US|FN|246279002|Structure of anterior superior renal segment (body structure)|9|N||
+C0227625|ENG|S|L2832316|PF|S3559407|Y|A3722354|636522015|246473003||SNOMEDCT_US|FN|246473003|Structure of anterior inferior renal segment (body structure)|9|N||
+C0227761|ENG|S|L2832107|PF|S3559353|Y|A3722300|753718011|24118001||SNOMEDCT_US|FN|24118001|Structure of anterior commissure of labia majora (body structure)|9|N||
+C0227788|ENG|S|L2832098|PF|S3479353|Y|A3631298|820479010|79430002||SNOMEDCT_US|FN|79430002|Anterior rugal column structure (body structure)|9|N||
+C0227795|ENG|S|L2832293|PF|S3559392|Y|A3722339|767626014|35931007||SNOMEDCT_US|FN|35931007|Structure of anterior fornix (body structure)|9|N||
+C0227800|ENG|S|L2832452|PF|S3559640|Y|A3722588|780292019|43298008||SNOMEDCT_US|FN|43298008|Structure of anterior wall of vagina (body structure)|9|N||
+C0227802|ENG|S|L2832428|PF|S3559261|Y|A3722208|760265019|29378004||SNOMEDCT_US|FN|29378004|Structure of anterior and posterior wall of vagina (body structure)|9|N||
+C0227834|ENG|S|L2832063|PF|S3559456|Y|A3722404|780804019|43754007||SNOMEDCT_US|FN|43754007|Structure of anterior lip of cervix (body structure)|9|N||
+C0227960|ENG|S|L2832429|PF|S3559585|Y|A3722533|810420012|70371002||SNOMEDCT_US|FN|70371002|Structure of anterior surface of prostate (body structure)|9|N||
+C0227995|ENG|S|L2831959|PF|S3559302|Y|A3722249|782408017|45196003||SNOMEDCT_US|FN|45196003|Structure of anterior border of testis (body structure)|9|N||
+C0228259|ENG|S|L2832317|PF|S3477581|Y|A3629423|825066012|83433000||SNOMEDCT_US|FN|83433000|Anterior insula (body structure)|9|N||
+C0228283|ENG|S|L2831456|PF|S3559496|Y|A3722444|775213018|38868005||SNOMEDCT_US|FN|38868005|Structure of anterior parolfactory area (body structure)|9|N||
+C0228297|ENG|S|L2832023|PF|S3239301|Y|A3374105|801259015|62121001||SNOMEDCT_US|FN|62121001|Corticothalamic fibers of anterior limb of internal capsule (body structure)|9|N||
+C0228315|ENG|S|L2832431|PF|S3559522|Y|A3722470|811690016|71515006||SNOMEDCT_US|FN|71515006|Structure of anterior region of thalamus (body structure)|9|N||
+C0228316|ENG|S|L2832301|PF|S3559487|Y|A3722435|773734010|38389007||SNOMEDCT_US|FN|38389007|Structure of anterior nuclear group of thalamus (body structure)|9|N||
+C0228317|ENG|S|L2832448|PF|S3559616|Y|A3722564|816174018|75551009||SNOMEDCT_US|FN|75551009|Structure of anterior tubercle of thalamus (body structure)|9|N||
+C0228334|ENG|S|L2832419|PF|S3567739|Y|A3730842|611234015|10937003||SNOMEDCT_US|FN|10937003|Structure of pars parvocellularis of ventral anterior nucleus of thalamus (body structure)|9|N||
+C0228335|ENG|S|L2832385|PF|S3567733|Y|A3730836|787109013|49431009||SNOMEDCT_US|FN|49431009|Structure of pars magnocellularis of ventral anterior nucleus of thalamus (body structure)|9|N||
+C0228474|ENG|S|L2832045|PF|S3475548|Y|A3627241|759394019|28688000||SNOMEDCT_US|FN|28688000|Anterior cerebellar lobe structure (body structure)|9|N||
+C0228524|ENG|S|L6392464|PF|S7325719|Y|A11739214|2638546012|279288001||SNOMEDCT_US|FN|279288001|Entire anterior median fissure of medulla oblongata (body structure)|9|N||
+C0228572|ENG|S|L2832099|PF|S3552689|Y|A3715135|831567013|88806005||SNOMEDCT_US|FN|88806005|Spinal cord anterior gray commissure (body structure)|9|N||
+C0228590|ENG|S|L6392075|PF|S7331509|Y|A11732858|2638917013|67898007||SNOMEDCT_US|FN|67898007|Structure of anterior gray horn of spinal cord (body structure)|9|N||
+C0228596|ENG|S|L6393456|PF|S7325721|Y|A11737136|2638644017|314225000||SNOMEDCT_US|FN|314225000|Entire anterior median fissure of spinal cord (body structure)|9|N||
+C0228622|ENG|S|L2832049|PF|S3559336|Y|A3722283|754438015|24765004||SNOMEDCT_US|FN|24765004|Structure of anterior cervical spinal cord nerve root (body structure)|9|N||
+C0228639|ENG|S|L2832121|PF|S3559598|Y|A3722546|830719011|88105006||SNOMEDCT_US|FN|88105006|Structure of anterior thoracic spinal cord nerve root (body structure)|9|N||
+C0228657|ENG|S|L2832120|PF|S3559459|Y|A3722407|648522012|113310009||SNOMEDCT_US|FN|113310009|Structure of anterior lumbosacral spinal cord nerve root (body structure)|9|N||
+C0228719|ENG|S|L2832266|PF|S3559384|Y|A3722331|822957015|81661008||SNOMEDCT_US|FN|81661008|Structure of anterior ethmoidal nerve (body structure)|9|N||
+C0228720|ENG|S|L2831980|PF|S3562603|Y|A3725647|773712013|38387009||SNOMEDCT_US|FN|38387009|Structure of external nasal branch anterior ethmoidal nerve (body structure)|9|N||
+C0228721|ENG|S|L2831981|PF|S3376275|Y|A3520377|788013019|50246003||SNOMEDCT_US|FN|50246003|Internal nasal branches of anterior ethmoidal nerve (body structure)|9|N||
+C0228722|ENG|S|L2831982|PF|S3564959|Y|A3728023|844615018|369402003||SNOMEDCT_US|FN|369402003|Structure of lateral nasal branches of anterior ethmoidal nerve (body structure)|9|N||
+C0228723|ENG|S|L2831983|PF|S3566242|Y|A3729313|844627015|369403008||SNOMEDCT_US|FN|369403008|Structure of medial nasal branches of anterior ethmoidal nerve (body structure)|9|N||
+C0228730|ENG|S|L2817136|PF|S3559552|Y|A3722500|739882013|14008007||SNOMEDCT_US|FN|14008007|Structure of anterior superior alveolar nerve (body structure)|9|N||
+C0228780|ENG|S|L2831984|PF|S7332376|Y|A11736804|2638118016|113315004||SNOMEDCT_US|FN|113315004|Structure of vagus nerve anterior gastric branch (body structure)|9|N||
+C0228787|ENG|S|L2832451|PF|S3480723|Y|A3632758|820970015|79872005||SNOMEDCT_US|FN|79872005|Anterior vagal trunk structure (body structure)|9|N||
+C0228789|ENG|S|L2831989|PF|S3569561|Y|A3732676|807940018|68138005||SNOMEDCT_US|FN|68138005|Structure of selective branches of anterior trunk of vagus nerve (body structure)|9|N||
+C0228829|ENG|S|L2831833|PF|S3563351|Y|A3726405|769656012|37753004||SNOMEDCT_US|FN|37753004|Structure of greater auricular nerve anterior branch (body structure)|9|N||
+C0228852|ENG|S|L2830979|PF|S3559306|Y|A3722253|648599011|113318002||SNOMEDCT_US|FN|113318002|Structure of anterior branch of medial antebrachial cutaneous nerve (body structure)|9|N||
+C0228863|ENG|S|L2832185|PF|S3278743|Y|A3416880|564212018|181014005||SNOMEDCT_US|FN|181014005|Entire anterior interosseous nerve (body structure)|9|N||
+C0228895|ENG|S|L2831969|PF|S3571302|Y|A3734430|593081013|207472002||SNOMEDCT_US|FN|207472002|Structure of thoracic nerve anterior cutaneous branch (body structure)|9|N||
+C0228905|ENG|S|L2831968|PF|S3559369|Y|A3722316|757206016|2672009||SNOMEDCT_US|FN|2672009|Structure of anterior cutaneous branch of lumbosacral plexus (body structure)|9|N||
+C0228907|ENG|S|L2832418|PF|S3559528|Y|A3722476|812193018|71969001||SNOMEDCT_US|FN|71969001|Structure of anterior scrotal nerves (body structure)|9|N||
+C0228908|ENG|S|L2832349|PF|S3559428|Y|A3722376|835038013|91674000||SNOMEDCT_US|FN|91674000|Structure of anterior labial nerves (body structure)|9|N||
+C0228913|ENG|S|L2831987|PF|S3567183|Y|A3730263|808009013|6820003||SNOMEDCT_US|FN|6820003|Structure of obturator nerve anterior branch (body structure)|9|N||
+C0228918|ENG|S|L2831967|PF|S3562747|Y|A3725798|769098014|37252005||SNOMEDCT_US|FN|37252005|Structure of femoral nerve anterior cutaneous branches (body structure)|9|N||
+C0229091|ENG|S|L2832272|PF|S3559500|Y|A3722448|740218015|14236005||SNOMEDCT_US|FN|14236005|Structure of anterior pole of eye (body structure)|9|N||
+C0229127|ENG|S|L13771121|PF|S16782149|Y|A27772459|3322266013|55143001||SNOMEDCT_US|FN|55143001|Anterior limiting lamina of cornea (body structure)|9|N||
+C0229178|ENG|S|L2832340|PF|S3559570|Y|A3722518|751403018|22040008||SNOMEDCT_US|FN|22040008|Structure of anterior surface of iris (body structure)|9|N||
+C0229225|ENG|S|L2832361|PF|S3559503|Y|A3722451|759752015|28993004||SNOMEDCT_US|FN|28993004|Structure of anterior pole of lens (body structure)|9|N||
+C0229227|ENG|S|L2832362|PF|S3559574|Y|A3722522|826978015|85013008||SNOMEDCT_US|FN|85013008|Structure of anterior surface of lens (body structure)|9|N||
+C0229248|ENG|S|L2831793|PF|S3559272|Y|A3722219|752276011|22824006||SNOMEDCT_US|FN|22824006|Structure of anterior aspect of eyelids (body structure)|9|N||
+C0229326|ENG|S|L2831837|PF|S3559278|Y|A3722225|764808018|33407009||SNOMEDCT_US|FN|33407009|Structure of anterior auricular ligament (body structure)|9|N||
+C0229360|ENG|S|L2832395|PF|S3559516|Y|A3722464|834086014|90888007||SNOMEDCT_US|FN|90888007|Structure of anterior recess of tympanic membrane (body structure)|9|N||
+C0229373|ENG|S|L2832286|PF|S3559461|Y|A3722409|810847011|70757008||SNOMEDCT_US|FN|70757008|Structure of anterior mallear fold of tympanic membrane (body structure)|9|N||
+C0229387|ENG|S|L2832040|PF|S3559636|Y|A3722584|811078017|70965004||SNOMEDCT_US|FN|70965004|Structure of anterior wall of tympanic cavity (body structure)|9|N||
+C0229400|ENG|S|L2832386|PF|S3559514|Y|A3722462|816690017|76016004||SNOMEDCT_US|FN|76016004|Structure of anterior process of malleus (body structure)|9|N||
+C0229406|ENG|S|L2832376|PF|S3559454|Y|A3722402|833930018|90759000||SNOMEDCT_US|FN|90759000|Structure of anterior limb of stapes (body structure)|9|N||
+C0229411|ENG|S|L2832370|PF|S3559448|Y|A3722396|779164018|42282006||SNOMEDCT_US|FN|42282006|Structure of anterior ligament of malleus (body structure)|9|N||
+C0229429|ENG|S|L2831406|PF|S3559629|Y|A3722577|776064015|39584007||SNOMEDCT_US|FN|39584007|Structure of anterior wall of mastoid antrum (body structure)|9|N||
+C0229462|ENG|S|L2821578|PF|S3278809|Y|A3416948|673195017|279855001||SNOMEDCT_US|FN|279855001|Entire anterior membranous ampulla (body structure)|9|N||
+C0229553|ENG|S|L2802505|PF|S3559559|Y|A3722507|806330016|66690009||SNOMEDCT_US|FN|66690009|Structure of anterior surface of adrenal gland (body structure)|9|N||
+C0229678|ENG|S|L2832268|PF|S3559386|Y|A3722333|768624014|36827006||SNOMEDCT_US|FN|36827006|Structure of anterior extremity of spleen (body structure)|9|N||
+C0229713|ENG|S|L2831838|PF|S3559280|Y|A3722227|755542014|25247006||SNOMEDCT_US|FN|25247006|Structure of anterior auricular lymph node (body structure)|9|N||
+C0229734|ENG|S|L2832057|PF|S3559334|Y|A3722281|795874017|5727003||SNOMEDCT_US|FN|5727003|Structure of anterior cervical lymph node (body structure)|9|N||
+C0229735|ENG|S|L2832051|PF|S3561826|Y|A3724840|550071018|168360002||SNOMEDCT_US|FN|168360002|Structure of deep anterior cervical lymph node (body structure)|9|N||
+C0229736|ENG|S|L2832058|PF|S3570445|Y|A3733567|550290018|168557005||SNOMEDCT_US|FN|168557005|Structure of superficial anterior cervical lymph node (body structure)|9|N||
+C0229758|ENG|S|L2832300|PF|S3478399|Y|A3630281|635185019|245277008||SNOMEDCT_US|FN|245277008|Anterior mediastinal lymph node group (body structure)|9|N||
+C0229758|ENG|S|L2832383|PF|S3559470|Y|A3722418|791026012|5296000||SNOMEDCT_US|FN|5296000|Structure of anterior mediastinal lymph node (body structure)|9|N||
+C0229861|ENG|S|L2832384|PF|S3559603|Y|A3722551|699928012|303713004||SNOMEDCT_US|FN|303713004|Structure of anterior tibial lymph node (body structure)|9|N||
+C0230044|ENG|S|L2832038|PF|S3559394|Y|A3722341|806076010|6646002||SNOMEDCT_US|FN|6646002|Structure of anterior fossa of cranial cavity (body structure)|9|N||
+C0230053|ENG|S|L2832092|PF|S3559347|Y|A3722294|809061018|69148001||SNOMEDCT_US|FN|69148001|Structure of anterior clinoid process (body structure)|9|N||
+C0230069|ENG|S|L2832414|PF|S3559511|Y|A3722459|787660013|49928004||SNOMEDCT_US|FN|49928004|Structure of anterior portion of neck (body structure)|9|N||
+C0230085|ENG|S|L2832398|PF|S3478576|Y|A3630482|783958014|46592000||SNOMEDCT_US|FN|46592000|Anterior midline of trunk (body structure)|9|N||
+C0230091|ENG|S|L2831865|PF|S3475313|Y|A3627001|834462017|91199000||SNOMEDCT_US|FN|91199000|Anterior axillary line structure (body structure)|9|N||
+C0230132|ENG|S|L2832087|PF|S3476170|Y|A3627903|803009011|63698005||SNOMEDCT_US|FN|63698005|Anterior chest wall structure (body structure)|9|N||
+C0230148|ENG|S|L2832391|PF|S3559472|Y|A3722420|817100018|76386002||SNOMEDCT_US|FN|76386002|Structure of anterior mediastinum (body structure)|9|N||
+C0230172|ENG|S|L2768426|PF|S3478557|Y|A3630453|780096013|4312008||SNOMEDCT_US|FN|4312008|Anterior midline of abdomen (body structure)|9|N||
+C0230193|ENG|S|L2768981|PF|S3474951|Y|A3626596|798215019|59380008||SNOMEDCT_US|FN|59380008|Anterior abdominal wall structure (body structure)|9|N||
+C0230300|ENG|S|L2832375|PF|S3559450|Y|A3722398|759901012|2905008||SNOMEDCT_US|FN|2905008|Structure of anterior ligament of uterus (body structure)|9|N||
+C0230333|ENG|S|L2831862|PF|S3475293|Y|A3626980|790226012|52239003||SNOMEDCT_US|FN|52239003|Anterior axillary fold structure (body structure)|9|N||
+C0230340|ENG|S|L2831471|PF|S3559589|Y|A3722537|813463011|7311008||SNOMEDCT_US|FN|7311008|Structure of anterior surface of upper arm (body structure)|9|N||
+C0230357|ENG|S|L2832292|PF|S3559567|Y|A3722515|791035017|52968007||SNOMEDCT_US|FN|52968007|Structure of anterior surface of forearm (body structure)|9|N||
+C0230363|ENG|S|L2832035|PF|S3559324|Y|A3722271|742594010|15717009||SNOMEDCT_US|FN|15717009|Structure of anterior carpal region (body structure)|9|N||
+C0230411|ENG|S|L2832267|PF|S3559576|Y|A3722524|776352017|39825004||SNOMEDCT_US|FN|39825004|Structure of anterior surface of lower extremity (body structure)|9|N||
+C0230421|ENG|S|L2832447|PF|S3559587|Y|A3722535|752246016|22799002||SNOMEDCT_US|FN|22799002|Structure of anterior surface of thigh (body structure)|9|N||
+C0230437|ENG|S|L2832359|PF|S3559578|Y|A3722526|802121016|62899005||SNOMEDCT_US|FN|62899005|Structure of anterior surface of lower leg (body structure)|9|N||
+C0230441|ENG|S|L2832114|PF|S3480370|Y|A3632393|785654012|4812002||SNOMEDCT_US|FN|4812002|Anterior tibial compartment structure (body structure)|9|N||
+C0231059|ENG|S|L2832000|PF|S3559452|Y|A3722400|787425014|49716004||SNOMEDCT_US|FN|49716004|Structure of anterior limb bud (body structure)|9|N||
+C0231086|ENG|S|L2832033|PF|S3559322|Y|A3722269|805523019|65962002||SNOMEDCT_US|FN|65962002|Structure of anterior cardinal vein (body structure)|9|N||
+C0242690|ENG|S|L2832405|PF|S3590885|Y|A3755321|813904013|73508007||SNOMEDCT_US|FN|73508007|Tibialis anterior muscle structure (body structure)|9|N||
+C0262198|ENG|S|L6393065|PF|S7331517|Y|A11738750|2639396016|423563000||SNOMEDCT_US|FN|423563000|Structure of anterior transverse temporal gyrus (body structure)|9|N||
+C0444440|ENG|S|L2832324|PF|S3477629|Y|A3629477|652873010|261046004||SNOMEDCT_US|FN|261046004|Anterior intercostal node (body structure)|9|N||
+C0444444|ENG|S|L2832198|PF|S3278771|Y|A3416910|652878018|261050006||SNOMEDCT_US|FN|261050006|Entire anterior leaflet of tricuspid valve (body structure)|9|N||
+C0446459|ENG|S|L2832416|PF|S3480598|Y|A3632628|565683015|182329002||SNOMEDCT_US|FN|182329002|Anterior triangle of neck (body structure)|9|N||
+C0446492|ENG|S|L2768980|PF|S3474912|Y|A3626557|633718017|243960002||SNOMEDCT_US|FN|243960002|Anterior abdominal surface region (body structure)|9|N||
+C0446521|ENG|S|L2831791|PF|S3475120|Y|A3626783|565599018|182255003||SNOMEDCT_US|FN|182255003|Anterior aspect of elbow (surface region) (body structure)|9|N||
+C0446566|ENG|S|L2831795|PF|S3475158|Y|A3626822|565644017|182295001||SNOMEDCT_US|FN|182295001|Anterior aspect of knee (body structure)|9|N||
+C0446580|ENG|S|L2828435|PF|S3475111|Y|A3626774|565652019|182302007||SNOMEDCT_US|FN|182302007|Anterior aspect of ankle (body structure)|9|N||
+C0446657|ENG|S|L2832294|PF|S3477367|Y|A3629186|634237017|244426007||SNOMEDCT_US|FN|244426007|Anterior fossa meninges (body structure)|9|N||
+C0446764|ENG|S|L2832333|PF|S3477756|Y|A3629613|767489014|35809003||SNOMEDCT_US|FN|35809003|Anterior interosseous nerve structure (body structure)|9|N||
+C0446859|ENG|S|L2832026|PF|S3478003|Y|A3629868|634321013|244501000||SNOMEDCT_US|FN|244501000|Anterior lens capsule (body structure)|9|N||
+C0446885|ENG|S|L2832089|PF|S3476189|Y|A3627923|634306019|244488006||SNOMEDCT_US|FN|244488006|Anterior choroid (body structure)|9|N||
+C0446943|ENG|S|L2831887|PF|S3278624|Y|A3416761|747540014|361978008||SNOMEDCT_US|FN|361978008|Entire anterior basal segment of right lower lobe of lung (body structure)|9|N||
+C0446950|ENG|S|L2832140|PF|S3278879|Y|A3417018|747557013|361986008||SNOMEDCT_US|FN|361986008|Entire anterior segment of upper division of left upper lobe of lung (body structure)|9|N||
+C0446956|ENG|S|L2831886|PF|S3278622|Y|A3416759|747568013|361991009||SNOMEDCT_US|FN|361991009|Entire anterior basal segment of left lower lobe of lung (body structure)|9|N||
+C0447006|ENG|S|L2832223|PF|S3278826|Y|A3416965|634162013|244359006||SNOMEDCT_US|FN|244359006|Entire anterior papillary muscle of right ventricle (body structure)|9|N||
+C0447011|ENG|S|L2832088|PF|S3478588|Y|A3630494|634153011|244351009||SNOMEDCT_US|FN|244351009|Anterior mitral chordae (body structure)|9|N||
+C0447014|ENG|S|L2832196|PF|S3278824|Y|A3416963|634151013|244349005||SNOMEDCT_US|FN|244349005|Entire anterior papillary muscle of left ventricle (body structure)|9|N||
+C0447036|ENG|S|L2831567|PF|S3376102|Y|A3520199|633994011|244208007||SNOMEDCT_US|FN|244208007|Internal carotid-anterior choroidal artery zone (body structure)|9|N||
+C0447056|ENG|S|L2831508|PF|S3283018|Y|A3421170|634040010|244249007||SNOMEDCT_US|FN|244249007|Entire first diagonal branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C0447057|ENG|S|L2831509|PF|S3291387|Y|A3429612|634041014|244250007||SNOMEDCT_US|FN|244250007|Entire second diagonal branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C0447073|ENG|S|L2768971|PF|S3474919|Y|A3626564|634082014|244286008||SNOMEDCT_US|FN|244286008|Anterior abdominal wall artery (body structure)|9|N||
+C0447083|ENG|S|L2831590|PF|S3476852|Y|A3628639|634087015|244291009||SNOMEDCT_US|FN|244291009|Anterior division of internal iliac artery (body structure)|9|N||
+C0447223|ENG|S|L2831453|PF|S3607262|Y|A3772763|635502012|245557002||SNOMEDCT_US|FN|245557002|Upper anterior segment of dental arch (body structure)|9|N||
+C0447226|ENG|S|L2831452|PF|S3398173|Y|A3543707|635506010|245561008||SNOMEDCT_US|FN|245561008|Lower anterior segment of dental arch (body structure)|9|N||
+C0447413|ENG|S|L2817137|PF|S3478815|Y|A3630731|635764013|245793003||SNOMEDCT_US|FN|245793003|Anterior part of upper alveolar ridge (body structure)|9|N||
+C0447418|ENG|S|L2817135|PF|S3478780|Y|A3630696|635769015|245796006||SNOMEDCT_US|FN|245796006|Anterior part of lower alveolar ridge (body structure)|9|N||
+C0447495|ENG|S|L2832284|PF|S3422189|Y|A3569361|635816013|245838001||SNOMEDCT_US|FN|245838001|Mucosa of anterior part of floor of mouth (body structure)|9|N||
+C0447500|ENG|S|L2832279|PF|S3422190|Y|A3569362|635822016|245843008||SNOMEDCT_US|FN|245843008|Mucosa of anterior pillars of fauces (body structure)|9|N||
+C0447621|ENG|S|L2832456|PF|S3481078|Y|A3633426|635420018|245486001||SNOMEDCT_US|FN|245486001|Anterior wall of uterus (body structure)|9|N||
+C0447683|ENG|S|L2832430|PF|S3479116|Y|A3631046|647862015|256662005||SNOMEDCT_US|FN|256662005|Anterior rectus sheath (body structure)|9|N||
+C0447694|ENG|S|L2832113|PF|S3312292|Y|A3451762|565071018|181785006||SNOMEDCT_US|FN|181785006|Fascia of leg anterior compartment (body structure)|9|N||
+C0447812|ENG|S|L2832278|PF|S3477170|Y|A3628973|565554014|182216004||SNOMEDCT_US|FN|182216004|Anterior facet of subtalar joint (body structure)|9|N||
+C0447841|ENG|S|L2832308|PF|S3477486|Y|A3629315|565818019|182450005||SNOMEDCT_US|FN|182450005|Anterior horn of lateral meniscus (body structure)|9|N||
+C0447842|ENG|S|L2832311|PF|S3477517|Y|A3629350|565815016|182447007||SNOMEDCT_US|FN|182447007|Anterior horn of medial meniscus (body structure)|9|N||
+C0447872|ENG|S|L2832365|PF|S3467667|Y|A3618582|634435011|244602000||SNOMEDCT_US|FN|244602000|Part of anterior longitudinal ligament (body structure)|9|N||
+C0448164|ENG|S|L2832433|PF|S3480288|Y|A3632303|655477010|263364008||SNOMEDCT_US|FN|263364008|Anterior third of shaft of rib (body structure)|9|N||
+C0448172|ENG|S|L2832125|PF|S3478764|Y|A3630680|634538011|244694007||SNOMEDCT_US|FN|244694007|Anterior part of iliac crest (body structure)|9|N||
+C0448181|ENG|S|L2790408|PF|S3478151|Y|A3630022|655480011|263367001||SNOMEDCT_US|FN|263367001|Anterior lip of acetabulum (body structure)|9|N||
+C0448184|ENG|S|L2790407|PF|S3476439|Y|A3628201|655484019|263371003||SNOMEDCT_US|FN|263371003|Anterior column of acetabulum (body structure)|9|N||
+C0448236|ENG|S|L2831781|PF|S3278588|Y|A3416725|565439017|182114005||SNOMEDCT_US|FN|182114005|Entire anterior articular surface for talus (body structure)|9|N||
+C0448420|ENG|S|L6391480|PF|S7325723|Y|A11739019|2638175013|181736001||SNOMEDCT_US|FN|181736001|Entire anterior muscle of abdomen (body structure)|9|N||
+C0448471|ENG|S|L13771633|PF|S16786773|Y|A27777190|3324010015|245014004||SNOMEDCT_US|FN|245014004|Entire anterior muscle of thigh (body structure)|9|N||
+C0448479|ENG|S|L2832129|PF|S3278693|Y|A3416830|634908013|245027000||SNOMEDCT_US|FN|245027000|Entire anterior crural muscle (body structure)|9|N||
+C0448525|ENG|S|L2832434|PF|S3585604|Y|A3749651|634954016|245068009||SNOMEDCT_US|FN|245068009|Tendon of scalenus anterior (body structure)|9|N||
+C0448613|ENG|S|L2832406|PF|S3585482|Y|A3749528|635072015|245174007||SNOMEDCT_US|FN|245174007|Tendon of anterior thigh muscle (body structure)|9|N||
+C0448625|ENG|S|L2832131|PF|S3585481|Y|A3749527|635088015|245189003||SNOMEDCT_US|FN|245189003|Tendon of anterior crural muscle (body structure)|9|N||
+C0448700|ENG|S|L2832439|PF|S3585620|Y|A3749667|634981016|245092001||SNOMEDCT_US|FN|245092001|Tendon of serratus anterior (body structure)|9|N||
+C0448821|ENG|S|L2832442|PF|S3545474|Y|A3707495|633881010|244106003||SNOMEDCT_US|FN|244106003|Skin of anterior surface of thorax (body structure)|9|N||
+C0448826|ENG|S|L2768428|PF|S3545466|Y|A3707487|564757011|181502005||SNOMEDCT_US|FN|181502005|Skin of anterior surface of abdomen (body structure)|9|N||
+C0448846|ENG|S|L2832441|PF|S3546046|Y|A3708107|1762657014|181491009||SNOMEDCT_US|FN|181491009|Skin structure of anterior trunk (body structure)|9|N||
+C0448858|ENG|S|L2832154|PF|S3545470|Y|A3707491|564794019|181535000||SNOMEDCT_US|FN|181535000|Skin of anterior surface of elbow (body structure)|9|N||
+C0448900|ENG|S|L2832348|PF|S3545471|Y|A3707492|564814011|181553006||SNOMEDCT_US|FN|181553006|Skin of anterior surface of knee (body structure)|9|N||
+C0448928|ENG|S|L2828436|PF|S3545467|Y|A3707488|564822016|181561001||SNOMEDCT_US|FN|181561001|Skin of anterior surface of ankle (body structure)|9|N||
+C0449035|ENG|S|L2832337|PF|S3378051|Y|A3522243|635904018|245916004||SNOMEDCT_US|FN|245916004|Intraregional part of anterior longitudinal ligament (body structure)|9|N||
+C0449036|ENG|S|L2832368|PF|S3589227|Y|A3753494|565730019|182371001||SNOMEDCT_US|FN|182371001|Thoracic region of anterior longitudinal ligament (body structure)|9|N||
+C0449037|ENG|S|L2832363|PF|S3398703|Y|A3544282|565738014|182378007||SNOMEDCT_US|FN|182378007|Lumbar region of anterior longitudinal ligament (body structure)|9|N||
+C0449038|ENG|S|L2832367|PF|S3525240|Y|A3685188|635905017|245917008||SNOMEDCT_US|FN|245917008|Sacral region of anterior longitudinal ligament (body structure)|9|N||
+C0449039|ENG|S|L2832056|PF|S3213952|Y|A3346241|565722015|182363000||SNOMEDCT_US|FN|182363000|Cervical region of anterior longitudinal ligament (body structure)|9|N||
+C0449040|ENG|S|L2832318|PF|S3375340|Y|A3519404|635906016|245918003||SNOMEDCT_US|FN|245918003|Inter-regional part of anterior longitudinal ligament (body structure)|9|N||
+C0449041|ENG|S|L2832366|PF|S3589340|Y|A3753615|635908015|245920000||SNOMEDCT_US|FN|245920000|Thoracolumbar part of anterior longitudinal ligament (body structure)|9|N||
+C0449042|ENG|S|L2832364|PF|S3398828|Y|A3544428|635909011|245921001||SNOMEDCT_US|FN|245921001|Lumbosacral part of anterior longitudinal ligament (body structure)|9|N||
+C0449043|ENG|S|L2832060|PF|S3214220|Y|A3346549|635907013|245919006||SNOMEDCT_US|FN|245919006|Cervicothoracic part of anterior longitudinal ligament (body structure)|9|N||
+C0450269|ENG|S|L2768979|PF|S3474943|Y|A3626588|656691017|264438009||SNOMEDCT_US|FN|264438009|Anterior abdominal wall peritoneum (body structure)|9|N||
+C0450271|ENG|S|L2832157|PF|S3278904|Y|A3417043|656694013|264441000||SNOMEDCT_US|FN|264441000|Entire anterior surface of epiglottis (body structure)|9|N||
+C0450272|ENG|S|L2832396|PF|S3480653|Y|A3632683|656697018|264444008||SNOMEDCT_US|FN|264444008|Anterior tympanic membrane (body structure)|9|N||
+C0450962|ENG|S|L2832310|PF|S3477505|Y|A3629338|656692012|264439001||SNOMEDCT_US|FN|264439001|Anterior horn of longitudinal segment of meniscus (body structure)|9|N||
+C0450963|ENG|S|L2832380|PF|S3480276|Y|A3632291|656695014|264442007||SNOMEDCT_US|FN|264442007|Anterior third of longitudinal segment of meniscus (body structure)|9|N||
+C0456476|ENG|S|L2832103|PF|S3278681|Y|A3416818|670150011|277148008||SNOMEDCT_US|FN|277148008|Entire anterior commissure of larynx (body structure)|9|N||
+C0456480|ENG|S|L2832041|PF|S3278651|Y|A3416788|670154019|277152008||SNOMEDCT_US|FN|277152008|Entire anterior cells of ethmoid sinus (body structure)|9|N||
+C0457146|ENG|S|L2832319|PF|S3477593|Y|A3629441|671064018|277963007||SNOMEDCT_US|FN|277963007|Anterior interatrial preferential pathway (body structure)|9|N||
+C0457894|ENG|S|L2831963|PF|S3476902|Y|A3628693|671999017|278798000||SNOMEDCT_US|FN|278798000|Anterior division of upper trunk of brachial plexus (body structure)|9|N||
+C0457896|ENG|S|L2831962|PF|S3476885|Y|A3628675|672001010|278800007||SNOMEDCT_US|FN|278800007|Anterior division of middle trunk of brachial plexus (body structure)|9|N||
+C0457898|ENG|S|L2831961|PF|S3476864|Y|A3628652|672003013|278802004||SNOMEDCT_US|FN|278802004|Anterior division of lower trunk of brachial plexus (body structure)|9|N||
+C0458322|ENG|S|L2832302|PF|S3478704|Y|A3630617|672450013|279196000||SNOMEDCT_US|FN|279196000|Anterior orbital gyrus (body structure)|9|N||
+C0458373|ENG|S|L2832046|PF|S3475607|Y|A3627303|672582013|279313001||SNOMEDCT_US|FN|279313001|Anterior cerebral commissure (body structure)|9|N||
+C0458530|ENG|S|L2831956|PF|S3475408|Y|A3627097|672808015|279514006||SNOMEDCT_US|FN|279514006|Anterior border of thyroid lamina (body structure)|9|N||
+C0458555|ENG|S|L2832036|PF|S3480067|Y|A3632067|672842012|279544009||SNOMEDCT_US|FN|279544009|Anterior surface of epiglottic cartilage (body structure)|9|N||
+C0458568|ENG|S|L2832126|PF|S3476643|Y|A3628422|672859019|279559003||SNOMEDCT_US|FN|279559003|Anterior cricothyroid ligament (body structure)|9|N||
+C0458598|ENG|S|L2832436|PF|S3479514|Y|A3631467|672877012|279574001||SNOMEDCT_US|FN|279574001|Anterior scrotal wall (body structure)|9|N||
+C0458603|ENG|S|L2832437|PF|S3480160|Y|A3632169|672882017|279578003||SNOMEDCT_US|FN|279578003|Anterior surface of scrotum (body structure)|9|N||
+C0458618|ENG|S|L2831955|PF|S3278628|Y|A3416765|672903011|279597003||SNOMEDCT_US|FN|279597003|Entire anterior border of testis (body structure)|9|N||
+C0458673|ENG|S|L2832438|PF|S3480168|Y|A3632177|672987010|279671004||SNOMEDCT_US|FN|279671004|Anterior surface of seminal vesicle (body structure)|9|N||
+C0458738|ENG|S|L2832015|PF|S3450175|Y|A3599743|673072011|279746009||SNOMEDCT_US|FN|279746009|Opening of anterior semicircular canal (body structure)|9|N||
+C0458739|ENG|S|L2832013|PF|S3450215|Y|A3599784|673074012|279747000||SNOMEDCT_US|FN|279747000|Opening of posterior end of anterior semicircular canal (body structure)|9|N||
+C0458740|ENG|S|L2831393|PF|S3450173|Y|A3599741|673075013|279748005||SNOMEDCT_US|FN|279748005|Opening of anterior end of anterior semicircular canal (body structure)|9|N||
+C0458743|ENG|S|L2832054|PF|S3480581|Y|A3632611|673079019|279752005||SNOMEDCT_US|FN|279752005|Anterior triangle cervical lymph node group (body structure)|9|N||
+C0458747|ENG|S|L2832012|PF|S3450174|Y|A3599742|673083019|279756008||SNOMEDCT_US|FN|279756008|Opening of anterior end of lateral semicircular canal (body structure)|9|N||
+C0458755|ENG|S|L2821576|PF|S3431977|Y|A3579691|673096018|279767009||SNOMEDCT_US|FN|279767009|Ampulla of anterior semicircular canal (body structure)|9|N||
+C0458800|ENG|S|L14197930|PF|S17263845|Y|A28435521|3481634018|279825008||SNOMEDCT_US|FN|279825008|Opening of ampulla of anterior semicircular duct (body structure)|9|N||
+C0458805|ENG|S|L2832150|PF|S3450176|Y|A3599744|673168010|279831006||SNOMEDCT_US|FN|279831006|Opening of anterior semicircular duct (body structure)|9|N||
+C0458825|ENG|S|L2821579|PF|S3559474|Y|A3722422|818208017|77384009||SNOMEDCT_US|FN|77384009|Structure of anterior membranous ampulla (body structure)|9|N||
+C0458858|ENG|S|L2832011|PF|S3480904|Y|A3633109|673229011|279884005||SNOMEDCT_US|FN|279884005|Anterior wall of cervical canal (body structure)|9|N||
+C0458865|ENG|S|L2832062|PF|S3477340|Y|A3629157|673236012|279891008||SNOMEDCT_US|FN|279891008|Anterior fornicial surface of vaginal cervix (body structure)|9|N||
+C0458869|ENG|S|L2832209|PF|S3278777|Y|A3416916|673241016|279895004||SNOMEDCT_US|FN|279895004|Entire anterior ligament of uterus (body structure)|9|N||
+C0458900|ENG|S|L2832307|PF|S3479338|Y|A3631282|673285019|279935003||SNOMEDCT_US|FN|279935003|Anterior right Hjortso liver segment (body structure)|9|N||
+C0458903|ENG|S|L2832306|PF|S3477989|Y|A3629854|673288017|279938001||SNOMEDCT_US|FN|279938001|Anterior left Hjortso liver segment (body structure)|9|N||
+C0458916|ENG|S|L2832305|PF|S3345795|Y|A3487649|673303013|279951006||SNOMEDCT_US|FN|279951006|Healey and Schroy anterior superior right liver segment (body structure)|9|N||
+C0458918|ENG|S|L2832304|PF|S3345793|Y|A3487647|673306017|279954003||SNOMEDCT_US|FN|279954003|Healey and Schroy anterior inferior right liver segment (body structure)|9|N||
+C0458924|ENG|S|L2831789|PF|S3278845|Y|A3416984|673311015|279959008||SNOMEDCT_US|FN|279959008|Entire anterior portion of diaphragmatic aspect of liver (body structure)|9|N||
+C0459006|ENG|S|L2832262|PF|S3297317|Y|A3435651|673371014|280011005||SNOMEDCT_US|FN|280011005|Epiphysis of anterior inferior iliac spine (body structure)|9|N||
+C0459064|ENG|S|L2831958|PF|S3475420|Y|A3627109|673440018|280076009||SNOMEDCT_US|FN|280076009|Anterior border of thyroid lobe (body structure)|9|N||
+C0459157|ENG|P|L2831826|PF|S3285874|N|A3424038|673512014|280140006||SNOMEDCT_US|FN|280140006|Entire left anterior division of left branch of atrioventricular bundle (body structure)|9|N|256|
+C0459157|ENG|P|L2831826|PF|S3285874|Y|A13026500||||MTH|PN|NOCODE|Entire left anterior division of left branch of atrioventricular bundle (body structure)|0|N|256|
+C0459279|ENG|S|L2832387|PF|S3480618|Y|A3632648|673630014|280246009||SNOMEDCT_US|FN|280246009|Anterior trunk mandibular nerve (body structure)|9|N||
+C0459283|ENG|S|L2831986|PF|S3197162|Y|A3327657|673636015|280251003||SNOMEDCT_US|FN|280251003|Branch of anterior trunk of mandibular nerve (body structure)|9|N||
+C0459285|ENG|S|L2832136|PF|S3476767|Y|A3628550|673643014|280257004||SNOMEDCT_US|FN|280257004|Anterior deep temporal nerve (body structure)|9|N||
+C0459289|ENG|S|L2831839|PF|S3475259|Y|A3626938|673650013|280264002||SNOMEDCT_US|FN|280264002|Anterior auricular nerve (body structure)|9|N||
+C0459338|ENG|S|L2832417|PF|S3432577|Y|A3580335|673732013|280337000||SNOMEDCT_US|FN|280337000|Nerve to scalenus anterior (body structure)|9|N||
+C0459341|ENG|S|L2832020|PF|S3432575|Y|A3580333|673735010|280340000||SNOMEDCT_US|FN|280340000|Nerve to rectus capitis anterior (body structure)|9|N||
+C0459536|ENG|S|L2832426|PF|S3479081|Y|A3631010|673939013|280520006||SNOMEDCT_US|FN|280520006|Anterior pulmonary plexus (body structure)|9|N||
+C0459578|ENG|S|L2768977|PF|S3389284|Y|A3534192|673988013|280561006||SNOMEDCT_US|FN|280561006|Layer of anterior abdominal wall (body structure)|9|N||
+C0459598|ENG|S|L2832142|PF|S3476875|Y|A3628663|674010015|280580008||SNOMEDCT_US|FN|280580008|Anterior division of medial palpebral ligament (body structure)|9|N||
+C0459608|ENG|S|L2831419|PF|S3479415|Y|A3631363|674032012|280600001||SNOMEDCT_US|FN|280600001|Anterior scleral aperture (body structure)|9|N||
+C0459648|ENG|S|L2832240|PF|S3278832|Y|A3416971|674096013|280656002||SNOMEDCT_US|FN|280656002|Entire anterior part of uveal tract (body structure)|9|N||
+C0459697|ENG|S|L2832390|PF|S3479672|Y|A3631643|674155012|280709009||SNOMEDCT_US|FN|280709009|Anterior segment of maxilla (body structure)|9|N||
+C0459745|ENG|S|L2832338|PF|S3478113|Y|A3629982|674348019|280881001||SNOMEDCT_US|FN|280881001|Anterior limiting layer of stroma of iris (body structure)|9|N||
+C0459746|ENG|S|L2832339|PF|S3477935|Y|A3629798|674350010|280883003||SNOMEDCT_US|FN|280883003|Anterior layer of stroma of iris (body structure)|9|N||
+C0460018|ENG|S|L2831819|PF|S3480627|Y|A3632657|674734017|281224005||SNOMEDCT_US|FN|281224005|Anterior tubercle of atlas (body structure)|9|N||
+C0501103|ENG|S|L2832327|PF|S3544761|Y|A3706706|746774018|361629000||SNOMEDCT_US|FN|361629000|Sixth anterior intercostal vein (body structure)|9|N||
+C0501104|ENG|S|L2832281|PF|S3316367|Y|A3456084|746776016|361630005||SNOMEDCT_US|FN|361630005|Fifth anterior intercostal vein (body structure)|9|N||
+C0501105|ENG|S|L2832295|PF|S3327031|Y|A3467299|746778015|361631009||SNOMEDCT_US|FN|361631009|Fourth anterior intercostal vein (body structure)|9|N||
+C0501106|ENG|S|L2832326|PF|S3541373|Y|A3703114|746782018|361633007||SNOMEDCT_US|FN|361633007|Seventh anterior intercostal vein (body structure)|9|N||
+C0501107|ENG|S|L2832153|PF|S3273190|Y|A3411005|746791019|361637008||SNOMEDCT_US|FN|361637008|Eighth anterior intercostal vein (body structure)|9|N||
+C0501108|ENG|S|L2832323|PF|S3434357|Y|A3582305|746788019|361636004||SNOMEDCT_US|FN|361636004|Ninth anterior intercostal vein (body structure)|9|N||
+C0501109|ENG|S|L2832330|PF|S3588742|Y|A3752986|746780014|361632002||SNOMEDCT_US|FN|361632002|Third anterior intercostal vein (body structure)|9|N||
+C0501110|ENG|S|L2832325|PF|S3535674|Y|A3696238|746772019|361628008||SNOMEDCT_US|FN|361628008|Second anterior intercostal vein (body structure)|9|N||
+C0501111|ENG|S|L2832282|PF|S3321766|Y|A3461602|746770010|361627003||SNOMEDCT_US|FN|361627003|First anterior intercostal vein (body structure)|9|N||
+C0504771|ENG|S|L2831617|PF|S3541372|Y|A3703113|746732011|361609001||SNOMEDCT_US|FN|361609001|Seventh anterior intercostal artery (body structure)|9|N||
+C0504772|ENG|S|L2831592|PF|S3273189|Y|A3411004|746734012|361610006||SNOMEDCT_US|FN|361610006|Eighth anterior intercostal artery (body structure)|9|N||
+C0504773|ENG|S|L2831615|PF|S3434356|Y|A3582304|746899012|361688006||SNOMEDCT_US|FN|361688006|Ninth anterior intercostal artery (body structure)|9|N||
+C0504774|ENG|S|L2831612|PF|S3321765|Y|A3461601|746719018|361603000||SNOMEDCT_US|FN|361603000|First anterior intercostal artery (body structure)|9|N||
+C0504775|ENG|S|L2831616|PF|S3535673|Y|A3696237|746721011|361604006||SNOMEDCT_US|FN|361604006|Second anterior intercostal artery (body structure)|9|N||
+C0504776|ENG|S|L2831620|PF|S3588741|Y|A3752985|746723014|361605007||SNOMEDCT_US|FN|361605007|Third anterior intercostal artery (body structure)|9|N||
+C0504777|ENG|S|L2831613|PF|S3327030|Y|A3467298|746725019|361606008||SNOMEDCT_US|FN|361606008|Fourth anterior intercostal artery (body structure)|9|N||
+C0504778|ENG|S|L2831611|PF|S3316366|Y|A3456083|746728017|361607004||SNOMEDCT_US|FN|361607004|Fifth anterior intercostal artery (body structure)|9|N||
+C0504779|ENG|S|L2831618|PF|S3544759|Y|A3706704|746730015|361608009||SNOMEDCT_US|FN|361608009|Sixth anterior intercostal artery (body structure)|9|N||
+C0504791|ENG|S|L2831619|PF|S3585963|Y|A3750039|746736014|361611005||SNOMEDCT_US|FN|361611005|Tenth anterior intercostal artery (body structure)|9|N||
+C0504792|ENG|S|L2831593|PF|S3274443|Y|A3412315|746738010|361612003||SNOMEDCT_US|FN|361612003|Eleventh anterior intercostal artery (body structure)|9|N||
+C0504899|ENG|S|L6088278|PF|S6994166|Y|A10894954|2613908018|420465006||SNOMEDCT_US|FN|420465006|Structure of anterior external vertebral venous plexus (body structure)|9|N||
+C0524428|ENG|S|L2831544|PF|S3566543|Y|A3729614|835126018|91748002||SNOMEDCT_US|FN|91748002|Structure of mid portion of anterior descending branch of left coronary artery (body structure)|9|N||
+C0524429|ENG|S|L2831517|PF|S3562930|Y|A3725984|835127010|91749005||SNOMEDCT_US|FN|91749005|Structure of first septal perforator branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C0524430|ENG|S|L2831512|PF|S3562896|Y|A3725950|835129013|91750005||SNOMEDCT_US|FN|91750005|Structure of first diagonal branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C0524431|ENG|S|L2831513|PF|S3569515|Y|A3732630|835131016|91751009||SNOMEDCT_US|FN|91751009|Structure of second diagonal branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C0524432|ENG|S|L2831515|PF|S3571259|Y|A3734387|835132011|91752002||SNOMEDCT_US|FN|91752002|Structure of third diagonal branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C0555922|ENG|S|L2831421|PF|S3390124|Y|A3535095|657144019|264844003||SNOMEDCT_US|FN|264844003|Left ventricle apical anterior segment (body structure)|9|N||
+C0555925|ENG|S|L2832352|PF|S3390145|Y|A3535117|657148016|264848000||SNOMEDCT_US|FN|264848000|Left ventricle mid anterior segment (body structure)|9|N||
+C0555926|ENG|S|L2831889|PF|S3390129|Y|A3535101|657150012|264850008||SNOMEDCT_US|FN|264850008|Left ventricle basal anterior segment (body structure)|9|N||
+C0555941|ENG|S|L2831622|PF|S3559415|Y|A3722363|835163010|91779003||SNOMEDCT_US|FN|91779003|Structure of anterior interosseous artery (body structure)|9|N||
+C0559280|ENG|S|L2831930|PF|S3278977|Y|A3417116|674912014|281385007||SNOMEDCT_US|FN|281385007|Entire anterior wall of urinary bladder (body structure)|9|N||
+C0559280|ENG|S|L2831931|PF|S3559638|Y|A3722586|788692012|50858009||SNOMEDCT_US|FN|50858009|Structure of anterior wall of urinary bladder (body structure)|9|N||
+C0559612|ENG|S|L2832412|PF|S3545679|Y|A3707716|675291019|281720002||SNOMEDCT_US|FN|281720002|Skin of part of anterior surface of neck (body structure)|9|N||
+C0559620|ENG|S|L2768978|PF|S3545678|Y|A3707715|675300013|281728009||SNOMEDCT_US|FN|281728009|Skin of part of anterior abdominal surface (body structure)|9|N||
+C0562222|ENG|S|L2832354|PF|S3390123|Y|A3535094|678237018|284355001||SNOMEDCT_US|FN|284355001|Left ventricle anterior segment (body structure)|9|N||
+C0580756|ENG|S|L2832124|PF|S3559563|Y|A3722511|750220014|20977007||SNOMEDCT_US|FN|20977007|Structure of anterior surface of cornea (body structure)|9|N||
+C0583001|ENG|S|L2832084|PF|S3475730|Y|A3627429|1456404010|305110008||SNOMEDCT_US|FN|305110008|Anterior chamber and/or lens structures (body structure)|9|N||
+C0584889|ENG|S|L2831988|PF|S3471554|Y|A3622884|703489017|307019005||SNOMEDCT_US|FN|307019005|Penile branches of anterior scrotal nerve (body structure)|9|N||
+C0584918|ENG|S|L2832346|PF|S3424166|Y|A3571474|703515017|307042003||SNOMEDCT_US|FN|307042003|Musculotendinous junction of tibialis anterior (body structure)|9|N||
+C0587131|ENG|S|L2768976|PF|S3388668|Y|A3533548|672256017|279024006||SNOMEDCT_US|FN|279024006|Lateral anterior abdominal surface region (body structure)|9|N||
+C0588088|ENG|S|L2832450|PF|S3480687|Y|A3632722|707149015|310575006||SNOMEDCT_US|FN|310575006|Anterior uveal tract structure (body structure)|9|N||
+C0588344|ENG|S|L2831954|PF|S3194514|Y|A3324012|707272010|310784008||SNOMEDCT_US|FN|310784008|Bone structure of anterior cranial fossa (body structure)|9|N||
+C0595944|ENG|S|L2831960|PF|S3195874|Y|A3326286|634326015|244506005||SNOMEDCT_US|FN|244506005|Both anterior nares (body structure)|9|N||
+C0595944|ENG|S|L2832409|PF|S3559483|Y|A3722431|745334017|1797002||SNOMEDCT_US|FN|1797002|Structure of anterior naris (body structure)|9|N||
+C0730474|ENG|S|L2832208|PF|S3278952|Y|A3417091|709876014|313127008||SNOMEDCT_US|FN|313127008|Entire anterior tibiofibular ligament (body structure)|9|N||
+C0736134|ENG|S|L2832296|PF|S3480946|Y|A3633197|731800017|127869006||SNOMEDCT_US|FN|127869006|Anterior wall of fundus of stomach (body structure)|9|N||
+C0736135|ENG|S|L2831953|PF|S3480886|Y|A3633076|731803015|127871006||SNOMEDCT_US|FN|127871006|Anterior wall of body of stomach (body structure)|9|N||
+C0917714|ENG|S|L2832425|PF|S3559498|Y|A3722446|781667016|44528007||SNOMEDCT_US|FN|44528007|Structure of anterior perforated substance (body structure)|9|N||
+C0923371|ENG|S|L2831535|PF|S3197158|Y|A3327653|711096013|314304002||SNOMEDCT_US|FN|314304002|Branch of anterior cerebral artery (body structure)|9|N||
+C0923398|ENG|S|L15250011|PF|S18531716|Y|A30205984|3717726011|772215000||SNOMEDCT_US|FN|772215000|Anterior cerebral artery A1 segment (body structure)|9|N||
+C0923399|ENG|S|L15258089|PF|S18531718|Y|A30225768|3717728012|772216004||SNOMEDCT_US|FN|772216004|Anterior cerebral artery A2 segment (body structure)|9|N||
+C0923920|ENG|S|L6395105|PF|S7332217|Y|A11738175|2639468014|422564004||SNOMEDCT_US|FN|422564004|Structure of tributary of anterior jugular vein (body structure)|9|N||
+C0924634|ENG|S|L6391104|PF|S7331507|Y|A11736679|2639450011|423616005||SNOMEDCT_US|FN|423616005|Structure of anterior ciliary vein (body structure)|9|N||
+C0924699|ENG|S|L6392156|PF|S7332215|Y|A11735852|2639451010|423806000||SNOMEDCT_US|FN|423806000|Structure of tributary of anterior ciliary vein (body structure)|9|N||
+C0935183|ENG|S|L6731646|PF|S7840526|Y|A13022807|2660735017|427256000||SNOMEDCT_US|FN|427256000|Branch of anterior ethmoidal artery (body structure)|9|N||
+C1182887|ENG|S|L2832329|PF|S3585964|Y|A3750040|746786015|361635000||SNOMEDCT_US|FN|361635000|Tenth anterior intercostal vein (body structure)|9|N||
+C1182890|ENG|S|L2832155|PF|S3274444|Y|A3412316|746784017|361634001||SNOMEDCT_US|FN|361634001|Eleventh anterior intercostal vein (body structure)|9|N||
+C1183910|ENG|S|L13498462|PF|S16491629|Y|A27171413|3308218015|717025007||SNOMEDCT_US|FN|717025007|Structure of anterior fibromuscular stroma of prostate (body structure)|9|N||
+C1261061|ENG|S|L2831998|PF|S3569350|Y|A3732465|783119015|45836004||SNOMEDCT_US|FN|45836004|Structure of right upper lobe anterior segmental bronchus (body structure)|9|N||
+C1261066|ENG|S|L2831997|PF|S3569237|Y|A3732352|834160019|90949006||SNOMEDCT_US|FN|90949006|Structure of right lower lobe anterior segmental bronchus (body structure)|9|N||
+C1261070|ENG|S|L2831996|PF|S3565376|Y|A3728444|789114018|51237004||SNOMEDCT_US|FN|51237004|Structure of left upper lobe anterior segmental bronchus (body structure)|9|N||
+C1261071|ENG|S|L2831995|PF|S3565270|Y|A3728338|647892012|113251008||SNOMEDCT_US|FN|113251008|Structure of left lower lobe anterior segmental bronchus (body structure)|9|N||
+C1266891|ENG|S|L2832358|PF|S3573334|Y|A20829304|2916709012|341476009||SNOMEDCT_US|FN|341476009|Subcutaneous tissue structure of anterior surface of lower leg (body structure)|9|N||
+C1267176|ENG|S|L2832206|PF|S3278890|Y|A3417029|815986014|75383002||SNOMEDCT_US|FN|75383002|Entire anterior sternoclavicular ligament (body structure)|9|N||
+C1267190|ENG|S|L2832166|PF|S3278773|Y|A3416912|815639012|7507003||SNOMEDCT_US|FN|7507003|Entire anterior ligament of head of fibula (body structure)|9|N||
+C1267217|ENG|S|L2831407|PF|S3480978|Y|A3633241|727240019|123870008||SNOMEDCT_US|FN|123870008|Anterior wall of maxillary antrum (body structure)|9|N||
+C1267226|ENG|S|L2832122|PF|S3521832|Y|A3681544|733233013|129146000||SNOMEDCT_US|FN|129146000|Right vocal cord, anterior third (body structure)|9|N||
+C1267229|ENG|S|L2832119|PF|S3390281|Y|A3535260|733236017|129149007||SNOMEDCT_US|FN|129149007|Left vocal cord, anterior third (body structure)|9|N||
+C1267254|ENG|S|L2832104|PF|S3278684|Y|A3416821|804911010|6541001||SNOMEDCT_US|FN|6541001|Entire anterior commissure of mitral valve (body structure)|9|N||
+C1267258|ENG|S|L2831413|PF|S3278677|Y|A3416814|543944011|10271001||SNOMEDCT_US|FN|10271001|Entire anterior commissure of aortic valve (body structure)|9|N||
+C1267288|ENG|S|L2831571|PF|S3290822|Y|A3429044|806043011|6643005||SNOMEDCT_US|FN|6643005|Entire right anterior cerebral artery (body structure)|9|N||
+C1267289|ENG|S|L2831570|PF|S3285872|Y|A3424036|785325014|47824009||SNOMEDCT_US|FN|47824009|Entire left anterior cerebral artery (body structure)|9|N||
+C1267290|ENG|S|L2831527|PF|S3283348|Y|A3421500|826544019|84655009||SNOMEDCT_US|FN|84655009|Entire frontopolar branch of anterior cerebral artery (body structure)|9|N||
+C1267291|ENG|S|L2831526|PF|S3283302|Y|A3421454|827015018|85044004||SNOMEDCT_US|FN|85044004|Entire frontal branch of anterior cerebral artery (body structure)|9|N||
+C1267292|ENG|S|L2831528|PF|S3288505|Y|A3426683|775643012|39229000||SNOMEDCT_US|FN|39229000|Entire orbital branch of anterior cerebral artery (body structure)|9|N||
+C1267293|ENG|S|L2831520|PF|S3280208|Y|A3418352|807143015|6742006||SNOMEDCT_US|FN|6742006|Entire callosomarginal branch of anterior cerebral artery (body structure)|9|N||
+C1267294|ENG|S|L2831518|PF|S3280206|Y|A3418350|757332012|26834004||SNOMEDCT_US|FN|26834004|Entire callosal branch of anterior cerebral artery (body structure)|9|N||
+C1267295|ENG|S|L2831529|PF|S3288918|Y|A3427097|776157019|3966004||SNOMEDCT_US|FN|3966004|Entire parietal branch of anterior cerebral artery (body structure)|9|N||
+C1267308|ENG|S|L2831602|PF|S3278828|Y|A3416967|819445018|78499006||SNOMEDCT_US|FN|78499006|Entire anterior parietal artery (body structure)|9|N||
+C1267310|ENG|S|L2831606|PF|S3278932|Y|A3417071|781424019|44310009||SNOMEDCT_US|FN|44310009|Entire anterior temporal artery (body structure)|9|N||
+C1267340|ENG|S|L2831555|PF|S3295388|Y|A3433639|755763014|25445000||SNOMEDCT_US|FN|25445000|Entire upper anterior segmental branch of renal artery (body structure)|9|N||
+C1267342|ENG|S|L2831554|PF|S3286537|Y|A3424705|811063012|70951001||SNOMEDCT_US|FN|70951001|Entire lower anterior segmental branch of renal artery (body structure)|9|N||
+C1267370|ENG|S|L2831581|PF|S3278672|Y|A3416809|811517012|71360008||SNOMEDCT_US|FN|71360008|Entire anterior circumflex ulnar artery (body structure)|9|N||
+C1267399|ENG|S|L2831604|PF|S3290824|Y|A3429046|825325015|83648003||SNOMEDCT_US|FN|83648003|Entire right anterior tibial artery (body structure)|9|N||
+C1267400|ENG|S|L2831597|PF|S3285876|Y|A3424040|648110018|113271004||SNOMEDCT_US|FN|113271004|Entire left anterior tibial artery (body structure)|9|N||
+C1267416|ENG|S|L2832192|PF|S3278751|Y|A3416888|804985014|65478008||SNOMEDCT_US|FN|65478008|Entire anterior jugular vein (body structure)|9|N||
+C1267451|ENG|S|L2832259|PF|S3278966|Y|A3417105|814828017|74340001||SNOMEDCT_US|FN|74340001|Entire anterior vestibular vein (body structure)|9|N||
+C1267458|ENG|S|L2832184|PF|S3278739|Y|A3416876|742389011|15546000||SNOMEDCT_US|FN|15546000|Entire anterior intercostal vein (body structure)|9|N||
+C1267461|ENG|S|L2832027|PF|S3278643|Y|A3416780|781040011|43967001||SNOMEDCT_US|FN|43967001|Entire anterior cardiac vein (body structure)|9|N||
+C1267519|ENG|S|L2832195|PF|S3278761|Y|A3416900|809386015|6944002||SNOMEDCT_US|FN|6944002|Entire anterior labial vein (body structure)|9|N||
+C1267534|ENG|S|L2832137|PF|S3278934|Y|A3417073|752389015|22926009||SNOMEDCT_US|FN|22926009|Entire anterior temporal diploic vein (body structure)|9|N||
+C1267585|ENG|S|L2831408|PF|S3480855|Y|A3633009|731808012|127875002||SNOMEDCT_US|FN|127875002|Anterior wall of antrum of stomach (body structure)|9|N||
+C1267589|ENG|S|L2832001|PF|S3480925|Y|A3633162|623752011|110607009||SNOMEDCT_US|FN|110607009|Anterior wall of duodenal bulb (body structure)|9|N||
+C1267601|ENG|S|L2832145|PF|S3288543|Y|A3426722|819699017|78727000||SNOMEDCT_US|FN|78727000|Entire orifice of duct of anterior lingual gland (body structure)|9|N||
+C1267621|ENG|S|L2832246|PF|S3278896|Y|A3417035|821630017|80467009||SNOMEDCT_US|FN|80467009|Entire anterior superior renal segment (body structure)|9|N||
+C1267622|ENG|S|L2832182|PF|S3278735|Y|A3416872|803187013|63858006||SNOMEDCT_US|FN|63858006|Entire anterior inferior renal segment (body structure)|9|N||
+C1267642|ENG|S|L2832455|PF|S3481048|Y|A3633375|731817012|127883008||SNOMEDCT_US|FN|127883008|Anterior wall of upper third of vagina (body structure)|9|N||
+C1267649|ENG|S|L2832397|PF|S3480998|Y|A3633262|731822012|127888004||SNOMEDCT_US|FN|127888004|Anterior wall of middle third of vagina (body structure)|9|N||
+C1267654|ENG|S|L2832381|PF|S3480963|Y|A3633225|731828011|127893001||SNOMEDCT_US|FN|127893001|Anterior wall of lower third of vagina (body structure)|9|N||
+C1267748|ENG|S|L2831973|PF|S3285692|Y|A3423855|807255016|67521003||SNOMEDCT_US|FN|67521003|Entire lateral nasal branches of anterior ethmoidal nerve (body structure)|9|N||
+C1267749|ENG|S|L2831974|PF|S3287185|Y|A3425355|799311018|60367004||SNOMEDCT_US|FN|60367004|Entire medial nasal branches of anterior ethmoidal nerve (body structure)|9|N||
+C1267758|ENG|S|L2831966|PF|S3294675|Y|A3432917|778008013|41241008||SNOMEDCT_US|FN|41241008|Entire thoracic nerve anterior cutaneous branch (body structure)|9|N||
+C1268024|ENG|S|L2832050|PF|S3281599|Y|A3419746|790364012|52363008||SNOMEDCT_US|FN|52363008|Entire deep anterior cervical lymph node (body structure)|9|N||
+C1268025|ENG|S|L2832053|PF|S3293625|Y|A3431862|752463019|22993006||SNOMEDCT_US|FN|22993006|Entire superficial anterior cervical lymph node (body structure)|9|N||
+C1268055|ENG|S|L14217450|PF|S17287303|Y|A28427036|3491428016|127939003||SNOMEDCT_US|FN|127939003|Structure of para-aortic lymph node of anterior mediastinum (body structure)|9|N||
+C1268084|ENG|S|L2832216|PF|S3278943|Y|A3417082|820761012|79684005||SNOMEDCT_US|FN|79684005|Entire anterior tibial lymph node (body structure)|9|N||
+C1268253|ENG|S|L5153945|PF|S5888547|Y|A6948257|2461313011|118512004||SNOMEDCT_US|FN|118512004|Structure of anterior compartment of the upper arm (body structure)|9|N||
+C1269011|ENG|S|L2831572|PF|S3278655|Y|A3416792|564541014|181309000||SNOMEDCT_US|FN|181309000|Entire anterior cerebral artery (body structure)|9|N||
+C1269020|ENG|S|L2831607|PF|S3278939|Y|A3417078|564595016|181357006||SNOMEDCT_US|FN|181357006|Entire anterior tibial artery (body structure)|9|N||
+C1269034|ENG|S|L2831465|PF|S3291838|Y|A3430067|564790011|181532002||SNOMEDCT_US|FN|181532002|Entire skin of anterior surface of upper arm (body structure)|9|N||
+C1269036|ENG|S|L2832171|PF|S3291834|Y|A3430063|564797014|181538003||SNOMEDCT_US|FN|181538003|Entire skin of anterior surface of forearm (body structure)|9|N||
+C1269038|ENG|S|L2832248|PF|S3291836|Y|A3430065|564808016|181548001||SNOMEDCT_US|FN|181548001|Entire skin of anterior surface of thigh (body structure)|9|N||
+C1269065|ENG|S|L2832181|PF|S3278894|Y|A3417033|565346013|182031001||SNOMEDCT_US|FN|182031001|Entire anterior superior iliac spine (body structure)|9|N||
+C1269585|ENG|S|L2832014|PF|S3278881|Y|A3417020|673092016|279764002||SNOMEDCT_US|FN|279764002|Entire anterior semicircular canal (body structure)|9|N||
+C1269593|ENG|S|L2831972|PF|S3282614|Y|A3420765|673610010|280227008||SNOMEDCT_US|FN|280227008|Entire external nasal branch anterior ethmoidal nerve (body structure)|9|N||
+C1269879|ENG|S|L2831568|PF|S3278731|Y|A3416868|634000016|244213006||SNOMEDCT_US|FN|244213006|Entire anterior inferior cerebellar artery (body structure)|9|N||
+C1272493|ENG|S|L2751101|PF|S3278063|Y|A3416200|1458965012|384787000||SNOMEDCT_US|FN|384787000|Entire Brodmann area 32, dorsal anterior cingulate (body structure)|9|N||
+C1272502|ENG|S|L2754278|PF|S3278084|Y|A3416221|1458974014|384796000||SNOMEDCT_US|FN|384796000|Entire Brodmann area 41, anterior transverse temporal (body structure)|9|N||
+C1272542|ENG|S|L2744967|PF|S3278046|Y|A3416183|1458957014|384779001||SNOMEDCT_US|FN|384779001|Entire Brodmann area 24, ventral anterior cingulate (body structure)|9|N||
+C1277631|ENG|S|L2832091|PF|S3278674|Y|A3416811|518840014|140188009||SNOMEDCT_US|FN|140188009|Entire anterior clinoid process (body structure)|9|N||
+C1277648|ENG|S|L2832188|PF|S3278747|Y|A3416884|519512017|140794007||SNOMEDCT_US|FN|140794007|Entire anterior intraoccipital synchondrosis (body structure)|9|N||
+C1277658|ENG|S|L2831820|PF|S3278596|Y|A3416733|520073018|141299008||SNOMEDCT_US|FN|141299008|Entire anterior atlantooccipital membrane (body structure)|9|N||
+C1277675|ENG|S|L2831909|PF|S3278626|Y|A3416763|520633011|141804004||SNOMEDCT_US|FN|141804004|Entire anterior belly of digastric muscle (body structure)|9|N||
+C1278316|ENG|S|L2831492|PF|S3278598|Y|A3416735|526015011|146652007||SNOMEDCT_US|FN|146652007|Entire anterior auricular branch of superficial temporal artery (body structure)|9|N||
+C1278335|ENG|S|L2831608|PF|S3278958|Y|A3417097|526688019|147258006||SNOMEDCT_US|FN|147258006|Entire anterior tympanic artery (body structure)|9|N||
+C1278415|ENG|S|L2831609|PF|S3278964|Y|A3417103|528369013|148773008||SNOMEDCT_US|FN|148773008|Entire anterior vestibular artery (body structure)|9|N||
+C1278462|ENG|S|L2831836|PF|S3278605|Y|A3416742|531509011|151602009||SNOMEDCT_US|FN|151602009|Entire anterior auricular vein (body structure)|9|N||
+C1278548|ENG|S|L2832235|PF|S3292942|Y|A3431176|537561015|157054009||SNOMEDCT_US|FN|157054009|Entire subcutaneous tissue of anterior portion of neck (body structure)|9|N||
+C1278581|ENG|S|L2831556|PF|S3278638|Y|A3416775|541515013|160586007||SNOMEDCT_US|FN|160586007|Entire anterior branch of superior thyroid artery (body structure)|9|N||
+C1278652|ENG|S|L2832052|PF|S3278657|Y|A3416794|549959012|168259009||SNOMEDCT_US|FN|168259009|Entire anterior cervical lymph node (body structure)|9|N||
+C1278676|ENG|S|L2832156|PF|S3278708|Y|A3416845|553000017|170989005||SNOMEDCT_US|FN|170989005|Entire anterior epiglottis (body structure)|9|N||
+C1278750|ENG|S|L2832048|PF|S3278659|Y|A3416796|557413017|174925008||SNOMEDCT_US|FN|174925008|Entire anterior cervical spinal cord nerve root (body structure)|9|N||
+C1278803|ENG|S|L2832231|PF|S3278819|Y|A3416958|561727015|178783003||SNOMEDCT_US|FN|178783003|Entire anterior nasopharynx (body structure)|9|N||
+C1278808|ENG|S|L2832232|PF|S3278971|Y|A3417110|562159017|179170003||SNOMEDCT_US|FN|179170003|Entire anterior wall of nasopharynx (body structure)|9|N||
+C1278887|ENG|S|L2832074|PF|S3278662|Y|A3416799|564375014|181160009||SNOMEDCT_US|FN|181160009|Entire anterior chamber of eye (body structure)|9|N||
+C1278938|ENG|S|L2831584|PF|S3278687|Y|A3416824|564543012|181311009||SNOMEDCT_US|FN|181311009|Entire anterior communicating artery (body structure)|9|N||
+C1278946|ENG|S|L2831605|PF|S3278888|Y|A3417027|564564011|181329004||SNOMEDCT_US|FN|181329004|Entire anterior spinal artery (body structure)|9|N||
+C1279003|ENG|S|L2831855|PF|S3291825|Y|A3430054|564748017|181494001||SNOMEDCT_US|FN|181494001|Entire skin of anterior axillary fold (body structure)|9|N||
+C1279063|ENG|S|L2831448|PF|S3278586|Y|A3416723|565189015|181891000||SNOMEDCT_US|FN|181891000|Entire anterior arch of atlas (body structure)|9|N||
+C1279103|ENG|S|L2832180|PF|S3278733|Y|A3416870|565345012|182030000||SNOMEDCT_US|FN|182030000|Entire anterior inferior iliac spine (body structure)|9|N||
+C1279157|ENG|S|L2831548|PF|S3278704|Y|A3416841|565701014|182346004||SNOMEDCT_US|FN|182346004|Entire anterior descending branch of right pulmonary artery (body structure)|9|N||
+C1279188|ENG|S|L2831497|PF|S3278619|Y|A3416756|566228013|182818005||SNOMEDCT_US|FN|182818005|Entire anterior basal branch of right pulmonary artery (body structure)|9|N||
+C1279192|ENG|S|L2831485|PF|S3278592|Y|A3416729|566558018|183114002||SNOMEDCT_US|FN|183114002|Entire anterior ascending branch of right pulmonary artery (body structure)|9|N||
+C1279195|ENG|S|L2831979|PF|S3278636|Y|A3416773|566871011|183394007||SNOMEDCT_US|FN|183394007|Entire anterior branch of superior right pulmonary vein (body structure)|9|N||
+C1279201|ENG|S|L2831882|PF|S3278615|Y|A3416752|567542013|183999007||SNOMEDCT_US|FN|183999007|Entire anterior basal branch of inferior right pulmonary vein (body structure)|9|N||
+C1279218|ENG|S|L2831547|PF|S3278701|Y|A3416838|568675010|185632000||SNOMEDCT_US|FN|185632000|Entire anterior descending branch of left pulmonary artery (body structure)|9|N||
+C1279220|ENG|S|L2831484|PF|S3278590|Y|A3416727|568867018|185836004||SNOMEDCT_US|FN|185836004|Entire anterior ascending branch of left pulmonary artery (body structure)|9|N||
+C1279228|ENG|S|L2831496|PF|S3278617|Y|A3416754|569347010|186333007||SNOMEDCT_US|FN|186333007|Entire anterior basal branch of left pulmonary artery (body structure)|9|N||
+C1279238|ENG|S|L2831976|PF|S3278634|Y|A3416771|569770017|186700000||SNOMEDCT_US|FN|186700000|Entire anterior branch of superior left pulmonary vein (body structure)|9|N||
+C1279243|ENG|S|L2831881|PF|S3278613|Y|A3416750|570202016|187077003||SNOMEDCT_US|FN|187077003|Entire anterior basal branch of inferior left pulmonary vein (body structure)|9|N||
+C1279341|ENG|S|L2832228|PF|S3278815|Y|A3416954|576730010|192901008||SNOMEDCT_US|FN|192901008|Entire anterior myocardium (body structure)|9|N||
+C1279345|ENG|S|L2831542|PF|S3290316|Y|A3428527|577091011|193229006||SNOMEDCT_US|FN|193229006|Entire proximal portion of anterior descending branch of left coronary artery (body structure)|9|N||
+C1279347|ENG|S|L2831539|PF|S3281918|Y|A3420067|577176012|193304002||SNOMEDCT_US|FN|193304002|Entire distal portion of anterior descending branch of left coronary artery (body structure)|9|N||
+C1279348|ENG|S|L2831537|PF|S3281776|Y|A3419923|577268016|193386003||SNOMEDCT_US|FN|193386003|Entire descending segment of anterior descending branch of left coronary artery (body structure)|9|N||
+C1279350|ENG|S|L2831541|PF|S3287514|Y|A3425688|577359015|193467007||SNOMEDCT_US|FN|193467007|Entire mid portion of anterior descending branch of left coronary artery (body structure)|9|N||
+C1279351|ENG|S|L2831516|PF|S3283058|Y|A3421210|577434013|193540004||SNOMEDCT_US|FN|193540004|Entire first septal perforator branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C1279449|ENG|S|L2832214|PF|S3278801|Y|A3416940|586171019|201314002||SNOMEDCT_US|FN|201314002|Entire anterior margin of lung (body structure)|9|N||
+C1279532|ENG|S|L2832251|PF|S3292948|Y|A3431182|593813016|208167001||SNOMEDCT_US|FN|208167001|Entire subcutaneous tissue of anterior surface of thigh (body structure)|9|N||
+C1279592|ENG|S|L2831603|PF|S3278857|Y|A3416996|598416018|212577009||SNOMEDCT_US|FN|212577009|Entire anterior recurrent tibial artery (body structure)|9|N||
+C1279623|ENG|S|L2832002|PF|S3293568|Y|A3431805|600776010|214710000||SNOMEDCT_US|FN|214710000|Entire subtendinous bursa of anterior tibial muscle (body structure)|9|N||
+C1279977|ENG|S|L2831779|PF|S3278641|Y|A3416778|627270011|238397003||SNOMEDCT_US|FN|238397003|Entire anterior calcaneal articular surface of talus (body structure)|9|N||
+C1280016|ENG|S|L2831596|PF|S3278767|Y|A3416906|631203012|241875001||SNOMEDCT_US|FN|241875001|Entire anterior lateral malleolar artery (body structure)|9|N||
+C1280017|ENG|S|L2831599|PF|S3287071|Y|A3425241|631311016|241972002||SNOMEDCT_US|FN|241972002|Entire medial anterior malleolar artery (body structure)|9|N||
+C1280022|ENG|S|L2832207|PF|S3278930|Y|A3417069|631861015|242467001||SNOMEDCT_US|FN|242467001|Entire anterior talofibular ligament (body structure)|9|N||
+C1280027|ENG|S|L2832190|PF|S3278954|Y|A3417093|632316011|242877007||SNOMEDCT_US|FN|242877007|Entire anterior tibiotalar part of medial ligament of talocrural joint (body structure)|9|N||
+C1280031|ENG|S|L2831600|PF|S3278798|Y|A3416937|632710019|243227008||SNOMEDCT_US|FN|243227008|Entire anterior malleolar artery (body structure)|9|N||
+C1280109|ENG|S|L2831576|PF|S3278666|Y|A3416803|633998014|244211008||SNOMEDCT_US|FN|244211008|Entire anterior choroidal artery (body structure)|9|N||
+C1280166|ENG|S|L2831595|PF|S3278741|Y|A3416878|634116017|244317005||SNOMEDCT_US|FN|244317005|Entire anterior interosseous artery (body structure)|9|N||
+C1280217|ENG|S|L2832203|PF|S3278790|Y|A3416929|634434010|244601007||SNOMEDCT_US|FN|244601007|Entire anterior longitudinal ligament (body structure)|9|N||
+C1280274|ENG|S|L2832018|PF|S3278855|Y|A3416994|634697011|244838005||SNOMEDCT_US|FN|244838005|Entire anterior rectus capitis muscle (body structure)|9|N||
+C1280311|ENG|S|L2831835|PF|S3278603|Y|A3416740|635240011|245327007||SNOMEDCT_US|FN|245327007|Entire anterior auricular lymph node (body structure)|9|N||
+C1280348|ENG|S|L2832174|PF|S3278720|Y|A3416857|635409018|245476002||SNOMEDCT_US|FN|245476002|Entire anterior fornix (body structure)|9|N||
+C1280353|ENG|S|L2832061|PF|S3278788|Y|A3416927|635424010|245490004||SNOMEDCT_US|FN|245490004|Entire anterior lip of cervix (body structure)|9|N||
+C1280393|ENG|S|L2832167|PF|S3278716|Y|A3416853|635757011|245787006||SNOMEDCT_US|FN|245787006|Entire anterior floor of mouth (body structure)|9|N||
+C1280404|ENG|S|L2832205|PF|S3278813|Y|A3416952|635929012|245939005||SNOMEDCT_US|FN|245939005|Entire anterior meniscofemoral ligament (body structure)|9|N||
+C1280418|ENG|S|L2832220|PF|S3278803|Y|A3416942|637312017|247175007||SNOMEDCT_US|FN|247175007|Entire anterior margin of pancreas (body structure)|9|N||
+C1280611|ENG|S|L2832221|PF|S3278807|Y|A3416946|652875015|261048003||SNOMEDCT_US|FN|261048003|Entire anterior mediastinum (body structure)|9|N||
+C1280718|ENG|P|L2832151|PF|S3479732|Y|A3865666||||MTH|PN|NOCODE|Anterior semicircular duct (body structure)|0|N|256|
+C1280718|ENG|S|L2832152|PF|S3559543|Y|A3722491|814496018|7404008||SNOMEDCT_US|FN|7404008|Structure of anterior semicircular duct (body structure)|9|N||
+C1280730|ENG|S|L2831565|PF|S3278649|Y|A3416786|658070017|265672000||SNOMEDCT_US|FN|265672000|Entire anterior cecal artery (body structure)|9|N||
+C1280794|ENG|S|L2831970|PF|S3278632|Y|A3416769|662507018|269625005||SNOMEDCT_US|FN|269625005|Entire anterior branch of right hepatic duct (body structure)|9|N||
+C1280800|ENG|S|L2832211|PF|S3278875|Y|A3417014|663006014|270226005||SNOMEDCT_US|FN|270226005|Entire anterior segment of right lobe of liver (body structure)|9|N||
+C1280842|ENG|S|L2831598|PF|S3278871|Y|A3417010|665208017|272656002||SNOMEDCT_US|FN|272656002|Entire anterior segment artery of liver (body structure)|9|N||
+C1280864|ENG|S|L2831589|PF|S3278706|Y|A3416843|666381016|273708007||SNOMEDCT_US|FN|273708007|Entire anterior division of renal artery (body structure)|9|N||
+C1280896|ENG|S|L2832230|PF|S3278817|Y|A3416956|669035013|276165005||SNOMEDCT_US|FN|276165005|Entire anterior naris (body structure)|9|N||
+C1280935|ENG|S|L2832187|PF|S3278745|Y|A3416882|670778016|277710008||SNOMEDCT_US|FN|277710008|Entire anterior interventricular sulcus (body structure)|9|N||
+C1281033|ENG|S|L2832178|PF|S3278727|Y|A3416864|672508010|279247001||SNOMEDCT_US|FN|279247001|Entire anterior horn of lateral ventricle (body structure)|9|N||
+C1281055|ENG|S|L2832024|PF|S3278782|Y|A3416921|672562014|279295005||SNOMEDCT_US|FN|279295005|Entire anterior limb of internal capsule (body structure)|9|N||
+C1281083|ENG|S|L2832043|PF|S3278653|Y|A3416790|672633019|279359004||SNOMEDCT_US|FN|279359004|Entire anterior cerebellar lobe (body structure)|9|N||
+C1281087|ENG|S|L2832193|PF|S3278911|Y|A3417050|672652013|279375001||SNOMEDCT_US|FN|279375001|Entire anterior surface of kidney (body structure)|9|N||
+C1281136|ENG|S|L2831834|PF|S3278601|Y|A3416738|672950019|279638003||SNOMEDCT_US|FN|279638003|Entire anterior auricular ligament (body structure)|9|N||
+C1281146|ENG|S|L2832244|PF|S3278924|Y|A3417063|673016017|279696001||SNOMEDCT_US|FN|279696001|Entire anterior surface of prostate (body structure)|9|N||
+C1281165|ENG|S|L2832147|PF|S3278883|Y|A3417022|673174010|279836001||SNOMEDCT_US|FN|279836001|Entire anterior semicircular duct (body structure)|9|N||
+C1281192|ENG|S|L2802504|PF|S3278898|Y|A3417037|673448013|280083002||SNOMEDCT_US|FN|280083002|Entire anterior surface of adrenal gland (body structure)|9|N||
+C1281222|ENG|S|L2832158|PF|S3278712|Y|A3416849|673607015|280225000||SNOMEDCT_US|FN|280225000|Entire anterior ethmoidal nerve (body structure)|9|N||
+C1281226|ENG|S|L2817134|PF|S3278892|Y|A3417031|673625010|280241004||SNOMEDCT_US|FN|280241004|Entire anterior superior alveolar nerve (body structure)|9|N||
+C1281301|ENG|S|L2832189|PF|S3278909|Y|A3417048|674344017|280878006||SNOMEDCT_US|FN|280878006|Entire anterior surface of iris (body structure)|9|N||
+C1281318|ENG|S|L2832254|PF|S3278950|Y|A3417089|674555018|281066000||SNOMEDCT_US|FN|281066000|Entire anterior tibial vein (body structure)|9|N||
+C1281407|ENG|S|L2831965|PF|S3278697|Y|A3416834|681368015|287173001||SNOMEDCT_US|FN|287173001|Entire anterior cutaneous branch of lumbosacral plexus (body structure)|9|N||
+C1281473|ENG|S|L2831553|PF|S3278865|Y|A3417004|688329018|293439002||SNOMEDCT_US|FN|293439002|Entire anterior scrotal branch of external pudendal artery (body structure)|9|N||
+C1281475|ENG|S|L2831552|PF|S3278753|Y|A3416890|688554019|293642003||SNOMEDCT_US|FN|293642003|Entire anterior labial branch of external pudendal artery (body structure)|9|N||
+C1281478|ENG|S|L2832247|PF|S3278869|Y|A3417008|689455010|294454004||SNOMEDCT_US|FN|294454004|Entire anterior scrotal vein (body structure)|9|N||
+C1281542|ENG|S|L2831977|PF|S3288298|Y|A3426475|697264011|301465008||SNOMEDCT_US|FN|301465008|Entire obturator nerve anterior branch (body structure)|9|N||
+C1281548|ENG|S|L2831964|PF|S3282829|Y|A3420980|697786013|301931001||SNOMEDCT_US|FN|301931001|Entire femoral nerve anterior cutaneous branches (body structure)|9|N||
+C1281557|ENG|S|L2832201|PF|S3278840|Y|A3416979|698023012|302143002||SNOMEDCT_US|FN|302143002|Entire anterior pole of lens (body structure)|9|N||
+C1281656|ENG|S|L2832258|PF|S3278962|Y|A3417101|700209019|303963002||SNOMEDCT_US|FN|303963002|Entire anterior vertebral vein (body structure)|9|N||
+C1281753|ENG|S|L2832030|PF|S3278645|Y|A3416782|705277015|308780006||SNOMEDCT_US|FN|308780006|Entire anterior cardinal vein (body structure)|9|N||
+C1281826|ENG|S|L2832115|PF|S3278792|Y|A3416931|706736011|310154007||SNOMEDCT_US|FN|310154007|Entire anterior lumbosacral spinal cord nerve root (body structure)|9|N||
+C1281851|ENG|S|L2831858|PF|S3291828|Y|A3430057|708782010|312145002||SNOMEDCT_US|FN|312145002|Entire skin of anterior axillary line (body structure)|9|N||
+C1281852|ENG|S|L2831594|PF|S3278710|Y|A3416847|708800010|312160004||SNOMEDCT_US|FN|312160004|Entire anterior ethmoidal artery (body structure)|9|N||
+C1281855|ENG|S|L2831860|PF|S3292938|Y|A3431172|708881012|312233000||SNOMEDCT_US|FN|312233000|Entire subcutaneous tissue of anterior axillary line (body structure)|9|N||
+C1281977|ENG|S|L2832044|PF|S3475539|Y|A3627232|710943010|314165008||SNOMEDCT_US|FN|314165008|Anterior cerebellar lobe fissure (body structure)|9|N||
+C1282005|ENG|S|L2831511|PF|S3294610|Y|A3432852|711000012|314216006||SNOMEDCT_US|FN|314216006|Entire third diagonal branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C1282006|ENG|S|L2831510|PF|S3281782|Y|A3419929|711001011|314217002||SNOMEDCT_US|FN|314217002|Entire diagonal branch of anterior descending branch of left coronary artery (body structure)|9|N||
+C1282081|ENG|S|L2831551|PF|S3197159|Y|A3327654|711119016|314326001||SNOMEDCT_US|FN|314326001|Branch of anterior division of internal iliac artery (body structure)|9|N||
+C1282115|ENG|S|L2831564|PF|S3197161|Y|A3327656|711160011|314362000||SNOMEDCT_US|FN|314362000|Branch of anterior tibial artery (body structure)|9|N||
+C1282735|ENG|S|L2832160|PF|S3278714|Y|A3416851|720144016|329342006||SNOMEDCT_US|FN|329342006|Entire anterior extremity of spleen (body structure)|9|N||
+C1282757|ENG|P|L2831472|PF|S3573231|Y|A3865701||||MTH|PN|NOCODE|Subcutaneous tissue of anterior surface of arm (body structure)|0|N|256|
+C1282894|ENG|S|L2831999|PF|S3278780|Y|A3416919|724414017|346062002||SNOMEDCT_US|FN|346062002|Entire anterior limb bud (body structure)|9|N||
+C1283327|ENG|S|L2832392|PF|S3478467|Y|A3630351|740490013|360480002||SNOMEDCT_US|FN|360480002|Anterior medullary nucleus (body structure)|9|N||
+C1283343|ENG|S|L2831588|PF|S3538125|Y|A3698847|740579017|360509001||SNOMEDCT_US|FN|360509001|Segment of left anterior descending artery (body structure)|9|N||
+C1283457|ENG|S|L2831614|PF|S3398169|Y|A3543703|740992014|360657001||SNOMEDCT_US|FN|360657001|Lower anterior intercostal arteries (body structure)|9|N||
+C1283472|ENG|S|L2831621|PF|S3607258|Y|A3772759|741025010|360673007||SNOMEDCT_US|FN|360673007|Upper anterior intercostal arteries (body structure)|9|N||
+C1283491|ENG|S|L2832331|PF|S3607260|Y|A3772761|741067018|360694005||SNOMEDCT_US|FN|360694005|Upper anterior intercostal veins (body structure)|9|N||
+C1283492|ENG|S|L2832321|PF|S3398171|Y|A3543705|741069015|360695006||SNOMEDCT_US|FN|360695006|Lower anterior intercostal veins (body structure)|9|N||
+C1284001|ENG|S|L2832133|PF|S3477031|Y|A3628825|746097013|361466004||SNOMEDCT_US|FN|361466004|Anterior endocardial cushion (body structure)|9|N||
+C1284034|ENG|S|L2832031|PF|S3389657|Y|A3534583|746387010|361502003||SNOMEDCT_US|FN|361502003|Left anterior cardinal vein (body structure)|9|N||
+C1284035|ENG|S|L2832032|PF|S3521267|Y|A3680967|746389013|361503008||SNOMEDCT_US|FN|361503008|Right anterior cardinal vein (body structure)|9|N||
+C1284072|ENG|S|L2832394|PF|S3478489|Y|A3630373|746610013|361555009||SNOMEDCT_US|FN|361555009|Anterior medullary spinothalamic tract (body structure)|9|N||
+C1284075|ENG|S|L2832393|PF|S3478478|Y|A3630362|746616019|361558006||SNOMEDCT_US|FN|361558006|Anterior medullary spinocerebellar tract (body structure)|9|N||
+C1284451|ENG|S|L2832175|PF|S3278786|Y|A3416925|747972017|362179003||SNOMEDCT_US|FN|362179003|Entire anterior lingual gland (body structure)|9|N||
+C1284452|ENG|S|L2832146|PF|S3282140|Y|A3420290|747974016|362180000||SNOMEDCT_US|FN|362180000|Entire duct of anterior lingual gland (body structure)|9|N||
+C1284474|ENG|S|L2832239|PF|S3278922|Y|A3417061|748023012|362203009||SNOMEDCT_US|FN|362203009|Entire anterior surface of pancreas (body structure)|9|N||
+C1284504|ENG|S|L2832101|PF|S3278679|Y|A3416816|748098011|362238006||SNOMEDCT_US|FN|362238006|Entire anterior commissure of labia majora (body structure)|9|N||
+C1284510|ENG|S|L2832097|PF|S3278861|Y|A3417000|748116013|362246007||SNOMEDCT_US|FN|362246007|Entire anterior rugal column (body structure)|9|N||
+C1284512|ENG|S|L2832257|PF|S3278979|Y|A3417118|748120012|362248008||SNOMEDCT_US|FN|362248008|Entire anterior wall of vagina (body structure)|9|N||
+C1284514|ENG|S|L2832243|PF|S3278584|Y|A3416721|748124015|362250000||SNOMEDCT_US|FN|362250000|Entire anterior and posterior wall of vagina (body structure)|9|N||
+C1284625|ENG|S|L2832245|PF|S3278859|Y|A28413783|3461176015|731086008||SNOMEDCT_US|FN|731086008|Entire anterior region of thalamus (body structure)|9|N||
+C1284626|ENG|S|L2832177|PF|S3278822|Y|A3416961|748374010|362367009||SNOMEDCT_US|FN|362367009|Entire anterior nuclear group of thalamus (body structure)|9|N||
+C1284694|ENG|S|L6390450|PF|S7325715|Y|A11725898|2638526019|279443000||SNOMEDCT_US|FN|279443000|Entire anterior gray horn of spinal cord (body structure)|9|N||
+C1284718|ENG|S|L2832256|PF|S3278960|Y|A3417099|748588010|362468000||SNOMEDCT_US|FN|362468000|Entire anterior vagal trunk (body structure)|9|N||
+C1284748|ENG|S|L2832123|PF|S3278902|Y|A3417041|748675016|362509009||SNOMEDCT_US|FN|362509009|Entire anterior surface of cornea (body structure)|9|N||
+C1284758|ENG|S|L2832202|PF|S3278913|Y|A3417052|748701016|362521008||SNOMEDCT_US|FN|362521008|Entire anterior surface of lens (body structure)|9|N||
+C1284878|ENG|S|L2832234|PF|S3278849|Y|A3416988|748977014|362649006||SNOMEDCT_US|FN|362649006|Entire anterior portion of neck (body structure)|9|N||
+C1284888|ENG|S|L2831859|PF|S3278611|Y|A3416748|748998014|362659007||SNOMEDCT_US|FN|362659007|Entire anterior axillary line (body structure)|9|N||
+C1284951|ENG|S|L2831856|PF|S3278609|Y|A3416746|749152018|362730003||SNOMEDCT_US|FN|362730003|Entire anterior axillary fold (body structure)|9|N||
+C1284956|ENG|S|L2831467|PF|S3278928|Y|A3417067|749162013|362735008||SNOMEDCT_US|FN|362735008|Entire anterior surface of upper arm (body structure)|9|N||
+C1284963|ENG|S|L2832173|PF|S3278907|Y|A3417046|749179019|362743003||SNOMEDCT_US|FN|362743003|Entire anterior surface of forearm (body structure)|9|N||
+C1284996|ENG|S|L2832159|PF|S3278915|Y|A3417054|749257018|362780009||SNOMEDCT_US|FN|362780009|Entire anterior surface of lower extremity (body structure)|9|N||
+C1285003|ENG|S|L2832252|PF|S3278926|Y|A3417065|749271014|362787007||SNOMEDCT_US|FN|362787007|Entire anterior surface of thigh (body structure)|9|N||
+C1285010|ENG|S|L2832200|PF|S3278918|Y|A3417057|749286015|362794005||SNOMEDCT_US|FN|362794005|Entire anterior surface of lower leg (body structure)|9|N||
+C1285014|ENG|S|L2832112|PF|S3278941|Y|A3417080|749295011|362798008||SNOMEDCT_US|FN|362798008|Entire anterior tibial compartment (body structure)|9|N||
+C1285485|ENG|S|L2832277|PF|S3559437|Y|A3722385|757131013|363539005||SNOMEDCT_US|FN|363539005|Structure of anterior lamella of upper eyelid (body structure)|9|N||
+C1285486|ENG|S|L2832164|PF|S3278765|Y|A3416904|757133011|363540007||SNOMEDCT_US|FN|363540007|Entire anterior lamella of upper eyelid (body structure)|9|N||
+C1285489|ENG|S|L2832276|PF|S3559432|Y|A3722380|757139010|363543009||SNOMEDCT_US|FN|363543009|Structure of anterior lamella of eyelid (body structure)|9|N||
+C1285491|ENG|S|L2832275|PF|S3559434|Y|A3722382|757143014|363545002||SNOMEDCT_US|FN|363545002|Structure of anterior lamella of lower eyelid (body structure)|9|N||
+C1285493|ENG|S|L2832163|PF|S3278763|Y|A3416902|757148017|363547005||SNOMEDCT_US|FN|363547005|Entire anterior lamella of lower eyelid (body structure)|9|N||
+C1288321|ENG|S|L2832410|PF|S3559485|Y|A3722433|793869010|367594001||SNOMEDCT_US|FN|367594001|Structure of anterior nasopharynx (body structure)|9|N||
+C1288332|ENG|S|L2832017|PF|S3559541|Y|A3722489|794201014|367615005||SNOMEDCT_US|FN|367615005|Structure of anterior semicircular canal (body structure)|9|N||
+C1288363|ENG|S|L2832100|PF|S3291830|Y|A3430059|823668010|367668004||SNOMEDCT_US|FN|367668004|Entire skin of anterior commissure of labia majora (body structure)|9|N||
+C1288369|ENG|S|L2832102|PF|S3292940|Y|A3431174|823741019|367674004||SNOMEDCT_US|FN|367674004|Entire subcutaneous tissue of anterior commissure of labia majora (body structure)|9|N||
+C1288442|ENG|S|L2832236|PF|S3278867|Y|A3417006|824782010|367761001||SNOMEDCT_US|FN|367761001|Entire anterior scrotal nerves (body structure)|9|N||
+C1288443|ENG|S|L2832194|PF|S3278759|Y|A3416898|824795017|367762008||SNOMEDCT_US|FN|367762008|Entire anterior labial nerves (body structure)|9|N||
+C1288558|ENG|S|L2832116|PF|S3278936|Y|A3417075|826247010|367882002||SNOMEDCT_US|FN|367882002|Entire anterior thoracic spinal cord nerve root (body structure)|9|N||
+C1288560|ENG|S|L2832219|PF|S3278920|Y|A3417059|826271015|367884001||SNOMEDCT_US|FN|367884001|Entire anterior surface of manubrium (body structure)|9|N||
+C1288565|ENG|S|L2831951|PF|S3278900|Y|A3417039|826331011|367889006||SNOMEDCT_US|FN|367889006|Entire anterior surface of body of sternum (body structure)|9|N||
+C1288690|ENG|S|L13768004|PF|S16786759|Y|A27776332|3331541016|368165000||SNOMEDCT_US|FN|368165000|Entire anterior glenoid labrum (body structure)|9|N||
+C1288720|ENG|S|L2831466|PF|S3292950|Y|A3431184|830106015|368201000||SNOMEDCT_US|FN|368201000|Entire subcutaneous tissue of anterior surface of upper arm (body structure)|9|N||
+C1288731|ENG|S|L2832172|PF|S3292944|Y|A3431178|830264012|368214004||SNOMEDCT_US|FN|368214004|Entire subcutaneous tissue of anterior surface of forearm (body structure)|9|N||
+C1288749|ENG|S|L2832034|PF|S3278647|Y|A3416784|830494015|368233009||SNOMEDCT_US|FN|368233009|Entire anterior carpal region (body structure)|9|N||
+C1288877|ENG|S|L2832093|PF|S3281834|Y|A3419983|832297018|368382007||SNOMEDCT_US|FN|368382007|Entire distal anterior closed space of finger (body structure)|9|N||
+C1288969|ENG|S|L2831857|PF|S3292935|Y|A3431169|833604015|368491005||SNOMEDCT_US|FN|368491005|Entire subcutaneous tissue of anterior axillary fold (body structure)|9|N||
+C1288979|ENG|S|L2831580|PF|S3278670|Y|A3416807|833798015|368507000||SNOMEDCT_US|FN|368507000|Entire anterior circumflex humeral artery (body structure)|9|N||
+C1289003|ENG|S|L2830978|PF|S3278630|Y|A3416767|834185011|368539007||SNOMEDCT_US|FN|368539007|Entire anterior branch of medial antebrachial cutaneous nerve (body structure)|9|N||
+C1289110|ENG|S|L2832168|PF|S3278795|Y|A3416934|835515017|368649000||SNOMEDCT_US|FN|368649000|Entire anterior mallear fold of tympanic membrane (body structure)|9|N||
+C1289116|ENG|S|L2832222|PF|S3278853|Y|A3416992|835588010|368655005||SNOMEDCT_US|FN|368655005|Entire anterior recess of tympanic membrane (body structure)|9|N||
+C1289181|ENG|S|L2832143|PF|S3282122|Y|A3420272|836447017|368726005||SNOMEDCT_US|FN|368726005|Entire dorsum of anterior tongue (body structure)|9|N||
+C1289234|ENG|S|L2831792|PF|S3278594|Y|A3416731|837173013|368786008||SNOMEDCT_US|FN|368786008|Entire anterior aspect of eyelids (body structure)|9|N||
+C1289245|ENG|S|L2831578|PF|S3278668|Y|A3416805|837306012|368797008||SNOMEDCT_US|FN|368797008|Entire anterior ciliary artery (body structure)|9|N||
+C1289247|ENG|S|L2831586|PF|S3278689|Y|A3416826|837330014|368799006||SNOMEDCT_US|FN|368799006|Entire anterior conjunctival artery (body structure)|9|N||
+C1289319|ENG|S|L2817130|PF|S3293733|Y|A3431970|838298016|368879005||SNOMEDCT_US|FN|368879005|Entire superior anterior alveolar artery, including dental branches (body structure)|9|N||
+C1289355|ENG|S|L2832218|PF|S3278851|Y|A3416990|838818010|368922002||SNOMEDCT_US|FN|368922002|Entire anterior process of malleus (body structure)|9|N||
+C1289356|ENG|S|L2832204|PF|S3278775|Y|A3416914|838831017|368923007||SNOMEDCT_US|FN|368923007|Entire anterior ligament of malleus (body structure)|9|N||
+C1289366|ENG|S|L2832210|PF|S3278784|Y|A3416923|838952012|368933004||SNOMEDCT_US|FN|368933004|Entire anterior limb of stapes (body structure)|9|N||
+C1289375|ENG|S|L2832039|PF|S3278975|Y|A3417114|839060018|368942006||SNOMEDCT_US|FN|368942006|Entire anterior wall of tympanic cavity (body structure)|9|N||
+C1289379|ENG|S|L2831405|PF|S3278968|Y|A3417107|839109017|368946009||SNOMEDCT_US|FN|368946009|Entire anterior wall of mastoid antrum (body structure)|9|N||
+C1289470|ENG|S|L2832213|PF|S3278886|Y|A3417025|840258019|369041006||SNOMEDCT_US|FN|369041006|Entire anterior semilunar lobule (body structure)|9|N||
+C1289535|ENG|S|L2832241|PF|S3278834|Y|A3416973|841069016|369108006||SNOMEDCT_US|FN|369108006|Entire anterior perforated substance (body structure)|9|N||
+C1289537|ENG|S|L2831455|PF|S3278830|Y|A3416969|841093014|369110008||SNOMEDCT_US|FN|369110008|Entire anterior parolfactory area (body structure)|9|N||
+C1289546|ENG|S|L2832105|PF|S3278676|Y|A3416813|841202018|369119009||SNOMEDCT_US|FN|369119009|Entire anterior commissure (body structure)|9|N||
+C1289560|ENG|S|L2832179|PF|S3278729|Y|A3416866|841372019|369133009||SNOMEDCT_US|FN|369133009|Entire anterior hypothalamic nucleus (body structure)|9|N||
+C1289587|ENG|S|L2832253|PF|S3278956|Y|A3417095|841698016|369160002||SNOMEDCT_US|FN|369160002|Entire anterior tubercle of thalamus (body structure)|9|N||
+C1289596|ENG|S|L2832237|PF|S3289004|Y|A3427183|841807017|369169001||SNOMEDCT_US|FN|369169001|Entire pars parvocellularis of ventral anterior nucleus of thalamus (body structure)|9|N||
+C1289597|ENG|S|L2832217|PF|S3288998|Y|A3427177|841819013|369170000||SNOMEDCT_US|FN|369170000|Entire pars magnocellularis of ventral anterior nucleus of thalamus (body structure)|9|N||
+C1289715|ENG|S|L2831399|PF|S3278986|Y|A3417125|843345017|369297000||SNOMEDCT_US|FN|369297000|Entire anteromedial central branch of anterior communicating artery (body structure)|9|N||
+C1289727|ENG|S|L2831601|PF|S3278811|Y|A3416950|843708014|369327009||SNOMEDCT_US|FN|369327009|Entire anterior meningeal artery (body structure)|9|N||
+C1289734|ENG|S|L2831524|PF|S3281252|Y|A3419399|843793014|369334006||SNOMEDCT_US|FN|369334006|Entire cortical branch of anterior cerebral artery (body structure)|9|N||
+C1289735|ENG|S|L2831522|PF|S3280544|Y|A3418688|843877014|369341000||SNOMEDCT_US|FN|369341000|Entire central branch of anterior cerebral artery (body structure)|9|N||
+C1289741|ENG|S|L2832183|PF|S3278737|Y|A3416874|844107015|369360007||SNOMEDCT_US|FN|369360007|Entire anterior intercavernous sinus (body structure)|9|N||
+C1289746|ENG|S|L2832427|PF|S3559505|Y|A3722453|844385017|369383005||SNOMEDCT_US|FN|369383005|Structure of anterior pontomesencephalic vein (body structure)|9|N||
+C1289776|ENG|S|L2831975|PF|S7326267|Y|A11732748|2638748011|369424003||SNOMEDCT_US|FN|369424003|Entire vagus nerve anterior gastric branch (body structure)|9|N||
+C1289779|ENG|S|L2831978|PF|S3291446|Y|A3429671|844918019|369427005||SNOMEDCT_US|FN|369427005|Entire selective branches of anterior trunk of vagus nerve (body structure)|9|N||
+C1289783|ENG|S|L2831832|PF|S3283610|Y|A3421762|845039019|369437000||SNOMEDCT_US|FN|369437000|Entire greater auricular nerve anterior branch (body structure)|9|N||
+C1298203|ENG|S|L2832265|PF|S3480667|Y|A3632702|774862018|370081008||SNOMEDCT_US|FN|370081008|Anterior upper third of esophagus (body structure)|9|N||
+C1298208|ENG|S|L2832264|PF|S3478536|Y|A3630428|774868019|370086003||SNOMEDCT_US|FN|370086003|Anterior middle third of esophagus (body structure)|9|N||
+C1298213|ENG|S|L2832263|PF|S3478233|Y|A3630110|774875018|370091002||SNOMEDCT_US|FN|370091002|Anterior lower third of esophagus (body structure)|9|N||
+C1298217|ENG|S|L2823972|PF|S3559627|Y|A3722575|774879012|370095006||SNOMEDCT_US|FN|370095006|Structure of anterior wall of anal canal (body structure)|9|N||
+C1299402|ENG|S|L2831885|PF|S3628207|Y|A3795802|1197228010|371935004||SNOMEDCT_US|FN|371935004|Basal anterior segment of cardiac ventricle (body structure)|9|N||
+C1299410|ENG|S|L2831420|PF|S3505760|Y|A3660502|1197237010|371944003||SNOMEDCT_US|FN|371944003|Apical anterior segment of cardiac ventricle (body structure)|9|N||
+C1299414|ENG|S|L2832028|PF|S3416403|Y|A3563206|1197241014|371948000||SNOMEDCT_US|FN|371948000|Mid anterior segment of cardiac ventricle (body structure)|9|N||
+C1301412|ENG|S|L2831504|PF|S3481137|Y|A3633524|1765336017|397418009||SNOMEDCT_US|FN|397418009|Anterior-middle cerebral artery bifurcation (body structure)|9|N||
+C1301413|ENG|S|L2831505|PF|S3481157|Y|A3633564|1765337014|397419001||SNOMEDCT_US|FN|397419001|Anterior-posterior cerebral artery bifurcation (body structure)|9|N||
+C1304951|ENG|S|L2831851|PF|S3278607|Y|A3416744|634611011|244760004||SNOMEDCT_US|FN|244760004|Entire anterior auricularis muscle (body structure)|9|N||
+C1304969|ENG|S|L2832224|PF|S3291333|Y|A3429558|565024012|181742002||SNOMEDCT_US|FN|181742002|Entire scalenus anterior muscle (body structure)|9|N||
+C1305026|ENG|S|L2832225|PF|S3291540|Y|A3429766|565031011|181748003||SNOMEDCT_US|FN|181748003|Entire serratus anterior muscle (body structure)|9|N||
+C1305065|ENG|S|L2832255|PF|S3294828|Y|A3433075|564972018|181696007||SNOMEDCT_US|FN|181696007|Entire tibialis anterior (body structure)|9|N||
+C1305081|ENG|S|L2832170|PF|S3278718|Y|A3416855|634522017|244680006||SNOMEDCT_US|FN|244680006|Entire anterior fontanel of skull (body structure)|9|N||
+C1305109|ENG|S|L2832226|PF|S3278946|Y|A3417085|673450017|280085009||SNOMEDCT_US|FN|280085009|Entire anterior tibial muscle tendon sheath (body structure)|9|N||
+C1305150|ENG|S|L2832186|PF|S3278847|Y|A3416986|673528016|280154003||SNOMEDCT_US|FN|280154003|Entire anterior portion of interventricular septum (body structure)|9|N||
+C1305162|ENG|S|L2832134|PF|S3278695|Y|A3416832|634173018|244369000||SNOMEDCT_US|FN|244369000|Entire anterior cusp of pulmonic valve (body structure)|9|N||
+C1305164|ENG|S|L2832197|PF|S3278769|Y|A3416908|634157012|244354001||SNOMEDCT_US|FN|244354001|Entire anterior leaflet of mitral valve (body structure)|9|N||
+C1305176|ENG|S|L2799095|PF|S3283598|Y|A3421750|564566013|181331008||SNOMEDCT_US|FN|181331008|Entire great anterior radicular artery of Adamkiewicz (body structure)|9|N||
+C1305270|ENG|S|L2768974|PF|S3278582|Y|A3416719|749079016|362696003||SNOMEDCT_US|FN|362696003|Entire anterior abdominal wall (body structure)|9|N||
+C1305296|ENG|S|L2832212|PF|S3278877|Y|A3417016|747528014|361972009||SNOMEDCT_US|FN|361972009|Entire anterior segment of right upper lobe of lung (body structure)|9|N||
+C1305390|ENG|S|L2832215|PF|S3278805|Y|A3416944|635249012|245335005||SNOMEDCT_US|FN|245335005|Entire anterior mediastinal lymph node (body structure)|9|N||
+C1305410|ENG|S|L2832233|PF|S3291832|Y|A3430061|564734017|181482005||SNOMEDCT_US|FN|181482005|Entire skin of anterior portion of neck (body structure)|9|N||
+C1305413|ENG|S|L2832037|PF|S3278722|Y|A3416859|634517017|244676001||SNOMEDCT_US|FN|244676001|Entire anterior fossa of cranial cavity (body structure)|9|N||
+C1305426|ENG|S|L2832199|PF|S3292946|Y|A3431180|598801011|212915000||SNOMEDCT_US|FN|212915000|Entire subcutaneous tissue of anterior surface of lower leg (body structure)|9|N||
+C1305437|ENG|S|L2832161|PF|S3278838|Y|A3416977|674101013|280660004||SNOMEDCT_US|FN|280660004|Entire anterior pole of eye (body structure)|9|N||
+C1305496|ENG|S|L2832162|PF|S3278873|Y|A3417012|674098014|280658001||SNOMEDCT_US|FN|280658001|Entire anterior segment of eyeball (body structure)|9|N||
+C1305631|ENG|S|L2832227|PF|S3278945|Y|A3417084|564997019|181717006||SNOMEDCT_US|FN|181717006|Entire anterior tibial muscle tendon (body structure)|9|N||
+C1305714|ENG|S|L2832086|PF|S3278664|Y|A3416801|749054019|362685006||SNOMEDCT_US|FN|362685006|Entire anterior chest wall (body structure)|9|N||
+C1305922|ENG|S|L13766111|PF|S16786767|Y|A27787073|3322268014|281075003||SNOMEDCT_US|FN|281075003|Entire anterior limiting lamina of cornea (body structure)|9|N||
+C1306534|ENG|S|L2832165|PF|S3278836|Y|A3416975|669937015|276958001||SNOMEDCT_US|FN|276958001|Entire anterior pillar of fauces (body structure)|9|N||
+C1321506|ENG|S|L2831543|PF|S3278699|Y|A3416836|747661013|362035003||SNOMEDCT_US|FN|362035003|Entire anterior descending branch of left coronary artery (body structure)|9|N||
+C1321507|ENG|S|L2832250|PF|S3278973|Y|A3417112|747874017|362135001||SNOMEDCT_US|FN|362135001|Entire anterior wall of stomach (body structure)|9|N||
+C1446343|ENG|S|L5153949|PF|S5886833|Y|A6946524|2468725015|413272008||SNOMEDCT_US|FN|413272008|Anterior wall of pre-pylorus (body structure)|9|N||
+C1456808|ENG|S|L2832229|PF|S6990614|Y|A10891391|2610206010|272650008||SNOMEDCT_US|FN|272650008|Naris, entire, anterior or posterior (body structure)|9|N||
+C1720438|ENG|S|L6088276|PF|S6985384|Y|A10886154|2613960010|421652004||SNOMEDCT_US|FN|421652004|Entire left anterior naris (body structure)|9|N||
+C1720679|ENG|S|L6088277|PF|S6985552|Y|A10886322|2613961014|421814002||SNOMEDCT_US|FN|421814002|Entire right anterior naris (body structure)|9|N||
+C1744547|ENG|S|L6393064|PF|S7331511|Y|A11730487|2638749015|43720006||SNOMEDCT_US|FN|43720006|Structure of anterior median fissure of medulla oblongata (body structure)|9|N||
+C1744548|ENG|S|L6395032|PF|S7331513|Y|A11725734|2638250016|2031008||SNOMEDCT_US|FN|2031008|Structure of anterior median fissure of spinal cord (body structure)|9|N||
+C1744565|ENG|S|L6389007|PF|S7331515|Y|A11740910|2639228013|424161004||SNOMEDCT_US|FN|424161004|Structure of anterior muscle of abdomen (body structure)|9|N||
+C1748452|ENG|S|L2832127|PF|S3278691|Y|A3416828|565809016|182443006||SNOMEDCT_US|FN|182443006|Entire anterior cruciate ligament of knee joint (body structure)|9|N||
+C1761543|ENG|S|L6395397|PF|S7325717|Y|A11730112|2638169016|182482008||SNOMEDCT_US|FN|182482008|Entire anterior intercostal membrane (body structure)|9|N||
+C1761567|ENG|S|L6389424|PF|S7325728|Y|A11725903|2638504015|279192003||SNOMEDCT_US|FN|279192003|Entire anterior transverse temporal gyrus (body structure)|9|N||
+C1761580|ENG|S|L6389487|PF|S7326280|Y|A11728074|2638473010|279131008||SNOMEDCT_US|FN|279131008|Entire ventral anterior nucleus of thalamus (body structure)|9|N||
+C1761581|ENG|S|L6393497|PF|S7326085|Y|A11737031|2638467014|279124009||SNOMEDCT_US|FN|279124009|Entire nucleus of anterior nuclear group of thalamus (body structure)|9|N||
+C1827686|ENG|S|L6394151|PF|S7332219|Y|A11724978|2639469018|425228009||SNOMEDCT_US|FN|425228009|Structure of tributary of anterior tibial vein (body structure)|9|N||
+C1828291|ENG|S|L6394423|PF|S7325713|Y|A11734315|2639452015|424834002||SNOMEDCT_US|FN|424834002|Entire anterior ciliary vein (body structure)|9|N||
+C1959674|ENG|S|L6735847|PF|S7848316|Y|A13020040|2660701015|427648008||SNOMEDCT_US|FN|427648008|Muscular layer of anterior abdominal wall (body structure)|9|N||
+C3696912|ENG|S|L11416313|PF|S14188716|Y|A23462688|2985324017|699621004||SNOMEDCT_US|FN|699621004|Structure of anterior part of scrotum (body structure)|9|N||
+C3696919|ENG|S|L11410800|PF|S14188712|Y|A23460989|2985323011|699614004||SNOMEDCT_US|FN|699614004|Structure of anterior part of lower leg (body structure)|9|N||
+C3696957|ENG|S|L11416331|PF|S14188874|Y|A23447017|2986285014|699889002||SNOMEDCT_US|FN|699889002|Structure of skin of anterior part of scrotum (body structure)|9|N||
+C3696986|ENG|S|L11411043|PF|S14176516|Y|A23463090|2981996012|698966004||SNOMEDCT_US|FN|698966004|Anterior axillary line of abdomen (body structure)|9|N||
+C3697111|ENG|S|L11409430|PF|S14188798|Y|A23457434|2985305015|699638000||SNOMEDCT_US|FN|699638000|Structure of lateral half of anterior abdominal wall (body structure)|9|N||
+C3697274|ENG|S|L11417714|PF|S14188710|Y|A23457411|2985285016|699613005||SNOMEDCT_US|FN|699613005|Structure of anterior part of knee region (body structure)|9|N||
+C3697413|ENG|S|L11409367|PF|S14188261|Y|A23470517|2986245015|699906008||SNOMEDCT_US|FN|699906008|Skin structure of lateral half of anterior abdominal wall (body structure)|9|N||
+C3697536|ENG|S|L11419003|PF|S14188234|Y|A23453831|2986231014|699890006||SNOMEDCT_US|FN|699890006|Skin structure of anterior superior iliac spine region of trunk (body structure)|9|N||
+C3697781|ENG|S|L11414840|PF|S14188244|Y|A23461265|2986220018|699894002||SNOMEDCT_US|FN|699894002|Skin structure of center of anterior chest (body structure)|9|N||
+C3697787|ENG|S|L11410802|PF|S14188714|Y|A23471780|2985245010|699611007||SNOMEDCT_US|FN|699611007|Structure of anterior part of lower limb (body structure)|9|N||
+C3698085|ENG|S|L11413546|PF|S14188720|Y|A23465590|2985214011|699624007||SNOMEDCT_US|FN|699624007|Structure of anterior superior iliac spine region of trunk (body structure)|9|N||
+C3698152|ENG|S|L11416312|PF|S14188708|Y|A23455034|2985203013|699612000||SNOMEDCT_US|FN|699612000|Structure of anterior part of ankle region (body structure)|9|N||
+C3698250|ENG|S|L11417715|PF|S14188718|Y|A23457196|2985189015|699615003||SNOMEDCT_US|FN|699615003|Structure of anterior part of thigh (body structure)|9|N||
+C3698500|ENG|S|L11410826|PF|S14188872|Y|A23450015|2986157018|699888005||SNOMEDCT_US|FN|699888005|Structure of skin of anterior part of lower limb (body structure)|9|N||
+C4039007|ENG|S|L12157758|PF|S15086179|Y|A24819286|3078888010|711523002||SNOMEDCT_US|FN|711523002|Structure of wall of anterior spinal artery (body structure)|9|N||
+C4040177|ENG|S|L12157757|PF|S15086177|Y|A24811804|3078766019|711522007||SNOMEDCT_US|FN|711522007|Structure of wall of anterior cerebral artery (body structure)|9|N||
+C4075422|ENG|S|L13111245|PF|S16055795|Y|A26586072|3299000018|714473001||SNOMEDCT_US|FN|714473001|Entire anterior vertebral muscle of neck (body structure)|9|N||
+C4075429|ENG|S|L13112192|PF|S16063901|Y|A26577039|3298967014|714472006||SNOMEDCT_US|FN|714472006|Structure of anterior vertebral muscle of neck (body structure)|9|N||
+C4273538|ENG|S|L13496646|PF|S16488349|Y|A27170362|3312102018|716970006||SNOMEDCT_US|FN|716970006|Entire anterior middle regional part of peripheral zone of right half prostate (body structure)|9|N||
+C4273539|ENG|S|L13495183|PF|S16488353|Y|A27170991|3312091015|716964000||SNOMEDCT_US|FN|716964000|Entire anterior middle regional part of transition zone of right half prostate (body structure)|9|N||
+C4273544|ENG|S|L13495525|PF|S16491708|Y|A27168942|3312065016|716909008||SNOMEDCT_US|FN|716909008|Structure of middle regional part of anterior fibromuscular stroma of right half prostate (body structure)|9|N||
+C4273547|ENG|S|L13499945|PF|S16491627|Y|A27171226|3312060014|716896009||SNOMEDCT_US|FN|716896009|Structure of anterior basal part of transition zone of right half prostate (body structure)|9|N||
+C4273548|ENG|S|L13495189|PF|S16488404|Y|A27168058|3312052013|716960009||SNOMEDCT_US|FN|716960009|Entire middle regional part of anterior fibromuscular stroma of right half prostate (body structure)|9|N||
+C4273834|ENG|S|L13499573|PF|S16488369|Y|A27169062|3310673017|716944005||SNOMEDCT_US|FN|716944005|Entire basal part of anterior fibromuscular stroma of left half prostate (body structure)|9|N||
+C4273849|ENG|S|L13497026|PF|S16491663|Y|A27171702|3310449017|716892006||SNOMEDCT_US|FN|716892006|Structure of basal part of anterior fibromuscular stroma of right half prostate (body structure)|9|N||
+C4273850|ENG|S|L13498470|PF|S16491661|Y|A27171568|3310441019|716891004||SNOMEDCT_US|FN|716891004|Structure of basal part of anterior fibromuscular stroma of prostate (body structure)|9|N||
+C4273857|ENG|S|L13497731|PF|S16491621|Y|A27172316|3310381013|716905002||SNOMEDCT_US|FN|716905002|Structure of anterior basal part of peripheral zone of left half prostate (body structure)|9|N||
+C4273870|ENG|S|L13500696|PF|S16491645|Y|A27168444|3310190010|716926002||SNOMEDCT_US|FN|716926002|Structure of apical part of anterior fibromuscular stroma of right half prostate (body structure)|9|N||
+C4274094|ENG|S|L13495181|PF|S16488345|Y|A27171414|3308220017|717026008||SNOMEDCT_US|FN|717026008|Entire anterior fibromuscular stroma of prostate (body structure)|9|N||
+C4274114|ENG|S|L13499950|PF|S16491639|Y|A27174214|3308158010|717004007||SNOMEDCT_US|FN|717004007|Structure of anterior section of prostate (body structure)|9|N||
+C4274124|ENG|S|L13496640|PF|S16488329|Y|A27168685|3308098010|716988003||SNOMEDCT_US|FN|716988003|Entire anterior apical part of peripheral zone of left half prostate (body structure)|9|N||
+C4274125|ENG|S|L13496248|PF|S16491615|Y|A27170843|3308096014|716936005||SNOMEDCT_US|FN|716936005|Structure of anterior apical part of peripheral zone of right half prostate (body structure)|9|N||
+C4274130|ENG|S|L13496642|PF|S16488333|Y|A27167890|3308086017|716982002||SNOMEDCT_US|FN|716982002|Entire anterior apical part of transition zone of left half prostate (body structure)|9|N||
+C4274131|ENG|S|L13497022|PF|S16491619|Y|A27169799|3308084019|716930004||SNOMEDCT_US|FN|716930004|Structure of anterior apical part of transition zone of right half prostate (body structure)|9|N||
+C4274133|ENG|S|L13498865|PF|S16488355|Y|A27174623|3308078017|716978004||SNOMEDCT_US|FN|716978004|Entire apical part of anterior fibromuscular stroma of left half prostate (body structure)|9|N||
+C4274134|ENG|S|L13495185|PF|S16488357|Y|A27173321|3308076018|716976000||SNOMEDCT_US|FN|716976000|Entire apical part of anterior fibromuscular stroma of prostate (body structure)|9|N||
+C4274140|ENG|S|L13498864|PF|S16488347|Y|A27172300|3308064018|716971005||SNOMEDCT_US|FN|716971005|Entire anterior middle regional part of peripheral zone of left half prostate (body structure)|9|N||
+C4274141|ENG|S|L13500693|PF|S16491633|Y|A27174489|3308062019|716919002||SNOMEDCT_US|FN|716919002|Structure of anterior middle regional part of peripheral zone of right half prostate (body structure)|9|N||
+C4274146|ENG|S|L13498128|PF|S16488351|Y|A27171820|3308052014|716965004||SNOMEDCT_US|FN|716965004|Entire anterior middle regional part of transition zone of left half prostate (body structure)|9|N||
+C4274147|ENG|S|L13499949|PF|S16491637|Y|A27173965|3308050018|716913001||SNOMEDCT_US|FN|716913001|Structure of anterior middle regional part of transition zone of right half prostate (body structure)|9|N||
+C4274150|ENG|S|L13498139|PF|S16488400|Y|A27169167|3308040019|716961008||SNOMEDCT_US|FN|716961008|Entire middle regional part of anterior fibromuscular stroma of left half prostate (body structure)|9|N||
+C4274154|ENG|S|L13495885|PF|S16488339|Y|A27171680|3308030017|716955005||SNOMEDCT_US|FN|716955005|Entire anterior basal part of peripheral zone of right half prostate (body structure)|9|N||
+C4274158|ENG|S|L13495886|PF|S16488343|Y|A27168565|3308021013|716947003||SNOMEDCT_US|FN|716947003|Entire anterior basal part of transition zone of right half prostate (body structure)|9|N||
+C4274163|ENG|S|L13499574|PF|S16488373|Y|A27168683|3308010016|716943004||SNOMEDCT_US|FN|716943004|Entire basal part of anterior fibromuscular stroma of right half prostate (body structure)|9|N||
+C4274165|ENG|S|L13496641|PF|S16488331|Y|A27173852|3308006019|716987008||SNOMEDCT_US|FN|716987008|Entire anterior apical part of peripheral zone of right half prostate (body structure)|9|N||
+C4274170|ENG|S|L13500689|PF|S16491613|Y|A27174621|3307996014|716937001||SNOMEDCT_US|FN|716937001|Structure of anterior apical part of peripheral zone of left half prostate (body structure)|9|N||
+C4274172|ENG|S|L13497394|PF|S16488335|Y|A27172188|3307990015|716981009||SNOMEDCT_US|FN|716981009|Entire anterior apical part of transition zone of right half prostate (body structure)|9|N||
+C4274174|ENG|S|L13499942|PF|S16491617|Y|A27172187|3307984019|716931000||SNOMEDCT_US|FN|716931000|Structure of anterior apical part of transition zone of left half prostate (body structure)|9|N||
+C4274177|ENG|S|L13498867|PF|S16488359|Y|A27175517|3307978017|716977009||SNOMEDCT_US|FN|716977009|Entire apical part of anterior fibromuscular stroma of right half prostate (body structure)|9|N||
+C4274178|ENG|S|L13497733|PF|S16491641|Y|A27172679|3307976018|716927006||SNOMEDCT_US|FN|716927006|Structure of apical part of anterior fibromuscular stroma of left half prostate (body structure)|9|N||
+C4274179|ENG|S|L13499951|PF|S16491643|Y|A27167773|3307974015|716925003||SNOMEDCT_US|FN|716925003|Structure of apical part of anterior fibromuscular stroma of prostate (body structure)|9|N||
+C4274185|ENG|S|L13498463|PF|S16491631|Y|A27173317|3307962019|716920008||SNOMEDCT_US|FN|716920008|Structure of anterior middle regional part of peripheral zone of left half prostate (body structure)|9|N||
+C4274190|ENG|S|L13499948|PF|S16491635|Y|A27167515|3307950018|716914007||SNOMEDCT_US|FN|716914007|Structure of anterior middle regional part of transition zone of left half prostate (body structure)|9|N||
+C4274194|ENG|S|L13498479|PF|S16491706|Y|A27175232|3307943017|716908000||SNOMEDCT_US|FN|716908000|Structure of middle regional part of anterior fibromuscular stroma of prostate (body structure)|9|N||
+C4274195|ENG|S|L13495883|PF|S16488337|Y|A27169164|3307938012|716956006||SNOMEDCT_US|FN|716956006|Entire anterior basal part of peripheral zone of left half prostate (body structure)|9|N||
+C4274200|ENG|S|L13499943|PF|S16491623|Y|A27174973|3307929010|716904003||SNOMEDCT_US|FN|716904003|Structure of anterior basal part of peripheral zone of right half prostate (body structure)|9|N||
+C4274206|ENG|S|L13500326|PF|S16488341|Y|A27168016|3307914013|716948008||SNOMEDCT_US|FN|716948008|Entire anterior basal part of transition zone of left half prostate (body structure)|9|N||
+C4274207|ENG|S|L13497732|PF|S16491625|Y|A27167514|3307912012|716897000||SNOMEDCT_US|FN|716897000|Structure of anterior basal part of transition zone of left half prostate (body structure)|9|N||
+C4274208|ENG|S|L13498130|PF|S16488371|Y|A27172540|3307908018|716942009||SNOMEDCT_US|FN|716942009|Entire basal part of anterior fibromuscular stroma of prostate (body structure)|9|N||
+C4274478|ENG|S|L13499579|PF|S16488402|Y|A27172168|3306510015|716959004||SNOMEDCT_US|FN|716959004|Entire middle regional part of anterior fibromuscular stroma of prostate (body structure)|9|N||
+C4274479|ENG|S|L13500698|PF|S16491704|Y|A27167503|3306508017|716910003||SNOMEDCT_US|FN|716910003|Structure of middle regional part of anterior fibromuscular stroma of left half prostate (body structure)|9|N||
+C4274482|ENG|S|L13495523|PF|S16491659|Y|A27172401|3306492012|716893001||SNOMEDCT_US|FN|716893001|Structure of basal part of anterior fibromuscular stroma of left half prostate (body structure)|9|N||
+C4274828|ENG|S|L13498005|PF|S16487354|Y|A27170552|3304837013|716132006||SNOMEDCT_US|FN|716132006|Cephalometric anterior point of nasal spine (body structure)|9|N||
+C4281583|ENG|S|L13769914|PF|S16787580|Y|A27784951|3324046012|246027008||SNOMEDCT_US|FN|246027008|Entire intertransversarius cervicis anterior (body structure)|9|N||
+C4281672|ENG|S|L13764193|PF|S16785878|Y|A27768782|3324048013|246028003||SNOMEDCT_US|FN|246028003|Entire C1-C2 intertransversarius cervicis anterior (body structure)|9|N||
+C4281673|ENG|S|L13766012|PF|S16785882|Y|A27765616|3324050017|246029006||SNOMEDCT_US|FN|246029006|Entire C2-C3 intertransversarius cervicis anterior (body structure)|9|N||
+C4281674|ENG|S|L13775151|PF|S16785895|Y|A27789331|3324052013|246030001||SNOMEDCT_US|FN|246030001|Entire C3-C4 intertransversarius cervicis anterior (body structure)|9|N||
+C4281675|ENG|S|L13771535|PF|S16785910|Y|A27780384|3324054014|246031002||SNOMEDCT_US|FN|246031002|Entire C4-C5 intertransversarius cervicis anterior (body structure)|9|N||
+C4281676|ENG|S|L13771539|PF|S16785952|Y|A27765158|3324060014|246034005||SNOMEDCT_US|FN|246034005|Entire C7-T1 intertransversarius cervicis anterior (body structure)|9|N||
+C4282221|ENG|S|L13767895|PF|S16785924|Y|A27771574|3324056011|246032009||SNOMEDCT_US|FN|246032009|Entire C5-C6 intertransversarius cervicis anterior (body structure)|9|N||
+C4282223|ENG|S|L13773357|PF|S16785938|Y|A27785362|3324058012|246033004||SNOMEDCT_US|FN|246033004|Entire C6-C7 intertransversarius cervicis anterior (body structure)|9|N||
+C4302829|ENG|S|L13769045|PF|S16796135|Y|A27764358|3330691017|717762003||SNOMEDCT_US|FN|717762003|Structure of anterior eyeball segment of left eye (body structure)|9|N||
+C4302903|ENG|S|L13767134|PF|S16796131|Y|A27762135|3330130019|721986002||SNOMEDCT_US|FN|721986002|Structure of anterior chamber of left eye (body structure)|9|N||
+C4302913|ENG|S|L13770796|PF|S16796133|Y|A27776313|3330049018|721987006||SNOMEDCT_US|FN|721987006|Structure of anterior chamber of right eye (body structure)|9|N||
+C4302954|ENG|S|L13772584|PF|S16795772|Y|A27781330|3327727013|721907008||SNOMEDCT_US|FN|721907008|Skeletal muscle structure of anterior chest wall (body structure)|9|N||
+C4304624|ENG|S|L13761967|PF|S16782066|Y|A27766874|3316874016|719542000||SNOMEDCT_US|FN|719542000|Anterior column of left acetabulum (body structure)|9|N||
+C4304625|ENG|S|L13771113|PF|S16782068|Y|A27768229|3316872017|719541007||SNOMEDCT_US|FN|719541007|Anterior column of right acetabulum (body structure)|9|N||
+C4304655|ENG|S|L13763534|PF|S16796433|Y|A27761537|3316755018|719535000||SNOMEDCT_US|FN|719535000|Structure of right anterior uveal tract (body structure)|9|N||
+C4304656|ENG|S|L13774442|PF|S16796294|Y|A27780315|3316753013|719534001||SNOMEDCT_US|FN|719534001|Structure of left anterior uveal tract (body structure)|9|N||
+C4305451|ENG|S|L13770798|PF|S16796137|Y|A27772818|3310669015|722049003||SNOMEDCT_US|FN|722049003|Structure of anterior eyeball segment of right eye (body structure)|9|N||
+C4509789|ENG|S|L14211777|PF|S17286974|Y|A28428753|3335291012|723270007||SNOMEDCT_US|FN|723270007|Structure of anterior cruciate ligament of left knee joint (body structure)|9|N||
+C4509790|ENG|S|L14178262|PF|S17286976|Y|A28449113|3335293010|723271006||SNOMEDCT_US|FN|723271006|Structure of anterior cruciate ligament of right knee joint (body structure)|9|N||
+C4509962|ENG|S|L14211805|PF|S17287195|Y|A28445961|3425248013|723608007||SNOMEDCT_US|FN|723608007|Structure of left anterior naris (body structure)|9|N||
+C4509963|ENG|S|L14200682|PF|S17287341|Y|A28467742|3425250017|723609004||SNOMEDCT_US|FN|723609004|Structure of right anterior naris (body structure)|9|N||
+C4512026|ENG|S|L14178357|PF|S17287853|Y|A28424576|3451472010|726671007||SNOMEDCT_US|FN|726671007|Tendon structure of anterior and/or posterior tibial muscle (body structure)|9|N||
+C4512027|ENG|S|L14202756|PF|S17256654|Y|A28425610|3451512016|726673005||SNOMEDCT_US|FN|726673005|Entire tendon of anterior and posterior tibial muscle (body structure)|9|N||
+C4512172|ENG|S|L14208116|PF|S17255594|Y|A28422333|3452844011|726920007||SNOMEDCT_US|FN|726920007|Entire skin of anterior surface of lower leg (body structure)|9|N||
+C4512206|ENG|S|L14184892|PF|S17247556|Y|A28446094|3452916014|726956005||SNOMEDCT_US|FN|726956005|Entire anterior intermuscular crural septum (body structure)|9|N||
+C4512288|ENG|S|L14179287|PF|S17247586|Y|A28425622|3453086013|727041007||SNOMEDCT_US|FN|727041007|Entire anterior midline of trunk (body structure)|9|N||
+C4512316|ENG|S|L14191014|PF|S17251452|Y|A28413655|3453144017|727070003||SNOMEDCT_US|FN|727070003|Entire internal nasal branches of anterior ethmoidal nerve (body structure)|9|N||
+C4512494|ENG|S|L14173739|PF|S17247550|Y|A28419026|3453518011|727257004||SNOMEDCT_US|FN|727257004|Entire anterior insula (body structure)|9|N||
+C4512528|ENG|S|L14213867|PF|S17255964|Y|A28435284|3453588016|727292007||SNOMEDCT_US|FN|727292007|Entire spinal cord anterior gray commissure (body structure)|9|N||
+C4512617|ENG|S|L14201629|PF|S17247635|Y|A28415814|3453770010|727383006||SNOMEDCT_US|FN|727383006|Entire anterior wall of duodenal bulb (body structure)|9|N||
+C4512687|ENG|S|L14184903|PF|S17247641|Y|A28413662|3453916017|727456006||SNOMEDCT_US|FN|727456006|Entire anterior wall of maxillary antrum (body structure)|9|N||
+C4512692|ENG|S|L14184902|PF|S17247637|Y|A28420175|3453926012|727461008||SNOMEDCT_US|FN|727461008|Entire anterior wall of fundus of stomach (body structure)|9|N||
+C4512694|ENG|S|L14184901|PF|S17247631|Y|A28438519|3453930010|727463006||SNOMEDCT_US|FN|727463006|Entire anterior wall of body of stomach (body structure)|9|N||
+C4512698|ENG|S|L14201627|PF|S17247629|Y|A28459225|3453938015|727467007||SNOMEDCT_US|FN|727467007|Entire anterior wall of antrum of stomach (body structure)|9|N||
+C4512704|ENG|S|L14201630|PF|S17247647|Y|A28409239|3453950014|727473008||SNOMEDCT_US|FN|727473008|Entire anterior wall of upper third of vagina (body structure)|9|N||
+C4512706|ENG|S|L14173749|PF|S17247643|Y|A28411477|3453954017|727475001||SNOMEDCT_US|FN|727475001|Entire anterior wall of middle third of vagina (body structure)|9|N||
+C4512708|ENG|S|L14190544|PF|S17247639|Y|A28432145|3453958019|727477009||SNOMEDCT_US|FN|727477009|Entire anterior wall of lower third of vagina (body structure)|9|N||
+C4512845|ENG|S|L14191512|PF|S17255586|Y|A28448238|3454246015|727621001||SNOMEDCT_US|FN|727621001|Entire skin of anterior surface of abdomen (body structure)|9|N||
+C4512851|ENG|S|L14174665|PF|S17255590|Y|A28454762|3454258015|727627002||SNOMEDCT_US|FN|727627002|Entire skin of anterior surface of elbow (body structure)|9|N||
+C4512853|ENG|S|L14213821|PF|S17255592|Y|A28441768|3454262014|727629004||SNOMEDCT_US|FN|727629004|Entire skin of anterior surface of knee (body structure)|9|N||
+C4512856|ENG|S|L14174664|PF|S17255588|Y|A28445026|3454268013|727632001||SNOMEDCT_US|FN|727632001|Entire skin of anterior surface of ankle (body structure)|9|N||
+C4512896|ENG|S|L14179670|PF|S17250504|Y|A28461424|3454348017|727672005||SNOMEDCT_US|FN|727672005|Entire fascia of leg anterior compartment (body structure)|9|N||
+C4512957|ENG|S|L14196099|PF|S17247536|Y|A28409252|3454472014|727734009||SNOMEDCT_US|FN|727734009|Entire anterior facet of subtalar joint (body structure)|9|N||
+C4512963|ENG|S|L14184885|PF|S17247496|Y|A28421274|3454484011|727740002||SNOMEDCT_US|FN|727740002|Entire anterior aspect of elbow (surface region) (body structure)|9|N||
+C4512967|ENG|S|L14173733|PF|S17247498|Y|A28448244|3454492019|727744006||SNOMEDCT_US|FN|727744006|Entire anterior aspect of knee (body structure)|9|N||
+C4512970|ENG|S|L14184884|PF|S17247494|Y|A28424612|3454498015|727747004||SNOMEDCT_US|FN|727747004|Entire anterior aspect of ankle (body structure)|9|N||
+C4512980|ENG|S|L14173934|PF|S17249177|Y|A28452598|3454518016|727757003||SNOMEDCT_US|FN|727757003|Entire cervical region of anterior longitudinal ligament (body structure)|9|N||
+C4512986|ENG|S|L14208296|PF|S17257066|Y|A28414785|3454530010|727763007||SNOMEDCT_US|FN|727763007|Entire thoracic region of anterior longitudinal ligament (body structure)|9|N||
+C4512992|ENG|S|L14213413|PF|S17252424|Y|A28413669|3454542017|727769006||SNOMEDCT_US|FN|727769006|Entire lumbar region of anterior longitudinal ligament (body structure)|9|N||
+C4513026|ENG|S|L14179284|PF|S17247546|Y|A28432157|3454610019|727803001||SNOMEDCT_US|FN|727803001|Entire anterior horn of medial meniscus (body structure)|9|N||
+C4513028|ENG|S|L14196100|PF|S17247542|Y|A28466840|3454614011|727805008||SNOMEDCT_US|FN|727805008|Entire anterior horn of lateral meniscus (body structure)|9|N||
+C4513074|ENG|S|L14213822|PF|S17255596|Y|A28437429|3454708011|727852002||SNOMEDCT_US|FN|727852002|Entire skin of anterior surface of thorax (body structure)|9|N||
+C4513132|ENG|S|L14191011|PF|S17251430|Y|A28425640|3454824018|727910008||SNOMEDCT_US|FN|727910008|Entire internal carotid-anterior choroidal artery zone (body structure)|9|N||
+C4513147|ENG|S|L14190526|PF|S17247490|Y|A28439688|3454854011|727925008||SNOMEDCT_US|FN|727925008|Entire anterior abdominal wall artery (body structure)|9|N||
+C4513149|ENG|S|L14207114|PF|S17247522|Y|A28454773|3454858014|727927000||SNOMEDCT_US|FN|727927000|Entire anterior division of internal iliac artery (body structure)|9|N||
+C4513165|ENG|S|L14207129|PF|S17247588|Y|A28423498|3454890016|727943007||SNOMEDCT_US|FN|727943007|Entire anterior mitral chordae (body structure)|9|N||
+C4513193|ENG|S|L14179282|PF|S17247540|Y|A28457049|3454946013|727971001||SNOMEDCT_US|FN|727971001|Entire anterior fossa meninges (body structure)|9|N||
+C4513234|ENG|S|L14212811|PF|S17247514|Y|A28441780|3455028013|728012000||SNOMEDCT_US|FN|728012000|Entire anterior choroid (body structure)|9|N||
+C4513241|ENG|S|L14190535|PF|S17247568|Y|A28417987|3455042017|728019009||SNOMEDCT_US|FN|728019009|Entire anterior lens capsule (body structure)|9|N||
+C4513328|ENG|S|L14180452|PF|S17256860|Y|A28414798|3455218012|728107004||SNOMEDCT_US|FN|728107004|Entire tendon of scalenus anterior (body structure)|9|N||
+C4513352|ENG|S|L14197238|PF|S17256888|Y|A28438546|3455266017|728131009||SNOMEDCT_US|FN|728131009|Entire tendon of serratus anterior (body structure)|9|N||
+C4513416|ENG|S|L14191657|PF|S17256658|Y|A28466857|3455394010|728195002||SNOMEDCT_US|FN|728195002|Entire tendon of anterior thigh muscle (body structure)|9|N||
+C4513427|ENG|S|L14180421|PF|S17256656|Y|A28419063|3455416014|728206000||SNOMEDCT_US|FN|728206000|Entire tendon of anterior crural muscle (body structure)|9|N||
+C4513523|ENG|S|L14179301|PF|S17247649|Y|A28429969|3455610010|728303005||SNOMEDCT_US|FN|728303005|Entire anterior wall of uterus (body structure)|9|N||
+C4513538|ENG|S|L14197323|PF|S17257548|Y|A28431103|3455640012|728318006||SNOMEDCT_US|FN|728318006|Entire upper anterior segment of dental arch (body structure)|9|N||
+C4513539|ENG|S|L14207730|PF|S17252335|Y|A28441796|3455642016|728319003||SNOMEDCT_US|FN|728319003|Entire lower anterior segment of dental arch (body structure)|9|N||
+C4513677|ENG|S|L14180008|PF|S17253119|Y|A28405950|3455918018|728457004||SNOMEDCT_US|FN|728457004|Entire mucosa of anterior pillars of fauces (body structure)|9|N||
+C4513688|ENG|S|L14185831|PF|S17255188|Y|A28432179|3455940010|728468004||SNOMEDCT_US|FN|728468004|Entire sacral region of anterior longitudinal ligament (body structure)|9|N||
+C4513713|ENG|S|L14179288|PF|S17247592|Y|A28405951|3455994017|728495009||SNOMEDCT_US|FN|728495009|Entire anterior rectus sheath (body structure)|9|N||
+C4513716|ENG|S|L14190532|PF|S17247554|Y|A28402752|3456000012|728498006||SNOMEDCT_US|FN|728498006|Entire anterior intercostal node (body structure)|9|N||
+C4513760|ENG|S|L14190542|PF|S17247614|Y|A28416970|3456090019|728543004||SNOMEDCT_US|FN|728543004|Entire anterior third of shaft of rib (body structure)|9|N||
+C4513763|ENG|S|L14207127|PF|S17247572|Y|A28407056|3456096013|728546007||SNOMEDCT_US|FN|728546007|Entire anterior lip of acetabulum (body structure)|9|N||
+C4513767|ENG|S|L14212812|PF|S17247516|Y|A28441801|3456104017|728550000||SNOMEDCT_US|FN|728550000|Entire anterior column of acetabulum (body structure)|9|N||
+C4513898|ENG|S|L14212808|PF|S17247492|Y|A28418004|3456370016|728683003||SNOMEDCT_US|FN|728683003|Entire anterior abdominal wall peritoneum (body structure)|9|N||
+C4513899|ENG|S|L14207120|PF|S17247544|Y|A28467942|3456372012|728684009||SNOMEDCT_US|FN|728684009|Entire anterior horn of longitudinal segment of meniscus (body structure)|9|N||
+C4513900|ENG|S|L14184898|PF|S17247612|Y|A28423524|3456374013|728685005||SNOMEDCT_US|FN|728685005|Entire anterior third of longitudinal segment of meniscus (body structure)|9|N||
+C4513901|ENG|S|L14207132|PF|S17247620|Y|A28453686|3456376010|728686006||SNOMEDCT_US|FN|728686006|Entire anterior tympanic membrane (body structure)|9|N||
+C4513914|ENG|S|L14213362|PF|S17252049|Y|A28412637|3456402010|728699009||SNOMEDCT_US|FN|728699009|Entire left ventricle apical anterior segment (body structure)|9|N||
+C4513918|ENG|S|L14185450|PF|S17252075|Y|A28452625|3456410011|728703007||SNOMEDCT_US|FN|728703007|Entire left ventricle mid anterior segment (body structure)|9|N||
+C4513920|ENG|S|L14185447|PF|S17252057|Y|A28405960|3456414019|728705000||SNOMEDCT_US|FN|728705000|Entire left ventricle basal anterior segment (body structure)|9|N||
+C4514014|ENG|S|L14196101|PF|S17247552|Y|A28425666|3456608018|728802008||SNOMEDCT_US|FN|728802008|Entire anterior interatrial preferential pathway (body structure)|9|N||
+C4514066|ENG|S|L14179279|PF|S17247530|Y|A28429985|3456712019|728854003||SNOMEDCT_US|FN|728854003|Entire anterior division of upper trunk of brachial plexus (body structure)|9|N||
+C4514068|ENG|S|L14173735|PF|S17247528|Y|A28465814|3456716016|728856001||SNOMEDCT_US|FN|728856001|Entire anterior division of middle trunk of brachial plexus (body structure)|9|N||
+C4514070|ENG|S|L14207116|PF|S17247524|Y|A28466878|3456720017|728858000||SNOMEDCT_US|FN|728858000|Entire anterior division of lower trunk of brachial plexus (body structure)|9|N||
+C4514138|ENG|S|L14212810|PF|S17247508|Y|A28463636|3456862017|728929004||SNOMEDCT_US|FN|728929004|Entire anterior cerebral commissure (body structure)|9|N||
+C4514221|ENG|S|L14173734|PF|S17247502|Y|A28452634|3457028012|729012008||SNOMEDCT_US|FN|729012008|Entire anterior border of thyroid lamina (body structure)|9|N||
+C4514237|ENG|S|L14179290|PF|S17247606|Y|A28438569|3457060016|729028003||SNOMEDCT_US|FN|729028003|Entire anterior surface of epiglottic cartilage (body structure)|9|N||
+C4514244|ENG|S|L14184888|PF|S17247518|Y|A28450481|3457074011|729035006||SNOMEDCT_US|FN|729035006|Entire anterior cricothyroid ligament (body structure)|9|N||
+C4514249|ENG|S|L14207131|PF|S17247598|Y|A28408179|3457084012|729040003||SNOMEDCT_US|FN|729040003|Entire anterior scrotal wall (body structure)|9|N||
+C4514252|ENG|S|L14190540|PF|S17247608|Y|A28423532|3457090011|729043001||SNOMEDCT_US|FN|729043001|Entire anterior surface of scrotum (body structure)|9|N||
+C4514282|ENG|S|L14196109|PF|S17247610|Y|A28428970|3457150011|729073005||SNOMEDCT_US|FN|729073005|Entire anterior surface of seminal vesicle (body structure)|9|N||
+C4514314|ENG|S|L14202371|PF|S17253765|Y|A28410447|3457218011|729107009||SNOMEDCT_US|FN|729107009|Entire opening of anterior semicircular canal (body structure)|9|N||
+C4514315|ENG|S|L14174471|PF|S17253803|Y|A28438570|3457220014|729108004||SNOMEDCT_US|FN|729108004|Entire opening of posterior end of anterior semicircular canal (body structure)|9|N||
+C4514316|ENG|S|L14185646|PF|S17253761|Y|A28410448|3457222018|729109007||SNOMEDCT_US|FN|729109007|Entire opening of anterior end of anterior semicircular canal (body structure)|9|N||
+C4514320|ENG|S|L14213595|PF|S17253763|Y|A28411539|3457230017|729113000||SNOMEDCT_US|FN|729113000|Entire opening of anterior end of lateral semicircular canal (body structure)|9|N||
+C4514325|ENG|S|L14207108|PF|S17247429|Y|A28462573|3457240019|729118009||SNOMEDCT_US|FN|729118009|Entire ampulla of anterior semicircular canal (body structure)|9|N||
+C4514346|ENG|S|L14174468|PF|S17253767|Y|A28450485|3457292011|729144009||SNOMEDCT_US|FN|729144009|Entire opening of anterior semicircular duct (body structure)|9|N||
+C4514370|ENG|S|L14179297|PF|S17247633|Y|A28424655|3457340016|729168001||SNOMEDCT_US|FN|729168001|Entire anterior wall of cervical canal (body structure)|9|N||
+C4514375|ENG|S|L14212816|PF|S17247538|Y|A28469037|3457350015|729173007||SNOMEDCT_US|FN|729173007|Entire anterior fornicial surface of vaginal cervix (body structure)|9|N||
+C4514386|ENG|S|L14212821|PF|S17247594|Y|A28420228|3457372018|729184000||SNOMEDCT_US|FN|729184000|Entire anterior right Hjortso liver segment (body structure)|9|N||
+C4514387|ENG|S|L14173742|PF|S17247566|Y|A28457089|3457374017|729185004||SNOMEDCT_US|FN|729185004|Entire anterior left Hjortso liver segment (body structure)|9|N||
+C4514410|ENG|S|L14190864|PF|S17250205|Y|A28442925|3457420012|729208009||SNOMEDCT_US|FN|729208009|Entire epiphysis of anterior inferior iliac spine (body structure)|9|N||
+C4514443|ENG|S|L14212809|PF|S17247504|Y|A28424658|3457486015|729241007||SNOMEDCT_US|FN|729241007|Entire anterior border of thyroid lobe (body structure)|9|N||
+C4514487|ENG|S|L14179292|PF|S17247616|Y|A28447245|3457580012|729288006||SNOMEDCT_US|FN|729288006|Entire anterior trunk mandibular nerve (body structure)|9|N||
+C4514491|ENG|S|L14179430|PF|S17248681|Y|A28412649|3457588017|729292004||SNOMEDCT_US|FN|729292004|Entire branch of anterior trunk of mandibular nerve (body structure)|9|N||
+C4514494|ENG|S|L14190531|PF|S17247520|Y|A28432208|3457594013|729295002||SNOMEDCT_US|FN|729295002|Entire anterior deep temporal nerve (body structure)|9|N||
+C4514498|ENG|S|L14207112|PF|S17247500|Y|A28435357|3457602013|729299008||SNOMEDCT_US|FN|729299008|Entire anterior auricular nerve (body structure)|9|N||
+C4514548|ENG|S|L14213565|PF|S17253558|Y|A28427860|3457702016|729349007||SNOMEDCT_US|FN|729349007|Entire nerve to scalenus anterior (body structure)|9|N||
+C4514551|ENG|S|L14185622|PF|S17253554|Y|A28438576|3457708017|729352004||SNOMEDCT_US|FN|729352004|Entire nerve to rectus capitis anterior (body structure)|9|N||
+C4514612|ENG|S|L14184897|PF|S17247590|Y|A28461477|3457832019|729414004||SNOMEDCT_US|FN|729414004|Entire anterior pulmonary plexus (body structure)|9|N||
+C4514632|ENG|S|L14207680|PF|S17251956|Y|A28445069|3457874012|729435002||SNOMEDCT_US|FN|729435002|Entire layer of anterior abdominal wall (body structure)|9|N||
+C4514642|ENG|S|L14207118|PF|S17247526|Y|A28402777|3457894015|729445000||SNOMEDCT_US|FN|729445000|Entire anterior division of medial palpebral ligament (body structure)|9|N||
+C4514651|ENG|S|L14179289|PF|S17247596|Y|A28433227|3457914015|729455001||SNOMEDCT_US|FN|729455001|Entire anterior scleral aperture (body structure)|9|N||
+C4514686|ENG|S|L14212823|PF|S17247602|Y|A28425690|3457988012|729492001||SNOMEDCT_US|FN|729492001|Entire anterior segment of maxilla (body structure)|9|N||
+C4514702|ENG|S|L14201622|PF|S17247570|Y|A28457099|3458022010|729509000||SNOMEDCT_US|FN|729509000|Entire anterior limiting layer of stroma of iris (body structure)|9|N||
+C4514703|ENG|S|L14184894|PF|S17247564|Y|A28457100|3458024011|729510005||SNOMEDCT_US|FN|729510005|Entire anterior layer of stroma of iris (body structure)|9|N||
+C4514743|ENG|S|L14201625|PF|S17247618|Y|A28425691|3458106012|729551007||SNOMEDCT_US|FN|729551007|Entire anterior tubercle of atlas (body structure)|9|N||
+C4514764|ENG|S|L14202153|PF|S17252047|Y|A28407090|3458148017|729572005||SNOMEDCT_US|FN|729572005|Entire left ventricle anterior segment (body structure)|9|N||
+C4515033|ENG|S|L14207938|PF|S17254122|Y|A28408209|3458714014|729855006||SNOMEDCT_US|FN|729855006|Entire penile branches of anterior scrotal nerve (body structure)|9|N||
+C4515050|ENG|S|L14185605|PF|S17253372|Y|A28446183|3458748010|729872004||SNOMEDCT_US|FN|729872004|Entire musculotendinous junction of tibialis anterior (body structure)|9|N||
+C4515192|ENG|S|L14184887|PF|S17247506|Y|A28411565|3459048014|730022000||SNOMEDCT_US|FN|730022000|Entire anterior cerebellar lobe fissure (body structure)|9|N||
+C4515240|ENG|S|L14196242|PF|S17248673|Y|A28408215|3459146010|730071005||SNOMEDCT_US|FN|730071005|Entire branch of anterior cerebral artery (body structure)|9|N||
+C4515248|ENG|S|L14201761|PF|S17248675|Y|A28452661|3459162016|730079007||SNOMEDCT_US|FN|730079007|Entire branch of anterior division of internal iliac artery (body structure)|9|N||
+C4515259|ENG|S|L14173870|PF|S17248679|Y|A28463673|3459184016|730090002||SNOMEDCT_US|FN|730090002|Entire branch of anterior tibial artery (body structure)|9|N||
+C4515359|ENG|S|L14196103|PF|S17247577|Y|A28412671|3459386012|730191000||SNOMEDCT_US|FN|730191000|Entire anterior medullary nucleus (body structure)|9|N||
+C4515393|ENG|S|L14207729|PF|S17252331|Y|A28459319|3459454018|730225009||SNOMEDCT_US|FN|730225009|Entire lower anterior intercostal arteries (body structure)|9|N||
+C4515395|ENG|S|L14186133|PF|S17257544|Y|A28414857|3459458015|730227001||SNOMEDCT_US|FN|730227001|Entire upper anterior intercostal arteries (body structure)|9|N||
+C4515396|ENG|S|L14214063|PF|S17257546|Y|A28431150|3459460018|730228006||SNOMEDCT_US|FN|730228006|Entire upper anterior intercostal veins (body structure)|9|N||
+C4515397|ENG|S|L14213403|PF|S17252333|Y|A28448315|3459462014|730229003||SNOMEDCT_US|FN|730229003|Entire lower anterior intercostal veins (body structure)|9|N||
+C4515599|ENG|S|L14184889|PF|S17247532|Y|A28415919|3459866015|730431009||SNOMEDCT_US|FN|730431009|Entire anterior endocardial cushion (body structure)|9|N||
+C4515631|ENG|S|L14191454|PF|S17255094|Y|A28441855|3459930015|730463003||SNOMEDCT_US|FN|730463003|Entire right anterior cardinal vein (body structure)|9|N||
+C4515663|ENG|S|L14184896|PF|S17247581|Y|A28467999|3459994010|730495002||SNOMEDCT_US|FN|730495002|Entire anterior medullary spinothalamic tract (body structure)|9|N||
+C4515666|ENG|S|L14190537|PF|S17247579|Y|A28445103|3460000018|730498000||SNOMEDCT_US|FN|730498000|Entire anterior medullary spinocerebellar tract (body structure)|9|N||
+C4515676|ENG|S|L14174102|PF|S17250663|Y|A28469079|3460020017|730508006||SNOMEDCT_US|FN|730508006|Entire first anterior intercostal artery (body structure)|9|N||
+C4515677|ENG|S|L14197059|PF|S17255262|Y|A28412679|3460022013|730509003||SNOMEDCT_US|FN|730509003|Entire second anterior intercostal artery (body structure)|9|N||
+C4515678|ENG|S|L14186052|PF|S17256999|Y|A28406008|3460024014|730510008||SNOMEDCT_US|FN|730510008|Entire third anterior intercostal artery (body structure)|9|N||
+C4515679|ENG|S|L14213215|PF|S17250817|Y|A28420283|3460026011|730511007||SNOMEDCT_US|FN|730511007|Entire fourth anterior intercostal artery (body structure)|9|N||
+C4515680|ENG|S|L14196483|PF|S17250627|Y|A28429001|3460028012|730512000||SNOMEDCT_US|FN|730512000|Entire fifth anterior intercostal artery (body structure)|9|N||
+C4515681|ENG|S|L14202591|PF|S17255442|Y|A28452672|3460030014|730513005||SNOMEDCT_US|FN|730513005|Entire sixth anterior intercostal artery (body structure)|9|N||
+C4515682|ENG|S|L14208083|PF|S17255358|Y|A28442974|3460032018|730514004||SNOMEDCT_US|FN|730514004|Entire seventh anterior intercostal artery (body structure)|9|N||
+C4515683|ENG|S|L14207447|PF|S17249979|Y|A28446201|3460034017|730515003||SNOMEDCT_US|FN|730515003|Entire eighth anterior intercostal artery (body structure)|9|N||
+C4515684|ENG|S|L14197244|PF|S17256964|Y|A28432241|3460036015|730516002||SNOMEDCT_US|FN|730516002|Entire tenth anterior intercostal artery (body structure)|9|N||
+C4515685|ENG|S|L14185173|PF|S17250001|Y|A28437530|3460038019|730517006||SNOMEDCT_US|FN|730517006|Entire eleventh anterior intercostal artery (body structure)|9|N||
+C4515697|ENG|S|L14179696|PF|S17250665|Y|A28413774|3460064013|730530007||SNOMEDCT_US|FN|730530007|Entire first anterior intercostal vein (body structure)|9|N||
+C4515698|ENG|S|L14185842|PF|S17255264|Y|A28451608|3460066010|730531006||SNOMEDCT_US|FN|730531006|Entire second anterior intercostal vein (body structure)|9|N||
+C4515699|ENG|S|L14202593|PF|S17255444|Y|A28414865|3460068011|730532004||SNOMEDCT_US|FN|730532004|Entire sixth anterior intercostal vein (body structure)|9|N||
+C4515700|ENG|S|L14190919|PF|S17250629|Y|A28434348|3460070019|730533009||SNOMEDCT_US|FN|730533009|Entire fifth anterior intercostal vein (body structure)|9|N||
+C4515701|ENG|S|L14174124|PF|S17250819|Y|A28455991|3460072010|730534003||SNOMEDCT_US|FN|730534003|Entire fourth anterior intercostal vein (body structure)|9|N||
+C4515702|ENG|S|L14197249|PF|S17257001|Y|A28406009|3460074011|730535002||SNOMEDCT_US|FN|730535002|Entire third anterior intercostal vein (body structure)|9|N||
+C4515703|ENG|S|L14208085|PF|S17255360|Y|A28460431|3460076013|730536001||SNOMEDCT_US|FN|730536001|Entire seventh anterior intercostal vein (body structure)|9|N||
+C4515704|ENG|S|L14179602|PF|S17250003|Y|A28440790|3460078014|730537005||SNOMEDCT_US|FN|730537005|Entire eleventh anterior intercostal vein (body structure)|9|N||
+C4515705|ENG|S|L14186051|PF|S17256966|Y|A28455992|3460080015|730538000||SNOMEDCT_US|FN|730538000|Entire tenth anterior intercostal vein (body structure)|9|N||
+C4515706|ENG|S|L14213571|PF|S17253618|Y|A28423585|3460082011|730539008||SNOMEDCT_US|FN|730539008|Entire ninth anterior intercostal vein (body structure)|9|N||
+C4515707|ENG|S|L14174015|PF|S17249981|Y|A28461506|3460084012|730540005||SNOMEDCT_US|FN|730540005|Entire eighth anterior intercostal vein (body structure)|9|N||
+C4515724|ENG|S|L14174448|PF|S17253616|Y|A28458248|3460118018|730557009||SNOMEDCT_US|FN|730557009|Entire ninth anterior intercostal artery (body structure)|9|N||
+C4515742|ENG|S|L14201678|PF|S17248008|Y|A28440793|3460154019|730575005||SNOMEDCT_US|FN|730575005|Entire basal anterior segment of cardiac ventricle (body structure)|9|N||
+C4515751|ENG|S|L14190554|PF|S17247712|Y|A28438617|3460172013|730584005||SNOMEDCT_US|FN|730584005|Entire apical anterior segment of cardiac ventricle (body structure)|9|N||
+C4515755|ENG|S|L14179989|PF|S17253004|Y|A28431164|3460180018|730588008||SNOMEDCT_US|FN|730588008|Entire mid anterior segment of cardiac ventricle (body structure)|9|N||
+C4515760|ENG|S|L14207471|PF|S17250120|Y|A28452677|3460190014|730593006||SNOMEDCT_US|FN|730593006|Entire endothelium of anterior chamber of eye (body structure)|9|N||
+C4515782|ENG|S|L14212828|PF|S17247651|Y|A28421360|3460234014|730615009||SNOMEDCT_US|FN|730615009|Entire anterior-middle cerebral artery bifurcation (body structure)|9|N||
+C4515783|ENG|S|L14201632|PF|S17247653|Y|A28433264|3460236011|730616005||SNOMEDCT_US|FN|730616005|Entire anterior-posterior cerebral artery bifurcation (body structure)|9|N||
+C4515810|ENG|S|L14179299|PF|S17247645|Y|A28466928|3460292011|730644006||SNOMEDCT_US|FN|730644006|Entire anterior wall of pre-pylorus (body structure)|9|N||
+C4515910|ENG|S|L14185007|PF|S17248677|Y|A28440798|3460492014|730744003||SNOMEDCT_US|FN|730744003|Entire branch of anterior ethmoidal artery (body structure)|9|N||
+C4515933|ENG|S|L14196808|PF|S17253299|Y|A28422440|3460538013|730767001||SNOMEDCT_US|FN|730767001|Entire muscular layer of anterior abdominal wall (body structure)|9|N||
+C4516176|ENG|S|L14179277|PF|S17247510|Y|A28433278|3461152011|731074005||SNOMEDCT_US|FN|731074005|Entire anterior cerebral vein (body structure)|9|N||
+C4516338|ENG|S|L14207126|PF|S17247562|Y|A28436487|3461494016|731245006||SNOMEDCT_US|FN|731245006|Entire anterior lamella of eyelid (body structure)|9|N||
+C4516340|ENG|S|L14179295|PF|S17247627|Y|A28433282|3461502013|731249000||SNOMEDCT_US|FN|731249000|Entire anterior wall of anal canal (body structure)|9|N||
+C4516390|ENG|S|L14179280|PF|S17247534|Y|A28461528|3461602018|731299001||SNOMEDCT_US|FN|731299001|Entire anterior external vertebral venous plexus (body structure)|9|N||
+C4516412|ENG|S|L14214018|PF|S17257213|Y|A28420316|3461654011|731325000||SNOMEDCT_US|FN|731325000|Entire tributary of anterior jugular vein (body structure)|9|N||
+C4516455|ENG|S|L14174868|PF|S17257211|Y|A28457152|3461754017|731375003||SNOMEDCT_US|FN|731375003|Entire tributary of anterior ciliary vein (body structure)|9|N||
+C4516488|ENG|S|L14180493|PF|S17257215|Y|A28409381|3461828018|731412009||SNOMEDCT_US|FN|731412009|Entire tributary of anterior tibial vein (body structure)|9|N||
+C4516555|ENG|S|L14212824|PF|S17247604|Y|A28463722|3461966019|731481007||SNOMEDCT_US|FN|731481007|Entire anterior superior iliac spine region of trunk (body structure)|9|N||
+C4516560|ENG|S|L14185423|PF|S17251876|Y|A28449447|3461978015|731487006||SNOMEDCT_US|FN|731487006|Entire lateral half of anterior abdominal wall (body structure)|9|N||
+C4516631|ENG|S|L14214099|PF|S17257807|Y|A28460458|3462126015|731561009||SNOMEDCT_US|FN|731561009|Entire wall of anterior cerebral artery (body structure)|9|N||
+C4516632|ENG|S|L14180564|PF|S17257809|Y|A28432269|3462128019|731562002||SNOMEDCT_US|FN|731562002|Entire wall of anterior spinal artery (body structure)|9|N||
+C4516706|ENG|S|L14196106|PF|S17247600|Y|A28401819|3462280018|731638000||SNOMEDCT_US|FN|731638000|Entire anterior section of prostate (body structure)|9|N||
+C4516816|ENG|S|L14207219|PF|S17248261|Y|A28448353|3462606018|731801002||SNOMEDCT_US|FN|731801002|Entire bone of anterior cranial fossa (body structure)|9|N||
+C4516908|ENG|S|L14191511|PF|S17255584|Y|A28419173|3462858010|731927003||SNOMEDCT_US|FN|731927003|Entire skin of anterior superior iliac spine region of trunk (body structure)|9|N||
+C4516919|ENG|S|L14185884|PF|S17255713|Y|A28420336|3462882017|731939006||SNOMEDCT_US|FN|731939006|Entire skin of lateral half of anterior abdominal wall (body structure)|9|N||
+C4516940|ENG|S|L14191497|PF|S17255468|Y|A28423621|3462932014|731964009||SNOMEDCT_US|FN|731964009|Entire skeletal muscle of anterior chest wall (body structure)|9|N||
+C4516999|ENG|S|L14173747|PF|S17247625|Y|A28425760|3463166014|732081000||SNOMEDCT_US|FN|732081000|Entire anterior uveal tract (body structure)|9|N||
+C4517100|ENG|S|L14190536|PF|S17247574|Y|A28459369|3463559019|726821007||SNOMEDCT_US|FN|726821007|Entire anterior lower third of esophagus (body structure)|9|N||
+C4517101|ENG|S|L14179286|PF|S17247583|Y|A28400748|3463562016|726817000||SNOMEDCT_US|FN|726817000|Entire anterior middle third of esophagus (body structure)|9|N||
+C4517105|ENG|S|L14179294|PF|S17247622|Y|A28429053|3463585015|726813001||SNOMEDCT_US|FN|726813001|Entire anterior upper third of esophagus (body structure)|9|N||
+C4517237|ENG|S|L14196096|PF|S17247512|Y|A28411615|3464181011|729827007||SNOMEDCT_US|FN|729827007|Entire anterior chamber and lens of eye (body structure)|9|N||
+C4517969|ENG|S|L14185113|PF|S17249500|Y|A28413874|3467433015|727144002||SNOMEDCT_US|FN|727144002|Entire corticothalamic fibers of anterior limb of internal capsule (body structure)|9|N||
+C4517997|ENG|S|L14185880|PF|S17255636|Y|A28465954|3467534012|731931009||SNOMEDCT_US|FN|731931009|Entire skin of center of anterior chest (body structure)|9|N||
+C4518316|ENG|S|L14202370|PF|S17253753|Y|A28443097|3481636016|729141001||SNOMEDCT_US|FN|729141001|Entire opening of ampulla of anterior semicircular duct (body structure)|9|N||
+C4518521|ENG|S|L14207924|PF|S17253993|Y|A28438981|3498374014|727494006||SNOMEDCT_US|FN|727494006|Entire para-aortic lymph node of anterior mediastinum (body structure)|9|N||
+C4544815|ENG|S|L14534290|PF|S17631542|Y|A28910346|3526463013|737052006||SNOMEDCT_US|FN|737052006|Structure of anterior horn of medial meniscus of left knee (body structure)|9|N||
+C4544816|ENG|S|L14529146|PF|S17631544|Y|A28892597|3526466017|737053001||SNOMEDCT_US|FN|737053001|Structure of anterior horn of medial meniscus of right knee (body structure)|9|N||
+C4545078|ENG|S|L14526616|PF|S17631538|Y|A28894850|3527543010|737364008||SNOMEDCT_US|FN|737364008|Structure of anterior horn of lateral meniscus of left knee (body structure)|9|N||
+C4545083|ENG|S|L14534289|PF|S17631540|Y|A28899203|3527555016|737370002||SNOMEDCT_US|FN|737370002|Structure of anterior horn of lateral meniscus of right knee (body structure)|9|N||
+C4546020|ENG|S|L14526712|PF|S17632299|Y|A28908815|3635567010|762209001||SNOMEDCT_US|FN|762209001|Structure of tendon of anterior thigh muscle of left lower limb (body structure)|9|N||
+C4546021|ENG|S|L14534361|PF|S17632301|Y|A28897596|3635569013|762210006||SNOMEDCT_US|FN|762210006|Structure of tendon of anterior thigh muscle of right lower limb (body structure)|9|N||
+C4546396|ENG|S|L14521901|PF|S17612581|Y|A28895521|3637234014|762874003||SNOMEDCT_US|FN|762874003|Anterior interosseous nerve in left forearm (body structure)|9|N||
+C4546397|ENG|S|L14516790|PF|S17612583|Y|A28913382|3637237019|762875002||SNOMEDCT_US|FN|762875002|Anterior interosseous nerve in right forearm (body structure)|9|N||
+C4708101|ENG|S|L14918869|PF|S18103174|Y|A29568435|3671975014|767495006||SNOMEDCT_US|FN|767495006|Bone structure of anterior nasal spine of maxilla (body structure)|9|N||
+C4708102|ENG|S|L14915301|PF|S18107397|Y|A29511720|3671976010|767496007||SNOMEDCT_US|FN|767496007|Entire anterior nasal spine of maxilla (body structure)|9|N||
+C4708688|ENG|S|L14906569|PF|S18135701|Y|A29517700|3688852019|769150003||SNOMEDCT_US|FN|769150003|Structure of superior anterior pancreaticoduodenal artery (body structure)|9|N||
+C4708690|ENG|S|L14899562|PF|S18107526|Y|A29548573|3688857013|769152006||SNOMEDCT_US|FN|769152006|Entire superior anterior pancreaticoduodenal artery (body structure)|9|N||
+C4750408|ENG|S|L15262171|PF|S18531720|Y|A30235760|3717731013|772217008||SNOMEDCT_US|FN|772217008|Anterior cerebral artery A3 segment (body structure)|9|N||
+C4751555|ENG|S|L15273743|PF|S18564688|Y|A30216750|3728032011|774110002||SNOMEDCT_US|FN|774110002|Structure of left anterior inferior iliac spine (body structure)|9|N||
+C4751556|ENG|S|L15273771|PF|S18564946|Y|A30266375|3728034012|774111003||SNOMEDCT_US|FN|774111003|Structure of right anterior inferior iliac spine (body structure)|9|N||
+C4758305|ENG|S|L15262385|PF|S18534116|Y|A30239057|3751617012|781693007||SNOMEDCT_US|FN|781693007|Bone structure of anterior wall of acetabulum (body structure)|9|N||
+C4758308|ENG|S|L15266999|PF|S18539844|Y|A30209366|3751626010|781696004||SNOMEDCT_US|FN|781696004|Entire bone of anterior wall of acetabulum (body structure)|9|N||
+C4758467|ENG|S|L15265601|PF|S18564559|Y|A30259235|3753318017|782285003||SNOMEDCT_US|FN|782285003|Structure of anterior tibial compartment of left lower leg (body structure)|9|N||
+C4758468|ENG|S|L15257377|PF|S18564561|Y|A30219366|3753320019|782286002||SNOMEDCT_US|FN|782286002|Structure of anterior tibial compartment of right lower leg (body structure)|9|N||

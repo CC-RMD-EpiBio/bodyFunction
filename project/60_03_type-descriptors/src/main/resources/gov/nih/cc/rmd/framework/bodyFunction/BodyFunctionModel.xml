@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  
+                                    NIH Clinical Center 
+                              Department of Rehabilitation 
+                         Epidemiology and Biostatistics Branch 
+                                          2020
+
+   This work is licensed under the Creative Commons Attribution 4.0 International License. 
+   
+   This license allows you to use, share and  adapt for any purpose, provided:
+      Provide attribution to the creators of this work within your work.
+      Indicate if changes were made to this work.
+      No claim to merchantability, implied warranty, or liability can be made.
+      
+    When attributing this code, please make reference to
+     [citation/url here] .  
+     
+      In the absence of a specific paper or url listed above, reference http://clinicalcenter.nih.gov/rmd/eb/nlp
+   
+   To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+-->
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+              
+  
+  
+  
+  <name>gov.nih.cc.rmd.bodyFunctionModel</name>
+      
+  
+  <description>Labels specific to the bodyFunction tasks
+
+BodyFunctionMention
+    BodyFunctionType
+               RangeOfMotion
+               Strength
+               Reflex
+     Location
+BFQualifier
+-1 ReducedBodyFunction
+0   Ambiguous
++1 NormalOrAboveBodyFunction</description>
+  <version>2020.05.0</version>
+  <vendor/>
+  
+  <imports>
+   <import name="gov.nih.cc.rmd.framework.Model"/>
+  </imports>
+  
+  <types>
+   
+    <typeDescription>
+     <name>gov.nih.cc.rmd.framework.BodyFunctionMention</name>
+      <description>Put the definition for this bodyFunction BodyFunction  here.</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+          
+    <features>
+        <featureDescription>
+          <name>bodyFunctionType</name>
+          <description>This is a string (delimited by colon) filled with one or more of the following Range of Motion:Strength:Reflex:Ambiguous</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>location</name>
+          <description>A string representing the location(s)</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>qualifier</name>
+          <description> the qualifier parts of the body function</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        
+        <featureDescription>
+          <name>polarity</name>
+          <description>A digested enumerated of -0   for Reduced body function, 0   for an ambiguous mention, +1  for normal or above normal body function</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+            
+   
+  
+  <typeDescription>
+      <name>gov.nih.cc.rmd.framework.RangeOfMotion</name>
+      <description>Range of Motion mentions</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>gov.nih.cc.rmd.framework.Strength</name>
+      <description>Strength mention</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+    
+     <typeDescription>
+      <name>gov.nih.cc.rmd.framework.Reflex</name>
+      <description>Reflex</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+
+    <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BFT_Ambiguous</name>
+      <description>Reflex</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+
+      <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BodyFunctionKind</name>
+      <description>This is either strength, range of motion, reflex </description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+    
+    <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BFQualifier</name>
+      <description>Body Function Qualifier mention</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+      
+       <features>
+        <featureDescription>
+          <name>polarity</name>
+          <description> This will be -1, 0, +1 </description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+    
+    
+     <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BFQualifierCategory_Plus_1</name>
+      <description>Body Function Qualifier mention category +1</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+    
+     <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BFQualifierCategory_Minus_1</name>
+      <description>Body Function Qualifier mention category -1</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+    
+     <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BFQualifierCategory_0</name>
+      <description>Body Function Qualifier mention category 0</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+    
+    
+    
+  <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BodyLocation</name>
+      <description>The body structure the body function mention was in.</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+    
+    <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BodyLaterality</name>
+      <description> Referring to the side or quandrant of the body</description>
+      <supertypeName>gov.nih.cc.rmd.framework.BodyFunction</supertypeName>
+    </typeDescription>
+    
+    
+  <typeDescription>
+      <name>gov.nih.cc.rmd.gate.Body_Function</name>
+      <description>These are the manual annotations for body function.</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>gov.nih.cc.rmd.gate.Body_Function_TType</name>
+      <description>These are the manual annotations for body type</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>function</name>
+          <description>Function will be one of the following
+                  strength|rangeOfMotion|reflex</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+    <typeDescription>
+      <name>gov.nih.cc.rmd.gate.Qualifier</name>
+      <description>These are the manual annotations for a body function qualifier.</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>category</name>
+          <description>-1,0,1</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+   
+     
+     <typeDescription>
+      <name>gov.nih.cc.rmd.gate.GATE_BFQualifierCategory_Plus_1</name>
+      <description>Body Function Qualifier mention category +1</description>
+      <supertypeName>gov.nih.cc.rmd.gate.Qualifier</supertypeName>
+    </typeDescription>
+    
+     <typeDescription>
+      <name>gov.nih.cc.rmd.gate.GATE_BFQualifierCategory_Minus_1</name>
+      <description>Body Function Qualifier mention category -1</description>
+      <supertypeName>gov.nih.cc.rmd.gate.Qualifier</supertypeName>
+    </typeDescription>
+    
+     <typeDescription>
+      <name>gov.nih.cc.rmd.gate.GATE_BFQualifierCategory_0</name>
+      <description>Body Function Qualifier mention category 0</description>
+      <supertypeName>gov.nih.cc.rmd.gate.Qualifier</supertypeName>
+    </typeDescription>
+    
+     <typeDescription>
+      <name>gov.nih.cc.rmd.gate.Body_Function_Context</name>
+      <description>This is an area that provides some context to a later mention.</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>Context_Type</name>
+          <description>This is type|location|qualifier</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+    
+     <typeDescription>
+      <name>gov.nih.cc.rmd.gate.Possible_Body_Function</name>
+      <description>This is a poorly ocr'd area that might have a mention in it.</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+     </typeDescription>
+    
+    <typeDescription>
+      <name>gov.nih.cc.rmd.gate.Body_location</name>
+      <description>These are the manual annotations for body location.</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    </typeDescription>
+  <typeDescription>
+      <name>gov.nih.cc.rmd.framework.BodyFunction</name>
+      <description>This is the base type for all the body function concepts</description>
+      <supertypeName>gov.va.vinci.model.Concept</supertypeName>
+      <features>
+         <featureDescription>
+            <name>parent</name>
+            <description> the parent concept </description>
+            <rangeTypeName>gov.va.vinci.model.Concept</rangeTypeName>
+         </featureDescription>
+      </features>
+    </typeDescription>
+  </types>
+      
+
+
+</typeSystemDescription>

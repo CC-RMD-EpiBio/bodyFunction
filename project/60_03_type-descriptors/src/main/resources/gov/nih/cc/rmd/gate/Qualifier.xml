@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2000/10/XMLSchema">
+  <!-- XSchema definition for Qualifier -->
+  <element name="Qualifier">
+	 <complexType>
+	   <attribute name="Category " use="required" value="0" >
+              <simpleType>
+                  <restriction base="string">
+                      <enumeration value="-1"/>
+		      <enumeration value="0"/>
+		      <enumeration value="1"/>
+                  </restriction>
+              </simpleType>
+       </attribute>
+      </complexType>
+  </element>
+</schema>

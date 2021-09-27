@@ -1,0 +1,1139 @@
+C0011193|ENG|S|L2910078|PF|S3565112|Y|A3728176|754256018|246001||SNOMEDCT_US|FN|246001|Structure of lateral vestibular nucleus (body structure)|9|N||
+C0023108|ENG|S|L2905155|PF|S3564899|Y|A3727963|813841013|73451009||SNOMEDCT_US|FN|73451009|Structure of lateral epicondyle of humerus (body structure)|9|N||
+C0086526|ENG|S|L2891840|PF|S3388797|Y|A3533678|803650016|64275003||SNOMEDCT_US|FN|64275003|Lateral geniculate body structure (body structure)|9|N||
+C0086527|ENG|S|L2908723|PF|S7331809|Y|A11734955|2638776015|40245009||SNOMEDCT_US|FN|40245009|Structure of lateral hypothalamic nucleus (body structure)|9|N||
+C0152279|ENG|S|L2910130|PF|S3389034|Y|A3533926|806364017|66720007||SNOMEDCT_US|FN|66720007|Lateral ventricle structure (body structure)|9|N||
+C0152280|ENG|S|L2891864|PF|S3560522|Y|A3723476|766370015|34803007||SNOMEDCT_US|FN|34803007|Structure of body of lateral ventricle (body structure)|9|N||
+C0152281|ENG|S|L2832309|PF|S3559398|Y|A3722345|761398016|30399003||SNOMEDCT_US|FN|30399003|Structure of anterior horn of lateral ventricle (body structure)|9|N||
+C0152282|ENG|S|L2908625|PF|S3568335|Y|A3731443|791008014|52943005||SNOMEDCT_US|FN|52943005|Structure of posterior horn of lateral ventricle (body structure)|9|N||
+C0152283|ENG|S|L2908621|PF|S3563863|Y|A3726920|791202018|53118009||SNOMEDCT_US|FN|53118009|Structure of inferior horn of lateral ventricle (body structure)|9|N||
+C0152286|ENG|S|L2907385|PF|S3565020|Y|A3728084|806122013|66501007||SNOMEDCT_US|FN|66501007|Structure of lateral recess of fourth ventricle (body structure)|9|N||
+C0152287|ENG|S|L2843489|PF|S3388669|Y|A3533549|802708017|63426007||SNOMEDCT_US|FN|63426007|Lateral aperture of fourth ventricle (body structure)|9|N||
+C0152289|ENG|S|L2896470|PF|S3561154|Y|A3724123|843042010|369272004||SNOMEDCT_US|FN|369272004|Structure of choroid plexus of lateral ventricle (body structure)|9|N||
+C0152290|ENG|S|L2896487|PF|S3571066|Y|A3734188|744334012|17168001||SNOMEDCT_US|FN|17168001|Structure of tela choroidea of lateral ventricle (body structure)|9|N||
+C0152330|ENG|S|L2910081|PF|S3564978|Y|A3728042|792976013|54714005||SNOMEDCT_US|FN|54714005|Structure of lateral olfactory striae (body structure)|9|N||
+C0152339|ENG|S|L2909939|PF|S3564951|Y|A3728015|791461013|53351006||SNOMEDCT_US|FN|53351006|Structure of lateral medullary lamina (body structure)|9|N||
+C0152357|ENG|S|L2910045|PF|S3564943|Y|A3728007|743857018|16769007||SNOMEDCT_US|FN|16769007|Structure of lateral mammillary nucleus (body structure)|9|N||
+C0152375|ENG|S|L2910026|PF|S3388825|Y|A3533707|828336011|86136007||SNOMEDCT_US|FN|86136007|Lateral lemniscus structure (body structure)|9|N||
+C0152402|ENG|S|L2898164|PF|S3564878|Y|A3727942|783413012|461002||SNOMEDCT_US|FN|461002|Structure of lateral corticospinal tract (body structure)|9|N||
+C0175312|ENG|S|L2910076|PF|S3565011|Y|A3728075|820871015|79783006||SNOMEDCT_US|FN|79783006|Structure of lateral preoptic nucleus (body structure)|9|N||
+C0206328|ENG|S|L2828638|PF|S3564932|Y|A3727996|811462014|71310002||SNOMEDCT_US|FN|71310002|Structure of lateral ligament of ankle joint (body structure)|9|N||
+C0206365|ENG|S|L2897111|PF|S3561290|Y|A3724274|782969018|457008||SNOMEDCT_US|FN|457008|Structure of collateral ligament (body structure)|9|N||
+C0206367|ENG|S|L2897100|PF|S3566189|Y|A3729260|743262011|1627004||SNOMEDCT_US|FN|1627004|Structure of medial collateral ligament of knee joint (body structure)|9|N||
+C0222000|ENG|S|L2906836|PF|S3564957|Y|A3728021|743493014|16465000||SNOMEDCT_US|FN|16465000|Structure of lateral nail fold (body structure)|9|N||
+C0222094|ENG|S|L2894460|PF|S3546250|Y|A3708311|769565012|37671003||SNOMEDCT_US|FN|37671003|Skin structure of lateral canthus (body structure)|9|N||
+C0222133|ENG|S|L2910066|PF|S3546255|Y|A3708316|790761019|5272005||SNOMEDCT_US|FN|5272005|Skin structure of lateral portion of neck (body structure)|9|N||
+C0222140|ENG|S|L2910096|PF|S3546257|Y|A3708318|754049017|24415007||SNOMEDCT_US|FN|24415007|Skin structure of lateral region of trunk (body structure)|9|N||
+C0222209|ENG|S|L2849225|PF|S3546288|Y|A3708349|797717013|58930001||SNOMEDCT_US|FN|58930001|Skin structure of lateral surface of upper arm (body structure)|9|N||
+C0222218|ENG|S|L2907036|PF|S3546253|Y|A3708314|748911016|20086004||SNOMEDCT_US|FN|20086004|Skin structure of lateral margin of forearm (body structure)|9|N||
+C0222237|ENG|S|L2906514|PF|S3546261|Y|A3708322|795541013|5697001||SNOMEDCT_US|FN|5697001|Skin structure of lateral surface of finger (body structure)|9|N||
+C0222242|ENG|S|L2910116|PF|S3546284|Y|A3708345|747902018|19601002||SNOMEDCT_US|FN|19601002|Skin structure of lateral surface of thumb (body structure)|9|N||
+C0222247|ENG|S|L2906455|PF|S3546267|Y|A3708328|750461012|21194004||SNOMEDCT_US|FN|21194004|Skin structure of lateral surface of index finger (body structure)|9|N||
+C0222252|ENG|S|L2906506|PF|S3546274|Y|A3708335|821025015|79921002||SNOMEDCT_US|FN|79921002|Skin structure of lateral surface of middle finger (body structure)|9|N||
+C0222257|ENG|S|L2906511|PF|S3546276|Y|A3708337|816958012|76258008||SNOMEDCT_US|FN|76258008|Skin structure of lateral surface of ring finger (body structure)|9|N||
+C0222262|ENG|S|L2906502|PF|S3546269|Y|A3708330|826536019|84649004||SNOMEDCT_US|FN|84649004|Skin structure of lateral surface of little finger (body structure)|9|N||
+C0222274|ENG|S|L2910114|PF|S3546280|Y|A3708341|821114014|80001000||SNOMEDCT_US|FN|80001000|Skin structure of lateral surface of thigh (body structure)|9|N||
+C0222283|ENG|S|L2910019|PF|S3546271|Y|A3708332|742516013|15651003||SNOMEDCT_US|FN|15651003|Skin structure of lateral surface of lower leg (body structure)|9|N||
+C0222292|ENG|S|L2892625|PF|S3546248|Y|A3708309|767411019|35739000||SNOMEDCT_US|FN|35739000|Skin structure of lateral border of sole of foot (body structure)|9|N||
+C0222300|ENG|S|L2910117|PF|S3546286|Y|A3708347|785502014|47984008||SNOMEDCT_US|FN|47984008|Skin structure of lateral surface of toe (body structure)|9|N||
+C0222305|ENG|S|L2908033|PF|S3546265|Y|A3708326|793387015|55085000||SNOMEDCT_US|FN|55085000|Skin structure of lateral surface of great toe (body structure)|9|N||
+C0222310|ENG|S|L2910111|PF|S3546278|Y|A3708339|647196013|113184000||SNOMEDCT_US|FN|113184000|Skin structure of lateral surface of second toe (body structure)|9|N||
+C0222315|ENG|S|L2910115|PF|S3546282|Y|A3708343|747835012|19570009||SNOMEDCT_US|FN|19570009|Skin structure of lateral surface of third toe (body structure)|9|N||
+C0222320|ENG|S|L2907386|PF|S3546263|Y|A3708324|785433014|47921002||SNOMEDCT_US|FN|47921002|Skin structure of lateral surface of fourth toe (body structure)|9|N||
+C0222325|ENG|S|L2906247|PF|S3546259|Y|A3708320|797820012|59023003||SNOMEDCT_US|FN|59023003|Skin structure of lateral surface of fifth toe (body structure)|9|N||
+C0222358|ENG|S|L2894462|PF|S3573542|Y|A3736761|834582016|91298000||SNOMEDCT_US|FN|91298000|Subcutaneous tissue structure of lateral canthus (body structure)|9|N||
+C0222399|ENG|S|L2910068|PF|S3573546|Y|A3736765|742730018|15828001||SNOMEDCT_US|FN|15828001|Subcutaneous tissue structure of lateral portion of neck (body structure)|9|N||
+C0222408|ENG|S|L2910097|PF|S3573548|Y|A3736767|800892013|61791003||SNOMEDCT_US|FN|61791003|Subcutaneous tissue structure of lateral region of trunk (body structure)|9|N||
+C0222474|ENG|S|L2849226|PF|S3573579|Y|A3736798|778044015|41274008||SNOMEDCT_US|FN|41274008|Subcutaneous tissue structure of lateral surface of upper arm (body structure)|9|N||
+C0222483|ENG|S|L2907038|PF|S3573544|Y|A3736763|811022018|70914007||SNOMEDCT_US|FN|70914007|Subcutaneous tissue structure of lateral margin of forearm (body structure)|9|N||
+C0222502|ENG|S|L2906515|PF|S3573553|Y|A3736772|816277017|75644005||SNOMEDCT_US|FN|75644005|Subcutaneous tissue structure of lateral surface of finger (body structure)|9|N||
+C0222507|ENG|S|L2910123|PF|S3573575|Y|A3736794|786243015|48651007||SNOMEDCT_US|FN|48651007|Subcutaneous tissue structure of lateral surface of thumb (body structure)|9|N||
+C0222512|ENG|S|L2906456|PF|S3573559|Y|A3736778|831484016|88738008||SNOMEDCT_US|FN|88738008|Subcutaneous tissue structure of lateral surface of index finger (body structure)|9|N||
+C0222517|ENG|S|L2906507|PF|S3573565|Y|A3736784|825140012|83495005||SNOMEDCT_US|FN|83495005|Subcutaneous tissue structure of lateral surface of middle finger (body structure)|9|N||
+C0222522|ENG|S|L2906512|PF|S3573567|Y|A3736786|834564019|91282007||SNOMEDCT_US|FN|91282007|Subcutaneous tissue structure of lateral surface of ring finger (body structure)|9|N||
+C0222527|ENG|S|L2906503|PF|S3573563|Y|A3736782|783306013|46004002||SNOMEDCT_US|FN|46004002|Subcutaneous tissue structure of lateral surface of little finger (body structure)|9|N||
+C0222540|ENG|S|L2910121|PF|S3573571|Y|A3736790|647233013|113188002||SNOMEDCT_US|FN|113188002|Subcutaneous tissue structure of lateral surface of thigh (body structure)|9|N||
+C0222549|ENG|S|L10801967|PF|S13429986|Y|A20828733|2916718014|91342003||SNOMEDCT_US|FN|91342003|Subcutaneous tissue structure of lateral surface of lower leg (body structure)|9|N||
+C0222558|ENG|S|L2892627|PF|S3573540|Y|A3736759|797484013|5872003||SNOMEDCT_US|FN|5872003|Subcutaneous tissue structure of lateral border of sole of foot (body structure)|9|N||
+C0222566|ENG|S|L2910124|PF|S3573577|Y|A3736796|800819017|61725003||SNOMEDCT_US|FN|61725003|Subcutaneous tissue structure of lateral surface of toe (body structure)|9|N||
+C0222571|ENG|S|L2908034|PF|S3573557|Y|A3736776|748563019|19919009||SNOMEDCT_US|FN|19919009|Subcutaneous tissue structure of lateral surface of great toe (body structure)|9|N||
+C0222576|ENG|S|L2910112|PF|S3573569|Y|A3736788|760749019|29813005||SNOMEDCT_US|FN|29813005|Subcutaneous tissue structure of lateral surface of second toe (body structure)|9|N||
+C0222581|ENG|S|L2910122|PF|S3573573|Y|A3736792|801611011|62439004||SNOMEDCT_US|FN|62439004|Subcutaneous tissue structure of lateral surface of third toe (body structure)|9|N||
+C0222586|ENG|S|L2907387|PF|S3573555|Y|A3736774|775492013|3910004||SNOMEDCT_US|FN|3910004|Subcutaneous tissue structure of lateral surface of fourth toe (body structure)|9|N||
+C0222591|ENG|S|L2906248|PF|S3573551|Y|A3736770|713930011|12004005||SNOMEDCT_US|FN|12004005|Subcutaneous tissue structure of lateral surface of fifth toe (body structure)|9|N||
+C0222720|ENG|S|L2892357|PF|S3564986|Y|A3728050|803692014|64312005||SNOMEDCT_US|FN|64312005|Structure of lateral part of occipital bone (body structure)|9|N||
+C0222768|ENG|S|L2892658|PF|S3564850|Y|A3727914|814939018|74440002||SNOMEDCT_US|FN|74440002|Structure of lateral border of manubrium (body structure)|9|N||
+C0222775|ENG|S|L2891691|PF|S3564846|Y|A3727910|812346019|72105007||SNOMEDCT_US|FN|72105007|Structure of lateral border of body of sternum (body structure)|9|N||
+C0222776|ENG|S|L2891690|PF|S3569218|Y|A3732333|826368014|367892005||SNOMEDCT_US|FN|367892005|Structure of right lateral border of body of sternum (body structure)|9|N||
+C0222777|ENG|S|L2891689|PF|S3565250|Y|A3728316|826380018|367893000||SNOMEDCT_US|FN|367893000|Structure of left lateral border of body of sternum (body structure)|9|N||
+C0223107|ENG|S|L2864522|PF|S3564949|Y|A3728013|776975019|40349000||SNOMEDCT_US|FN|40349000|Structure of lateral mass of atlas (body structure)|9|N||
+C0223871|ENG|S|L2905153|PF|S3564897|Y|A3727961|812522010|72264004||SNOMEDCT_US|FN|72264004|Structure of lateral epicondyle of femur (body structure)|9|N||
+C0223889|ENG|S|L2856904|PF|S3564823|Y|A3727887|757797018|27251009||SNOMEDCT_US|FN|27251009|Structure of lateral articular facet of patella (body structure)|9|N||
+C0223893|ENG|S|L2897624|PF|S3564876|Y|A3727940|805063012|65548001||SNOMEDCT_US|FN|65548001|Structure of lateral condyle of tibia (body structure)|9|N||
+C0223923|ENG|S|L2894202|PF|S3565013|Y|A3728077|743617018|16570005||SNOMEDCT_US|FN|16570005|Structure of lateral process of calcaneal tubercle (body structure)|9|N||
+C0223955|ENG|S|L2892060|PF|S3194592|Y|A3324090|807133018|67411009||SNOMEDCT_US|FN|67411009|Bone structure of lateral cuneiform (body structure)|9|N||
+C0223957|ENG|S|L2892051|PF|S3569534|Y|A3732649|804649011|65175001||SNOMEDCT_US|FN|65175001|Structure of second metatarsal facet of lateral cuneiform bone (body structure)|9|N||
+C0223958|ENG|S|L2892052|PF|S3571275|Y|A3734403|741000018|14722004||SNOMEDCT_US|FN|14722004|Structure of third metatarsal facet of lateral cuneiform bone (body structure)|9|N||
+C0223959|ENG|S|L2892048|PF|S3563089|Y|A3726143|780756019|4371007||SNOMEDCT_US|FN|4371007|Structure of fourth metatarsal facet of lateral cuneiform bone (body structure)|9|N||
+C0223960|ENG|S|L2892022|PF|S3561713|Y|A3724713|805569019|66003003||SNOMEDCT_US|FN|66003003|Structure of cuboidal facet of lateral cuneiform bone (body structure)|9|N||
+C0223961|ENG|S|L2892053|PF|S3566941|Y|A3730021|755675014|25366009||SNOMEDCT_US|FN|25366009|Structure of navicular facet of lateral cuneiform bone (body structure)|9|N||
+C0223962|ENG|S|L2892029|PF|S3561728|Y|A3724728|808850016|68958007||SNOMEDCT_US|FN|68958007|Structure of cuneiform facet of lateral cuneiform bone (body structure)|9|N||
+C0224131|ENG|S|L2903199|PF|S3285756|Y|A3423919|564367015|181152008||SNOMEDCT_US|FN|181152008|Entire lateral rectus (body structure)|9|N||
+C0224145|ENG|S|L2910058|PF|S3565018|Y|A3728082|831726018|88938001||SNOMEDCT_US|FN|88938001|Structure of lateral pterygoid muscle (body structure)|9|N||
+C0224180|ENG|S|L2898441|PF|S3564885|Y|A3727949|740239010|14253003||SNOMEDCT_US|FN|14253003|Structure of lateral cricoarytenoid muscle (body structure)|9|N||
+C0224243|ENG|S|L2892852|PF|S3564919|Y|A3727983|773980019|38411001||SNOMEDCT_US|FN|38411001|Structure of lateral head of triceps brachii muscle (body structure)|9|N||
+C0224271|ENG|S|L13762598|PF|S16787692|Y|A27778606|3324108019|24705002||SNOMEDCT_US|FN|24705002|Entire lateral digital extensor muscle (body structure)|9|N||
+C0224329|ENG|S|L6391132|PF|S7331813|Y|A11730576|2638871019|61222001||SNOMEDCT_US|FN|61222001|Structure of lateral intertransversarius lumborum muscle (body structure)|9|N||
+C0224459|ENG|S|L2907631|PF|S3564917|Y|A3727981|647704013|113233007||SNOMEDCT_US|FN|113233007|Structure of lateral head of gastrocnemius muscle (body structure)|9|N||
+C0224552|ENG|S|L2906877|PF|S3388792|Y|A3533673|723483010|12230000||SNOMEDCT_US|FN|12230000|Lateral fontanel of skull (body structure)|9|N||
+C0224574|ENG|S|L2909582|PF|S3564936|Y|A3728000|837030019|9332006||SNOMEDCT_US|FN|9332006|Structure of lateral ligament of temporomandibular joint (body structure)|9|N||
+C0224585|ENG|S|L2864595|PF|S3564831|Y|A3727895|786770014|49126004||SNOMEDCT_US|FN|49126004|Structure of lateral atlantoaxial joint (body structure)|9|N||
+C0224839|ENG|S|L2893974|PF|S3570262|Y|A3733383|778125013|41347005||SNOMEDCT_US|FN|41347005|Structure of subcutaneous lateral malleolar bursa (body structure)|9|N||
+C0224944|ENG|S|L2906773|PF|S3564909|Y|A3727973|597849019|212034003||SNOMEDCT_US|FN|212034003|Structure of lateral flexor tendon of knee (body structure)|9|N||
+C0225014|ENG|S|L2910029|PF|S3565038|Y|A3728102|753115016|23579003||SNOMEDCT_US|FN|23579003|Structure of lateral sacrococcygeal ligament (body structure)|9|N||
+C0225020|ENG|S|L2898272|PF|S3564883|Y|A3727947|784003016|46632007||SNOMEDCT_US|FN|46632007|Structure of lateral costotransverse ligament (body structure)|9|N||
+C0225027|ENG|S|L2846929|PF|S3564821|Y|A3727885|798008015|59193006||SNOMEDCT_US|FN|59193006|Structure of lateral arcuate ligament of diaphragm (body structure)|9|N||
+C0225066|ENG|S|L2897044|PF|S3561306|Y|A3724295|647825017|113244004||SNOMEDCT_US|FN|113244004|Structure of collateral ulnar ligament of elbow (body structure)|9|N||
+C0225067|ENG|S|L2897043|PF|S3561301|Y|A3724285|794906011|56399000||SNOMEDCT_US|FN|56399000|Structure of collateral radial ligament of elbow (body structure)|9|N||
+C0225079|ENG|S|L2894933|PF|S3280973|Y|A3419120|565771013|182408005||SNOMEDCT_US|FN|182408005|Entire collateral carpal ulnar ligament (body structure)|9|N||
+C0225080|ENG|S|L2894932|PF|S3280971|Y|A3419118|565760012|182398002||SNOMEDCT_US|FN|182398002|Entire collateral carpal radial ligament (body structure)|9|N||
+C0225101|ENG|S|L2897103|PF|S3561296|Y|A3724280|794579011|56103003||SNOMEDCT_US|FN|56103003|Structure of collateral ligaments of metacarpophalangeal joints (body structure)|9|N||
+C0225105|ENG|S|L2897048|PF|S3280981|Y|A3419128|787003012|49336000||SNOMEDCT_US|FN|49336000|Entire collateral ligament of interphalangeal joint of hand (body structure)|9|N||
+C0225127|ENG|S|L2910089|PF|S3564990|Y|A3728054|817513017|76758007||SNOMEDCT_US|FN|76758007|Structure of lateral patellar retinaculum (body structure)|9|N||
+C0225129|ENG|S|L2897099|PF|S3564870|Y|A3727934|776510011|39959004||SNOMEDCT_US|FN|39959004|Structure of lateral collateral ligament of knee joint (body structure)|9|N||
+C0225170|ENG|S|L2910030|PF|S3565095|Y|A3728159|817955019|77156008||SNOMEDCT_US|FN|77156008|Structure of lateral talocalcaneal ligament (body structure)|9|N||
+C0225189|ENG|S|L2897052|PF|S3280985|Y|A3419132|794661018|56178008||SNOMEDCT_US|FN|56178008|Entire collateral ligament of metatarsophalangeal joint (body structure)|9|N||
+C0225199|ENG|S|L2897089|PF|S3561291|Y|A3724275|766244018|34691003||SNOMEDCT_US|FN|34691003|Structure of collateral ligaments of interphalangeal joints of foot (body structure)|9|N||
+C0225229|ENG|S|L2898538|PF|S3564889|Y|A3727953|824426011|82905002||SNOMEDCT_US|FN|82905002|Structure of lateral crus of superficial inguinal ring (body structure)|9|N||
+C0225239|ENG|S|L2892825|PF|S3564923|Y|A3727987|814431014|73983006||SNOMEDCT_US|FN|73983006|Structure of lateral intermuscular brachial septum (body structure)|9|N||
+C0225267|ENG|S|L2906047|PF|S3388779|Y|A3533660|778622012|41794000||SNOMEDCT_US|FN|41794000|Lateral femoral intermuscular septum (body structure)|9|N||
+C0225418|ENG|S|L2811711|PF|S3564887|Y|A3727951|786518010|48900004||SNOMEDCT_US|FN|48900004|Structure of lateral crus of greater alar cartilage (body structure)|9|N||
+C0225419|ENG|S|L2895083|PF|S3564961|Y|A3728025|773567011|38374003||SNOMEDCT_US|FN|38374003|Structure of lateral nasal cartilage (body structure)|9|N||
+C0225486|ENG|S|L2910065|PF|S3565118|Y|A3728182|811103012|70988003||SNOMEDCT_US|FN|70988003|Structure of lateral wall of nasopharynx (body structure)|9|N||
+C0225487|ENG|S|L2910063|PF|S3569224|Y|A3732339|561501018|178579001||SNOMEDCT_US|FN|178579001|Structure of right lateral nasopharynx (body structure)|9|N||
+C0225488|ENG|S|L2910015|PF|S3565256|Y|A3728322|561612013|178679005||SNOMEDCT_US|FN|178679005|Structure of left lateral nasopharynx (body structure)|9|N||
+C0225618|ENG|S|L14529935|PF|S17616397|Y|A28899301|3535070016|278372008||SNOMEDCT_US|FN|278372008|Entire middle lobe lateral segmental bronchus of right lung (body structure)|9|N||
+C0225626|ENG|S|L2893513|PF|S3291003|Y|A3429227|656259014|264061004||SNOMEDCT_US|FN|264061004|Entire right lower lobe lateral segmental bronchus (body structure)|9|N||
+C0225645|ENG|S|L2893512|PF|S3286053|Y|A3424218|671532017|278383004||SNOMEDCT_US|FN|278383004|Entire left lower lobe lateral segmental bronchus (body structure)|9|N||
+C0225720|ENG|S|L2910035|PF|S17631737|Y|A28883899|3535081018|42000008||SNOMEDCT_US|FN|42000008|Structure of lateral segment of middle lobe of right lung (body structure)|9|N||
+C0225727|ENG|S|L2875425|PF|S3564842|Y|A3727906|815486018|74932000||SNOMEDCT_US|FN|74932000|Structure of lateral basal segment of right lower lobe of lung (body structure)|9|N||
+C0225748|ENG|S|L2875423|PF|S3564840|Y|A3727904|742348013|15512001||SNOMEDCT_US|FN|15512001|Structure of lateral basal segment of left lower lobe of lung (body structure)|9|N||
+C0225823|ENG|S|L2910060|PF|S3564955|Y|A3728019|757850011|273000||SNOMEDCT_US|FN|273000|Structure of lateral myocardium (body structure)|9|N||
+C0225906|ENG|S|L2911806|PF|S3566845|Y|A3729920|764655013|33272004||SNOMEDCT_US|FN|33272004|Structure of myocardium of posterolateral region (body structure)|9|N||
+C0225907|ENG|S|L2833422|PF|S3566825|Y|A3729899|813395011|73050001||SNOMEDCT_US|FN|73050001|Structure of myocardium of anterolateral region (body structure)|9|N||
+C0225910|ENG|S|L2908967|PF|S3566838|Y|A3729912|743224013|16239001||SNOMEDCT_US|FN|16239001|Structure of myocardium of inferolateral region (body structure)|9|N||
+C0226063|ENG|S|L2851604|PF|S3564838|Y|A3727902|749070017|20163008||SNOMEDCT_US|FN|20163008|Structure of lateral basal branch of right pulmonary artery (body structure)|9|N||
+C0226081|ENG|S|L2851603|PF|S3564835|Y|A3727899|753691010|24094002||SNOMEDCT_US|FN|24094002|Structure of lateral basal branch of left pulmonary artery (body structure)|9|N||
+C0226146|ENG|S|L2852654|PF|S3568562|Y|A3731672|749447017|20345004||SNOMEDCT_US|FN|20345004|Structure of posterior, lateral and septal nasal arteries (body structure)|9|N||
+C0226190|ENG|S|L2852655|PF|S3564980|Y|A3728044|796656018|57975000||SNOMEDCT_US|FN|57975000|Structure of lateral palpebral artery (body structure)|9|N||
+C0226198|ENG|S|L2833416|PF|S3559642|Y|A3722590|788366013|50564009||SNOMEDCT_US|FN|50564009|Structure of anterolateral branch of circle of Willis (body structure)|9|N||
+C0226199|ENG|S|L2893002|PF|S3568564|Y|A3731674|802373011|63124001||SNOMEDCT_US|FN|63124001|Structure of posterolateral branch of circle of Willis (body structure)|9|N||
+C0226223|ENG|S|L2852658|PF|S3565052|Y|A3728116|843611018|369319000||SNOMEDCT_US|FN|369319000|Structure of lateral striate artery (body structure)|9|N||
+C0226255|ENG|S|L2851787|PF|S3564860|Y|A3727924|843901010|369343002||SNOMEDCT_US|FN|369343002|Structure of lateral branch of posterior choroidal artery (body structure)|9|N||
+C0226286|ENG|S|L2851817|PF|S3564881|Y|A3727945|765069015|33641005||SNOMEDCT_US|FN|33641005|Structure of lateral costal branch of internal thoracic artery (body structure)|9|N||
+C0226308|ENG|S|L2852653|PF|S3565040|Y|A3728104|764790013|33392008||SNOMEDCT_US|FN|33392008|Structure of lateral segment artery of liver (body structure)|9|N||
+C0226368|ENG|S|L2852657|PF|S3565033|Y|A3728097|817073019|76361006||SNOMEDCT_US|FN|76361006|Structure of lateral sacral artery (body structure)|9|N||
+C0226421|ENG|S|L2852660|PF|S3565099|Y|A3728163|769296016|3743007||SNOMEDCT_US|FN|3743007|Structure of lateral thoracic artery (body structure)|9|N||
+C0226426|ENG|S|L2852154|PF|S3570644|Y|A3733766|783732017|46389003||SNOMEDCT_US|FN|46389003|Structure of superior collateral ulnar artery (body structure)|9|N||
+C0226427|ENG|S|L2852152|PF|S3563829|Y|A3726886|593304011|10766009||SNOMEDCT_US|FN|10766009|Structure of inferior collateral ulnar artery (body structure)|9|N||
+C0226457|ENG|S|L2852121|PF|S3285577|Y|A3423740|634125011|244325007||SNOMEDCT_US|FN|244325007|Entire lateral circumflex femoral artery (body structure)|9|N||
+C0226466|ENG|S|L2852564|PF|S3570703|Y|A3733825|764270015|32929005||SNOMEDCT_US|FN|32929005|Structure of superior lateral genicular artery (body structure)|9|N||
+C0226470|ENG|S|L2852561|PF|S3563876|Y|A3726933|598324012|212493002||SNOMEDCT_US|FN|212493002|Structure of inferior lateral genicular artery (body structure)|9|N||
+C0226478|ENG|S|L2852656|PF|S3565000|Y|A3728064|782002010|44830000||SNOMEDCT_US|FN|44830000|Structure of lateral plantar artery (body structure)|9|N||
+C0226486|ENG|S|L2831623|PF|S3559439|Y|A3722387|786311017|48712007||SNOMEDCT_US|FN|48712007|Structure of anterior lateral malleolar artery (body structure)|9|N||
+C0226489|ENG|S|L2850572|PF|S3388835|Y|A3533717|763990011|32679006||SNOMEDCT_US|FN|32679006|Lateral malleolar arterial network structure (body structure)|9|N||
+C0226494|ENG|S|L2852659|PF|S3565097|Y|A3728161|618777011|230909004||SNOMEDCT_US|FN|230909004|Structure of lateral tarsal artery (body structure)|9|N||
+C0226596|ENG|S|L2910049|PF|S3566341|Y|A3729412|844240016|369371008||SNOMEDCT_US|FN|369371008|Structure of medial vein of the lateral ventricle (body structure)|9|N||
+C0226597|ENG|S|L2910008|PF|S3565107|Y|A3728171|844252011|369372001||SNOMEDCT_US|FN|369372001|Structure of lateral vein of the lateral ventricle (body structure)|9|N||
+C0226610|ENG|S|L2907384|PF|S3572092|Y|A3735221|844337018|369379005||SNOMEDCT_US|FN|369379005|Structure of vein of the lateral recess of the fourth ventricle (body structure)|9|N||
+C0226632|ENG|S|L2910129|PF|S3565101|Y|A3728165|591889019|206400002||SNOMEDCT_US|FN|206400002|Structure of lateral thoracic vein (body structure)|9|N||
+C0226775|ENG|S|L2910108|PF|S3565035|Y|A3728099|690579017|295467008||SNOMEDCT_US|FN|295467008|Structure of lateral sacral vein (body structure)|9|N||
+C0226828|ENG|S|L2898686|PF|S3564907|Y|A3727971|769292019|37427006||SNOMEDCT_US|FN|37427006|Structure of lateral femoral cutaneous vein (body structure)|9|N||
+C0226844|ENG|S|L2896663|PF|S3564868|Y|A3727932|698656014|302668004||SNOMEDCT_US|FN|302668004|Structure of lateral circumflex femoral vein (body structure)|9|N||
+C0226860|ENG|S|L2909925|PF|S3564927|Y|A3727991|830939018|88288001||SNOMEDCT_US|FN|88288001|Structure of lateral lacunae of superior sagittal sinus (body structure)|9|N||
+C0226915|ENG|S|L2906798|PF|S3564911|Y|A3727975|759525011|28803009||SNOMEDCT_US|FN|28803009|Structure of lateral floor of mouth (body structure)|9|N||
+C0226972|ENG|S|L2910047|PF|S3564947|Y|A3728011|778719019|41881006||SNOMEDCT_US|FN|41881006|Structure of lateral margin of tongue (body structure)|9|N||
+C0227010|ENG|S|L2910106|PF|S3565078|Y|A3728142|750774019|21475004||SNOMEDCT_US|FN|21475004|Structure of lateral surface of root of tooth (body structure)|9|N||
+C0227040|ENG|S|L2908847|PF|S3566119|Y|A3729190|685748018|11712009||SNOMEDCT_US|FN|11712009|Structure of maxillary right lateral incisor tooth (body structure)|9|N||
+C0227045|ENG|S|L2908843|PF|S3566097|Y|A3729168|756101010|25748002||SNOMEDCT_US|FN|25748002|Structure of maxillary left lateral incisor tooth (body structure)|9|N||
+C0227062|ENG|S|L6394117|PF|S7331896|Y|A11730660|2638960016|77130001||SNOMEDCT_US|FN|77130001|Structure of mandibular left lateral incisor tooth (body structure)|9|N||
+C0227067|ENG|S|L2908846|PF|S3566042|Y|A3729113|824090018|82628004||SNOMEDCT_US|FN|82628004|Structure of mandibular right lateral incisor tooth (body structure)|9|N||
+C0227086|ENG|S|L2898802|PF|S3561809|Y|A3724819|805148011|65624003||SNOMEDCT_US|FN|65624003|Structure of deciduous maxillary right lateral incisor tooth (body structure)|9|N||
+C0227091|ENG|S|L2898800|PF|S3561798|Y|A3724808|780657015|43622005||SNOMEDCT_US|FN|43622005|Structure of deciduous maxillary left lateral incisor tooth (body structure)|9|N||
+C0227101|ENG|S|L2898801|PF|S3561788|Y|A3724798|751853015|22445006||SNOMEDCT_US|FN|22445006|Structure of deciduous mandibular right lateral incisor tooth (body structure)|9|N||
+C0227148|ENG|S|L2910091|PF|S3564996|Y|A3728060|728848015|12507007||SNOMEDCT_US|FN|12507007|Structure of lateral pharyngeal space (body structure)|9|N||
+C0227151|ENG|S|L2910092|PF|S3564998|Y|A3728062|758601017|27973009||SNOMEDCT_US|FN|27973009|Structure of lateral pharyngeal wall (body structure)|9|N||
+C0227156|ENG|S|L2910084|PF|S3565122|Y|A3728186|746908014|19120004||SNOMEDCT_US|FN|19120004|Structure of lateral wall of oropharynx (body structure)|9|N||
+C0227159|ENG|S|L2906818|PF|S3564915|Y|A3727979|831766019|8897003||SNOMEDCT_US|FN|8897003|Structure of lateral glossoepiglottic fold (body structure)|9|N||
+C0227169|ENG|S|L2908714|PF|S3565114|Y|A3728178|831073016|88399001||SNOMEDCT_US|FN|88399001|Structure of lateral wall of hypopharynx (body structure)|9|N||
+C0227461|ENG|S|L2907826|PF|S3565082|Y|A3728146|815240017|7471001||SNOMEDCT_US|FN|7471001|Structure of lateral surface of sublingual gland (body structure)|9|N||
+C0227492|ENG|S|L2910009|PF|S3565042|Y|A3728106|821449014|80303005||SNOMEDCT_US|FN|80303005|Structure of lateral segment of left lobe of liver (body structure)|9|N||
+C0227561|ENG|S|L2893056|PF|S3564854|Y|A3727918|812486014|72231004||SNOMEDCT_US|FN|72231004|Structure of lateral branch of left hepatic duct (body structure)|9|N||
+C0227606|ENG|S|L2892652|PF|S3564848|Y|A3727912|835042011|91678002||SNOMEDCT_US|FN|91678002|Structure of lateral border of kidney (body structure)|9|N||
+C0227702|ENG|S|L2887290|PF|S3565124|Y|A3728188|747308014|19318009||SNOMEDCT_US|FN|19318009|Structure of lateral wall of urinary bladder (body structure)|9|N||
+C0227707|ENG|S|L2910031|PF|S3565105|Y|A3728169|741693012|15054005||SNOMEDCT_US|FN|15054005|Structure of lateral umbilical ligaments (body structure)|9|N||
+C0227797|ENG|S|L2907302|PF|S3564913|Y|A3727977|769087013|37242006||SNOMEDCT_US|FN|37242006|Structure of lateral fornix (body structure)|9|N||
+C0227798|ENG|S|L2907301|PF|S3569220|Y|A3732335|643217011|252571009||SNOMEDCT_US|FN|252571009|Structure of right lateral fornix (body structure)|9|N||
+C0227799|ENG|S|L2907300|PF|S3565252|Y|A3728318|643324010|252667002||SNOMEDCT_US|FN|252667002|Structure of left lateral fornix (body structure)|9|N||
+C0227868|ENG|S|L2858957|PF|S3564827|Y|A3727891|800932014|61827003||SNOMEDCT_US|FN|61827003|Structure of lateral aspect of ovary (body structure)|9|N||
+C0227962|ENG|S|L2908968|PF|S3564027|Y|A3727084|756158011|25800008||SNOMEDCT_US|FN|25800008|Structure of inferolateral surface of prostate (body structure)|9|N||
+C0227973|ENG|S|L2910037|PF|S3564938|Y|A3728002|793020014|54754007||SNOMEDCT_US|FN|54754007|Structure of lateral lobe of prostate (body structure)|9|N||
+C0227974|ENG|S|L2910036|PF|S3569222|Y|A3732337|642123019|251597001||SNOMEDCT_US|FN|251597001|Structure of right lateral lobe of prostate (body structure)|9|N||
+C0227975|ENG|S|L2910010|PF|S3565254|Y|A3728320|642232014|251695000||SNOMEDCT_US|FN|251695000|Structure of left lateral lobe of prostate (body structure)|9|N||
+C0227993|ENG|S|L2858958|PF|S3564829|Y|A3727893|769922015|37964006||SNOMEDCT_US|FN|37964006|Structure of lateral aspect of testis (body structure)|9|N||
+C0228160|ENG|S|L2910104|PF|S6993131|Y|A10893914|811882019|71689002||SNOMEDCT_US|FN|71689002|Right lateral ventricle structure (body structure)|9|N||
+C0228161|ENG|S|L2910017|PF|S3389886|Y|A3534823|825739017|83990007||SNOMEDCT_US|FN|83990007|Left lateral ventricle structure (body structure)|9|N||
+C0228162|ENG|S|L2905148|PF|S3562412|Y|A3725446|753093014|23559006||SNOMEDCT_US|FN|23559006|Structure of ependyma of lateral ventricle (body structure)|9|N||
+C0228226|ENG|S|L2897112|PF|S3561303|Y|A3724287|809863016|6987004||SNOMEDCT_US|FN|6987004|Structure of collateral sulcus (body structure)|9|N||
+C0228227|ENG|S|L2897046|PF|S3561288|Y|A3724272|751284012|21933007||SNOMEDCT_US|FN|21933007|Structure of collateral eminence (body structure)|9|N||
+C0228228|ENG|S|L2908189|PF|S3564969|Y|A3728033|752176018|22735005||SNOMEDCT_US|FN|22735005|Structure of lateral occipital gyrus (body structure)|9|N||
+C0228229|ENG|S|L2910080|PF|S3564971|Y|A3728035|757680016|27146007||SNOMEDCT_US|FN|27146007|Structure of lateral occipital sulcus (body structure)|9|N||
+C0228243|ENG|S|L2908190|PF|S3564974|Y|A3728038|764556019|33185006||SNOMEDCT_US|FN|33185006|Structure of lateral occipitotemporal gyrus (body structure)|9|N||
+C0228280|ENG|S|L2908191|PF|S3564976|Y|A3728040|829237013|8688004||SNOMEDCT_US|FN|8688004|Structure of lateral olfactory gyrus (body structure)|9|N||
+C0228293|ENG|S|L6391504|PF|S7325941|Y|A11739314|2638670016|361560008||SNOMEDCT_US|FN|361560008|Entire lateral globus pallidus (body structure)|9|N||
+C0228337|ENG|S|L2912220|PF|S3572149|Y|A3735278|811017018|7091000||SNOMEDCT_US|FN|7091000|Structure of ventral posterolateral nucleus of thalamus (body structure)|9|N||
+C0228339|ENG|S|L2910077|PF|S3572140|Y|A3735269|742694015|1580005||SNOMEDCT_US|FN|1580005|Structure of ventral lateral nucleus of thalamus (body structure)|9|N||
+C0228340|ENG|S|L2908105|PF|S3564967|Y|A3728031|594438010|10778008||SNOMEDCT_US|FN|10778008|Structure of lateral nuclear group of thalamus (body structure)|9|N||
+C0228341|ENG|S|L6394109|PF|S7331815|Y|A11735072|2638934017|7820009||SNOMEDCT_US|FN|7820009|Structure of lateral posterior nucleus of thalamus (body structure)|9|N||
+C0228342|ENG|S|L6395072|PF|S7331803|Y|A11734789|2638540018|28186002||SNOMEDCT_US|FN|28186002|Structure of lateral dorsal nucleus of thalamus (body structure)|9|N||
+C0228345|ENG|S|L2910087|PF|S3564988|Y|A3728052|796119014|57491007||SNOMEDCT_US|FN|57491007|Structure of lateral part of pulvinar (body structure)|9|N||
+C0228355|ENG|S|L6396028|PF|S7331623|Y|A11735065|2638923015|79941007||SNOMEDCT_US|FN|79941007|Structure of central lateral nucleus of thalamus (body structure)|9|N||
+C0228390|ENG|S|L2908229|PF|S3388801|Y|A3533682|746535010|361538005||SNOMEDCT_US|FN|361538005|Lateral habenular nucleus (body structure)|9|N||
+C0228441|ENG|S|L2910025|PF|S3388824|Y|A6928456|2463754011|361573007||SNOMEDCT_US|FN|361573007|Lateral lemniscus of pons (body structure)|9|N||
+C0228523|ENG|S|L2907522|PF|S3566410|Y|A3729481|785116013|47636001||SNOMEDCT_US|FN|47636001|Structure of medulla oblongata lateral funiculus (body structure)|9|N||
+C0228526|ENG|S|L2910052|PF|S3410289|Y|A3556732|800757010|61670001||SNOMEDCT_US|FN|61670001|Medulla oblongata ventral lateral sulcus (body structure)|9|N||
+C0228527|ENG|S|L2900344|PF|S3410267|Y|A3556708|757768016|27225007||SNOMEDCT_US|FN|27225007|Medulla oblongata dorsal lateral sulcus (body structure)|9|N||
+C0228551|ENG|S|L2910051|PF|S3566412|Y|A3729483|815458014|74907002||SNOMEDCT_US|FN|74907002|Structure of medulla oblongata lateral nucleus (body structure)|9|N||
+C0228582|ENG|S|L6389051|PF|S7331807|Y|A11726092|2638775016|44682000||SNOMEDCT_US|FN|44682000|Structure of lateral gray horn of spinal cord (body structure)|9|N||
+C0228583|ENG|S|L2907523|PF|S3388794|Y|A3533675|741357017|14892003||SNOMEDCT_US|FN|14892003|Lateral funiculus structure (body structure)|9|N||
+C0228584|ENG|S|L2910119|PF|S3388975|Y|A3533864|779606018|4268002||SNOMEDCT_US|FN|4268002|Lateral spinorubral tract (body structure)|9|N||
+C0228585|ENG|S|L2910120|PF|S3565050|Y|A3728114|746672013|19001003||SNOMEDCT_US|FN|19001003|Structure of lateral spinothalamic tract (body structure)|9|N||
+C0228587|ENG|S|L2900412|PF|S3562255|Y|A3725285|750663018|21376002||SNOMEDCT_US|FN|21376002|Structure of dorsolateral tract (body structure)|9|N||
+C0228588|ENG|S|L2905945|PF|S3388913|Y|A3533799|779409017|42502008||SNOMEDCT_US|FN|42502008|Lateral proper fasciculus (body structure)|9|N||
+C0228594|ENG|S|L2910100|PF|S3565027|Y|A3728091|778042016|41272007||SNOMEDCT_US|FN|41272007|Structure of lateral reticulospinal tract (body structure)|9|N||
+C0228597|ENG|S|L6394139|PF|S7332119|Y|A11737355|2638946018|87519004||SNOMEDCT_US|FN|87519004|Structure of spinal cord ventral lateral sulcus (body structure)|9|N||
+C0228600|ENG|S|L2897808|PF|S3569922|Y|A3733042|789857014|51906006||SNOMEDCT_US|FN|51906006|Structure of spinal cord dorsal lateral sulcus (body structure)|9|N||
+C0228614|ENG|S|L2895998|PF|S3561105|Y|A3724067|806946017|67243007||SNOMEDCT_US|FN|67243007|Structure of cervical spinal cord lateral horn (body structure)|9|N||
+C0228631|ENG|S|L2897881|PF|S3571318|Y|A3734446|741769010|15095008||SNOMEDCT_US|FN|15095008|Structure of thoracic spinal cord lateral horn (body structure)|9|N||
+C0228649|ENG|S|L2897879|PF|S3565735|Y|A3728803|748204011|19749001||SNOMEDCT_US|FN|19749001|Structure of lumbosacral spinal cord lateral horn (body structure)|9|N||
+C0228685|ENG|S|L2910082|PF|S3565031|Y|A3728095|795388011|56832003||SNOMEDCT_US|FN|56832003|Structure of lateral root of optic tract (body structure)|9|N||
+C0228687|ENG|S|L2900411|PF|S3567239|Y|A3730325|830995010|88333002||SNOMEDCT_US|FN|88333002|Structure of oculomotor nerve dorsolateral nucleus (body structure)|9|N||
+C0228722|ENG|S|L2831982|PF|S3564959|Y|A3728023|844615018|369402003||SNOMEDCT_US|FN|369402003|Structure of lateral nasal branches of anterior ethmoidal nerve (body structure)|9|N||
+C0228735|ENG|S|L2910072|PF|S3432564|Y|A3580322|673641011|280256008||SNOMEDCT_US|FN|280256008|Nerve to lateral pterygoid (body structure)|9|N||
+C0228735|ENG|S|L2910072|VO|S3388918|Y|A3533804|786466017|48852002||SNOMEDCT_US|FN|48852002|Lateral pterygoid nerve (body structure)|9|N||
+C0228818|ENG|S|L2892990|PF|S3561088|Y|A3724049|648590010|113317007||SNOMEDCT_US|FN|113317007|Structure of cervical nerve lateral branch (body structure)|9|N||
+C0228836|ENG|S|L2910071|PF|S3388910|Y|A3533795|827164012|85168005||SNOMEDCT_US|FN|85168005|Lateral posterior supraclavicular nerves (body structure)|9|N||
+C0228850|ENG|S|L2830985|PF|S3564817|Y|A3727881|801084010|61964005||SNOMEDCT_US|FN|61964005|Structure of lateral antebrachial cutaneous nerve (body structure)|9|N||
+C0228862|ENG|S|L2910050|PF|S3388956|Y|A3533845|672099017|278885000||SNOMEDCT_US|FN|278885000|Lateral root of median nerve (body structure)|9|N||
+C0228870|ENG|S|L14922231|PF|S18135462|Y|A29507276|3687985014|310551006||SNOMEDCT_US|FN|310551006|Structure of lower lateral cutaneous nerve of upper limb (body structure)|9|N||
+C0228870|ENG|S|L2892796|PF|S3368785|Y|A3512453|802737018|63452001||SNOMEDCT_US|FN|63452001|Inferior lateral cutaneous brachial nerve (body structure)|9|N||
+C0228880|ENG|S|L2892819|PF|S3564903|Y|A3727967|783203019|45911006||SNOMEDCT_US|FN|45911006|Structure of lateral fasciculus of brachial plexus (body structure)|9|N||
+C0228884|ENG|S|L2910069|PF|S3564992|Y|A3728056|825454010|83754008||SNOMEDCT_US|FN|83754008|Structure of lateral pectoral nerve (body structure)|9|N||
+C0228887|ENG|S|L2892797|PF|S3570701|Y|A3733823|745087011|17748002||SNOMEDCT_US|FN|17748002|Structure of superior lateral brachial cutaneous nerve (body structure)|9|N||
+C0228891|ENG|S|L2893028|PF|S3571304|Y|A3734432|710728017|313965002||SNOMEDCT_US|FN|313965002|Structure of thoracic nerve lateral cutaneous branch (body structure)|9|N||
+C0228893|ENG|S|L2893174|PF|S3571306|Y|A3734434|778467011|41654008||SNOMEDCT_US|FN|41654008|Structure of thoracic nerve lateral mammary branches (body structure)|9|N||
+C0228900|ENG|S|L2893173|PF|S3565716|Y|A3728784|710619014|313863005||SNOMEDCT_US|FN|313863005|Structure of lumbar nerve lateral branch (body structure)|9|N||
+C0228904|ENG|S|L2893027|PF|S3388736|Y|A3533617|789781011|51838000||SNOMEDCT_US|FN|51838000|Lateral cutaneous branch of lumbosacral plexus (body structure)|9|N||
+C0228912|ENG|S|L2898685|PF|S3564905|Y|A3727969|804998017|65490005||SNOMEDCT_US|FN|65490005|Structure of lateral femoral cutaneous nerve (body structure)|9|N||
+C0228917|ENG|S|L2893122|PF|S3562750|Y|A3725804|806899010|6720005||SNOMEDCT_US|FN|6720005|Structure of femoral nerve lateral muscular branches (body structure)|9|N||
+C0228925|ENG|S|L2893176|PF|S3569435|Y|A3732550|781547016|44420003||SNOMEDCT_US|FN|44420003|Structure of sacral nerve lateral branches (body structure)|9|N||
+C0228937|ENG|S|L2898695|PF|S3565054|Y|A3728118|816101010|75487000||SNOMEDCT_US|FN|75487000|Structure of lateral sural cutaneous nerve (body structure)|9|N||
+C0228938|ENG|S|L2892948|PF|S3571398|Y|A3734526|796967015|58255001||SNOMEDCT_US|FN|58255001|Structure of tibial nerve lateral calcaneal branches (body structure)|9|N||
+C0228943|ENG|S|L2910070|PF|S3565002|Y|A3728066|743440013|16419003||SNOMEDCT_US|FN|16419003|Structure of lateral plantar nerve (body structure)|9|N||
+C0228944|ENG|S|L2893175|PF|S3565006|Y|A3728070|753324015|23765008||SNOMEDCT_US|FN|23765008|Structure of lateral plantar nerve superficial branch (body structure)|9|N||
+C0228946|ENG|S|L2893038|PF|S3565004|Y|A3728068|804402019|64952003||SNOMEDCT_US|FN|64952003|Structure of lateral plantar nerve deep branch (body structure)|9|N||
+C0228951|ENG|S|L2899241|PF|S3562135|Y|A3725156|758964014|2830005||SNOMEDCT_US|FN|2830005|Structure of dorsal digital nerves of lateral hallux and medial second toe (body structure)|9|N||
+C0228956|ENG|S|L2898677|PF|S3564895|Y|A3727959|630791013|241508007||SNOMEDCT_US|FN|241508007|Structure of lateral dorsal cutaneous nerve of foot (body structure)|9|N||
+C0229107|ENG|S|L2896328|PF|S3564864|Y|A3727928|806806010|67117001||SNOMEDCT_US|FN|67117001|Structure of lateral check ligament of eye (body structure)|9|N||
+C0229246|ENG|S|L2894461|PF|S3388707|Y|A3533588|800283016|61242005||SNOMEDCT_US|FN|61242005|Lateral canthus structure (body structure)|9|N||
+C0229252|ENG|S|L2910085|PF|S3564984|Y|A3728048|816827012|76140005||SNOMEDCT_US|FN|76140005|Structure of lateral palpebral raphe (body structure)|9|N||
+C0229253|ENG|S|L2910028|PF|S3564982|Y|A3728046|789220011|51332007||SNOMEDCT_US|FN|51332007|Structure of lateral palpebral ligament (body structure)|9|N||
+C0229399|ENG|S|L2910044|PF|S3565016|Y|A3728080|801641013|62466004||SNOMEDCT_US|FN|62466004|Structure of lateral process of malleus (body structure)|9|N||
+C0229413|ENG|S|L2910027|PF|S3564934|Y|A3727998|818664011|77795001||SNOMEDCT_US|FN|77795001|Structure of lateral ligament of malleus (body structure)|9|N||
+C0229432|ENG|S|L2842060|PF|S3565116|Y|A3728180|766858010|3524005||SNOMEDCT_US|FN|3524005|Structure of lateral wall of mastoid antrum (body structure)|9|N||
+C0229442|ENG|S|L2895109|PF|S3388709|Y|A3533590|791958016|53799009||SNOMEDCT_US|FN|53799009|Lateral cartilaginous lamina of Eustachian tube (body structure)|9|N||
+C0229464|ENG|S|L2821615|PF|S3285684|Y|A3423847|673193012|279853008||SNOMEDCT_US|FN|279853008|Entire lateral membranous ampulla (body structure)|9|N||
+C0229727|ENG|S|L2896171|PF|S3388712|Y|A3533593|673077017|279750002||SNOMEDCT_US|FN|279750002|Lateral cervical lymph node group (body structure)|9|N||
+C0229727|ENG|S|L2896187|PF|S3564862|Y|A3727926|808803013|68915008||SNOMEDCT_US|FN|68915008|Structure of lateral cervical lymph node (body structure)|9|N||
+C0229728|ENG|S|L2896017|PF|S3561877|Y|A3724894|549525018|167864002||SNOMEDCT_US|FN|167864002|Structure of deep lateral cervical lymph node (body structure)|9|N||
+C0229729|ENG|S|L2896188|PF|S3570483|Y|A3733605|549636015|167965000||SNOMEDCT_US|FN|167965000|Structure of superficial lateral cervical lymph node (body structure)|9|N||
+C0229733|ENG|S|L2909727|PF|S3564925|Y|A3727989|549850010|168159002||SNOMEDCT_US|FN|168159002|Structure of lateral jugular lymph node (body structure)|9|N||
+C0229739|ENG|S|L2910041|PF|S3565029|Y|A3728093|549081017|167464007||SNOMEDCT_US|FN|167464007|Structure of lateral retropharyngeal lymph node (body structure)|9|N||
+C0229748|ENG|S|L2910040|PF|S3564994|Y|A3728058|580848010|196587000||SNOMEDCT_US|FN|196587000|Structure of lateral pericardial lymph node (body structure)|9|N||
+C0229810|ENG|S|L2897456|PF|S3388722|Y|A3533603|635207019|245297003||SNOMEDCT_US|FN|245297003|Lateral common iliac lymph node group (body structure)|9|N||
+C0229810|ENG|S|L2897462|PF|S3564872|Y|A3727936|777901019|41145006||SNOMEDCT_US|FN|41145006|Structure of lateral common iliac lymph node (body structure)|9|N||
+C0229818|ENG|S|L2905527|PF|S3388764|Y|A3533645|635214017|245303005||SNOMEDCT_US|FN|245303005|Lateral external iliac lymph node group (body structure)|9|N||
+C0229818|ENG|S|L2905535|PF|S3564901|Y|A3727965|776848010|40242007||SNOMEDCT_US|FN|40242007|Structure of lateral external iliac lymph node (body structure)|9|N||
+C0229835|ENG|S|L2910042|PF|S3565109|Y|A3728173|671857019|278672000||SNOMEDCT_US|FN|278672000|Structure of lateral vesicular lymph node (body structure)|9|N||
+C0229840|ENG|S|L2870506|PF|S3564833|Y|A3727897|765213019|33770006||SNOMEDCT_US|FN|33770006|Structure of lateral axillary lymph node (body structure)|9|N||
+C0229854|ENG|S|L2909004|PF|S3577325|Y|A3740710|817454010|76704003||SNOMEDCT_US|FN|76704003|Superior lateral inguinal lymph node (body structure)|9|N||
+C0229869|ENG|S|L2882509|PF|S3642323|Y|A3810466|834992017|91636008||SNOMEDCT_US|FN|91636008|Bilateral palatine tonsils (body structure)|9|N||
+C0230038|ENG|S|L2858948|PF|S3564825|Y|A3727889|761653019|30628005||SNOMEDCT_US|FN|30628005|Structure of lateral aspect of face (body structure)|9|N||
+C0230061|ENG|S|L2910083|PF|S3565120|Y|A3728184|777290018|4061004||SNOMEDCT_US|FN|4061004|Structure of lateral wall of orbit (body structure)|9|N||
+C0230073|ENG|S|L2910067|PF|S3565009|Y|A3728073|765140010|33704003||SNOMEDCT_US|FN|33704003|Structure of lateral portion of neck (body structure)|9|N||
+C0230084|ENG|S|L2910098|PF|S3565024|Y|A3728088|748352016|19819008||SNOMEDCT_US|FN|19819008|Structure of lateral region of trunk (body structure)|9|N||
+C0230171|ENG|S|L2768535|PF|S3565022|Y|A3728086|826092011|84281001||SNOMEDCT_US|FN|84281001|Structure of lateral region of abdomen (body structure)|9|N||
+C0230237|ENG|S|L2906837|PF|S3565103|Y|A3728167|822033017|80830008||SNOMEDCT_US|FN|80830008|Structure of lateral umbilical fold (body structure)|9|N||
+C0230324|ENG|S|L2907317|PF|S3564921|Y|A3727985|765219015|33775001||SNOMEDCT_US|FN|33775001|Structure of lateral inguinal fossa (body structure)|9|N||
+C0230342|ENG|S|L2849227|PF|S3565093|Y|A3728157|766471015|34894009||SNOMEDCT_US|FN|34894009|Structure of lateral surface of upper arm (body structure)|9|N||
+C0230344|ENG|S|L2882153|PF|S3564844|Y|A3727908|802761013|63474007||SNOMEDCT_US|FN|63474007|Structure of lateral bicipital sulcus (body structure)|9|N||
+C0230351|ENG|S|L2898563|PF|S3564891|Y|A3727955|566671013|10484007||SNOMEDCT_US|FN|10484007|Structure of lateral cubital region (body structure)|9|N||
+C0230358|ENG|S|L2907037|PF|S3564945|Y|A3728009|765572017|3409004||SNOMEDCT_US|FN|3409004|Structure of lateral margin of forearm (body structure)|9|N||
+C0230381|ENG|S|L2906516|PF|S3565058|Y|A3728122|834615016|91324008||SNOMEDCT_US|FN|91324008|Structure of lateral surface of finger (body structure)|9|N||
+C0230385|ENG|S|L2910127|PF|S3565088|Y|A3728152|761446017|30441000||SNOMEDCT_US|FN|30441000|Structure of lateral surface of thumb (body structure)|9|N||
+C0230391|ENG|S|L2906457|PF|S3565064|Y|A3728128|766509019|34928003||SNOMEDCT_US|FN|34928003|Structure of lateral surface of index finger (body structure)|9|N||
+C0230396|ENG|S|L2906508|PF|S3565074|Y|A3728138|834141014|90932004||SNOMEDCT_US|FN|90932004|Structure of lateral surface of middle finger (body structure)|9|N||
+C0230401|ENG|S|L2906513|PF|S3565076|Y|A3728140|776674018|40097006||SNOMEDCT_US|FN|40097006|Structure of lateral surface of ring finger (body structure)|9|N||
+C0230406|ENG|S|L2906504|PF|S3565070|Y|A3728134|780609014|4358009||SNOMEDCT_US|FN|4358009|Structure of lateral surface of little finger (body structure)|9|N||
+C0230413|ENG|S|L2905617|PF|S3565072|Y|A3728136|806084014|66468000||SNOMEDCT_US|FN|66468000|Structure of lateral surface of lower extremity (body structure)|9|N||
+C0230424|ENG|S|L2910125|PF|S3565084|Y|A3728148|750096017|20866002||SNOMEDCT_US|FN|20866002|Structure of lateral surface of thigh (body structure)|9|N||
+C0230450|ENG|S|L2910043|PF|S3388837|Y|A3533719|781832018|44677007||SNOMEDCT_US|FN|44677007|Lateral malleolar region structure (body structure)|9|N||
+C0230464|ENG|S|L2892663|PF|S3564852|Y|A3727916|648924015|113352004||SNOMEDCT_US|FN|113352004|Structure of lateral border of sole (body structure)|9|N||
+C0230470|ENG|S|L2847109|PF|S3564819|Y|A3727883|794092017|55688004||SNOMEDCT_US|FN|55688004|Structure of lateral arch of foot (body structure)|9|N||
+C0230478|ENG|S|L2910128|PF|S3565091|Y|A3728155|559897016|10421001||SNOMEDCT_US|FN|10421001|Structure of lateral surface of toe (body structure)|9|N||
+C0230483|ENG|S|L2908035|PF|S3565062|Y|A3728126|793398019|55095007||SNOMEDCT_US|FN|55095007|Structure of lateral surface of great toe (body structure)|9|N||
+C0230489|ENG|S|L2910113|PF|S3565080|Y|A3728144|751103012|21771009||SNOMEDCT_US|FN|21771009|Structure of lateral surface of second toe (body structure)|9|N||
+C0230494|ENG|S|L2910126|PF|S3565086|Y|A3728150|780411010|43402001||SNOMEDCT_US|FN|43402001|Structure of lateral surface of third toe (body structure)|9|N||
+C0230499|ENG|S|L2907388|PF|S3565060|Y|A3728124|824319012|82817001||SNOMEDCT_US|FN|82817001|Structure of lateral surface of fourth toe (body structure)|9|N||
+C0230504|ENG|S|L2906249|PF|S3565056|Y|A3728120|812537014|72278003||SNOMEDCT_US|FN|72278003|Structure of lateral surface of fifth toe (body structure)|9|N||
+C0231096|ENG|S|L2910061|PF|S3564963|Y|A3728027|765916018|34398000||SNOMEDCT_US|FN|34398000|Structure of lateral nasal process (body structure)|9|N||
+C0262267|ENG|S|L6396044|PF|S7331805|Y|A11730629|2638932018|8057002||SNOMEDCT_US|FN|8057002|Structure of lateral globus pallidus (body structure)|9|N||
+C0262268|ENG|S|L2908192|PF|S3388873|Y|A3533755|672449013|279195001||SNOMEDCT_US|FN|279195001|Lateral orbital gyrus (body structure)|9|N||
+C0278432|ENG|S|L2851713|PF|S3565313|Y|A3728381|796488019|57823005||SNOMEDCT_US|FN|57823005|Structure of left posterior lateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C0278434|ENG|S|L2851811|PF|S3568368|Y|A3731476|744447015|17269004||SNOMEDCT_US|FN|17269004|Structure of posterior lateral branch of right coronary artery (body structure)|9|N||
+C0348072|ENG|S|L2910054|PF|S3388849|Y|A3533731|515477013|10013000||SNOMEDCT_US|FN|10013000|Lateral meniscus structure (body structure)|9|N||
+C0444571|ENG|S|L2896290|PF|S3389041|Y|A3533933|656264013|264064007||SNOMEDCT_US|FN|264064007|Lateral wall of cervix (body structure)|9|N||
+C0446475|ENG|S|L2896362|PF|S3487196|Y|A3640351|653008013|261168007||SNOMEDCT_US|FN|261168007|Posterolateral chest wall (body structure)|9|N||
+C0446568|ENG|S|L2858953|PF|S3388676|Y|A3533556|565646015|182297009||SNOMEDCT_US|FN|182297009|Lateral aspect of knee (body structure)|9|N||
+C0446571|ENG|S|L2909572|PF|S3388819|Y|A3533701|633783015|244018005||SNOMEDCT_US|FN|244018005|Lateral knee joint line (body structure)|9|N||
+C0446578|ENG|S|L2828537|PF|S3388675|Y|A3533555|565655017|182305009||SNOMEDCT_US|FN|182305009|Lateral aspect of ankle (body structure)|9|N||
+C0446583|ENG|S|L2906908|PF|S3388970|Y|A3533859|565658015|182307001||SNOMEDCT_US|FN|182307001|Lateral side of foot (body structure)|9|N||
+C0446842|ENG|S|L2893029|PF|S3388735|Y|A3533616|564268010|181064003||SNOMEDCT_US|FN|181064003|Lateral cutaneous branch of T12 (body structure)|9|N||
+C0446868|ENG|S|L2897654|PF|S3388729|Y|A3533610|656255015|264057005||SNOMEDCT_US|FN|264057005|Lateral conjunctiva (body structure)|9|N||
+C0446939|ENG|S|L2903162|PF|S17616381|Y|A28881606|3535100018|361974005||SNOMEDCT_US|FN|361974005|Entire lateral segment of middle lobe of right lung (body structure)|9|N||
+C0447021|ENG|S|L2865224|PF|S3388679|Y|A3533559|634183019|244378006||SNOMEDCT_US|FN|244378006|Lateral atrioventricular leaflet (body structure)|9|N||
+C0447079|ENG|S|L2769026|PF|S3388689|Y|A3533569|564574014|181338002||SNOMEDCT_US|FN|181338002|Lateral branch of abdominal aorta (body structure)|9|N||
+C0447158|ENG|S|L2908104|PF|S3388962|Y|A3533851|635219010|245308001||SNOMEDCT_US|FN|245308001|Lateral sacral lymph node group (body structure)|9|N||
+C0447158|ENG|S|L2910073|PF|S3388963|Y|A3533852|635284011|245366004||SNOMEDCT_US|FN|245366004|Lateral sacral node (body structure)|9|N||
+C0447159|ENG|S|L2908093|PF|S3577571|Y|A3740957|635227018|245315009||SNOMEDCT_US|FN|245315009|Superolateral superficial inguinal lymph node group (body structure)|9|N||
+C0447159|ENG|S|L2909013|PF|S3577572|Y|A3740958|635291014|245372004||SNOMEDCT_US|FN|245372004|Superolateral superficial inguinal node (body structure)|9|N||
+C0447233|ENG|S|L2898787|PF|S3281582|Y|A3419729|635571018|245619008||SNOMEDCT_US|FN|245619008|Entire deciduous maxillary right lateral incisor tooth (body structure)|9|N||
+C0447240|ENG|S|L2898785|PF|S3281571|Y|A3419718|635579016|245626008||SNOMEDCT_US|FN|245626008|Entire deciduous maxillary left lateral incisor tooth (body structure)|9|N||
+C0447248|ENG|S|L2898786|PF|S3281561|Y|A3419708|635587015|245634002||SNOMEDCT_US|FN|245634002|Entire deciduous mandibular right lateral incisor tooth (body structure)|9|N||
+C0447253|ENG|S|L2898784|PF|S3281550|Y|A3419697|635595016|245641008||SNOMEDCT_US|FN|245641008|Entire deciduous mandibular left lateral incisor tooth (body structure)|9|N||
+C0447274|ENG|S|L6089805|PF|S6985482|Y|A10886252|2609470018|245574002||SNOMEDCT_US|FN|245574002|Entire permanent maxillary right lateral incisor tooth (body structure)|9|N||
+C0447276|ENG|S|L6089803|PF|S6985466|Y|A10886236|2609425014|245586004||SNOMEDCT_US|FN|245586004|Entire permanent maxillary left lateral incisor tooth (body structure)|9|N||
+C0447285|ENG|S|L6089804|PF|S6985450|Y|A10886220|2609495017|245599001||SNOMEDCT_US|FN|245599001|Entire permanent mandibular right lateral incisor tooth (body structure)|9|N||
+C0447296|ENG|S|L6089802|PF|S6985435|Y|A10886205|2609346018|245610007||SNOMEDCT_US|FN|245610007|Entire permanent mandibular left lateral incisor tooth (body structure)|9|N||
+C0447356|ENG|S|L2903205|PF|S3285802|Y|A3423966|635676018|245713004||SNOMEDCT_US|FN|245713004|Entire lateral surface of root of tooth (body structure)|9|N||
+C0447496|ENG|S|L2906797|PF|S3422209|Y|A3569381|635817016|245839009||SNOMEDCT_US|FN|245839009|Mucosa of lateral part of floor of mouth (body structure)|9|N||
+C0447527|ENG|S|L2906787|PF|S3388791|Y|A3533672|635365011|245437003||SNOMEDCT_US|FN|245437003|Lateral flexure of rectum (body structure)|9|N||
+C0447555|ENG|S|L2910086|PF|S3388884|Y|A3533767|635300015|245380006||SNOMEDCT_US|FN|245380006|Lateral part of pancreas (body structure)|9|N||
+C0447583|ENG|S|L2887259|PF|S3285848|Y|A3424012|656262012|264063001||SNOMEDCT_US|FN|264063001|Entire lateral wall of urinary bladder (body structure)|9|N||
+C0447613|ENG|S|L2910132|PF|S3389044|Y|A3533936|655468015|263356002||SNOMEDCT_US|FN|263356002|Lateral wall of vagina (body structure)|9|N||
+C0447622|ENG|S|L2910131|PF|S3389043|Y|A3533935|655493018|263379001||SNOMEDCT_US|FN|263379001|Lateral wall of uterus (body structure)|9|N||
+C0447797|ENG|S|L2906076|PF|S3388780|Y|A3533661|634375019|244550006||SNOMEDCT_US|FN|244550006|Lateral femorotibial joint (body structure)|9|N||
+C0447800|ENG|S|L2897521|PF|S3388725|Y|A3533606|634378017|244553008||SNOMEDCT_US|FN|244553008|Lateral compartment of knee (body structure)|9|N||
+C0447816|ENG|S|L2909145|PF|S3388814|Y|A3533696|634386017|244560002||SNOMEDCT_US|FN|244560002|Lateral intercuneiform joint (body structure)|9|N||
+C0447840|ENG|S|L2908623|PF|S3486894|Y|A3640027|565819010|182451009||SNOMEDCT_US|FN|182451009|Posterior horn of lateral meniscus (body structure)|9|N||
+C0447841|ENG|S|L2832308|PF|S3477486|Y|A3629315|565818019|182450005||SNOMEDCT_US|FN|182450005|Anterior horn of lateral meniscus (body structure)|9|N||
+C0447889|ENG|S|L2898043|PF|S3388730|Y|A3533611|635922015|245933006||SNOMEDCT_US|FN|245933006|Lateral coronary ligament of knee joint (body structure)|9|N||
+C0447902|ENG|S|L2897088|PF|S3228478|Y|A3362442|565837011|182467003||SNOMEDCT_US|FN|182467003|Collateral ligament of first metatarsophalangeal joint (body structure)|9|N||
+C0447903|ENG|S|L2897106|PF|S3228509|Y|A3362474|565838018|182468008||SNOMEDCT_US|FN|182468008|Collateral ligament of second metatarsophalangeal joint (body structure)|9|N||
+C0447904|ENG|S|L2897108|PF|S3228510|Y|A3362475|565839014|182469000||SNOMEDCT_US|FN|182469000|Collateral ligament of third metatarsophalangeal joint (body structure)|9|N||
+C0447905|ENG|S|L2897091|PF|S3228479|Y|A3362443|565840011|182470004||SNOMEDCT_US|FN|182470004|Collateral ligament of fourth metatarsophalangeal joint (body structure)|9|N||
+C0447906|ENG|S|L2897056|PF|S3228477|Y|A3362441|565841010|182471000||SNOMEDCT_US|FN|182471000|Collateral ligament of fifth metatarsophalangeal joint (body structure)|9|N||
+C0447908|ENG|S|L14518912|PF|S17631634|Y|A28901057|3516775015|182473002||SNOMEDCT_US|FN|182473002|Structure of collateral ligament of interphalangeal joint of great toe (body structure)|9|N||
+C0447909|ENG|S|L2897095|PF|S3228487|Y|A3362451|565844019|182474008||SNOMEDCT_US|FN|182474008|Collateral ligament of interphalangeal joint of second toe (body structure)|9|N||
+C0447910|ENG|S|L2897096|PF|S3228488|Y|A3362452|565846017|182475009||SNOMEDCT_US|FN|182475009|Collateral ligament of interphalangeal joint of third toe (body structure)|9|N||
+C0447911|ENG|S|L2897090|PF|S3228483|Y|A3362447|565847014|182476005||SNOMEDCT_US|FN|182476005|Collateral ligament of interphalangeal joint of fourth toe (body structure)|9|N||
+C0447912|ENG|S|L2897055|PF|S3228480|Y|A3362444|565848016|182477001||SNOMEDCT_US|FN|182477001|Collateral ligament of interphalangeal joint of fifth toe (body structure)|9|N||
+C0447928|ENG|S|L2897110|PF|S3228512|Y|A3362477|634457016|244622001||SNOMEDCT_US|FN|244622001|Collateral ligament of wrist joint (body structure)|9|N||
+C0447940|ENG|S|L2897109|PF|S3228501|Y|A3362465|634460011|244625004||SNOMEDCT_US|FN|244625004|Collateral ligament of midcarpal joint (body structure)|9|N||
+C0447942|ENG|S|L2897104|PF|S3228499|Y|A3362463|565781012|182417005||SNOMEDCT_US|FN|182417005|Collateral ligament of metacarpophalangeal joint of thumb (body structure)|9|N||
+C0447943|ENG|S|L2897097|PF|S3228489|Y|A3362453|565782017|182418000||SNOMEDCT_US|FN|182418000|Collateral ligament of interphalangeal joint of thumb (body structure)|9|N||
+C0447946|ENG|S|L2897061|PF|S3228494|Y|A3362458|565783010|182419008||SNOMEDCT_US|FN|182419008|Collateral ligament of metacarpophalangeal joint of index finger (body structure)|9|N||
+C0447947|ENG|S|L2897084|PF|S3228497|Y|A3362461|565785015|182421003||SNOMEDCT_US|FN|182421003|Collateral ligament of metacarpophalangeal joint of ring finger (body structure)|9|N||
+C0447948|ENG|S|L2897077|PF|S3228495|Y|A3362459|565786019|182422005||SNOMEDCT_US|FN|182422005|Collateral ligament of metacarpophalangeal joint of little finger (body structure)|9|N||
+C0447949|ENG|S|L2897081|PF|S3228496|Y|A3362460|565784016|182420002||SNOMEDCT_US|FN|182420002|Collateral ligament of metacarpophalangeal joint of middle finger (body structure)|9|N||
+C0447951|ENG|S|L2897058|PF|S3228504|Y|A3362468|565787011|182423000||SNOMEDCT_US|FN|182423000|Collateral ligament of proximal interphalangeal joint of index finger (body structure)|9|N||
+C0447952|ENG|S|L2897071|PF|S3228508|Y|A3362473|565790017|182425007||SNOMEDCT_US|FN|182425007|Collateral ligament of proximal interphalangeal joint of ring finger (body structure)|9|N||
+C0447953|ENG|S|L2897064|PF|S3228506|Y|A3362471|565791018|182426008||SNOMEDCT_US|FN|182426008|Collateral ligament of proximal interphalangeal joint of little finger (body structure)|9|N||
+C0447954|ENG|S|L2897067|PF|S3228507|Y|A3362472|565789014|182424006||SNOMEDCT_US|FN|182424006|Collateral ligament of proximal interphalangeal joint of middle finger (body structure)|9|N||
+C0447956|ENG|S|L2897031|PF|S3228475|Y|A3362439|565793015|182428009||SNOMEDCT_US|FN|182428009|Collateral ligament of distal interphalangeal joint of middle finger (body structure)|9|N||
+C0447957|ENG|S|L2897035|PF|S3228476|Y|A3362440|565794014|182429001||SNOMEDCT_US|FN|182429001|Collateral ligament of distal interphalangeal joint of ring finger (body structure)|9|N||
+C0447958|ENG|S|L2897025|PF|S3228472|Y|A3362433|565792013|182427004||SNOMEDCT_US|FN|182427004|Collateral ligament of distal interphalangeal joint of index finger (body structure)|9|N||
+C0447959|ENG|S|L2897028|PF|S3228474|Y|A3362438|565795010|182430006||SNOMEDCT_US|FN|182430006|Collateral ligament of distal interphalangeal joint of little finger (body structure)|9|N||
+C0448001|ENG|S|L2891985|PF|S3452700|Y|A3602461|565093011|181805004||SNOMEDCT_US|FN|181805004|Orbital complex of bones - lateral wall (body structure)|9|N||
+C0448197|ENG|S|L2897620|PF|S3564874|Y|A3727938|723731016|122475000||SNOMEDCT_US|FN|122475000|Structure of lateral condyle of femur (body structure)|9|N||
+C0448204|ENG|S|L2892659|PF|S3388685|Y|A3533565|565407012|182086000||SNOMEDCT_US|FN|182086000|Lateral border of patella (body structure)|9|N||
+C0448208|ENG|S|L2856779|PF|S3285535|Y|A3423698|565411018|182089007||SNOMEDCT_US|FN|182089007|Entire lateral articular facet of patella (body structure)|9|N||
+C0448227|ENG|S|L2906198|PF|S3564940|Y|A3728004|647617016|113225006||SNOMEDCT_US|FN|113225006|Structure of lateral malleolus of fibula (body structure)|9|N||
+C0448233|ENG|S|L2894221|PF|S3389031|Y|A3533923|565435011|182110001||SNOMEDCT_US|FN|182110001|Lateral tubercle of calcaneum (body structure)|9|N||
+C0448338|ENG|S|L2898438|PF|S3285598|Y|A3423761|634670016|244813000||SNOMEDCT_US|FN|244813000|Entire lateral cricoarytenoid muscle (body structure)|9|N||
+C0448419|ENG|S|L13766114|PF|S16786796|Y|A27762920|3323978012|244945009||SNOMEDCT_US|FN|244945009|Entire anterolateral muscle of abdomen (body structure)|9|N||
+C0448480|ENG|S|L2898499|PF|S3285601|Y|A3423764|634909017|245028005||SNOMEDCT_US|FN|245028005|Entire lateral crural muscle (body structure)|9|N||
+C0448508|ENG|S|L2910094|PF|S3585555|Y|A3749602|634937012|245052003||SNOMEDCT_US|FN|245052003|Tendon of lateral pterygoid (body structure)|9|N||
+C0448635|ENG|S|L2898506|PF|S3585554|Y|A3749601|635095012|245195002||SNOMEDCT_US|FN|245195002|Tendon of lateral crural muscle (body structure)|9|N||
+C0448811|ENG|S|L2833423|PF|S3545481|Y|A3707502|633879013|244104000||SNOMEDCT_US|FN|244104000|Skin of anterolateral surface of neck (body structure)|9|N||
+C0448812|ENG|S|L2903181|PF|S3292054|Y|A3430285|564735016|181483000||SNOMEDCT_US|FN|181483000|Entire skin of lateral portion of neck (body structure)|9|N||
+C0448813|ENG|S|L2911941|PF|S3545802|Y|A3707843|633880011|244105004||SNOMEDCT_US|FN|244105004|Skin of posterolateral surface of neck (body structure)|9|N||
+C0448818|ENG|S|L2833426|PF|S3545483|Y|A3707504|633884019|244109005||SNOMEDCT_US|FN|244109005|Skin of anterolateral surface of thorax (body structure)|9|N||
+C0448819|ENG|S|L11413472|PF|S14188226|Y|A23461773|2987417018|181498003||SNOMEDCT_US|FN|181498003|Skin of lateral half of thoracic segment of trunk (body structure)|9|N||
+C0448825|ENG|S|L2912985|PF|S3545804|Y|A3707845|633885018|244110000||SNOMEDCT_US|FN|244110000|Skin of posterolateral surface of thorax (body structure)|9|N||
+C0448832|ENG|S|L2768554|PF|S3545798|Y|A3707839|633890015|244114009||SNOMEDCT_US|FN|244114009|Skin of posterolateral surface of abdomen (body structure)|9|N||
+C0448833|ENG|S|L2768430|PF|S3545477|Y|A3707498|633888016|244113003||SNOMEDCT_US|FN|244113003|Skin of anterolateral surface of abdomen (body structure)|9|N||
+C0448854|ENG|S|L14534241|PF|S17631199|Y|A28893234|3633892015|244137003||SNOMEDCT_US|FN|244137003|Skin structure of anterolateral region of upper arm (body structure)|9|N||
+C0448855|ENG|S|L14524001|PF|S17631217|Y|A28897547|3633895018|244139000||SNOMEDCT_US|FN|244139000|Skin structure of posterolateral region of upper arm (body structure)|9|N||
+C0448859|ENG|S|L2833418|PF|S3545479|Y|A3707500|633922017|244143001||SNOMEDCT_US|FN|244143001|Skin of anterolateral surface of elbow (body structure)|9|N||
+C0448860|ENG|S|L2900882|PF|S3545618|Y|A3707648|633923010|244144007||SNOMEDCT_US|FN|244144007|Skin of lateral surface of elbow (body structure)|9|N||
+C0448861|ENG|S|L2900889|PF|S3545800|Y|A3707841|633924016|244145008||SNOMEDCT_US|FN|244145008|Skin of posterolateral surface of elbow (body structure)|9|N||
+C0448873|ENG|S|L2892662|PF|S3545615|Y|A3707645|633937018|244157004||SNOMEDCT_US|FN|244157004|Skin of lateral border of wrist (body structure)|9|N||
+C0448892|ENG|S|L2892637|PF|S3545614|Y|A3707644|633946012|244165001||SNOMEDCT_US|FN|244165001|Skin of lateral border of hand (body structure)|9|N||
+C0448895|ENG|S|L2912984|PF|S3545803|Y|A3707844|633954014|244172000||SNOMEDCT_US|FN|244172000|Skin of posterolateral surface of thigh (body structure)|9|N||
+C0448897|ENG|S|L2833425|PF|S3545482|Y|A3707503|633953015|244171007||SNOMEDCT_US|FN|244171007|Skin of anterolateral surface of thigh (body structure)|9|N||
+C0448901|ENG|S|L2909845|PF|S3545620|Y|A3707651|564817016|181556003||SNOMEDCT_US|FN|181556003|Skin of lateral surface of knee (body structure)|9|N||
+C0448902|ENG|S|L2909851|PF|S3545801|Y|A3707842|633958012|244176002||SNOMEDCT_US|FN|244176002|Skin of posterolateral surface of knee (body structure)|9|N||
+C0448906|ENG|S|L2833420|PF|S3545480|Y|A3707501|633957019|244175003||SNOMEDCT_US|FN|244175003|Skin of anterolateral surface of knee (body structure)|9|N||
+C0448910|ENG|S|L2903152|PF|S3292071|Y|A3430302|564819018|181558002||SNOMEDCT_US|FN|181558002|Entire skin of lateral surface of lower leg (body structure)|9|N||
+C0448916|ENG|S|L2892575|PF|S3292047|Y|A3430276|633971010|244188000||SNOMEDCT_US|FN|244188000|Entire skin of lateral border of sole of foot (body structure)|9|N||
+C0448922|ENG|S|L2892626|PF|S3545613|Y|A3707643|564830015|181568007||SNOMEDCT_US|FN|181568007|Skin of lateral border of foot (body structure)|9|N||
+C0448931|ENG|S|L2828536|PF|S3545611|Y|A3707641|564826018|181564009||SNOMEDCT_US|FN|181564009|Skin of lateral aspect of ankle (body structure)|9|N||
+C0449054|ENG|S|L2897101|PF|S3228490|Y|A3362454|635925018|245935004||SNOMEDCT_US|FN|245935004|Collateral ligament of knee joint (body structure)|9|N||
+C0449060|ENG|S|L2874516|PF|S3388683|Y|A3533563|635935012|245944003||SNOMEDCT_US|FN|245944003|Lateral band of iliofemoral ligament (body structure)|9|N||
+C0450299|ENG|S|L2897105|PF|S3604129|Y|A3769468|656757012|264497002||SNOMEDCT_US|FN|264497002|Ulnar collateral ligament of metacarpophalangeal joint of thumb (body structure)|9|N||
+C0456482|ENG|S|L14526639|PF|S17631735|Y|A28894537|3517898010|277154009||SNOMEDCT_US|FN|277154009|Structure of lateral nasal wall (body structure)|9|N||
+C0457962|ENG|S|L2892787|PF|S3197201|Y|A3327698|672097015|278883007||SNOMEDCT_US|FN|278883007|Branch of lateral cord of brachial plexus (body structure)|9|N||
+C0458274|ENG|S|L2910088|PF|S3388886|Y|A3533769|672357012|279113007||SNOMEDCT_US|FN|279113007|Lateral part of thalamus (body structure)|9|N||
+C0458353|ENG|S|L2910033|PF|S3388979|Y|A3533868|672501016|279241000||SNOMEDCT_US|FN|279241000|Lateral sternal line (body structure)|9|N||
+C0458429|ENG|S|L2887287|PF|S3368947|Y|A3512625|672689011|279408001||SNOMEDCT_US|FN|279408001|Inferolateral wall of bladder (body structure)|9|N||
+C0458447|ENG|S|L2903161|PF|S3285826|Y|A3423990|672712018|279429005||SNOMEDCT_US|FN|279429005|Entire lateral umbilical ligament (body structure)|9|N||
+C0458548|ENG|S|L2833407|PF|S3481483|Y|A3634157|672832010|279536009||SNOMEDCT_US|FN|279536009|Anterolateral surface of arytenoid cartilage (body structure)|9|N||
+C0458565|ENG|S|L2910032|PF|S3389025|Y|A3533916|672855013|279555009||SNOMEDCT_US|FN|279555009|Lateral thyrohyoid ligament (body structure)|9|N||
+C0458569|ENG|S|L2898451|PF|S3388731|Y|A3533612|672860012|279560008||SNOMEDCT_US|FN|279560008|Lateral cricothyroid ligament (body structure)|9|N||
+C0458601|ENG|S|L2910109|PF|S3388965|Y|A3533854|672881012|279577008||SNOMEDCT_US|FN|279577008|Lateral scrotal wall (body structure)|9|N||
+C0458606|ENG|S|L2910110|PF|S3388996|Y|A3533886|672885015|279581008||SNOMEDCT_US|FN|279581008|Lateral surface of scrotum (body structure)|9|N||
+C0458620|ENG|S|L2858941|PF|S3285541|Y|A3423704|672905016|279599000||SNOMEDCT_US|FN|279599000|Entire lateral aspect of testis (body structure)|9|N||
+C0458735|ENG|S|L14195158|PF|S17287301|Y|A28457180|3464581019|279743001||SNOMEDCT_US|FN|279743001|Structure of opening of lateral semicircular canal (body structure)|9|N||
+C0458745|ENG|S|L2896173|PF|S3487195|Y|A3640350|673081017|279754006||SNOMEDCT_US|FN|279754006|Posterolateral cervical lymph node group (body structure)|9|N||
+C0458746|ENG|S|L2894315|PF|S3450216|Y|A3599785|673082012|279755007||SNOMEDCT_US|FN|279755007|Opening of posterior end of lateral semicircular canal (body structure)|9|N||
+C0458747|ENG|S|L2832012|PF|S3450174|Y|A3599742|673083019|279756008||SNOMEDCT_US|FN|279756008|Opening of anterior end of lateral semicircular canal (body structure)|9|N||
+C0458753|ENG|S|L2821598|PF|S3431990|Y|A3579704|673093014|279765001||SNOMEDCT_US|FN|279765001|Ampulla of lateral semicircular canal (body structure)|9|N||
+C0458797|ENG|S|L2900461|PF|S3450217|Y|A3599786|673158017|279822006||SNOMEDCT_US|FN|279822006|Opening of posterior end of lateral semicircular duct (body structure)|9|N||
+C0458798|ENG|S|L2821608|PF|S3450169|Y|A3599737|673159013|279823001||SNOMEDCT_US|FN|279823001|Opening of ampulla of lateral semicircular duct (body structure)|9|N||
+C0458823|ENG|S|L2821621|PF|S3564953|Y|A3728017|796903018|58198005||SNOMEDCT_US|FN|58198005|Structure of lateral membranous ampulla (body structure)|9|N||
+C0458867|ENG|S|L2896283|PF|S3388793|Y|A3533674|673239017|279893006||SNOMEDCT_US|FN|279893006|Lateral fornicial surface of vaginal cervix (body structure)|9|N||
+C0458878|ENG|S|L2858940|PF|S3285539|Y|A3423702|673253017|279906006||SNOMEDCT_US|FN|279906006|Entire lateral aspect of ovary (body structure)|9|N||
+C0458913|ENG|S|L2908455|PF|S3345800|Y|A3487654|673299015|279948004||SNOMEDCT_US|FN|279948004|Healey and Schroy lateral superior left liver segment (body structure)|9|N||
+C0458915|ENG|S|L2908450|PF|S3345799|Y|A3487653|673302015|279950007||SNOMEDCT_US|FN|279950007|Healey and Schroy lateral inferior left liver segment (body structure)|9|N||
+C0459061|ENG|S|L2910038|PF|S3389003|Y|A3533893|673437018|280073001||SNOMEDCT_US|FN|280073001|Lateral surface of thyroid lobe (body structure)|9|N||
+C0459063|ENG|S|L2910680|PF|S3487201|Y|A3640356|673439015|280075008||SNOMEDCT_US|FN|280075008|Posterolateral surface of thyroid lobe (body structure)|9|N||
+C0459333|ENG|S|L2892978|PF|S3388740|Y|A3533621|673727012|280332006||SNOMEDCT_US|FN|280332006|Lateral deep branch of cervical plexus (body structure)|9|N||
+C0459363|ENG|S|L2882500|PF|S3642429|Y|A3810578|673756012|280359003||SNOMEDCT_US|FN|280359003|Bilateral vocal cords (body structure)|9|N||
+C0459433|ENG|S|L2882501|PF|S3642330|Y|A3810473|673831010|280425003||SNOMEDCT_US|FN|280425003|Bilateral parotid ducts (body structure)|9|N||
+C0459492|ENG|S|L2908849|PF|S3492915|Y|A3646635|673884014|280472003||SNOMEDCT_US|FN|280472003|Primary upper lateral incisor tooth socket (body structure)|9|N||
+C0459502|ENG|S|L2908848|PF|S3474821|Y|A3626462|673899014|280484001||SNOMEDCT_US|FN|280484001|Permanent upper lateral incisor tooth socket (body structure)|9|N||
+C0459510|ENG|S|L2908845|PF|S3491325|Y|A3644846|673908011|280492005||SNOMEDCT_US|FN|280492005|Primary lower lateral incisor tooth socket (body structure)|9|N||
+C0459518|ENG|S|L2908844|PF|S3474786|Y|A3626427|673917011|280500005||SNOMEDCT_US|FN|280500005|Permanent lower lateral incisor tooth socket (body structure)|9|N||
+C0459572|ENG|S|L2910046|PF|S3388874|Y|A3533756|673976011|280552006||SNOMEDCT_US|FN|280552006|Lateral orbital margin (body structure)|9|N||
+C0459679|ENG|S|L2882508|PF|S3642303|Y|A3810444|674140015|280695001||SNOMEDCT_US|FN|280695001|Bilateral medial rectus (body structure)|9|N||
+C0459680|ENG|S|L2882506|PF|S3642284|Y|A3810425|674141016|280696000||SNOMEDCT_US|FN|280696000|Bilateral lateral rectus (body structure)|9|N||
+C0459682|ENG|S|L2882498|PF|S3642269|Y|A3810410|674143018|280698004||SNOMEDCT_US|FN|280698004|Bilateral inguinal canals (body structure)|9|N||
+C0459948|ENG|S|L2882497|PF|S3642238|Y|A3810374|674649018|281151000||SNOMEDCT_US|FN|281151000|Bilateral femoral canals (body structure)|9|N||
+C0521443|ENG|S|L2769311|PF|S3564814|Y|A3727878|794516013|56047006||SNOMEDCT_US|FN|56047006|Structure of lateral abdominal wall (body structure)|9|N||
+C0524437|ENG|S|L2851711|PF|S3562904|Y|A3725958|835137017|91757008||SNOMEDCT_US|FN|91757008|Structure of first left posterolateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C0524438|ENG|S|L2851714|PF|S3569523|Y|A3732638|835138010|91758003||SNOMEDCT_US|FN|91758003|Structure of second left posterolateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C0524439|ENG|S|L2851715|PF|S3571267|Y|A3734395|835139019|91759006||SNOMEDCT_US|FN|91759006|Structure of third left posterolateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C0524441|ENG|S|L2851722|PF|S3562923|Y|A3725977|835143015|91761002||SNOMEDCT_US|FN|91761002|Structure of first right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C0524442|ENG|S|L2851723|PF|S3569546|Y|A3732661|835144014|91762009||SNOMEDCT_US|FN|91762009|Structure of second right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C0524443|ENG|S|L2851724|PF|S3571286|Y|A3734414|835145010|91763004||SNOMEDCT_US|FN|91763004|Structure of third right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C0555927|ENG|S|L2910013|PF|S3390156|Y|A3535128|657152016|264852000||SNOMEDCT_US|FN|264852000|Left ventricle mid lateral segment (body structure)|9|N||
+C0555928|ENG|S|L2843904|PF|S3390127|Y|A3535099|657154015|264853005||SNOMEDCT_US|FN|264853005|Left ventricle apical lateral segment (body structure)|9|N||
+C0559192|ENG|S|L2875424|PF|S3390140|Y|A3535112|670689018|277631004||SNOMEDCT_US|FN|277631004|Left ventricle basal lateral segment (body structure)|9|N||
+C0559504|ENG|S|L2892848|PF|S3285643|Y|A3423806|675163015|281606004||SNOMEDCT_US|FN|281606004|Entire lateral head of triceps brachii muscle (body structure)|9|N||
+C0559616|ENG|S|L2833424|PF|S3545680|Y|A3707717|675295011|281724006||SNOMEDCT_US|FN|281724006|Skin of part of anterolateral surface of thorax (body structure)|9|N||
+C0560750|ENG|S|L2882499|PF|S3642189|Y|A3810319|676529016|282829008||SNOMEDCT_US|FN|282829008|Bilateral condylar process of mandible (body structure)|9|N||
+C0562225|ENG|S|L2910016|PF|S3390144|Y|A3535116|678240018|284358004||SNOMEDCT_US|FN|284358004|Left ventricle lateral segment (body structure)|9|N||
+C0580873|ENG|S|L2882505|PF|S3642282|Y|A3810423|699598014|303416006||SNOMEDCT_US|FN|303416006|Bilateral labyrinth (body structure)|9|N||
+C0581722|ENG|S|L2864573|PF|S3388784|Y|A3533665|700253012|304001008||SNOMEDCT_US|FN|304001008|Lateral flexor of atlanto-occipital joint (body structure)|9|N||
+C0581726|ENG|S|L2864593|PF|S3388785|Y|A3533666|700257013|304005004||SNOMEDCT_US|FN|304005004|Lateral flexor of atlantoaxial joint (body structure)|9|N||
+C0581733|ENG|S|L2896152|PF|S3388786|Y|A3533667|700267015|304014009||SNOMEDCT_US|FN|304014009|Lateral flexor of cervical intervertebral joint (body structure)|9|N||
+C0581737|ENG|S|L2906764|PF|S3388790|Y|A3533671|700273019|304019004||SNOMEDCT_US|FN|304019004|Lateral flexor of thoracic intervertebral joint (body structure)|9|N||
+C0581741|ENG|S|L2906763|PF|S3388789|Y|A3533670|700278011|304024001||SNOMEDCT_US|FN|304024001|Lateral flexor of lumbar intervertebral joint (body structure)|9|N||
+C0582017|ENG|S|L2910107|PF|S3388958|Y|A3533847|700455019|304180009||SNOMEDCT_US|FN|304180009|Lateral rotator of scapula (body structure)|9|N||
+C0582797|ENG|S|L2882503|PF|S3642258|Y|A3810399|701248011|304909008||SNOMEDCT_US|FN|304909008|Bilateral hip joint (body structure)|9|N||
+C0582798|ENG|S|L2897042|PF|S3280993|Y|A3419140|701249015|304910003||SNOMEDCT_US|FN|304910003|Entire collateral ulnar ligament of elbow (body structure)|9|N||
+C0582799|ENG|S|L2897041|PF|S3280989|Y|A3419136|701250015|304911004||SNOMEDCT_US|FN|304911004|Entire collateral radial ligament of elbow (body structure)|9|N||
+C0582801|ENG|S|L2882504|PF|S3642280|Y|A3810421|701252011|304913001||SNOMEDCT_US|FN|304913001|Bilateral knee joints (body structure)|9|N||
+C0582811|ENG|S|L2910095|PF|S3388941|Y|A3533830|701261011|304921007||SNOMEDCT_US|FN|304921007|Lateral rectus tendon (body structure)|9|N||
+C0582821|ENG|S|L2910059|PF|S3388934|Y|A3533823|763050011|31836009||SNOMEDCT_US|FN|31836009|Lateral rectus muscle structure (body structure)|9|N||
+C0582835|ENG|S|L2897102|PF|S3502290|Y|A3656783|701272018|304931000||SNOMEDCT_US|FN|304931000|Radial collateral ligament of metacarpophalangeal joint of thumb (body structure)|9|N||
+C0582837|ENG|S|L2897024|PF|S3502279|Y|A3656772|701273011|304932007||SNOMEDCT_US|FN|304932007|Radial collateral ligament of distal interphalangeal joint of index finger (body structure)|9|N||
+C0582838|ENG|S|L2897026|PF|S3604117|Y|A3769456|701274017|304933002||SNOMEDCT_US|FN|304933002|Ulnar collateral ligament of distal interphalangeal joint of index finger (body structure)|9|N||
+C0582839|ENG|S|L2897030|PF|S3502281|Y|A3656774|701275016|304934008||SNOMEDCT_US|FN|304934008|Radial collateral ligament of distal interphalangeal joint of middle finger (body structure)|9|N||
+C0582840|ENG|S|L2897032|PF|S3604120|Y|A3769459|701276015|304935009||SNOMEDCT_US|FN|304935009|Ulnar collateral ligament of distal interphalangeal joint of middle finger (body structure)|9|N||
+C0582841|ENG|S|L2897033|PF|S3502283|Y|A3656776|701277012|304936005||SNOMEDCT_US|FN|304936005|Radial collateral ligament of distal interphalangeal joint of ring finger (body structure)|9|N||
+C0582842|ENG|S|L2897036|PF|S3604121|Y|A3769460|701278019|304937001||SNOMEDCT_US|FN|304937001|Ulnar collateral ligament of distal interphalangeal joint of ring finger (body structure)|9|N||
+C0582843|ENG|S|L2897027|PF|S3502280|Y|A3656773|701279010|304938006||SNOMEDCT_US|FN|304938006|Radial collateral ligament of distal interphalangeal joint of little finger (body structure)|9|N||
+C0582844|ENG|S|L2897029|PF|S3604118|Y|A3769457|701280013|304939003||SNOMEDCT_US|FN|304939003|Ulnar collateral ligament of distal interphalangeal joint of little finger (body structure)|9|N||
+C0582845|ENG|S|L2897034|PF|S3502278|Y|A3656771|701282017|304940001||SNOMEDCT_US|FN|304940001|Radial collateral ligament of distal interphalangeal joint of finger (body structure)|9|N||
+C0582846|ENG|S|L2897038|PF|S3604116|Y|A3769455|701283010|304941002||SNOMEDCT_US|FN|304941002|Ulnar collateral ligament of distal interphalangeal joint of finger (body structure)|9|N||
+C0582848|ENG|S|L2897060|PF|S3502286|Y|A3656779|701286019|304944005||SNOMEDCT_US|FN|304944005|Radial collateral ligament of metacarpophalangeal joint of index finger (body structure)|9|N||
+C0582849|ENG|S|L2897062|PF|S3604126|Y|A3769465|701287011|304945006||SNOMEDCT_US|FN|304945006|Ulnar collateral ligament of metacarpophalangeal joint of index finger (body structure)|9|N||
+C0582850|ENG|S|L2897079|PF|S3604123|Y|A3769462|701288018|304946007||SNOMEDCT_US|FN|304946007|Ulnar collateral ligament of metacarpo-phalangea joint of middle finger (body structure)|9|N||
+C0582851|ENG|S|L2897080|PF|S3502288|Y|A3656781|701289014|304947003||SNOMEDCT_US|FN|304947003|Radial collateral ligament of metacarpophalangeal joint of middle finger (body structure)|9|N||
+C0582852|ENG|S|L2897082|PF|S3502289|Y|A3656782|701290017|304948008||SNOMEDCT_US|FN|304948008|Radial collateral ligament of metacarpophalangeal joint of ring finger (body structure)|9|N||
+C0582853|ENG|S|L2897085|PF|S3604128|Y|A3769467|701291018|304949000||SNOMEDCT_US|FN|304949000|Ulnar collateral ligament of metacarpophalangeal joint of ring finger (body structure)|9|N||
+C0582854|ENG|S|L2897078|PF|S3604127|Y|A3769466|701293015|304950000||SNOMEDCT_US|FN|304950000|Ulnar collateral ligament of metacarpophalangeal joint of little finger (body structure)|9|N||
+C0582855|ENG|S|L2897076|PF|S3502287|Y|A3656780|701294014|304951001||SNOMEDCT_US|FN|304951001|Radial collateral ligament of metacarpophalangeal joint of little finger (body structure)|9|N||
+C0582856|ENG|S|L2897083|PF|S3502285|Y|A3656778|701295010|304952008||SNOMEDCT_US|FN|304952008|Radial collateral ligament of metacarpophalangeal joint of finger (body structure)|9|N||
+C0582857|ENG|S|L2897087|PF|S3604124|Y|A3769463|701296011|304953003||SNOMEDCT_US|FN|304953003|Ulnar collateral ligament of metacarpophalangeal joint of finger (body structure)|9|N||
+C0582858|ENG|S|L2897094|PF|S3502284|Y|A3656777|701297019|304954009||SNOMEDCT_US|FN|304954009|Radial collateral ligament of interphalangeal joint of thumb (body structure)|9|N||
+C0582859|ENG|S|L2897098|PF|S3604122|Y|A3769461|701298012|304955005||SNOMEDCT_US|FN|304955005|Ulnar collateral ligament of interphalangeal joint of thumb (body structure)|9|N||
+C0582860|ENG|S|L2897057|PF|S3502295|Y|A3656788|701299016|304956006||SNOMEDCT_US|FN|304956006|Radial collateral ligament of proximal interphalangeal joint of index finger (body structure)|9|N||
+C0582861|ENG|S|L2897059|PF|S3604132|Y|A3769471|701300012|304957002||SNOMEDCT_US|FN|304957002|Ulnar collateral ligament of proximal interphalangeal joint of index finger (body structure)|9|N||
+C0582862|ENG|S|L2897068|PF|S3604134|Y|A3769473|701301011|304958007||SNOMEDCT_US|FN|304958007|Ulnar collateral ligament of proximal interphalangeal joint of middle finger (body structure)|9|N||
+C0582863|ENG|S|L2897066|PF|S3502296|Y|A3656789|701302016|304959004||SNOMEDCT_US|FN|304959004|Radial collateral ligament of proximal interphalangeal joint of middle finger (body structure)|9|N||
+C0582864|ENG|S|L2897069|PF|S3502297|Y|A3656790|701304015|304960009||SNOMEDCT_US|FN|304960009|Radial collateral ligament of proximal interphalangeal joint of ring finger (body structure)|9|N||
+C0582865|ENG|S|L2897072|PF|S3604135|Y|A3769474|701305019|304961008||SNOMEDCT_US|FN|304961008|Ulnar collateral ligament of proximal interphalangeal joint of ring finger (body structure)|9|N||
+C0582866|ENG|S|L2897065|PF|S3604133|Y|A3769472|701306018|304962001||SNOMEDCT_US|FN|304962001|Ulnar collateral ligament of proximal interphalangeal joint of little finger (body structure)|9|N||
+C0582867|ENG|S|L14204990|PF|S17277007|Y|A28434484|3481642017|304963006||SNOMEDCT_US|FN|304963006|Radial collateral ligament of proximal interphalangeal joint of little finger (body structure)|9|N||
+C0582868|ENG|S|L2897070|PF|S3502293|Y|A3656786|701308017|304964000||SNOMEDCT_US|FN|304964000|Radial collateral ligament of proximal interphalangeal joint of finger (body structure)|9|N||
+C0582869|ENG|S|L2897074|PF|S3604130|Y|A3769469|701309013|304965004||SNOMEDCT_US|FN|304965004|Ulnar collateral ligament of proximal interphalangeal joint of finger (body structure)|9|N||
+C0582953|ENG|S|L2856653|PF|S3540643|Y|A3701922|701417018|305061000||SNOMEDCT_US|FN|305061000|Articular cartilage of lateral femoral condyle (body structure)|9|N||
+C0582972|ENG|S|L2856656|PF|S3540674|Y|A3701962|701439016|305081004||SNOMEDCT_US|FN|305081004|Articular cartilage of lateral tibial condyle (body structure)|9|N||
+C0582986|ENG|S|L2856674|PF|S3540659|Y|A3701944|701455011|305095001||SNOMEDCT_US|FN|305095001|Articular cartilage of lateral malleolus (body structure)|9|N||
+C0584553|ENG|S|L2882502|PF|S3642307|Y|A3810448|703147019|306711008||SNOMEDCT_US|FN|306711008|Bilateral middle ear (body structure)|9|N||
+C0584908|ENG|S|L2898505|PF|S3388732|Y|A3533613|703505011|307033005||SNOMEDCT_US|FN|307033005|Lateral crural muscle structure (body structure)|9|N||
+C0584909|ENG|S|L2898504|PF|S3424160|Y|A3571468|703506012|307034004||SNOMEDCT_US|FN|307034004|Musculotendinous junction of lateral crural muscle (body structure)|9|N||
+C0587131|ENG|S|L2768976|PF|S3388668|Y|A3533548|672256017|279024006||SNOMEDCT_US|FN|279024006|Lateral anterior abdominal surface region (body structure)|9|N||
+C0730608|ENG|S|L2882507|PF|S3642302|Y|A3810443|710069019|313302006||SNOMEDCT_US|FN|313302006|Bilateral maxillary sinus (body structure)|9|N||
+C0734600|ENG|S|L6393104|PF|S7331801|Y|A11737937|2639350012|423721001||SNOMEDCT_US|FN|423721001|Structure of lateral branch of left portal vein (body structure)|9|N||
+C0835779|ENG|S|L5155768|PF|S5888660|Y|A6948370|2461320016|118519008||SNOMEDCT_US|FN|118519008|Structure of lateral compartment of lower leg (body structure)|9|N||
+C0930838|ENG|S|L2894370|PF|S3565046|Y|A3728110|794224019|367616006||SNOMEDCT_US|FN|367616006|Structure of lateral semicircular canal (body structure)|9|N||
+C0933795|ENG|S|L6393094|PF|S7331746|Y|A11738044|2639405014|422499002||SNOMEDCT_US|FN|422499002|Structure of half of thoracic cavity lateral to midsagittal plane (body structure)|9|N||
+C1261052|ENG|S|L2894935|PF|S3561286|Y|A3724270|751687010|22296005||SNOMEDCT_US|FN|22296005|Structure of collateral carpal ulnar ligament (body structure)|9|N||
+C1261053|ENG|S|L2894934|PF|S3561284|Y|A3724268|778549019|41728005||SNOMEDCT_US|FN|41728005|Structure of collateral carpal radial ligament (body structure)|9|N||
+C1261062|ENG|S|L14526656|PF|S17631902|Y|A28894944|3535077018|20218002||SNOMEDCT_US|FN|20218002|Structure of middle lobe lateral segmental bronchus of right lung (body structure)|9|N||
+C1261067|ENG|S|L2893548|PF|S3569243|Y|A3732358|778590016|41765007||SNOMEDCT_US|FN|41765007|Structure of right lower lobe lateral segmental bronchus (body structure)|9|N||
+C1261072|ENG|S|L2893547|PF|S3565274|Y|A3728342|779041018|42171008||SNOMEDCT_US|FN|42171008|Structure of left lower lobe lateral segmental bronchus (body structure)|9|N||
+C1261086|ENG|S|L2852125|PF|S3564866|Y|A3727930|636618015|11208004||SNOMEDCT_US|FN|11208004|Structure of lateral circumflex femoral artery (body structure)|9|N||
+C1264751|ENG|S|L2865442|PF|S3388803|Y|A3533684|732604014|128592001||SNOMEDCT_US|FN|128592001|Lateral high right atrium (body structure)|9|N||
+C1266932|ENG|S|L2891687|PF|S3290972|Y|A3429196|799444013|60487002||SNOMEDCT_US|FN|60487002|Entire right lateral border of body of sternum (body structure)|9|N||
+C1266933|ENG|S|L2891686|PF|S3286022|Y|A3424187|775485015|39095009||SNOMEDCT_US|FN|39095009|Entire left lateral border of body of sternum (body structure)|9|N||
+C1267159|ENG|S|L2901805|PF|S3285627|Y|A3423790|814620014|74152000||SNOMEDCT_US|FN|74152000|Entire lateral flexor tendon of knee (body structure)|9|N||
+C1267224|ENG|S|L2903178|PF|S3290978|Y|A3429202|831518011|88766000||SNOMEDCT_US|FN|88766000|Entire right lateral nasopharynx (body structure)|9|N||
+C1267225|ENG|S|L2903150|PF|S3286029|Y|A3424194|778708017|41871007||SNOMEDCT_US|FN|41871007|Entire left lateral nasopharynx (body structure)|9|N||
+C1267305|ENG|S|L2852381|PF|S3285786|Y|A3423949|822889013|8160006||SNOMEDCT_US|FN|8160006|Entire lateral striate artery (body structure)|9|N||
+C1267325|ENG|S|L2851783|PF|S3285569|Y|A3423732|783114013|45831009||SNOMEDCT_US|FN|45831009|Entire lateral branch of posterior choroidal artery (body structure)|9|N||
+C1267395|ENG|S|L2852312|PF|S3284298|Y|A3422453|741002014|14723009||SNOMEDCT_US|FN|14723009|Entire inferior lateral genicular artery (body structure)|9|N||
+C1267401|ENG|S|L2852382|PF|S3285817|Y|A3423981|779812014|42865004||SNOMEDCT_US|FN|42865004|Entire lateral tarsal artery (body structure)|9|N||
+C1267438|ENG|S|L2903172|PF|S3287268|Y|A3425442|765138017|33702004||SNOMEDCT_US|FN|33702004|Entire medial vein of the lateral ventricle (body structure)|9|N||
+C1267439|ENG|S|L2903146|PF|S3285828|Y|A3423992|789436011|51527005||SNOMEDCT_US|FN|51527005|Entire lateral vein of the lateral ventricle (body structure)|9|N||
+C1267448|ENG|S|L2902019|PF|S3295721|Y|A3433972|825197014|83541003||SNOMEDCT_US|FN|83541003|Entire vein of the lateral recess of the fourth ventricle (body structure)|9|N||
+C1267453|ENG|S|L2903222|PF|S3285822|Y|A3423986|791732013|53595001||SNOMEDCT_US|FN|53595001|Entire lateral thoracic vein (body structure)|9|N||
+C1267505|ENG|S|L2903206|PF|S3285770|Y|A3423933|818931014|78035007||SNOMEDCT_US|FN|78035007|Entire lateral sacral vein (body structure)|9|N||
+C1267524|ENG|S|L2910090|PF|S3613896|Y|A3780522|732555012|128550006||SNOMEDCT_US|FN|128550006|Ventro-lateral perforating vein (body structure)|9|N||
+C1267531|ENG|S|L2896659|PF|S3285580|Y|A3423743|810032018|70021009||SNOMEDCT_US|FN|70021009|Entire lateral circumflex femoral vein (body structure)|9|N||
+C1267644|ENG|S|L2910018|PF|S3389893|Y|A3534830|731819010|127885001||SNOMEDCT_US|FN|127885001|Left lateral wall of upper third of vagina (body structure)|9|N||
+C1267645|ENG|S|L2910105|PF|S3521528|Y|A3681236|731820016|127886000||SNOMEDCT_US|FN|127886000|Right lateral wall of upper third of vagina (body structure)|9|N||
+C1267647|ENG|S|L2901976|PF|S3290974|Y|A3429198|826519010|84634007||SNOMEDCT_US|FN|84634007|Entire right lateral fornix (body structure)|9|N||
+C1267648|ENG|S|L2901975|PF|S3286024|Y|A3424189|798491014|59628006||SNOMEDCT_US|FN|59628006|Entire left lateral fornix (body structure)|9|N||
+C1267651|ENG|S|L2910014|PF|S3389891|Y|A3534828|731824013|127890003||SNOMEDCT_US|FN|127890003|Left lateral wall of middle third of vagina (body structure)|9|N||
+C1267652|ENG|S|L2910056|PF|S3521526|Y|A3681234|731826010|127891004||SNOMEDCT_US|FN|127891004|Right lateral wall of middle third of vagina (body structure)|9|N||
+C1267656|ENG|S|L2910011|PF|S3389889|Y|A3534826|731830013|127895008||SNOMEDCT_US|FN|127895008|Left lateral wall of lower third of vagina (body structure)|9|N||
+C1267657|ENG|S|L2910039|PF|S3521524|Y|A3681232|731831012|127896009||SNOMEDCT_US|FN|127896009|Right lateral wall of lower third of vagina (body structure)|9|N||
+C1267687|ENG|S|L2903163|PF|S3290976|Y|A3429200|793190017|54907003||SNOMEDCT_US|FN|54907003|Entire right lateral lobe of prostate (body structure)|9|N||
+C1267688|ENG|S|L2903148|PF|S3286027|Y|A3424192|752145012|22707006||SNOMEDCT_US|FN|22707006|Entire left lateral lobe of prostate (body structure)|9|N||
+C1267689|ENG|S|L2892761|PF|S3195902|Y|A3326315|731842015|127905002||SNOMEDCT_US|FN|127905002|Both lateral lobes of the prostate (body structure)|9|N||
+C1267713|ENG|S|L2896454|PF|S3280803|Y|A3418947|810079018|70064002||SNOMEDCT_US|FN|70064002|Entire choroid plexus of lateral ventricle (body structure)|9|N||
+C1267748|ENG|S|L2831973|PF|S3285692|Y|A3423855|807255016|67521003||SNOMEDCT_US|FN|67521003|Entire lateral nasal branches of anterior ethmoidal nerve (body structure)|9|N||
+C1267755|ENG|S|L2893020|PF|S3294678|Y|A3432920|742833014|15913000||SNOMEDCT_US|FN|15913000|Entire thoracic nerve lateral cutaneous branch (body structure)|9|N||
+C1267760|ENG|S|L2893074|PF|S3286617|Y|A3424785|832681016|89727003||SNOMEDCT_US|FN|89727003|Entire lumbar nerve lateral branch (body structure)|9|N||
+C1267763|ENG|S|L2898673|PF|S3285613|Y|A3423776|808103011|68285009||SNOMEDCT_US|FN|68285009|Entire lateral dorsal cutaneous nerve of foot (body structure)|9|N||
+C1268020|ENG|S|L2896013|PF|S3281647|Y|A3419794|800852011|61755005||SNOMEDCT_US|FN|61755005|Entire deep lateral cervical lymph node (body structure)|9|N||
+C1268021|ENG|S|L2896107|PF|S3293665|Y|A3431902|788493010|50679006||SNOMEDCT_US|FN|50679006|Entire superficial lateral cervical lymph node (body structure)|9|N||
+C1268023|ENG|S|L2903030|PF|S3285651|Y|A3423814|833228010|90179000||SNOMEDCT_US|FN|90179000|Entire lateral jugular lymph node (body structure)|9|N||
+C1268027|ENG|S|L2903166|PF|S3285764|Y|A3423927|791533017|53416002||SNOMEDCT_US|FN|53416002|Entire lateral retropharyngeal lymph node (body structure)|9|N||
+C1268032|ENG|S|L2903165|PF|S3285729|Y|A3423892|751003010|21681002||SNOMEDCT_US|FN|21681002|Entire lateral pericardial lymph node (body structure)|9|N||
+C1268081|ENG|S|L2903167|PF|S3285833|Y|A3423997|777151013|40496009||SNOMEDCT_US|FN|40496009|Entire lateral vesicular lymph node (body structure)|9|N||
+C1268982|ENG|S|L2903223|PF|S3285830|Y|A3423994|564117019|180930008||SNOMEDCT_US|FN|180930008|Entire lateral ventricle (body structure)|9|N||
+C1269039|ENG|S|L2903210|PF|S3292080|Y|A3430311|564811015|181551008||SNOMEDCT_US|FN|181551008|Entire skin of lateral surface of thigh (body structure)|9|N||
+C1269083|ENG|S|L2897050|PF|S3287115|Y|A3425285|565807019|182441008||SNOMEDCT_US|FN|182441008|Entire medial collateral ligament of knee joint (body structure)|9|N||
+C1269084|ENG|S|L2897049|PF|S3285582|Y|A3423745|565808012|182442001||SNOMEDCT_US|FN|182442001|Entire lateral collateral ligament of knee joint (body structure)|9|N||
+C1269086|ENG|S|L2828616|PF|S3285661|Y|A3423824|565823019|182454001||SNOMEDCT_US|FN|182454001|Entire lateral ligament of ankle joint (body structure)|9|N||
+C1269583|ENG|S|L2894326|PF|S3285780|Y|A3423943|673089015|279761005||SNOMEDCT_US|FN|279761005|Entire lateral semicircular canal (body structure)|9|N||
+C1269625|ENG|S|L2903177|PF|S3285697|Y|A3423860|705385010|308880000||SNOMEDCT_US|FN|308880000|Entire lateral nasal process (body structure)|9|N||
+C1269875|ENG|S|L2849203|PF|S3292088|Y|A3430319|633916014|244138008||SNOMEDCT_US|FN|244138008|Entire skin of lateral surface of upper arm (body structure)|9|N||
+C1276204|ENG|S|L2856575|PF|S3560033|Y|A3722981|1763626017|360871007||SNOMEDCT_US|FN|360871007|Structure of articular facet of lateral cuneiform bone (body structure)|9|N||
+C1276205|ENG|S|L2898607|PF|S3566528|Y|A3729599|1763627014|360872000||SNOMEDCT_US|FN|360872000|Structure of metatarsal facet of lateral cuneiform (body structure)|9|N||
+C1277591|ENG|S|L2892150|PF|S3285720|Y|A3423883|517831013|139279001||SNOMEDCT_US|FN|139279001|Entire lateral part of occipital bone (body structure)|9|N||
+C1278554|ENG|S|L2903183|PF|S3293159|Y|A3431393|538122017|157559007||SNOMEDCT_US|FN|157559007|Entire subcutaneous tissue of lateral portion of neck (body structure)|9|N||
+C1278650|ENG|S|L2896106|PF|S3285573|Y|A3423736|549413018|167763000||SNOMEDCT_US|FN|167763000|Entire lateral cervical lymph node (body structure)|9|N||
+C1278733|ENG|S|L2902591|PF|S3285837|Y|A3424001|556254015|173888002||SNOMEDCT_US|FN|173888002|Entire lateral wall of hypopharynx (body structure)|9|N||
+C1278739|ENG|S|L2895983|PF|S3280726|Y|A3418870|556678017|174268004||SNOMEDCT_US|FN|174268004|Entire cervical spinal cord lateral horn (body structure)|9|N||
+C1278802|ENG|S|L2903179|PF|S3285699|Y|A3423862|561391013|178480001||SNOMEDCT_US|FN|178480001|Entire lateral nasopharynx (body structure)|9|N||
+C1278813|ENG|S|L2903198|PF|S3285733|Y|A3423896|562489019|179467009||SNOMEDCT_US|FN|179467009|Entire lateral pharyngeal wall (body structure)|9|N||
+C1278824|ENG|S|L2903197|PF|S3285731|Y|A3423894|563572018|180439004||SNOMEDCT_US|FN|180439004|Entire lateral pharyngeal space (body structure)|9|N||
+C1278843|ENG|S|L2892809|PF|S3285621|Y|A3423784|564201018|181004001||SNOMEDCT_US|FN|181004001|Entire lateral fasciculus of brachial plexus (body structure)|9|N||
+C1278854|ENG|S|L2898680|PF|S3285623|Y|A3423786|564256018|181053001||SNOMEDCT_US|FN|181053001|Entire lateral femoral cutaneous nerve (body structure)|9|N||
+C1278871|ENG|S|L2903185|PF|S3285737|Y|A3423900|564289018|181083005||SNOMEDCT_US|FN|181083005|Entire lateral plantar nerve (body structure)|9|N||
+C1278959|ENG|S|L2852379|PF|S3285735|Y|A3423898|564600013|181361000||SNOMEDCT_US|FN|181361000|Entire lateral plantar artery (body structure)|9|N||
+C1279065|ENG|S|L2864517|PF|S3285680|Y|A3423843|565192016|181894008||SNOMEDCT_US|FN|181894008|Entire lateral mass of atlas (body structure)|9|N||
+C1279079|ENG|S|L2901163|PF|S3285617|Y|A3423780|565237017|181933003||SNOMEDCT_US|FN|181933003|Entire lateral epicondyle of humerus (body structure)|9|N||
+C1279117|ENG|S|L2897610|PF|S3285586|Y|A3423749|565375019|182057003||SNOMEDCT_US|FN|182057003|Entire lateral condyle of femur (body structure)|9|N||
+C1279121|ENG|S|L2897615|PF|S3285590|Y|A3423753|565386017|182067008||SNOMEDCT_US|FN|182067008|Entire lateral condyle of tibia (body structure)|9|N||
+C1279190|ENG|S|L2851598|PF|S3285550|Y|A3423713|566342015|182920007||SNOMEDCT_US|FN|182920007|Entire lateral basal branch of right pulmonary artery (body structure)|9|N||
+C1279231|ENG|S|L2851597|PF|S3285548|Y|A3423711|569421017|186396001||SNOMEDCT_US|FN|186396001|Entire lateral basal branch of left pulmonary artery (body structure)|9|N||
+C1279319|ENG|S|L2904013|PF|S3287880|Y|A3426057|574296015|190685007||SNOMEDCT_US|FN|190685007|Entire myocardium of posterolateral region (body structure)|9|N||
+C1279320|ENG|S|L2833419|PF|S3287860|Y|A3426037|574383019|190762001||SNOMEDCT_US|FN|190762001|Entire myocardium of anterolateral region (body structure)|9|N||
+C1279321|ENG|S|L2902721|PF|S3287873|Y|A3426050|574484012|190852001||SNOMEDCT_US|FN|190852001|Entire myocardium of inferolateral region (body structure)|9|N||
+C1279343|ENG|S|L2903176|PF|S3285688|Y|A3423851|576913017|193068007||SNOMEDCT_US|FN|193068007|Entire lateral myocardium (body structure)|9|N||
+C1279354|ENG|S|L2851703|PF|S3283027|Y|A3421179|577691010|193775002||SNOMEDCT_US|FN|193775002|Entire first left posterolateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C1279355|ENG|S|L2851706|PF|S3291395|Y|A3429620|577780011|193855000||SNOMEDCT_US|FN|193855000|Entire second left posterolateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C1279356|ENG|S|L2851707|PF|S3294618|Y|A3432860|577864010|193929002||SNOMEDCT_US|FN|193929002|Entire third left posterolateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C1279359|ENG|S|L2851719|PF|S3283052|Y|A3421204|578098019|194142006||SNOMEDCT_US|FN|194142006|Entire first right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C1279361|ENG|S|L2851720|PF|S3291423|Y|A3429648|578175013|194212001||SNOMEDCT_US|FN|194212001|Entire second right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C1279362|ENG|S|L2851721|PF|S3294642|Y|A3432884|578270010|194296004||SNOMEDCT_US|FN|194296004|Entire third right posterolateral branch of the posterior descending branch of right coronary artery (body structure)|9|N||
+C1279365|ENG|S|L2851807|PF|S3289840|Y|A3428043|578545011|194539008||SNOMEDCT_US|FN|194539008|Entire posterior lateral branch of right coronary artery (body structure)|9|N||
+C1279516|ENG|S|L2852383|PF|S3285819|Y|A3423983|591590015|206135006||SNOMEDCT_US|FN|206135006|Entire lateral thoracic artery (body structure)|9|N||
+C1279529|ENG|S|L2893075|PF|S3294680|Y|A3432922|593509019|207871004||SNOMEDCT_US|FN|207871004|Entire thoracic nerve lateral mammary branches (body structure)|9|N||
+C1279536|ENG|S|L2903215|PF|S3293184|Y|A3431418|594168014|208504002||SNOMEDCT_US|FN|208504002|Entire subcutaneous tissue of lateral surface of thigh (body structure)|9|N||
+C1279545|ENG|S|L2901161|PF|S3285615|Y|A3423778|594960018|209275007||SNOMEDCT_US|FN|209275007|Entire lateral epicondyle of femur (body structure)|9|N||
+C1279586|ENG|S|L2852315|PF|S3293898|Y|A3432136|597932013|212115001||SNOMEDCT_US|FN|212115001|Entire superior lateral genicular artery (body structure)|9|N||
+C1279602|ENG|S|L10800925|PF|S13428613|Y|A20826560|2916707014|213194009||SNOMEDCT_US|FN|213194009|Entire subcutaneous tissue of lateral surface of lower leg (body structure)|9|N||
+C1279608|ENG|S|L2902147|PF|S3285640|Y|A3423803|599542013|213588009||SNOMEDCT_US|FN|213588009|Entire lateral head of gastrocnemius muscle (body structure)|9|N||
+C1279630|ENG|S|L2898683|PF|S3285789|Y|A3423952|602128013|215929006||SNOMEDCT_US|FN|215929006|Entire lateral sural cutaneous nerve (body structure)|9|N||
+C1279631|ENG|S|L2892946|PF|S3294817|Y|A3433064|602240017|216030009||SNOMEDCT_US|FN|216030009|Entire tibial nerve lateral calcaneal branches (body structure)|9|N||
+C1279637|ENG|S|L2894199|PF|S3285748|Y|A3423911|602918015|216641005||SNOMEDCT_US|FN|216641005|Entire lateral process of calcaneal tubercle (body structure)|9|N||
+C1279646|ENG|S|L2892576|PF|S3293153|Y|A3431387|603708014|217354001||SNOMEDCT_US|FN|217354001|Entire subcutaneous tissue of lateral border of sole of foot (body structure)|9|N||
+C1279681|ENG|S|L2902326|PF|S3293169|Y|A3431403|607303018|220592004||SNOMEDCT_US|FN|220592004|Entire subcutaneous tissue of lateral surface of great toe (body structure)|9|N||
+C1279683|ENG|S|L2902325|PF|S3292065|Y|A3430296|607416017|220694005||SNOMEDCT_US|FN|220694005|Entire skin of lateral surface of great toe (body structure)|9|N||
+C1279684|ENG|S|L2903208|PF|S3293182|Y|A3431416|607528010|220795004||SNOMEDCT_US|FN|220795004|Entire subcutaneous tissue of lateral surface of second toe (body structure)|9|N||
+C1279685|ENG|S|L2903207|PF|S3292078|Y|A3430309|607635010|220892007||SNOMEDCT_US|FN|220892007|Entire skin of lateral surface of second toe (body structure)|9|N||
+C1279686|ENG|S|L2903216|PF|S3293186|Y|A3431420|607747010|220993001||SNOMEDCT_US|FN|220993001|Entire subcutaneous tissue of lateral surface of third toe (body structure)|9|N||
+C1279687|ENG|S|L2903211|PF|S3292082|Y|A3430313|607860013|221095003||SNOMEDCT_US|FN|221095003|Entire skin of lateral surface of third toe (body structure)|9|N||
+C1279688|ENG|S|L2902021|PF|S3292062|Y|A3430293|607971013|221195001||SNOMEDCT_US|FN|221195001|Entire skin of lateral surface of fourth toe (body structure)|9|N||
+C1279689|ENG|S|L2902022|PF|S3293167|Y|A3431401|608083010|221296006||SNOMEDCT_US|FN|221296006|Entire subcutaneous tissue of lateral surface of fourth toe (body structure)|9|N||
+C1279690|ENG|S|L2901607|PF|S3292058|Y|A3430289|608196013|221398009||SNOMEDCT_US|FN|221398009|Entire skin of lateral surface of fifth toe (body structure)|9|N||
+C1279691|ENG|S|L2901608|PF|S3293163|Y|A3431397|608309017|221499002||SNOMEDCT_US|FN|221499002|Entire subcutaneous tissue of lateral surface of fifth toe (body structure)|9|N||
+C1279692|ENG|S|L2903218|PF|S3293190|Y|A3431424|608420016|221600002||SNOMEDCT_US|FN|221600002|Entire subcutaneous tissue of lateral surface of toe (body structure)|9|N||
+C1279693|ENG|S|L2903213|PF|S3292086|Y|A3430317|608533012|221703006||SNOMEDCT_US|FN|221703006|Entire skin of lateral surface of toe (body structure)|9|N||
+C1279851|ENG|S|L2897107|PF|S3561298|Y|A3724282|616611017|228964002||SNOMEDCT_US|FN|228964002|Structure of collateral ligaments of metatarsophalangeal joints (body structure)|9|N||
+C1279890|ENG|S|L2903160|PF|S3285815|Y|A3423979|619880010|231890004||SNOMEDCT_US|FN|231890004|Entire lateral talocalcaneal ligament (body structure)|9|N||
+C1279956|ENG|S|L2892037|PF|S3291407|Y|A3429632|625919013|237222000||SNOMEDCT_US|FN|237222000|Entire second metatarsal facet of lateral cuneiform bone (body structure)|9|N||
+C1279957|ENG|S|L2892038|PF|S3294628|Y|A3432870|625995015|237287008||SNOMEDCT_US|FN|237287008|Entire third metatarsal facet of lateral cuneiform bone (body structure)|9|N||
+C1279958|ENG|S|L2892034|PF|S3283247|Y|A3421399|626075017|237356008||SNOMEDCT_US|FN|237356008|Entire fourth metatarsal facet of lateral cuneiform bone (body structure)|9|N||
+C1279959|ENG|S|L2892021|PF|S3281482|Y|A3419629|626172016|237442007||SNOMEDCT_US|FN|237442007|Entire cuboidal facet of lateral cuneiform bone (body structure)|9|N||
+C1279961|ENG|S|L2892039|PF|S3288011|Y|A3426188|626265012|237524000||SNOMEDCT_US|FN|237524000|Entire navicular facet of lateral cuneiform bone (body structure)|9|N||
+C1279963|ENG|S|L2892025|PF|S3281496|Y|A3419643|626357012|237605009||SNOMEDCT_US|FN|237605009|Entire cuneiform facet of lateral cuneiform bone (body structure)|9|N||
+C1280009|ENG|S|L2893033|PF|S3285738|Y|A3423901|630398016|241159002||SNOMEDCT_US|FN|241159002|Entire lateral plantar nerve deep branch (body structure)|9|N||
+C1280011|ENG|S|L2899233|PF|S3281991|Y|A3420141|630492019|241242004||SNOMEDCT_US|FN|241242004|Entire dorsal digital nerves of lateral hallux and medial second toe (body structure)|9|N||
+C1280016|ENG|S|L2831596|PF|S3278767|Y|A3416906|631203012|241875001||SNOMEDCT_US|FN|241875001|Entire anterior lateral malleolar artery (body structure)|9|N||
+C1280020|ENG|S|L2893903|PF|S3292891|Y|A3431125|631636016|242264006||SNOMEDCT_US|FN|242264006|Entire subcutaneous lateral malleolar bursa (body structure)|9|N||
+C1280039|ENG|S|L2768518|PF|S3285758|Y|A3423921|632867018|243329008||SNOMEDCT_US|FN|243329008|Entire lateral region of abdomen (body structure)|9|N||
+C1280159|ENG|S|L2852380|PF|S3285768|Y|A3423931|634104011|244306009||SNOMEDCT_US|FN|244306009|Entire lateral sacral artery (body structure)|9|N||
+C1280342|ENG|S|L2903164|PF|S3285667|Y|A3423830|635396019|245465001||SNOMEDCT_US|FN|245465001|Entire lateral lobe of prostate (body structure)|9|N||
+C1280350|ENG|S|L2901977|PF|S3285632|Y|A3423795|635411010|245478001||SNOMEDCT_US|FN|245478001|Entire lateral fornix (body structure)|9|N||
+C1280394|ENG|S|L2901822|PF|S3285629|Y|A3423792|635758018|245788001||SNOMEDCT_US|FN|245788001|Entire lateral floor of mouth (body structure)|9|N||
+C1280400|ENG|S|L2903196|PF|S3285724|Y|A3423887|635918013|245929004||SNOMEDCT_US|FN|245929004|Entire lateral patellar retinaculum (body structure)|9|N||
+C1280613|ENG|S|L2901843|PF|S3285824|Y|A3423988|652950018|261116000||SNOMEDCT_US|FN|261116000|Entire lateral umbilical fold (body structure)|9|N||
+C1280765|ENG|P|L2900545|PF|S3388967|Y|A3865668||||MTH|PN|NOCODE|Lateral semicircular duct (body structure)|0|N|256|
+C1280765|ENG|S|L2900546|PF|S3565048|Y|A3728112|821099018|79989003||SNOMEDCT_US|FN|79989003|Structure of lateral semicircular duct (body structure)|9|N||
+C1280788|ENG|S|L2893052|PF|S3285565|Y|A3423728|662009013|269182005||SNOMEDCT_US|FN|269182005|Entire lateral branch of left hepatic duct (body structure)|9|N||
+C1280814|ENG|S|L2903147|PF|S3285776|Y|A3423939|663665010|271288003||SNOMEDCT_US|FN|271288003|Entire lateral segment of left lobe of liver (body structure)|9|N||
+C1280816|ENG|S|L2897612|PF|S3285588|Y|A3423751|663810013|271420006||SNOMEDCT_US|FN|271420006|Entire lateral condyle of humerus (body structure)|9|N||
+C1280843|ENG|S|L2903171|PF|S3285678|Y|A3423841|665217017|272662007||SNOMEDCT_US|FN|272662007|Entire lateral margin of tongue (body structure)|9|N||
+C1280858|ENG|S|L2852376|PF|S3285774|Y|A3423937|665480013|272896002||SNOMEDCT_US|FN|272896002|Entire lateral segment artery of liver (body structure)|9|N||
+C1280894|ENG|S|L2897047|PF|S3280979|Y|A3419126|669031016|276162008||SNOMEDCT_US|FN|276162008|Entire collateral ligament of interphalangeal joint of foot (body structure)|9|N||
+C1280977|ENG|S|L2903184|PF|S3285727|Y|A3423890|672098013|278884001||SNOMEDCT_US|FN|278884001|Entire lateral pectoral nerve (body structure)|9|N||
+C1280985|ENG|S|L2895063|PF|S3285695|Y|A3423858|672166016|278944009||SNOMEDCT_US|FN|278944009|Entire lateral nasal cartilage (body structure)|9|N||
+C1281022|ENG|S|L2902363|PF|S3285707|Y|A3423870|672459014|279204001||SNOMEDCT_US|FN|279204001|Entire lateral occipitotemporal gyrus (body structure)|9|N||
+C1281032|ENG|S|L2891783|PF|S3279920|Y|A3418060|672507017|279246005||SNOMEDCT_US|FN|279246005|Entire body of lateral ventricle (body structure)|9|N||
+C1281033|ENG|S|L2832178|PF|S3278727|Y|A3416864|672508010|279247001||SNOMEDCT_US|FN|279247001|Entire anterior horn of lateral ventricle (body structure)|9|N||
+C1281080|ENG|S|L2897054|PF|S3280991|Y|A3419138|672630016|279356006||SNOMEDCT_US|FN|279356006|Entire collateral sulcus (body structure)|9|N||
+C1281089|ENG|S|L2892586|PF|S3285561|Y|A3423724|672654014|279377009||SNOMEDCT_US|FN|279377009|Entire lateral border of kidney (body structure)|9|N||
+C1281114|ENG|S|L2901827|PF|S3285638|Y|A3423801|672872018|279570005||SNOMEDCT_US|FN|279570005|Entire lateral glossoepiglottic fold (body structure)|9|N||
+C1281148|ENG|S|L2902722|PF|S3284467|Y|A3422622|673018016|279698000||SNOMEDCT_US|FN|279698000|Entire inferolateral surface of prostate (body structure)|9|N||
+C1281163|ENG|S|L2900483|PF|S3285782|Y|A3423945|673171019|279834003||SNOMEDCT_US|FN|279834003|Entire lateral semicircular duct (body structure)|9|N||
+C1281189|ENG|S|L2846926|PF|S3285533|Y|A3423696|673414012|280051008||SNOMEDCT_US|FN|280051008|Entire lateral arcuate ligament of diaphragm (body structure)|9|N||
+C1281207|ENG|S|L2903188|PF|S3285835|Y|A3423999|673553018|280176007||SNOMEDCT_US|FN|280176007|Entire lateral vestibular nucleus (body structure)|9|N||
+C1281266|ENG|S|L2903158|PF|S3285716|Y|A3423879|674011016|280581007||SNOMEDCT_US|FN|280581007|Entire lateral palpebral ligament (body structure)|9|N||
+C1281267|ENG|S|L2903194|PF|S3285718|Y|A3423881|674012011|280582000||SNOMEDCT_US|FN|280582000|Entire lateral palpebral raphe (body structure)|9|N||
+C1281269|ENG|S|L2896326|PF|S3285575|Y|A3423738|674014012|280584004||SNOMEDCT_US|FN|280584004|Entire lateral check ligament of eye (body structure)|9|N||
+C1281345|ENG|S|L2864588|PF|S3285543|Y|A3423706|675426016|281841003||SNOMEDCT_US|FN|281841003|Entire lateral atlantoaxial joint (body structure)|9|N||
+C1281547|ENG|S|L2893064|PF|S3282831|Y|A3420982|697683012|301839000||SNOMEDCT_US|FN|301839000|Entire femoral nerve lateral muscular branches (body structure)|9|N||
+C1281565|ENG|S|L2893076|PF|S3285740|Y|A3423903|698206013|302307001||SNOMEDCT_US|FN|302307001|Entire lateral plantar nerve superficial branch (body structure)|9|N||
+C1281604|ENG|S|L2898681|PF|S3285625|Y|A3423788|698694014|302684003||SNOMEDCT_US|FN|302684003|Entire lateral femoral cutaneous vein (body structure)|9|N||
+C1281716|ENG|S|L2847066|PF|S3285531|Y|A3423694|703457014|306990004||SNOMEDCT_US|FN|306990004|Entire lateral arch of foot (body structure)|9|N||
+C1281833|ENG|S|L2893077|PF|S3291247|Y|A3429472|707113016|310544002||SNOMEDCT_US|FN|310544002|Entire sacral nerve lateral branches (body structure)|9|N||
+C1281849|ENG|S|L2903200|PF|S3292056|Y|A3430287|708584014|311967003||SNOMEDCT_US|FN|311967003|Entire skin of lateral region of trunk (body structure)|9|N||
+C1281850|ENG|S|L2903201|PF|S3293161|Y|A3431395|708682019|312056004||SNOMEDCT_US|FN|312056004|Entire subcutaneous tissue of lateral region of trunk (body structure)|9|N||
+C1281982|ENG|S|L2895836|PF|S3487192|Y|A3640347|710950014|314172009||SNOMEDCT_US|FN|314172009|Posterolateral cerebellar fissure (body structure)|9|N||
+C1282089|ENG|S|L2897805|PF|S3292488|Y|A3430719|711127013|314334007||SNOMEDCT_US|FN|314334007|Entire spinal cord dorsal lateral sulcus (body structure)|9|N||
+C1282128|ENG|S|L2910074|PF|S3545616|Y|A3707646|711195014|314395006||SNOMEDCT_US|FN|314395006|Skin of lateral nose structure (body structure)|9|N||
+C1282249|ENG|S|L2908624|PF|S3353867|Y|A3496535|711389016|314569008||SNOMEDCT_US|FN|314569008|Horn of lateral meniscus (body structure)|9|N||
+C1282319|ENG|S|L2897822|PF|S3286666|Y|A3424834|711540010|314709009||SNOMEDCT_US|FN|314709009|Entire lumbosacral spinal cord lateral horn (body structure)|9|N||
+C1282430|ENG|S|L2897073|PF|S3228502|Y|A3362466|711731013|314895003||SNOMEDCT_US|FN|314895003|Collateral ligament of proximal interphalangeal joint of finger (body structure)|9|N||
+C1282431|ENG|S|L2897037|PF|S3228468|Y|A3362429|711732018|314896002||SNOMEDCT_US|FN|314896002|Collateral ligament of distal interphalangeal joint of finger (body structure)|9|N||
+C1282432|ENG|S|L2897086|PF|S3228492|Y|A3362456|711733011|314897006||SNOMEDCT_US|FN|314897006|Collateral ligament of metacarpophalangeal joint of finger (body structure)|9|N||
+C1282526|ENG|S|L2903203|PF|S3285762|Y|A3423925|711929012|315076003||SNOMEDCT_US|FN|315076003|Entire lateral reticulospinal tract (body structure)|9|N||
+C1282600|ENG|S|L2903159|PF|S3285772|Y|A3423935|713374017|316384003||SNOMEDCT_US|FN|316384003|Entire lateral sacrococcygeal ligament (body structure)|9|N||
+C1282783|ENG|S|L2897053|PF|S3280978|Y|A3419125|722223016|333689003||SNOMEDCT_US|FN|333689003|Entire collateral ligament (body structure)|9|N||
+C1283894|ENG|S|L2903108|PF|S3285655|Y|A3423818|744709014|361349000||SNOMEDCT_US|FN|361349000|Entire lateral lacunar lymph node (body structure)|9|N||
+C1283980|ENG|S|L2851780|PF|S3388695|Y|A3533576|746045018|361442005||SNOMEDCT_US|FN|361442005|Lateral branch of seventh cervical intersegmental artery (body structure)|9|N||
+C1283981|ENG|S|L2851901|PF|S3388691|Y|A3533571|746047014|361443000||SNOMEDCT_US|FN|361443000|Lateral branch of fifth lumbar intersegmental artery (body structure)|9|N||
+C1284011|ENG|S|L2910055|PF|S3388904|Y|A3533787|746246012|361477005||SNOMEDCT_US|FN|361477005|Lateral plate mesoderm (body structure)|9|N||
+C1284079|ENG|S|L2910023|PF|S3388820|Y|A3533702|746640010|361569009||SNOMEDCT_US|FN|361569009|Lateral lemniscus in midbrain (body structure)|9|N||
+C1284185|ENG|S|L2901587|PF|S3285674|Y|A3423837|747143017|361795009||SNOMEDCT_US|FN|361795009|Entire lateral malleolus of fibula (body structure)|9|N||
+C1284268|ENG|S|L2903180|PF|S3285841|Y|A3424005|747453010|361937006||SNOMEDCT_US|FN|361937006|Entire lateral wall of nasopharynx (body structure)|9|N||
+C1284342|ENG|S|L2850562|PF|S3285669|Y|A3423832|747708012|362057005||SNOMEDCT_US|FN|362057005|Entire lateral malleolar arterial network (body structure)|9|N||
+C1284403|ENG|S|L2903193|PF|S3285846|Y|A3424010|747853018|362125007||SNOMEDCT_US|FN|362125007|Entire lateral wall of oropharynx (body structure)|9|N||
+C1284573|ENG|S|L2902559|PF|S3289805|Y|A3428008|748262013|362314009||SNOMEDCT_US|FN|362314009|Entire posterior horn of lateral ventricle (body structure)|9|N||
+C1284574|ENG|S|L2902558|PF|S3284281|Y|A3422436|748264014|362315005||SNOMEDCT_US|FN|362315005|Entire inferior horn of lateral ventricle (body structure)|9|N||
+C1284578|ENG|S|L2896484|PF|S3294375|Y|A3432616|748273018|362319004||SNOMEDCT_US|FN|362319004|Entire tela choroidea of lateral ventricle (body structure)|9|N||
+C1284634|ENG|S|L2902349|PF|S3285701|Y|A3423864|748391014|362375003||SNOMEDCT_US|FN|362375003|Entire lateral nuclear group of thalamus (body structure)|9|N||
+C1284636|ENG|S|L2891774|PF|S3285636|Y|A3423799|748395017|362377006||SNOMEDCT_US|FN|362377006|Entire lateral geniculate body (body structure)|9|N||
+C1284658|ENG|S|L2903156|PF|S3285657|Y|A3423820|748442019|362399003||SNOMEDCT_US|FN|362399003|Entire lateral lemniscus (body structure)|9|N||
+C1284692|ENG|S|L6390481|PF|S7325943|Y|A11725900|2638527011|279444006||SNOMEDCT_US|FN|279444006|Entire lateral gray horn of spinal cord (body structure)|9|N||
+C1284693|ENG|S|L2902101|PF|S3285634|Y|A3423797|748515017|362434006||SNOMEDCT_US|FN|362434006|Entire lateral funiculus (body structure)|9|N||
+C1284762|ENG|S|L2894453|PF|S3285571|Y|A3423734|748709019|362525004||SNOMEDCT_US|FN|362525004|Entire lateral canthus (body structure)|9|N||
+C1284873|ENG|S|L2903192|PF|S3285844|Y|A3424008|748967012|362644001||SNOMEDCT_US|FN|362644001|Entire lateral wall of orbit (body structure)|9|N||
+C1284880|ENG|S|L2903182|PF|S3285743|Y|A3423906|748982019|362651005||SNOMEDCT_US|FN|362651005|Entire lateral portion of neck (body structure)|9|N||
+C1284886|ENG|S|L2903202|PF|S3285760|Y|A3423923|748994011|362657009||SNOMEDCT_US|FN|362657009|Entire lateral region of trunk (body structure)|9|N||
+C1284958|ENG|S|L2849223|PF|S3389004|Y|A3533894|749166011|362737000||SNOMEDCT_US|FN|362737000|Lateral surface of upper arm (surface region) (body structure)|9|N||
+C1284964|ENG|S|L2907035|PF|S3388839|Y|A3533721|749181017|362744009||SNOMEDCT_US|FN|362744009|Lateral margin of forearm (surface region) (body structure)|9|N||
+C1284972|ENG|S|L2906510|PF|S3388984|Y|A3533874|749198017|362752007||SNOMEDCT_US|FN|362752007|Lateral surface of finger (surface region) (body structure)|9|N||
+C1284976|ENG|S|L2910099|PF|S3389001|Y|A3533891|749206017|362756005||SNOMEDCT_US|FN|362756005|Lateral surface of thumb (surface region) (body structure)|9|N||
+C1284980|ENG|S|L2906454|PF|S3388988|Y|A3533878|749217016|362761007||SNOMEDCT_US|FN|362761007|Lateral surface of index finger (surface region) (body structure)|9|N||
+C1284984|ENG|S|L2906505|PF|S3388992|Y|A3533882|749227010|362766002||SNOMEDCT_US|FN|362766002|Lateral surface of middle finger (surface region) (body structure)|9|N||
+C1284988|ENG|S|L2906509|PF|S3388994|Y|A3533884|749238010|362771009||SNOMEDCT_US|FN|362771009|Lateral surface of ring finger (surface region) (body structure)|9|N||
+C1284992|ENG|S|L2906501|PF|S3388990|Y|A3533880|749248012|362776004||SNOMEDCT_US|FN|362776004|Lateral surface of little finger (surface region) (body structure)|9|N||
+C1284998|ENG|S|L2901320|PF|S3285800|Y|A3423964|749261012|362782001||SNOMEDCT_US|FN|362782001|Entire lateral surface of lower extremity (body structure)|9|N||
+C1285006|ENG|S|L2903219|PF|S3285808|Y|A3423972|749278015|362790001||SNOMEDCT_US|FN|362790001|Entire lateral surface of thigh (body structure)|9|N||
+C1285013|ENG|S|L10801853|PF|S13428609|Y|A20829311|2916987018|362797003||SNOMEDCT_US|FN|362797003|Entire lateral surface of lower leg (body structure)|9|N||
+C1285017|ENG|S|L2903168|PF|S3285671|Y|A3423834|749303010|362802009||SNOMEDCT_US|FN|362802009|Entire lateral malleolar region (body structure)|9|N||
+C1285023|ENG|S|L2892660|PF|S3388686|Y|A3533566|749316010|362808008||SNOMEDCT_US|FN|362808008|Lateral border of sole (surface region) (body structure)|9|N||
+C1285028|ENG|S|L2903221|PF|S3285813|Y|A3423977|749327012|362813007||SNOMEDCT_US|FN|362813007|Entire lateral surface of toe (body structure)|9|N||
+C1285031|ENG|S|L2902327|PF|S3285795|Y|A3423958|749335010|362816004||SNOMEDCT_US|FN|362816004|Entire lateral surface of great toe (body structure)|9|N||
+C1285033|ENG|S|L2903209|PF|S3285804|Y|A3423968|749343017|362819006||SNOMEDCT_US|FN|362819006|Entire lateral surface of second toe (body structure)|9|N||
+C1285036|ENG|S|L2903220|PF|S3285811|Y|A3423975|749355011|362824009||SNOMEDCT_US|FN|362824009|Entire lateral surface of third toe (body structure)|9|N||
+C1285039|ENG|S|L2902023|PF|S3285793|Y|A3423956|749364018|362828007||SNOMEDCT_US|FN|362828007|Entire lateral surface of fourth toe (body structure)|9|N||
+C1285042|ENG|S|L2901609|PF|S3285791|Y|A3423954|749374015|362832001||SNOMEDCT_US|FN|362832001|Entire lateral surface of fifth toe (body structure)|9|N||
+C1288320|ENG|S|L2910064|PF|S3564965|Y|A3728029|793857019|367593007||SNOMEDCT_US|FN|367593007|Structure of lateral nasopharynx (body structure)|9|N||
+C1288456|ENG|S|L2851816|PF|S3285594|Y|A3423757|824988017|367778005||SNOMEDCT_US|FN|367778005|Entire lateral costal branch of internal thoracic artery (body structure)|9|N||
+C1288463|ENG|S|L2898258|PF|S3285596|Y|A3423759|825073019|367785009||SNOMEDCT_US|FN|367785009|Entire lateral costotransverse ligament (body structure)|9|N||
+C1288551|ENG|S|L2897823|PF|S3294698|Y|A3432940|826162016|367875001||SNOMEDCT_US|FN|367875001|Entire thoracic spinal cord lateral horn (body structure)|9|N||
+C1288564|ENG|S|L2892590|PF|S3285563|Y|A3423726|826319014|367888003||SNOMEDCT_US|FN|367888003|Entire lateral border of manubrium (body structure)|9|N||
+C1288567|ENG|S|L2891688|PF|S3285559|Y|A3423722|826355018|367891003||SNOMEDCT_US|FN|367891003|Entire lateral border of body of sternum (body structure)|9|N||
+C1288610|ENG|S|L2769292|PF|S3285527|Y|A3423690|828606014|368077008||SNOMEDCT_US|FN|368077008|Entire lateral abdominal wall (body structure)|9|N||
+C1288618|ENG|S|L2901987|PF|S3285647|Y|A3423810|828703012|368085004||SNOMEDCT_US|FN|368085004|Entire lateral inguinal fossa (body structure)|9|N||
+C1288622|ENG|S|L2898530|PF|S3285605|Y|A3423768|828751016|368089005||SNOMEDCT_US|FN|368089005|Entire lateral crus of superficial inguinal ring (body structure)|9|N||
+C1288650|ENG|S|L2811709|PF|S3285603|Y|A3423766|829090016|368117001||SNOMEDCT_US|FN|368117001|Entire lateral crus of greater alar cartilage (body structure)|9|N||
+C1288665|ENG|S|L2898557|PF|S3285607|Y|A3423770|829284013|368133003||SNOMEDCT_US|FN|368133003|Entire lateral cubital region (body structure)|9|N||
+C1288678|ENG|S|L2852151|PF|S3293829|Y|A3432067|829501019|368151002||SNOMEDCT_US|FN|368151002|Entire superior collateral ulnar artery (body structure)|9|N||
+C1288679|ENG|S|L2852150|PF|S3284240|Y|A3422395|829514018|368152009||SNOMEDCT_US|FN|368152009|Entire inferior collateral ulnar artery (body structure)|9|N||
+C1288719|ENG|S|L2892795|PF|S3293896|Y|A3432134|830094011|368200004||SNOMEDCT_US|FN|368200004|Entire superior lateral brachial cutaneous nerve (body structure)|9|N||
+C1288722|ENG|S|L2849204|PF|S3293192|Y|A3431426|830131019|368203002||SNOMEDCT_US|FN|368203002|Entire subcutaneous tissue of lateral surface of upper arm (body structure)|9|N||
+C1288724|ENG|S|L2882150|PF|S3285556|Y|A3423719|830155012|368205009||SNOMEDCT_US|FN|368205009|Entire lateral bicipital sulcus (body structure)|9|N||
+C1288728|ENG|S|L2830984|PF|S3285529|Y|A3423692|830227018|368211007||SNOMEDCT_US|FN|368211007|Entire lateral antebrachial cutaneous nerve (body structure)|9|N||
+C1288732|ENG|S|L2901948|PF|S3293157|Y|A3431391|830276012|368215003||SNOMEDCT_US|FN|368215003|Entire subcutaneous tissue of lateral margin of forearm (body structure)|9|N||
+C1288763|ENG|S|L2897051|PF|S3280983|Y|A3419130|830724014|368252003||SNOMEDCT_US|FN|368252003|Entire collateral ligament of metacarpophalangeal joint (body structure)|9|N||
+C1288777|ENG|S|L2901842|PF|S3285690|Y|A3423853|830917015|368268009||SNOMEDCT_US|FN|368268009|Entire lateral nail fold (body structure)|9|N||
+C1288794|ENG|S|L2901661|PF|S3292067|Y|A3430298|831135018|368286007||SNOMEDCT_US|FN|368286007|Entire skin of lateral surface of index finger (body structure)|9|N||
+C1288795|ENG|S|L2901662|PF|S3293171|Y|A3431405|831147012|368287003||SNOMEDCT_US|FN|368287003|Entire subcutaneous tissue of lateral surface of index finger (body structure)|9|N||
+C1288796|ENG|S|L2901687|PF|S3292073|Y|A3430304|831159011|368288008||SNOMEDCT_US|FN|368288008|Entire skin of lateral surface of middle finger (body structure)|9|N||
+C1288797|ENG|S|L2901688|PF|S3293178|Y|A3431412|831171017|368289000||SNOMEDCT_US|FN|368289000|Entire subcutaneous tissue of lateral surface of middle finger (body structure)|9|N||
+C1288798|ENG|S|L2901689|PF|S3292076|Y|A3430307|831183015|368290009||SNOMEDCT_US|FN|368290009|Entire skin of lateral surface of ring finger (body structure)|9|N||
+C1288799|ENG|S|L2901690|PF|S3293180|Y|A3431414|831195015|368291008||SNOMEDCT_US|FN|368291008|Entire subcutaneous tissue of lateral surface of ring finger (body structure)|9|N||
+C1288800|ENG|S|L2901685|PF|S3292069|Y|A3430300|831208017|368292001||SNOMEDCT_US|FN|368292001|Entire skin of lateral surface of little finger (body structure)|9|N||
+C1288801|ENG|S|L2901686|PF|S3293175|Y|A3431409|831220013|368293006||SNOMEDCT_US|FN|368293006|Entire subcutaneous tissue of lateral surface of little finger (body structure)|9|N||
+C1288802|ENG|S|L2901691|PF|S3292060|Y|A3430291|831232012|368294000||SNOMEDCT_US|FN|368294000|Entire skin of lateral surface of finger (body structure)|9|N||
+C1288803|ENG|S|L2901692|PF|S3293165|Y|A3431399|831244010|368295004||SNOMEDCT_US|FN|368295004|Entire subcutaneous tissue of lateral surface of finger (body structure)|9|N||
+C1288884|ENG|S|L2903212|PF|S3292084|Y|A3430315|832381013|368389003||SNOMEDCT_US|FN|368389003|Entire skin of lateral surface of thumb (body structure)|9|N||
+C1288885|ENG|S|L2903217|PF|S3293188|Y|A3431422|832393016|368390007||SNOMEDCT_US|FN|368390007|Entire subcutaneous tissue of lateral surface of thumb (body structure)|9|N||
+C1288945|ENG|S|L2897075|PF|S3228481|Y|A3362445|741716014|360995008||SNOMEDCT_US|FN|360995008|Collateral ligament of interphalangeal joint of finger (body structure)|9|N||
+C1288945|ENG|S|L2897093|PF|S3561294|Y|A3724278|833132013|368452000||SNOMEDCT_US|FN|368452000|Structure of collateral ligaments of interphalangeal joints of hand (body structure)|9|N||
+C1289000|ENG|S|L2892812|PF|S3285649|Y|A3423812|834137010|368535001||SNOMEDCT_US|FN|368535001|Entire lateral intermuscular brachial septum (body structure)|9|N||
+C1289010|ENG|S|L2892984|PF|S3280699|Y|A3418843|834270012|368546003||SNOMEDCT_US|FN|368546003|Entire cervical nerve lateral branch (body structure)|9|N||
+C1289011|ENG|S|L2870484|PF|S3285545|Y|A3423708|834282015|368547007||SNOMEDCT_US|FN|368547007|Entire lateral axillary lymph node (body structure)|9|N||
+C1289034|ENG|S|L2903204|PF|S3290980|Y|A3429204|834572017|368571000||SNOMEDCT_US|FN|368571000|Entire right lateral ventricle (body structure)|9|N||
+C1289056|ENG|S|L2903151|PF|S3286031|Y|A3424196|834839011|368593005||SNOMEDCT_US|FN|368593005|Entire left lateral ventricle (body structure)|9|N||
+C1289174|ENG|S|L2902216|PF|S3285806|Y|A3423970|836338012|368717007||SNOMEDCT_US|FN|368717007|Entire lateral surface of sublingual gland (body structure)|9|N||
+C1289211|ENG|S|L2858937|PF|S3285537|Y|A3423700|836882010|368762006||SNOMEDCT_US|FN|368762006|Entire lateral aspect of face (body structure)|9|N||
+C1289221|ENG|S|L2894452|PF|S3292049|Y|A3430278|837003012|368772009||SNOMEDCT_US|FN|368772009|Entire skin of lateral canthus (body structure)|9|N||
+C1289228|ENG|S|L2894454|PF|S3293155|Y|A3431389|837088018|368779000||SNOMEDCT_US|FN|368779000|Entire subcutaneous tissue of lateral canthus (body structure)|9|N||
+C1289320|ENG|S|L2852377|PF|S3290047|Y|A3428251|838310013|368880008||SNOMEDCT_US|FN|368880008|Entire posterior, lateral and septal nasal arteries (body structure)|9|N||
+C1289354|ENG|S|L2903169|PF|S3285750|Y|A3423913|838806018|368921009||SNOMEDCT_US|FN|368921009|Entire lateral process of malleus (body structure)|9|N||
+C1289358|ENG|S|L2903157|PF|S3285663|Y|A3423826|838855010|368925000||SNOMEDCT_US|FN|368925000|Entire lateral ligament of malleus (body structure)|9|N||
+C1289381|ENG|S|L2842055|PF|S3285839|Y|A3424003|839133011|368948005||SNOMEDCT_US|FN|368948005|Entire lateral wall of mastoid antrum (body structure)|9|N||
+C1289452|ENG|S|L2903155|PF|S3285658|Y|A3423821|840041016|369023003||SNOMEDCT_US|FN|369023003|Entire lateral lemniscus nucleus (body structure)|9|N||
+C1289491|ENG|S|L2902100|PF|S3287343|Y|A3425517|840512019|369062007||SNOMEDCT_US|FN|369062007|Entire medulla oblongata lateral funiculus (body structure)|9|N||
+C1289502|ENG|S|L2903173|PF|S3287345|Y|A3425519|840670014|369075007||SNOMEDCT_US|FN|369075007|Entire medulla oblongata lateral nucleus (body structure)|9|N||
+C1289518|ENG|S|L2898160|PF|S3285592|Y|A3423755|840863012|369091005||SNOMEDCT_US|FN|369091005|Entire lateral corticospinal tract (body structure)|9|N||
+C1289531|ENG|S|L2902364|PF|S3285709|Y|A3423872|841021019|369104008||SNOMEDCT_US|FN|369104008|Entire lateral olfactory gyrus (body structure)|9|N||
+C1289534|ENG|S|L2903190|PF|S3285711|Y|A3423874|841057012|369107001||SNOMEDCT_US|FN|369107001|Entire lateral olfactory striae (body structure)|9|N||
+C1289556|ENG|S|L2903186|PF|S3285745|Y|A3423908|841323014|369129002||SNOMEDCT_US|FN|369129002|Entire lateral preoptic nucleus (body structure)|9|N||
+C1289570|ENG|S|L2903170|PF|S3285676|Y|A3423839|841493017|369143007||SNOMEDCT_US|FN|369143007|Entire lateral mammillary nucleus (body structure)|9|N||
+C1289598|ENG|S|L2904206|PF|S3295794|Y|A3434045|841831010|369171001||SNOMEDCT_US|FN|369171001|Entire ventral posterolateral nucleus of thalamus (body structure)|9|N||
+C1289601|ENG|S|L2903187|PF|S3295783|Y|A3434034|841868013|369174009||SNOMEDCT_US|FN|369174009|Entire ventral lateral nucleus of thalamus (body structure)|9|N||
+C1289604|ENG|S|L2903195|PF|S3285722|Y|A3423885|841904013|369177002||SNOMEDCT_US|FN|369177002|Entire lateral part of pulvinar (body structure)|9|N||
+C1289626|ENG|S|L2903112|PF|S3285682|Y|A3423845|842231016|369204004||SNOMEDCT_US|FN|369204004|Entire lateral medullary lamina (body structure)|9|N||
+C1289640|ENG|S|L2902362|PF|S3285703|Y|A3423866|842400014|369218006||SNOMEDCT_US|FN|369218006|Entire lateral occipital gyrus (body structure)|9|N||
+C1289641|ENG|S|L2903189|PF|S3285705|Y|A3423868|842412013|369219003||SNOMEDCT_US|FN|369219003|Entire lateral occipital sulcus (body structure)|9|N||
+C1289652|ENG|S|L2897045|PF|S3280976|Y|A3419123|842545011|369230000||SNOMEDCT_US|FN|369230000|Entire collateral eminence (body structure)|9|N||
+C1289658|ENG|S|L2900409|PF|S3288366|Y|A3426544|842630011|369237002||SNOMEDCT_US|FN|369237002|Entire oculomotor nerve dorsolateral nucleus (body structure)|9|N||
+C1289693|ENG|S|L2901158|PF|S3282369|Y|A3420520|843079013|369275002||SNOMEDCT_US|FN|369275002|Entire ependyma of lateral ventricle (body structure)|9|N||
+C1289701|ENG|S|L2902020|PF|S3285754|Y|A3423917|843175016|369283008||SNOMEDCT_US|FN|369283008|Entire lateral recess of fourth ventricle (body structure)|9|N||
+C1289704|ENG|S|L2903214|PF|S3285784|Y|A3423947|843212019|369286000||SNOMEDCT_US|FN|369286000|Entire lateral spinothalamic tract (body structure)|9|N||
+C1289705|ENG|S|L2900410|PF|S3282116|Y|A3420266|843224014|369287009||SNOMEDCT_US|FN|369287009|Entire dorsolateral tract (body structure)|9|N||
+C1289709|ENG|S|L2903191|PF|S3285766|Y|A3423929|843272010|369291004||SNOMEDCT_US|FN|369291004|Entire lateral root of optic tract (body structure)|9|N||
+C1289713|ENG|S|L2833415|PF|S3278982|Y|A3417121|843321016|369295008||SNOMEDCT_US|FN|369295008|Entire anterolateral branch of circle of Willis (body structure)|9|N||
+C1289714|ENG|S|L2892999|PF|S3290049|Y|A3428253|843333014|369296009||SNOMEDCT_US|FN|369296009|Entire posterolateral branch of circle of Willis (body structure)|9|N||
+C1289723|ENG|S|L2852378|PF|S3285713|Y|A3423876|843659018|369323008||SNOMEDCT_US|FN|369323008|Entire lateral palpebral artery (body structure)|9|N||
+C1289739|ENG|S|L2903106|PF|S3285653|Y|A3423816|844083015|369358005||SNOMEDCT_US|FN|369358005|Entire lateral lacunae of superior sagittal sinus (body structure)|9|N||
+C1298205|ENG|S|L14531758|PF|S17631799|Y|A28891042|3636147017|370083006||SNOMEDCT_US|FN|370083006|Structure of left lateral portion of upper third of esophagus (body structure)|9|N||
+C1298206|ENG|S|L14531786|PF|S17632097|Y|A28886622|3636151015|370084000||SNOMEDCT_US|FN|370084000|Structure of right lateral portion of upper third of esophagus (body structure)|9|N||
+C1298210|ENG|S|L14531757|PF|S17631797|Y|A28893300|3636154011|370088002||SNOMEDCT_US|FN|370088002|Structure of left lateral portion of middle third of oesophagus (body structure)|9|N||
+C1298211|ENG|S|L14516483|PF|S17632094|Y|A28911065|3636157016|370089005||SNOMEDCT_US|FN|370089005|Structure of right lateral portion of middle third of esophagus (body structure)|9|N||
+C1298215|ENG|S|L14516442|PF|S17631793|Y|A28899849|3636160011|370093004||SNOMEDCT_US|FN|370093004|Structure of left lateral portion of lower third of esophagus (body structure)|9|N||
+C1298216|ENG|S|L14518977|PF|S17632091|Y|A28891044|3636164019|370094005||SNOMEDCT_US|FN|370094005|Structure of right lateral portion of lower third of esophagus (body structure)|9|N||
+C1299160|ENG|S|L2910053|PF|S3388847|Y|A3533729|1197488010|372195004||SNOMEDCT_US|FN|372195004|Lateral meniscus part (body structure)|9|N||
+C1299263|ENG|S|L8902886|PF|S11061128|Y|A16953464|2817547013|371949008||SNOMEDCT_US|FN|371949008|Basal inferolateral segment of cardiac ventricle (body structure)|9|N||
+C1299264|ENG|S|L2833409|PF|S3628221|Y|A3795816|1197243012|371950008||SNOMEDCT_US|FN|371950008|Basal anterolateral segment of cardiac ventricle (body structure)|9|N||
+C1299407|ENG|S|L2843893|PF|S3505950|Y|A3660709|1197234015|371941006||SNOMEDCT_US|FN|371941006|Apical lateral segment of cardiac ventricle (body structure)|9|N||
+C1299411|ENG|S|L2833417|PF|S3416405|Y|A3563208|1197238017|371945002||SNOMEDCT_US|FN|371945002|Mid anterolateral segment of cardiac ventricle (body structure)|9|N||
+C1299412|ENG|S|L2894808|PF|S3416427|Y|A3563231|1197239013|371946001||SNOMEDCT_US|FN|371946001|Mid inferolateral segment of cardiac ventricle (body structure)|9|N||
+C1300909|ENG|S|L2875420|PF|S3390136|Y|A3535108|1764569010|396652009||SNOMEDCT_US|FN|396652009|Left ventricle basal inferolateral segment (body structure)|9|N||
+C1300911|ENG|S|L2833410|PF|S3390130|Y|A3535102|1764571010|396654005||SNOMEDCT_US|FN|396654005|Left ventricle basal anterolateral segment (body structure)|9|N||
+C1300912|ENG|S|L2908966|PF|S3390152|Y|A3535124|1764572015|396655006||SNOMEDCT_US|FN|396655006|Left ventricle mid inferolateral segment (body structure)|9|N||
+C1300913|ENG|S|L2833421|PF|S3390146|Y|A3535118|1764573013|396656007||SNOMEDCT_US|FN|396656007|Left ventricle mid anterolateral segment (body structure)|9|N||
+C1302198|ENG|S|L2829475|PF|S3388853|Y|A3533735|1767006019|399086000||SNOMEDCT_US|FN|399086000|Lateral mitral annulus structure (body structure)|9|N||
+C1305083|ENG|S|L2902953|PF|S3285665|Y|A3423828|634413015|244582009||SNOMEDCT_US|FN|244582009|Entire lateral ligament of temporomandibular joint (body structure)|9|N||
+C1305133|ENG|S|L2875398|PF|S3285554|Y|A3423717|747542018|361979000||SNOMEDCT_US|FN|361979000|Entire lateral basal segment of right lower lobe of lung (body structure)|9|N||
+C1305135|ENG|S|L2875397|PF|S3285552|Y|A3423715|747570016|361992002||SNOMEDCT_US|FN|361992002|Entire lateral basal segment of left lower lobe of lung (body structure)|9|N||
+C1305172|ENG|S|L2851705|PF|S3286110|Y|A3424275|656372013|264161002||SNOMEDCT_US|FN|264161002|Entire left posterior lateral branch of circumflex branch of left coronary artery (body structure)|9|N||
+C1305260|ENG|S|L2897443|PF|S3285584|Y|A3423747|635272014|245355006||SNOMEDCT_US|FN|245355006|Entire lateral common iliac lymph node (body structure)|9|N||
+C1305263|ENG|S|L2901286|PF|S3285619|Y|A3423782|635279017|245361009||SNOMEDCT_US|FN|245361009|Entire lateral external iliac lymph node (body structure)|9|N||
+C1305312|ENG|S|L2903174|PF|S3285686|Y|A3423849|565817012|182449005||SNOMEDCT_US|FN|182449005|Entire lateral meniscus (body structure)|9|N||
+C1305419|ENG|S|L2901947|PF|S3292051|Y|A3430280|633933019|244153000||SNOMEDCT_US|FN|244153000|Entire skin of lateral margin of forearm (body structure)|9|N||
+C1306481|ENG|S|L2898601|PF|S3285611|Y|A3423774|565443018|182117003||SNOMEDCT_US|FN|182117003|Entire lateral cuneiform (body structure)|9|N||
+C1321531|ENG|S|L2903175|PF|S3285752|Y|A3423915|634624011|244772005||SNOMEDCT_US|FN|244772005|Entire lateral pterygoid muscle (body structure)|9|N||
+C1532943|ENG|S|L5429038|PF|S6215810|Y|A7882279|2531423017|415639001||SNOMEDCT_US|FN|415639001|Structure of lateral pterygoid plate (body structure)|9|N||
+C1533616|ENG|S|L2898799|PF|S3561777|Y|A3724787|741106010|14770005||SNOMEDCT_US|FN|14770005|Structure of deciduous mandibular left lateral incisor tooth (body structure)|9|N||
+C1563270|ENG|S|L5542359|PF|S6349515|Y|A8392944|2546002016|417315000||SNOMEDCT_US|FN|417315000|Structure of inferior lateral angle of sacrum (body structure)|9|N||
+C1621382|ENG|S|L2802545|PF|S3642145|Y|A3810273|513893012|134315000||SNOMEDCT_US|FN|134315000|Bilateral adrenal glands (body structure)|9|N||
+C1637294|ENG|S|L5847571|PF|S6696101|Y|A9415824|2573311013|418079008||SNOMEDCT_US|FN|418079008|Skin structure of lateral malleolus (body structure)|9|N||
+C1720058|ENG|S|L6390099|PF|S7331740|Y|A11728560|2639096010|421371008||SNOMEDCT_US|FN|421371008|Structure of half of head lateral to midsagittal plane (body structure)|9|N||
+C1744529|ENG|S|L11795031|PF|S14683165|Y|A24253938|3011155011|44544003||SNOMEDCT_US|FN|44544003|Structure of lateral rectus capitis muscle (body structure)|9|N||
+C1761563|ENG|S|L2902597|PF|S7325945|Y|A11723792|2638695015|360452004||SNOMEDCT_US|FN|360452004|Entire lateral hypothalamic nucleus (body structure)|9|N||
+C1761575|ENG|S|L6391489|PF|S7325807|Y|A11739240|2638570011|279153005||SNOMEDCT_US|FN|279153005|Entire central lateral nucleus of thalamus (body structure)|9|N||
+C1761576|ENG|S|L6391523|PF|S7326089|Y|A11737033|2638469012|279126006||SNOMEDCT_US|FN|279126006|Entire nucleus of lateral nuclear group of thalamus (body structure)|9|N||
+C1761577|ENG|S|L6395419|PF|S7325939|Y|A11723720|2638571010|279154004||SNOMEDCT_US|FN|279154004|Entire lateral dorsal nucleus of thalamus (body structure)|9|N||
+C1761578|ENG|S|L6393481|PF|S7325949|Y|A11730371|2638572015|279155003||SNOMEDCT_US|FN|279155003|Entire lateral posterior nucleus of thalamus (body structure)|9|N||
+C1827000|ENG|S|L6393105|PF|S7331811|Y|A11728970|2639301018|422365004||SNOMEDCT_US|FN|422365004|Structure of lateral incisor tooth (body structure)|9|N||
+C1827001|ENG|S|L6390482|PF|S7325947|Y|A11726707|2639302013|422366003||SNOMEDCT_US|FN|422366003|Entire lateral incisor tooth (body structure)|9|N||
+C1827394|ENG|S|L6393072|PF|S7331559|Y|A11729257|2639330013|422525002||SNOMEDCT_US|FN|422525002|Structure of bilateral paired structures (body structure)|9|N||
+C1827422|ENG|S|L6395090|PF|S7332043|Y|A11733710|2639358017|423185002||SNOMEDCT_US|FN|423185002|Structure of permanent maxillary left lateral incisor tooth (body structure)|9|N||
+C1827535|ENG|S|L6395060|PF|S7331736|Y|A11724870|2639406010|423857001||SNOMEDCT_US|FN|423857001|Structure of half of body lateral to midsagittal plane (body structure)|9|N||
+C1827591|ENG|S|L6393096|PF|S7331748|Y|A11724922|2639407018|422614002||SNOMEDCT_US|FN|422614002|Structure of half of thorax lateral to midsagittal plane (body structure)|9|N||
+C1827595|ENG|S|L6389044|PF|S7331738|Y|A11729385|2639410013|422624005||SNOMEDCT_US|FN|422624005|Structure of half of face lateral to midsagittal plane (body structure)|9|N||
+C1827675|ENG|S|L6393093|PF|S7331742|Y|A11727158|2639409015|425207000||SNOMEDCT_US|FN|425207000|Structure of half of neck lateral to midsagittal plane (body structure)|9|N||
+C1827730|ENG|S|L6391158|PF|S7332039|Y|A11740562|2639355019|423937004||SNOMEDCT_US|FN|423937004|Structure of permanent mandibular right lateral incisor tooth (body structure)|9|N||
+C1827794|ENG|S|L6390100|PF|S7331750|Y|A11731707|2639408011|422697005||SNOMEDCT_US|FN|422697005|Structure of half of trunk lateral to midsagittal plane (body structure)|9|N||
+C1827807|ENG|S|L6389073|PF|S7332035|Y|A11740639|2639356018|423331005||SNOMEDCT_US|FN|423331005|Structure of permanent mandibular left lateral incisor tooth (body structure)|9|N||
+C1827877|ENG|S|L6390097|PF|S7331734|Y|A11738456|2639413010|422723007||SNOMEDCT_US|FN|422723007|Structure of half of abdomen lateral to midsagittal plane (body structure)|9|N||
+C1827989|ENG|S|L6395062|PF|S7331744|Y|A11734114|2639293014|422772000||SNOMEDCT_US|FN|422772000|Structure of half of scalp lateral to midsagittal plane (body structure)|9|N||
+C1828240|ENG|S|L13766338|PF|S16788869|Y|A27763420|3324219010|422891008||SNOMEDCT_US|FN|422891008|Entire structure of tributary of lateral thoracic vein (body structure)|9|N||
+C1828371|ENG|S|L6390127|PF|S7332047|Y|A11736650|2639360015|424877001||SNOMEDCT_US|FN|424877001|Structure of permanent maxillary right lateral incisor tooth (body structure)|9|N||
+C1828475|ENG|S|L6390520|PF|S7326190|Y|A11725925|2638547015|279291001||SNOMEDCT_US|FN|279291001|Entire spinal cord ventrolateral sulcus (body structure)|9|N||
+C1831585|ENG|S|L6390480|PF|S7325937|Y|A11725097|2639393012|425321001||SNOMEDCT_US|FN|425321001|Entire lateral branch of left portal vein (body structure)|9|N||
+C1998020|ENG|S|L6924552|PF|S8063205|Y|A13364289|2690302015|428859000||SNOMEDCT_US|FN|428859000|Structure of half of brain lateral to midsagittal plane (body structure)|9|N||
+C2585846|ENG|S|L8519086|PF|S10606850|Y|A16371394|2786823013|440343000||SNOMEDCT_US|FN|440343000|Lateral aspect of heel (body structure)|9|N||
+C2586062|ENG|S|L8521224|PF|S10610329|Y|A16379617|2788845016|439981005||SNOMEDCT_US|FN|439981005|Structure of lateral condyle of humerus (body structure)|9|N||
+C2586199|ENG|S|L8519932|PF|S10606848|Y|A16359894|2788301010|439357006||SNOMEDCT_US|FN|439357006|Lateral aspect of fifth metatarsophalangeal joint (body structure)|9|N||
+C2711170|ENG|S|L8904153|PF|S11064588|Y|A16963003|2816782019|441569000||SNOMEDCT_US|FN|441569000|Structure of lateral region of plantar surface of midfoot (body structure)|9|N||
+C2711488|ENG|S|L8905532|PF|S11064590|Y|A16966577|2817080010|441621007||SNOMEDCT_US|FN|441621007|Structure of lateral surface of lower leg (body structure)|9|N||
+C2711613|ENG|S|L8903696|PF|S11064610|Y|A16960825|2816553017|441501004||SNOMEDCT_US|FN|441501004|Structure of right lateral rectus muscle (body structure)|9|N||
+C2711744|ENG|S|L8903690|PF|S11064594|Y|A16956895|2816328016|441514003||SNOMEDCT_US|FN|441514003|Structure of left lateral rectus muscle (body structure)|9|N||
+C3495368|ENG|P|L2910024|PF|S3564929|N|A3727993|760692016|29762003||SNOMEDCT_US|FN|29762003|Structure of lateral lemniscus nucleus (body structure)|9|N|256|
+C3495368|ENG|P|L2910024|PF|S3564929|Y|A21191581||||MTH|PN|NOCODE|Structure of lateral lemniscus nucleus (body structure)|0|N|256|
+C3665416|ENG|S|L11416266|PF|S14188259|Y|A23453241|2986196012|699904006||SNOMEDCT_US|FN|699904006|Skin structure of lateral chest wall (body structure)|9|N||
+C3696933|ENG|S|L11409980|PF|S14179293|Y|A23474174|2987028014|699941007||SNOMEDCT_US|FN|699941007|Entire lateral chest wall (body structure)|9|N||
+C3697033|ENG|S|L11412182|PF|S14188802|Y|A23457444|2985312012|699639008||SNOMEDCT_US|FN|699639008|Structure of lateral part of lower limb (body structure)|9|N||
+C3697107|ENG|S|L11418270|PF|S14179314|Y|A23460081|2987434014|699905007||SNOMEDCT_US|FN|699905007|Entire skin of lateral cubital region of upper limb (body structure)|9|N||
+C3697111|ENG|S|L11409430|PF|S14188798|Y|A23457434|2985305015|699638000||SNOMEDCT_US|FN|699638000|Structure of lateral half of anterior abdominal wall (body structure)|9|N||
+C3697187|ENG|S|L11413028|PF|S14183931|Y|A23460073|2984797014|699511000||SNOMEDCT_US|FN|699511000|Lateral incisor region of oral cavity (body structure)|9|N||
+C3697342|ENG|S|L11409431|PF|S14188806|Y|A23460055|2987422018|700007009||SNOMEDCT_US|FN|700007009|Structure of lateral pelvic girdle (body structure)|9|N||
+C3697413|ENG|S|L11409367|PF|S14188261|Y|A23470517|2986245015|699906008||SNOMEDCT_US|FN|699906008|Skin structure of lateral half of anterior abdominal wall (body structure)|9|N||
+C3697424|ENG|S|L11419005|PF|S14188265|Y|A23471405|2986242017|699909001||SNOMEDCT_US|FN|699909001|Skin structure of lateral part of heel (body structure)|9|N||
+C3697521|ENG|S|L11416321|PF|S14188804|Y|A23471389|2985270010|699622006||SNOMEDCT_US|FN|699622006|Structure of lateral part of scrotum (body structure)|9|N||
+C3697522|ENG|S|L11414843|PF|S14188269|Y|A23472787|2986232019|699911005||SNOMEDCT_US|FN|699911005|Skin structure of lateral part of scrotum (body structure)|9|N||
+C3697856|ENG|S|L11416320|PF|S14188800|Y|A23453316|2985239019|699629002||SNOMEDCT_US|FN|699629002|Structure of lateral part of heel (body structure)|9|N||
+C3697896|ENG|S|L11410819|PF|S14188808|Y|A23469954|2987311016|700004002||SNOMEDCT_US|FN|700004002|Structure of lateral ulnar collateral ligament of elbow (body structure)|9|N||
+C3697986|ENG|S|L11419057|PF|S14188698|Y|A23466919|2987309013|700005001||SNOMEDCT_US|FN|700005001|Structure of accessory lateral collateral ligament of elbow (body structure)|9|N||
+C3698049|ENG|S|L11412180|PF|S14188794|Y|A23461625|2985216013|699637005||SNOMEDCT_US|FN|699637005|Structure of lateral chest wall (body structure)|9|N||
+C3698061|ENG|S|L11413476|PF|S14188263|Y|A23460327|2986197015|699907004||SNOMEDCT_US|FN|699907004|Skin structure of lateral half of face (body structure)|9|N||
+C3698111|ENG|S|L11416319|PF|S14188796|Y|A23457223|2987308017|700003008||SNOMEDCT_US|FN|700003008|Structure of lateral collateral ligament complex of elbow (body structure)|9|N||
+C3698128|ENG|S|L11410748|PF|S14188267|Y|A23459855|2986191019|699910006||SNOMEDCT_US|FN|699910006|Skin structure of lateral part of lower limb (body structure)|9|N||
+C4075128|ENG|S|L13112831|PF|S16055875|Y|A26577724|3300131019|714756002||SNOMEDCT_US|FN|714756002|Entire lateral calf perforator (body structure)|9|N||
+C4075130|ENG|S|L13115344|PF|S16064085|Y|A26581380|3300127013|714754004||SNOMEDCT_US|FN|714754004|Structure of lateral calf perforator (body structure)|9|N||
+C4075303|ENG|S|L13115347|PF|S16064090|Y|A26584358|3299465015|714467002||SNOMEDCT_US|FN|714467002|Structure of lateral vertebral muscle of neck (body structure)|9|N||
+C4075320|ENG|S|L13114415|PF|S16055879|Y|A26582299|3299393015|714468007||SNOMEDCT_US|FN|714468007|Entire lateral vertebral muscle of neck (body structure)|9|N||
+C4076640|ENG|S|L13104711|PF|S16055877|Y|A26591218|3286144017|712864003||SNOMEDCT_US|FN|712864003|Entire lateral fascial compartment of neck (body structure)|9|N||
+C4076641|ENG|S|L13115345|PF|S16064087|Y|A26593169|3286141013|712863009||SNOMEDCT_US|FN|712863009|Structure of lateral fascial compartment of neck (body structure)|9|N||
+C4273861|ENG|S|L13499207|PF|S16491741|Y|A27172710|3310325019|716938006||SNOMEDCT_US|FN|716938006|Structure of posterolateral apical part of peripheral zone of right half prostate (body structure)|9|N||
+C4274097|ENG|S|L13499578|PF|S16488392|Y|A27170327|3308210010|716969005||SNOMEDCT_US|FN|716969005|Entire lateral middle regional part of peripheral zone of left half prostate (body structure)|9|N||
+C4274121|ENG|S|L13497401|PF|S16488427|Y|A27170699|3308104018|716989006||SNOMEDCT_US|FN|716989006|Entire posterolateral apical part of peripheral zone of right half prostate (body structure)|9|N||
+C4274123|ENG|S|L13495192|PF|S16488425|Y|A27170184|3308100010|716990002||SNOMEDCT_US|FN|716990002|Entire posterolateral apical part of peripheral zone of left half prostate (body structure)|9|N||
+C4274138|ENG|S|L13498141|PF|S16488433|Y|A27171065|3308068015|716973008||SNOMEDCT_US|FN|716973008|Entire posterolateral middle regional part of peripheral zone of left half prostate (body structure)|9|N||
+C4274139|ENG|S|L13498142|PF|S16488435|Y|A27170956|3308066016|716972003||SNOMEDCT_US|FN|716972003|Entire posterolateral middle regional part of peripheral zone of right half prostate (body structure)|9|N||
+C4274142|ENG|S|L13500697|PF|S16491694|Y|A27174085|3308060010|716918005||SNOMEDCT_US|FN|716918005|Structure of lateral middle regional part of peripheral zone of left half prostate (body structure)|9|N||
+C4274143|ENG|S|L13496258|PF|S16491696|Y|A27173723|3308058013|716917000||SNOMEDCT_US|FN|716917000|Structure of lateral middle regional part of peripheral zone of right half prostate (body structure)|9|N||
+C4274152|ENG|S|L13495193|PF|S16488429|Y|A27169421|3308036011|716958007||SNOMEDCT_US|FN|716958007|Entire posterolateral basal part of peripheral zone of left half prostate (body structure)|9|N||
+C4274153|ENG|S|L13499582|PF|S16488431|Y|A27170182|3308034014|716957002||SNOMEDCT_US|FN|716957002|Entire posterolateral basal part of peripheral zone of right half prostate (body structure)|9|N||
+C4274168|ENG|S|L13495533|PF|S16491739|Y|A27172544|3308000013|716939003||SNOMEDCT_US|FN|716939003|Structure of posterolateral apical part of peripheral zone of left half prostate (body structure)|9|N||
+C4274180|ENG|S|L13500704|PF|S16491747|Y|A27169298|3307972016|716922000||SNOMEDCT_US|FN|716922000|Structure of posterolateral middle regional part of peripheral zone of left half prostate (body structure)|9|N||
+C4274184|ENG|S|L13497033|PF|S16491749|Y|A27173318|3307964018|716921007||SNOMEDCT_US|FN|716921007|Structure of posterolateral middle regional part of peripheral zone of right half prostate (body structure)|9|N||
+C4274187|ENG|S|L13496649|PF|S16488394|Y|A27169797|3307958013|716968002||SNOMEDCT_US|FN|716968002|Entire lateral middle regional part of peripheral zone of right half prostate (body structure)|9|N||
+C4274197|ENG|S|L13497748|PF|S16491743|Y|A27173589|3307934014|716907005||SNOMEDCT_US|FN|716907005|Structure of posterolateral basal part of peripheral zone of left half prostate (body structure)|9|N||
+C4274198|ENG|S|L13500703|PF|S16491745|Y|A27171408|3307932013|716906001||SNOMEDCT_US|FN|716906001|Structure of posterolateral basal part of peripheral zone of right half prostate (body structure)|9|N||
+C4302328|ENG|S|L13769054|PF|S16796286|Y|A27767055|3333264012|722730007||SNOMEDCT_US|FN|722730007|Structure of lateral meniscus of right knee joint (body structure)|9|N||
+C4302329|ENG|S|L13763513|PF|S16796284|Y|A27768904|3333262011|722729002||SNOMEDCT_US|FN|722729002|Structure of lateral meniscus of left knee joint (body structure)|9|N||
+C4509791|ENG|S|L14217446|PF|S17287255|Y|A28463451|3335298018|723272004||SNOMEDCT_US|FN|723272004|Structure of medial collateral ligament of left knee joint (body structure)|9|N||
+C4509792|ENG|S|L14183909|PF|S17287257|Y|A28466671|3335302014|723273009||SNOMEDCT_US|FN|723273009|Structure of medial collateral ligament of right knee joint (body structure)|9|N||
+C4509966|ENG|S|L14211803|PF|S17287189|Y|A28412453|3425270011|723614000||SNOMEDCT_US|FN|723614000|Structure of lateral epicondyle of right humerus (body structure)|9|N||
+C4509967|ENG|S|L14206148|PF|S17287187|Y|A28453521|3425272015|723615004||SNOMEDCT_US|FN|723615004|Structure of lateral epicondyle of left humerus (body structure)|9|N||
+C4512086|ENG|S|L14202137|PF|S17251920|Y|A28454729|3452664015|726830004||SNOMEDCT_US|FN|726830004|Entire lateral spinorubral tract (body structure)|9|N||
+C4512105|ENG|S|L14196641|PF|S17251872|Y|A28468984|3452706014|726851001||SNOMEDCT_US|FN|726851001|Entire lateral fontanel of skull (body structure)|9|N||
+C4512178|ENG|S|L14202256|PF|S17252786|Y|A28404867|3452856012|726926001||SNOMEDCT_US|FN|726926001|Entire medulla oblongata dorsal lateral sulcus (body structure)|9|N||
+C4512266|ENG|S|L14207669|PF|S17251856|Y|A28462520|3453040011|727018004||SNOMEDCT_US|FN|727018004|Entire lateral femoral intermuscular septum (body structure)|9|N||
+C4512270|ENG|S|L14185428|PF|S17251902|Y|A28460313|3453048016|727022009||SNOMEDCT_US|FN|727022009|Entire lateral proper fasciculus (body structure)|9|N||
+C4512306|ENG|S|L14202132|PF|S17251904|Y|A28402707|3453124011|727060000||SNOMEDCT_US|FN|727060000|Entire lateral pterygoid nerve (body structure)|9|N||
+C4512325|ENG|S|L14213341|PF|S17251852|Y|A28432130|3453162014|727079002||SNOMEDCT_US|FN|727079002|Entire lateral cutaneous branch of lumbosacral plexus (body structure)|9|N||
+C4512337|ENG|S|L14174239|PF|S17251838|Y|A28454738|3453188012|727092004||SNOMEDCT_US|FN|727092004|Entire lateral cartilaginous lamina of Eustachian tube (body structure)|9|N||
+C4512381|ENG|S|L14185529|PF|S17252802|Y|A28451511|3453280010|727138001||SNOMEDCT_US|FN|727138001|Entire medulla oblongata ventral lateral sulcus (body structure)|9|N||
+C4512394|ENG|S|L14196635|PF|S17251814|Y|A28454742|3453308019|727152004||SNOMEDCT_US|FN|727152004|Entire lateral aperture of fourth ventricle (body structure)|9|N||
+C4512395|ENG|S|L14174174|PF|S17251250|Y|A28405912|3453310017|727153009||SNOMEDCT_US|FN|727153009|Entire inferior lateral cutaneous brachial nerve (body structure)|9|N||
+C4512469|ENG|S|L14208213|PF|S17256329|Y|A28434248|3453460012|727228003||SNOMEDCT_US|FN|727228003|Entire superior lateral inguinal lymph node (body structure)|9|N||
+C4512503|ENG|S|L14191074|PF|S17251900|Y|A28460319|3453536011|727266000||SNOMEDCT_US|FN|727266000|Entire lateral posterior supraclavicular nerves (body structure)|9|N||
+C4512730|ENG|S|L14185424|PF|S17251878|Y|A28427808|3454016012|727506004||SNOMEDCT_US|FN|727506004|Entire lateral high right atrium (body structure)|9|N||
+C4512804|ENG|S|L14202129|PF|S17251850|Y|A28445024|3454164017|727580008||SNOMEDCT_US|FN|727580008|Entire lateral cutaneous branch of T12 (body structure)|9|N||
+C4512830|ENG|S|L14207665|PF|S17251832|Y|A28419045|3454216018|727606007||SNOMEDCT_US|FN|727606007|Entire lateral branch of abdominal aorta (body structure)|9|N||
+C4512843|ENG|S|L14202628|PF|S17255717|Y|A28441767|3454242018|727619006||SNOMEDCT_US|FN|727619006|Entire skin of lateral half of thoracic segment of trunk (body structure)|9|N||
+C4512855|ENG|S|L14213839|PF|S17255725|Y|A28443939|3454266012|727631008||SNOMEDCT_US|FN|727631008|Entire skin of lateral surface of knee (body structure)|9|N||
+C4512859|ENG|S|L14197113|PF|S17255703|Y|A28454763|3454274013|727635004||SNOMEDCT_US|FN|727635004|Entire skin of lateral aspect of ankle (body structure)|9|N||
+C4512861|ENG|S|L14180334|PF|S17255705|Y|A28441769|3454278011|727637007||SNOMEDCT_US|FN|727637007|Entire skin of lateral border of foot (body structure)|9|N||
+C4512902|ENG|S|L14191306|PF|S17253837|Y|A28423486|3454360016|727678009||SNOMEDCT_US|FN|727678009|Entire orbital complex of bones - lateral wall (body structure)|9|N||
+C4512942|ENG|S|L14196638|PF|S17251828|Y|A28437426|3454442015|727719003||SNOMEDCT_US|FN|727719003|Entire lateral border of patella (body structure)|9|N||
+C4512945|ENG|S|L14191080|PF|S17251942|Y|A28459235|3454448016|727722001||SNOMEDCT_US|FN|727722001|Entire lateral tubercle of calcaneum (body structure)|9|N||
+C4512969|ENG|S|L14213336|PF|S17251822|Y|A28421275|3454496016|727746008||SNOMEDCT_US|FN|727746008|Entire lateral aspect of knee (body structure)|9|N||
+C4512973|ENG|S|L14202125|PF|S17251816|Y|A28404897|3454504011|727750001||SNOMEDCT_US|FN|727750001|Entire lateral aspect of ankle (body structure)|9|N||
+C4513011|ENG|S|L14196329|PF|S17249329|Y|A28467904|3454580016|727788004||SNOMEDCT_US|FN|727788004|Entire collateral ligament of metacarpophalangeal joint of thumb (body structure)|9|N||
+C4513012|ENG|S|L14201842|PF|S17249315|Y|A28414786|3454582012|727789007||SNOMEDCT_US|FN|727789007|Entire collateral ligament of interphalangeal joint of thumb (body structure)|9|N||
+C4513013|ENG|S|L14190742|PF|S17249321|Y|A28408139|3454584013|727790003||SNOMEDCT_US|FN|727790003|Entire collateral ligament of metacarpophalangeal joint of index finger (body structure)|9|N||
+C4513014|ENG|S|L14190743|PF|S17249325|Y|A28411487|3454586010|727791004||SNOMEDCT_US|FN|727791004|Entire collateral ligament of metacarpophalangeal joint of middle finger (body structure)|9|N||
+C4513015|ENG|S|L14185096|PF|S17249327|Y|A28435308|3454588011|727792006||SNOMEDCT_US|FN|727792006|Entire collateral ligament of metacarpophalangeal joint of ring finger (body structure)|9|N||
+C4513016|ENG|S|L14179507|PF|S17249323|Y|A28466839|3454590012|727793001||SNOMEDCT_US|FN|727793001|Entire collateral ligament of metacarpophalangeal joint of little finger (body structure)|9|N||
+C4513017|ENG|S|L14190744|PF|S17249335|Y|A28401693|3454592016|727794007||SNOMEDCT_US|FN|727794007|Entire collateral ligament of proximal interphalangeal joint of index finger (body structure)|9|N||
+C4513018|ENG|S|L14196331|PF|S17249339|Y|A28414788|3454594015|727795008||SNOMEDCT_US|FN|727795008|Entire collateral ligament of proximal interphalangeal joint of middle finger (body structure)|9|N||
+C4513019|ENG|S|L14207358|PF|S17249341|Y|A28438528|3454596018|727796009||SNOMEDCT_US|FN|727796009|Entire collateral ligament of proximal interphalangeal joint of ring finger (body structure)|9|N||
+C4513020|ENG|S|L14196330|PF|S17249337|Y|A28400632|3454598017|727797000||SNOMEDCT_US|FN|727797000|Entire collateral ligament of proximal interphalangeal joint of little finger (body structure)|9|N||
+C4513021|ENG|S|L14196323|PF|S17249289|Y|A28409257|3454600011|727798005||SNOMEDCT_US|FN|727798005|Entire collateral ligament of distal interphalangeal joint of index finger (body structure)|9|N||
+C4513022|ENG|S|L14201837|PF|S17249293|Y|A28414789|3454602015|727799002||SNOMEDCT_US|FN|727799002|Entire collateral ligament of distal interphalangeal joint of middle finger (body structure)|9|N||
+C4513023|ENG|S|L14179505|PF|S17249295|Y|A28411489|3454604019|727800003||SNOMEDCT_US|FN|727800003|Entire collateral ligament of distal interphalangeal joint of ring finger (body structure)|9|N||
+C4513024|ENG|S|L14190738|PF|S17249291|Y|A28461429|3454606017|727801004||SNOMEDCT_US|FN|727801004|Entire collateral ligament of distal interphalangeal joint of little finger (body structure)|9|N||
+C4513028|ENG|S|L14196100|PF|S17247542|Y|A28466840|3454614011|727805008||SNOMEDCT_US|FN|727805008|Entire anterior horn of lateral meniscus (body structure)|9|N||
+C4513029|ENG|S|L14202459|PF|S17254534|Y|A28431086|3454616013|727806009||SNOMEDCT_US|FN|727806009|Entire posterior horn of lateral meniscus (body structure)|9|N||
+C4513033|ENG|S|L14179506|PF|S17249299|Y|A28434270|3454624015|727810007||SNOMEDCT_US|FN|727810007|Entire collateral ligament of first metatarsophalangeal joint (body structure)|9|N||
+C4513034|ENG|S|L14185098|PF|S17249343|Y|A28448247|3454626018|727811006||SNOMEDCT_US|FN|727811006|Entire collateral ligament of second metatarsophalangeal joint (body structure)|9|N||
+C4513035|ENG|S|L14179508|PF|S17249345|Y|A28401695|3454628017|727812004||SNOMEDCT_US|FN|727812004|Entire collateral ligament of third metatarsophalangeal joint (body structure)|9|N||
+C4513036|ENG|S|L14213032|PF|S17249301|Y|A28460343|3454630015|727813009||SNOMEDCT_US|FN|727813009|Entire collateral ligament of fourth metatarsophalangeal joint (body structure)|9|N||
+C4513037|ENG|S|L14201838|PF|S17249297|Y|A28442876|3454632011|727814003||SNOMEDCT_US|FN|727814003|Entire collateral ligament of fifth metatarsophalangeal joint (body structure)|9|N||
+C4513038|ENG|S|L14185095|PF|S17249309|Y|A28431087|3454634012|727815002||SNOMEDCT_US|FN|727815002|Entire collateral ligament of interphalangeal joint of great toe (body structure)|9|N||
+C4513039|ENG|S|L14201841|PF|S17249311|Y|A28438529|3454636014|727816001||SNOMEDCT_US|FN|727816001|Entire collateral ligament of interphalangeal joint of second toe (body structure)|9|N||
+C4513040|ENG|S|L14190740|PF|S17249313|Y|A28409258|3454638010|727817005||SNOMEDCT_US|FN|727817005|Entire collateral ligament of interphalangeal joint of third toe (body structure)|9|N||
+C4513041|ENG|S|L14196327|PF|S17249307|Y|A28433187|3454640017|727818000||SNOMEDCT_US|FN|727818000|Entire collateral ligament of interphalangeal joint of fourth toe (body structure)|9|N||
+C4513042|ENG|S|L14201839|PF|S17249303|Y|A28403805|3454642013|727819008||SNOMEDCT_US|FN|727819008|Entire collateral ligament of interphalangeal joint of fifth toe (body structure)|9|N||
+C4513072|ENG|S|L14202616|PF|S17255606|Y|A28464697|3454704013|727850005||SNOMEDCT_US|FN|727850005|Entire skin of anterolateral surface of neck (body structure)|9|N||
+C4513073|ENG|S|L14191537|PF|S17255795|Y|A28413673|3454706010|727851009||SNOMEDCT_US|FN|727851009|Entire skin of posterolateral surface of neck (body structure)|9|N||
+C4513076|ENG|S|L14208118|PF|S17255610|Y|A28433188|3454712017|727854001||SNOMEDCT_US|FN|727854001|Entire skin of anterolateral surface of thorax (body structure)|9|N||
+C4513077|ENG|S|L14213849|PF|S17255799|Y|A28413674|3454714016|727855000||SNOMEDCT_US|FN|727855000|Entire skin of posterolateral surface of thorax (body structure)|9|N||
+C4513079|ENG|S|L14213823|PF|S17255598|Y|A28421281|3454718018|727857008||SNOMEDCT_US|FN|727857008|Entire skin of anterolateral surface of abdomen (body structure)|9|N||
+C4513080|ENG|S|L14191534|PF|S17255787|Y|A28440704|3454720015|727858003||SNOMEDCT_US|FN|727858003|Entire skin of posterolateral surface of abdomen (body structure)|9|N||
+C4513087|ENG|S|L14202615|PF|S17255600|Y|A28413675|3454734015|727865006||SNOMEDCT_US|FN|727865006|Entire skin of anterolateral surface of arm (body structure)|9|N||
+C4513088|ENG|S|L14174688|PF|S17255789|Y|A28423494|3454736018|727866007||SNOMEDCT_US|FN|727866007|Entire skin of posterolateral surface of arm (body structure)|9|N||
+C4513091|ENG|S|L14174666|PF|S17255602|Y|A28402731|3454742019|727869000||SNOMEDCT_US|FN|727869000|Entire skin of anterolateral surface of elbow (body structure)|9|N||
+C4513092|ENG|S|L14197115|PF|S17255723|Y|A28457039|3454744018|727870004||SNOMEDCT_US|FN|727870004|Entire skin of lateral surface of elbow (body structure)|9|N||
+C4513093|ENG|S|L14202640|PF|S17255791|Y|A28432160|3454746016|727871000||SNOMEDCT_US|FN|727871000|Entire skin of posterolateral surface of elbow (body structure)|9|N||
+C4513100|ENG|S|L14180335|PF|S17255709|Y|A28416948|3454760019|727878006||SNOMEDCT_US|FN|727878006|Entire skin of lateral border of wrist (body structure)|9|N||
+C4513105|ENG|S|L14174683|PF|S17255707|Y|A28428921|3454770017|727883003||SNOMEDCT_US|FN|727883003|Entire skin of lateral border of hand (body structure)|9|N||
+C4513110|ENG|S|L14174667|PF|S17255608|Y|A28454769|3454780018|727888007||SNOMEDCT_US|FN|727888007|Entire skin of anterolateral surface of thigh (body structure)|9|N||
+C4513111|ENG|S|L14180341|PF|S17255797|Y|A28425638|3454782014|727889004||SNOMEDCT_US|FN|727889004|Entire skin of posterolateral surface of thigh (body structure)|9|N||
+C4513114|ENG|S|L14191514|PF|S17255604|Y|A28423496|3454788013|727892000||SNOMEDCT_US|FN|727892000|Entire skin of anterolateral surface of knee (body structure)|9|N||
+C4513115|ENG|S|L14191536|PF|S17255793|Y|A28449315|3454790014|727893005||SNOMEDCT_US|FN|727893005|Entire skin of posterolateral surface of knee (body structure)|9|N||
+C4513178|ENG|S|L14202127|PF|S17251824|Y|A28443949|3454916010|727956000||SNOMEDCT_US|FN|727956000|Entire lateral atrioventricular leaflet (body structure)|9|N||
+C4513249|ENG|S|L14185418|PF|S17251858|Y|A28462538|3455058019|728027000||SNOMEDCT_US|FN|728027000|Entire lateral femorotibial joint (body structure)|9|N||
+C4513252|ENG|S|L14179847|PF|S17251842|Y|A28422359|3455064014|728030007||SNOMEDCT_US|FN|728030007|Entire lateral compartment of knee (body structure)|9|N||
+C4513256|ENG|S|L14207671|PF|S17251882|Y|A28423501|3455072011|728034003||SNOMEDCT_US|FN|728034003|Entire lateral intercuneiform joint (body structure)|9|N||
+C4513275|ENG|S|L14213039|PF|S17249347|Y|A28459242|3455110014|728053008||SNOMEDCT_US|FN|728053008|Entire collateral ligament of wrist joint (body structure)|9|N||
+C4513278|ENG|S|L14173950|PF|S17249331|Y|A28450456|3455116015|728056000||SNOMEDCT_US|FN|728056000|Entire collateral ligament of midcarpal joint (body structure)|9|N||
+C4513313|ENG|S|L14213973|PF|S17256774|Y|A28440711|3455188014|728092001||SNOMEDCT_US|FN|728092001|Entire tendon of lateral pterygoid (body structure)|9|N||
+C4513433|ENG|S|L14213972|PF|S17256772|Y|A28451542|3455428018|728212005||SNOMEDCT_US|FN|728212005|Entire tendon of lateral crural muscle (body structure)|9|N||
+C4513499|ENG|S|L14179856|PF|S17251916|Y|A28420194|3455560012|728278003||SNOMEDCT_US|FN|728278003|Entire lateral sacral node (body structure)|9|N||
+C4513503|ENG|S|L14191612|PF|S17256375|Y|A28461444|3455568017|728282001||SNOMEDCT_US|FN|728282001|Entire superolateral superficial inguinal node (body structure)|9|N||
+C4513515|ENG|S|L14174243|PF|S17251870|Y|A28452608|3455592013|728294005||SNOMEDCT_US|FN|728294005|Entire lateral flexure of rectum (body structure)|9|N||
+C4513693|ENG|S|L14213340|PF|S17251846|Y|A28449329|3455950011|728473005||SNOMEDCT_US|FN|728473005|Entire lateral coronary ligament of knee joint (body structure)|9|N||
+C4513694|ENG|S|L14190741|PF|S17249317|Y|A28453678|3455952015|728474004||SNOMEDCT_US|FN|728474004|Entire collateral ligament of knee joint (body structure)|9|N||
+C4513700|ENG|S|L14185415|PF|S17251826|Y|A28403821|3455964011|728480007||SNOMEDCT_US|FN|728480007|Entire lateral band of iliofemoral ligament (body structure)|9|N||
+C4513730|ENG|S|L14208007|PF|S17254675|Y|A28416969|3456028018|728512006||SNOMEDCT_US|FN|728512006|Entire posterolateral chest wall (body structure)|9|N||
+C4513756|ENG|S|L14191081|PF|S17251950|Y|A28442905|3456082019|728539003||SNOMEDCT_US|FN|728539003|Entire lateral wall of vagina (body structure)|9|N||
+C4513772|ENG|S|L14196650|PF|S17251948|Y|A28429975|3456114014|728555005||SNOMEDCT_US|FN|728555005|Entire lateral wall of uterus (body structure)|9|N||
+C4513855|ENG|S|L14185416|PF|S17251844|Y|A28412636|3456282010|728639007||SNOMEDCT_US|FN|728639007|Entire lateral conjunctiva (body structure)|9|N||
+C4513856|ENG|S|L14213350|PF|S17251946|Y|A28403828|3456284011|728640009||SNOMEDCT_US|FN|728640009|Entire lateral wall of cervix (body structure)|9|N||
+C4513910|ENG|S|L14191771|PF|S17257479|Y|A28452624|3456394016|728695003||SNOMEDCT_US|FN|728695003|Entire ulnar collateral ligament of metacarpophalangeal joint of thumb (body structure)|9|N||
+C4513922|ENG|S|L14207693|PF|S17252087|Y|A28447229|3456418016|728707008||SNOMEDCT_US|FN|728707008|Entire left ventricle mid lateral segment (body structure)|9|N||
+C4513923|ENG|S|L14207690|PF|S17252053|Y|A28412638|3456420018|728708003||SNOMEDCT_US|FN|728708003|Entire left ventricle apical lateral segment (body structure)|9|N||
+C4513967|ENG|S|L14207673|PF|S17251892|Y|A28435339|3456514016|728755008||SNOMEDCT_US|FN|728755008|Entire lateral nasal wall (body structure)|9|N||
+C4513972|ENG|S|L14179879|PF|S17252069|Y|A28462558|3456524012|728760007||SNOMEDCT_US|FN|728760007|Entire left ventricle basal lateral segment (body structure)|9|N||
+C4514080|ENG|S|L14173879|PF|S17248751|Y|A28408169|3456740012|728868005||SNOMEDCT_US|FN|728868005|Entire branch of lateral cord of brachial plexus (body structure)|9|N||
+C4514081|ENG|S|L14196645|PF|S17251912|Y|A28410436|3456742016|728869002||SNOMEDCT_US|FN|728869002|Entire lateral root of median nerve (body structure)|9|N||
+C4514165|ENG|S|L14179770|PF|S17251300|Y|A28416980|3456916012|728956002||SNOMEDCT_US|FN|728956002|Entire inferolateral wall of bladder (body structure)|9|N||
+C4514234|ENG|S|L14184904|PF|S17247655|Y|A28400664|3457054016|729025000||SNOMEDCT_US|FN|729025000|Entire anterolateral surface of arytenoid cartilage (body structure)|9|N||
+C4514241|ENG|S|L14207677|PF|S17251940|Y|A28454805|3457068011|729032009||SNOMEDCT_US|FN|729032009|Entire lateral thyrohyoid ligament (body structure)|9|N||
+C4514245|ENG|S|L14174240|PF|S17251848|Y|A28414824|3457076013|729036007||SNOMEDCT_US|FN|729036007|Entire lateral cricothyroid ligament (body structure)|9|N||
+C4514251|ENG|S|L14185430|PF|S17251918|Y|A28429991|3457088010|729042006||SNOMEDCT_US|FN|729042006|Entire lateral scrotal wall (body structure)|9|N||
+C4514255|ENG|S|L14185432|PF|S17251932|Y|A28449354|3457096017|729046009||SNOMEDCT_US|FN|729046009|Entire lateral surface of scrotum (body structure)|9|N||
+C4514319|ENG|S|L14180093|PF|S17253805|Y|A28454807|3457228019|729112005||SNOMEDCT_US|FN|729112005|Entire opening of posterior end of lateral semicircular canal (body structure)|9|N||
+C4514320|ENG|S|L14213595|PF|S17253763|Y|A28411539|3457230017|729113000||SNOMEDCT_US|FN|729113000|Entire opening of anterior end of lateral semicircular canal (body structure)|9|N||
+C4514323|ENG|S|L14173724|PF|S17247431|Y|A28450483|3457236011|729116008||SNOMEDCT_US|FN|729116008|Entire ampulla of lateral semicircular canal (body structure)|9|N||
+C4514341|ENG|S|L14191304|PF|S17253807|Y|A28443985|3457280011|729138005||SNOMEDCT_US|FN|729138005|Entire opening of posterior end of lateral semicircular duct (body structure)|9|N||
+C4514342|ENG|S|L14196866|PF|S17253755|Y|A28451568|3457282015|729139002||SNOMEDCT_US|FN|729139002|Entire opening of ampulla of lateral semicircular duct (body structure)|9|N||
+C4514377|ENG|S|L14213344|PF|S17251874|Y|A28411543|3457354012|729175000||SNOMEDCT_US|FN|729175000|Entire lateral fornicial surface of vaginal cervix (body structure)|9|N||
+C4514440|ENG|S|L14191078|PF|S17251936|Y|A28465825|3457480014|729238003||SNOMEDCT_US|FN|729238003|Entire lateral surface of thyroid lobe (body structure)|9|N||
+C4514442|ENG|S|L14174568|PF|S17254677|Y|A28461473|3457484017|729240008||SNOMEDCT_US|FN|729240008|Entire posterolateral surface of thyroid lobe (body structure)|9|N||
+C4514493|ENG|S|L14202132|PF|S17253534|Y|A28439721|3457592012|729294003||SNOMEDCT_US|FN|729294003|Entire nerve to lateral pterygoid (body structure)|9|N||
+C4514543|ENG|S|L14191068|PF|S17251854|Y|A28414835|3457692019|729344002||SNOMEDCT_US|FN|729344002|Entire lateral deep branch of cervical plexus (body structure)|9|N||
+C4514627|ENG|S|L14191071|PF|S17251894|Y|A28447249|3457864014|729430007||SNOMEDCT_US|FN|729430007|Entire lateral orbital margin (body structure)|9|N||
+C4514767|ENG|S|L14179881|PF|S17252073|Y|A28426763|3458154016|729575007||SNOMEDCT_US|FN|729575007|Entire left ventricle lateral segment (body structure)|9|N||
+C4514889|ENG|S|L14185419|PF|S17251860|Y|A28445076|3458412012|729704007||SNOMEDCT_US|FN|729704007|Entire lateral flexor of atlanto-occipital joint (body structure)|9|N||
+C4514893|ENG|S|L14185420|PF|S17251862|Y|A28467974|3458420014|729708005||SNOMEDCT_US|FN|729708005|Entire lateral flexor of atlantoaxial joint (body structure)|9|N||
+C4514898|ENG|S|L14179852|PF|S17251864|Y|A28469052|3458430017|729713009||SNOMEDCT_US|FN|729713009|Entire lateral flexor of cervical intervertebral joint (body structure)|9|N||
+C4514902|ENG|S|L14179853|PF|S17251868|Y|A28415892|3458438012|729717005||SNOMEDCT_US|FN|729717005|Entire lateral flexor of thoracic intervertebral joint (body structure)|9|N||
+C4514906|ENG|S|L14213343|PF|S17251866|Y|A28405981|3458446013|729721003||SNOMEDCT_US|FN|729721003|Entire lateral flexor of lumbar intervertebral joint (body structure)|9|N||
+C4514914|ENG|S|L14174250|PF|S17251914|Y|A28464748|3458462019|729729001||SNOMEDCT_US|FN|729729001|Entire lateral rotator of scapula (body structure)|9|N||
+C4514927|ENG|S|L14202134|PF|S17251908|Y|A28405982|3458492011|729744000||SNOMEDCT_US|FN|729744000|Entire lateral rectus tendon (body structure)|9|N||
+C4514934|ENG|S|L14174597|PF|S17254936|Y|A28422418|3458506017|729751009||SNOMEDCT_US|FN|729751009|Entire radial collateral ligament of metacarpophalangeal joint of thumb (body structure)|9|N||
+C4514935|ENG|S|L14202514|PF|S17254916|Y|A28437504|3458508016|729752002||SNOMEDCT_US|FN|729752002|Entire radial collateral ligament of distal interphalangeal joint of index finger (body structure)|9|N||
+C4514936|ENG|S|L14191768|PF|S17257459|Y|A28462589|3458510019|729753007||SNOMEDCT_US|FN|729753007|Entire ulnar collateral ligament of distal interphalangeal joint of index finger (body structure)|9|N||
+C4514937|ENG|S|L14180239|PF|S17254920|Y|A28435369|3458512010|729754001||SNOMEDCT_US|FN|729754001|Entire radial collateral ligament of distal interphalangeal joint of middle finger (body structure)|9|N||
+C4514938|ENG|S|L14197314|PF|S17257463|Y|A28439732|3458514011|729755000||SNOMEDCT_US|FN|729755000|Entire ulnar collateral ligament of distal interphalangeal joint of middle finger (body structure)|9|N||
+C4514939|ENG|S|L14202516|PF|S17254922|Y|A28401748|3458516013|729756004||SNOMEDCT_US|FN|729756004|Entire radial collateral ligament of distal interphalangeal joint of ring finger (body structure)|9|N||
+C4514940|ENG|S|L14208341|PF|S17257465|Y|A28450501|3458518014|729757008||SNOMEDCT_US|FN|729757008|Entire ulnar collateral ligament of distal interphalangeal joint of ring finger (body structure)|9|N||
+C4514941|ENG|S|L14202515|PF|S17254918|Y|A28436440|3458520012|729758003||SNOMEDCT_US|FN|729758003|Entire radial collateral ligament of distal interphalangeal joint of little finger (body structure)|9|N||
+C4514942|ENG|S|L14197313|PF|S17257461|Y|A28409319|3458522016|729759006||SNOMEDCT_US|FN|729759006|Entire ulnar collateral ligament of distal interphalangeal joint of little finger (body structure)|9|N||
+C4514943|ENG|S|L14191421|PF|S17254914|Y|A28435370|3458524015|729760001||SNOMEDCT_US|FN|729760001|Entire radial collateral ligament of distal interphalangeal joint of finger (body structure)|9|N||
+C4514944|ENG|S|L14208340|PF|S17257457|Y|A28460405|3458526018|729761002||SNOMEDCT_US|FN|729761002|Entire ulnar collateral ligament of distal interphalangeal joint of finger (body structure)|9|N||
+C4514946|ENG|S|L14191424|PF|S17254928|Y|A28442948|3458530015|729763004||SNOMEDCT_US|FN|729763004|Entire radial collateral ligament of metacarpophalangeal joint of index finger (body structure)|9|N||
+C4514947|ENG|S|L14191770|PF|S17257473|Y|A28467977|3458532011|729764005||SNOMEDCT_US|FN|729764005|Entire ulnar collateral ligament of metacarpophalangeal joint of index finger (body structure)|9|N||
+C4514948|ENG|S|L14180521|PF|S17257469|Y|A28433234|3458534012|729765006||SNOMEDCT_US|FN|729765006|Entire ulnar collateral ligament of metacarpo-phalangea joint of middle finger (body structure)|9|N||
+C4514949|ENG|S|L14208036|PF|S17254932|Y|A28449381|3458536014|729766007||SNOMEDCT_US|FN|729766007|Entire radial collateral ligament of metacarpophalangeal joint of middle finger (body structure)|9|N||
+C4514950|ENG|S|L14213745|PF|S17254934|Y|A28410468|3458538010|729767003||SNOMEDCT_US|FN|729767003|Entire radial collateral ligament of metacarpophalangeal joint of ring finger (body structure)|9|N||
+C4514951|ENG|S|L14202849|PF|S17257477|Y|A28447259|3458540017|729768008||SNOMEDCT_US|FN|729768008|Entire ulnar collateral ligament of metacarpophalangeal joint of ring finger (body structure)|9|N||
+C4514952|ENG|S|L14174895|PF|S17257475|Y|A28442949|3458542013|729769000||SNOMEDCT_US|FN|729769000|Entire ulnar collateral ligament of metacarpophalangeal joint of little finger (body structure)|9|N||
+C4514953|ENG|S|L14185795|PF|S17254930|Y|A28461484|3458544014|729770004||SNOMEDCT_US|FN|729770004|Entire radial collateral ligament of metacarpophalangeal joint of little finger (body structure)|9|N||
+C4514954|ENG|S|L14185794|PF|S17254926|Y|A28438588|3458546011|729771000||SNOMEDCT_US|FN|729771000|Entire radial collateral ligament of metacarpophalangeal joint of finger (body structure)|9|N||
+C4514955|ENG|S|L14202848|PF|S17257471|Y|A28420256|3458548012|729772007||SNOMEDCT_US|FN|729772007|Entire ulnar collateral ligament of metacarpophalangeal joint of finger (body structure)|9|N||
+C4514956|ENG|S|L14180240|PF|S17254924|Y|A28423559|3458550016|729773002||SNOMEDCT_US|FN|729773002|Entire radial collateral ligament of interphalangeal joint of thumb (body structure)|9|N||
+C4514957|ENG|S|L14208342|PF|S17257467|Y|A28453728|3458552012|729774008||SNOMEDCT_US|FN|729774008|Entire ulnar collateral ligament of interphalangeal joint of thumb (body structure)|9|N||
+C4514958|ENG|S|L14180241|PF|S17254940|Y|A28413743|3458554013|729775009||SNOMEDCT_US|FN|729775009|Entire radial collateral ligament of proximal interphalangeal joint of index finger (body structure)|9|N||
+C4514959|ENG|S|L14191773|PF|S17257483|Y|A28421337|3458556010|729776005||SNOMEDCT_US|FN|729776005|Entire ulnar collateral ligament of proximal interphalangeal joint of index finger (body structure)|9|N||
+C4514960|ENG|S|L14180527|PF|S17257487|Y|A28449383|3458558011|729777001||SNOMEDCT_US|FN|729777001|Entire ulnar collateral ligament of proximal interphalangeal joint of middle finger (body structure)|9|N||
+C4514961|ENG|S|L14213747|PF|S17254944|Y|A28432219|3458560013|729778006||SNOMEDCT_US|FN|729778006|Entire radial collateral ligament of proximal interphalangeal joint of middle finger (body structure)|9|N||
+C4514962|ENG|S|L14197016|PF|S17254946|Y|A28444008|3458562017|729779003||SNOMEDCT_US|FN|729779003|Entire radial collateral ligament of proximal interphalangeal joint of ring finger (body structure)|9|N||
+C4514963|ENG|S|L14208344|PF|S17257489|Y|A28430008|3458564016|729780000||SNOMEDCT_US|FN|729780000|Entire ulnar collateral ligament of proximal interphalangeal joint of ring finger (body structure)|9|N||
+C4514964|ENG|S|L14180526|PF|S17257485|Y|A28446176|3458566019|729781001||SNOMEDCT_US|FN|729781001|Entire ulnar collateral ligament of proximal interphalangeal joint of little finger (body structure)|9|N||
+C4514965|ENG|S|L14197015|PF|S17254938|Y|A28448303|3458570010|729783003||SNOMEDCT_US|FN|729783003|Entire radial collateral ligament of proximal interphalangeal joint of finger (body structure)|9|N||
+C4514966|ENG|S|L14180523|PF|S17257481|Y|A28402792|3458572019|729784009||SNOMEDCT_US|FN|729784009|Entire ulnar collateral ligament of proximal interphalangeal joint of finger (body structure)|9|N||
+C4514996|ENG|S|L14212857|PF|S17247836|Y|A28445080|3458632019|729814008||SNOMEDCT_US|FN|729814008|Entire articular cartilage of lateral femoral condyle (body structure)|9|N||
+C4515001|ENG|S|L14179333|PF|S17247840|Y|A28450502|3458642017|729819003||SNOMEDCT_US|FN|729819003|Entire articular cartilage of lateral tibial condyle (body structure)|9|N||
+C4515004|ENG|S|L14196131|PF|S17247838|Y|A28432220|3458654017|729825004||SNOMEDCT_US|FN|729825004|Entire articular cartilage of lateral malleolus (body structure)|9|N||
+C4515047|ENG|S|L14174419|PF|S17253362|Y|A28450507|3458742011|729869006||SNOMEDCT_US|FN|729869006|Entire musculotendinous junction of lateral crural muscle (body structure)|9|N||
+C4515087|ENG|S|L14185475|PF|S17252363|Y|A28419123|3458826014|729911004||SNOMEDCT_US|FN|729911004|Entire lower lateral cutaneous nerve of arm (body structure)|9|N||
+C4515198|ENG|S|L14196995|PF|S17254673|Y|A28404956|3459060010|730028001||SNOMEDCT_US|FN|730028001|Entire posterolateral cerebellar fissure (body structure)|9|N||
+C4515276|ENG|S|L14207584|PF|S17251153|Y|A28405995|3459218015|730107007||SNOMEDCT_US|FN|730107007|Entire horn of lateral meniscus (body structure)|9|N||
+C4515319|ENG|S|L14185097|PF|S17249333|Y|A28411568|3459304013|730150002||SNOMEDCT_US|FN|730150002|Entire collateral ligament of proximal interphalangeal joint of finger (body structure)|9|N||
+C4515320|ENG|S|L14179504|PF|S17249287|Y|A28409338|3459306010|730151003||SNOMEDCT_US|FN|730151003|Entire collateral ligament of distal interphalangeal joint of finger (body structure)|9|N||
+C4515321|ENG|S|L14213036|PF|S17249319|Y|A28430017|3459308011|730152005||SNOMEDCT_US|FN|730152005|Entire collateral ligament of metacarpophalangeal joint of finger (body structure)|9|N||
+C4515508|ENG|S|L14207353|PF|S17249305|Y|A28420276|3459684015|730340009||SNOMEDCT_US|FN|730340009|Entire collateral ligament of interphalangeal joint of finger (body structure)|9|N||
+C4515581|ENG|S|L14174238|PF|S17251836|Y|A28439750|3459830016|730413008||SNOMEDCT_US|FN|730413008|Entire lateral branch of seventh cervical intersegmental artery (body structure)|9|N||
+C4515582|ENG|S|L14207666|PF|S17251834|Y|A28469077|3459832012|730414002||SNOMEDCT_US|FN|730414002|Entire lateral branch of fifth lumbar intersegmental artery (body structure)|9|N||
+C4515608|ENG|S|L14191073|PF|S17251898|Y|A28408230|3459884018|730440008||SNOMEDCT_US|FN|730440008|Entire lateral plate mesoderm (body structure)|9|N||
+C4515670|ENG|S|L14196643|PF|S17251884|Y|A28437529|3460008013|730502007||SNOMEDCT_US|FN|730502007|Entire lateral lemniscus in midbrain (body structure)|9|N||
+C4515673|ENG|S|L14196644|PF|S17251886|Y|A28432240|3460014018|730505009||SNOMEDCT_US|FN|730505009|Entire lateral lemniscus of pons (body structure)|9|N||
+C4515748|ENG|S|L14212837|PF|S17247716|Y|A28448323|3460166013|730581002||SNOMEDCT_US|FN|730581002|Entire apical lateral segment of cardiac ventricle (body structure)|9|N||
+C4515752|ENG|S|L14207815|PF|S17253006|Y|A28445106|3460174014|730585006||SNOMEDCT_US|FN|730585006|Entire mid anterolateral segment of cardiac ventricle (body structure)|9|N||
+C4515753|ENG|S|L14207816|PF|S17253014|Y|A28402816|3460176011|730586007||SNOMEDCT_US|FN|730586007|Entire mid inferolateral segment of cardiac ventricle (body structure)|9|N||
+C4515756|ENG|S|L14179360|PF|S17248016|Y|A28458250|3460182014|730589000||SNOMEDCT_US|FN|730589000|Entire basal inferolateral segment of cardiac ventricle (body structure)|9|N||
+C4515757|ENG|S|L14173792|PF|S17248010|Y|A28424694|3460184010|730590009||SNOMEDCT_US|FN|730590009|Entire basal anterolateral segment of cardiac ventricle (body structure)|9|N||
+C4515775|ENG|S|L14185448|PF|S17252065|Y|A28444035|3460220014|730608001||SNOMEDCT_US|FN|730608001|Entire left ventricle basal inferolateral segment (body structure)|9|N||
+C4515776|ENG|S|L14202156|PF|S17252059|Y|A28410498|3460222018|730609009||SNOMEDCT_US|FN|730609009|Entire left ventricle basal anterolateral segment (body structure)|9|N||
+C4515777|ENG|S|L14185452|PF|S17252083|Y|A28408232|3460224017|730610004||SNOMEDCT_US|FN|730610004|Entire left ventricle mid inferolateral segment (body structure)|9|N||
+C4515778|ENG|S|L14185451|PF|S17252077|Y|A28424696|3460226015|730611000||SNOMEDCT_US|FN|730611000|Entire left ventricle mid anterolateral segment (body structure)|9|N||
+C4515934|ENG|S|L14207664|PF|S17251818|Y|A28418063|3460540015|730768006||SNOMEDCT_US|FN|730768006|Entire lateral aspect of fifth metatarsophalangeal joint (body structure)|9|N||
+C4515944|ENG|S|L14196636|PF|S17251820|Y|A28406012|3460560011|730778009||SNOMEDCT_US|FN|730778009|Entire lateral aspect of heel (body structure)|9|N||
+C4515964|ENG|S|L14185425|PF|S17251880|Y|A28427915|3460600017|730798004||SNOMEDCT_US|FN|730798004|Entire lateral incisor region of oral cavity (body structure)|9|N||
+C4516095|ENG|S|L14179221|PF|S17247099|Y|A28444046|3460944017|730970009||SNOMEDCT_US|FN|730970009|Entire Healey and Schroy lateral superior left liver segment (body structure)|9|N||
+C4516097|ENG|S|L14201563|PF|S17247097|Y|A28447298|3460948019|730972001||SNOMEDCT_US|FN|730972001|Entire Healey and Schroy lateral inferior left liver segment (body structure)|9|N||
+C4516148|ENG|S|L14174248|PF|S17251888|Y|A28404988|3461078017|731037006||SNOMEDCT_US|FN|731037006|Entire lateral margin of forearm (body structure)|9|N||
+C4516150|ENG|S|L14207676|PF|S17251926|Y|A28415942|3461082015|731039009||SNOMEDCT_US|FN|731039009|Entire lateral surface of little finger (body structure)|9|N||
+C4516161|ENG|S|L14179861|PF|S17251934|Y|A28466941|3461114010|731055002||SNOMEDCT_US|FN|731055002|Entire lateral surface of thumb (body structure)|9|N||
+C4516163|ENG|S|L14174252|PF|S17251938|Y|A28441876|3461120011|731058000||SNOMEDCT_US|FN|731058000|Entire lateral surface of upper arm (body structure)|9|N||
+C4516164|ENG|S|L14191077|PF|S17251924|Y|A28430046|3461122015|731059008||SNOMEDCT_US|FN|731059008|Entire lateral surface of index finger (body structure)|9|N||
+C4516167|ENG|S|L14185431|PF|S17251930|Y|A28421368|3461132010|731064007||SNOMEDCT_US|FN|731064007|Entire lateral surface of ring finger (body structure)|9|N||
+C4516191|ENG|S|L14174251|PF|S17251928|Y|A28418071|3461196011|731096004||SNOMEDCT_US|FN|731096004|Entire lateral surface of middle finger (body structure)|9|N||
+C4516192|ENG|S|L14179858|PF|S17251922|Y|A28422448|3461198012|731097008||SNOMEDCT_US|FN|731097008|Entire lateral surface of finger (body structure)|9|N||
+C4516199|ENG|S|L14202128|PF|S17251830|Y|A28434363|3461212019|731104007||SNOMEDCT_US|FN|731104007|Entire lateral border of sole (body structure)|9|N||
+C4516314|ENG|S|L14196134|PF|S17247892|Y|A28420310|3461444017|731220008||SNOMEDCT_US|FN|731220008|Entire articular facet of lateral cuneiform bone (body structure)|9|N||
+C4516315|ENG|S|L14191213|PF|S17252974|Y|A28401803|3461446015|731221007||SNOMEDCT_US|FN|731221007|Entire metatarsal facet of lateral cuneiform (body structure)|9|N||
+C4516380|ENG|S|L14191075|PF|S17251906|Y|A28452699|3461582010|731289006||SNOMEDCT_US|FN|731289006|Entire lateral pterygoid plate (body structure)|9|N||
+C4516507|ENG|S|L14202136|PF|S17251910|Y|A28459356|3461870011|731433000||SNOMEDCT_US|FN|731433000|Entire lateral region of plantar surface of midfoot (body structure)|9|N||
+C4516560|ENG|S|L14185423|PF|S17251876|Y|A28449447|3461978015|731487006||SNOMEDCT_US|FN|731487006|Entire lateral half of anterior abdominal wall (body structure)|9|N||
+C4516582|ENG|S|L14191067|PF|S17251840|Y|A28415958|3462024015|731510004||SNOMEDCT_US|FN|731510004|Entire lateral collateral ligament complex of elbow (body structure)|9|N||
+C4516583|ENG|S|L14196649|PF|S17251944|Y|A28466954|3462026018|731511000||SNOMEDCT_US|FN|731511000|Entire lateral ulnar collateral ligament of elbow (body structure)|9|N||
+C4516584|ENG|S|L14207094|PF|S17247357|Y|A28459358|3462028017|731512007||SNOMEDCT_US|FN|731512007|Entire accessory lateral collateral ligament of elbow (body structure)|9|N||
+C4516585|ENG|S|L14207674|PF|S17251896|Y|A28413796|3462030015|731513002||SNOMEDCT_US|FN|731513002|Entire lateral pelvic girdle (body structure)|9|N||
+C4516894|ENG|S|L14208137|PF|S17255719|Y|A28418096|3462828016|731912003||SNOMEDCT_US|FN|731912003|Entire skin of lateral malleolus (body structure)|9|N||
+C4516918|ENG|S|L14185883|PF|S17255711|Y|A28407142|3462880013|731938003||SNOMEDCT_US|FN|731938003|Entire skin of lateral chest wall (body structure)|9|N||
+C4516919|ENG|S|L14185884|PF|S17255713|Y|A28420336|3462882017|731939006||SNOMEDCT_US|FN|731939006|Entire skin of lateral half of anterior abdominal wall (body structure)|9|N||
+C4516920|ENG|S|L14208136|PF|S17255715|Y|A28451647|3462884016|731940008||SNOMEDCT_US|FN|731940008|Entire skin of lateral half of face (body structure)|9|N||
+C4517012|ENG|S|L14180336|PF|S17255721|Y|A28402854|3463200014|732098000||SNOMEDCT_US|FN|732098000|Entire skin of lateral nose (body structure)|9|N||
+C4517047|ENG|S|L14207672|PF|S17251890|Y|A28435434|3463304019|732150007||SNOMEDCT_US|FN|732150007|Entire lateral mitral annulus (body structure)|9|N||
+C4517256|ENG|S|L14180557|PF|S17257738|Y|A28409410|3464270018|730854008||SNOMEDCT_US|FN|730854008|Entire ventro-lateral perforating vein (body structure)|9|N||
+C4517303|ENG|S|L14180088|PF|S17253793|Y|A28440840|3464578012|729105001||SNOMEDCT_US|FN|729105001|Entire opening of lateral semicircular canal (body structure)|9|N||
+C4518044|ENG|S|L14179874|PF|S17252024|Y|A28417107|3467692016|726823005||SNOMEDCT_US|FN|726823005|Entire left lateral portion of lower third of esophagus (body structure)|9|N||
+C4518045|ENG|S|L14213361|PF|S17252027|Y|A28425814|3467695019|726819002||SNOMEDCT_US|FN|726819002|Entire left lateral portion of middle third of esophagus (body structure)|9|N||
+C4518046|ENG|S|L14207689|PF|S17252030|Y|A28439837|3467704017|726815008||SNOMEDCT_US|FN|726815008|Entire left lateral portion of upper third of esophagus (body structure)|9|N||
+C4518317|ENG|S|L14191427|PF|S17254942|Y|A28418211|3481640013|729782008||SNOMEDCT_US|FN|729782008|Entire radial collateral ligament of proximal interphalangeal joint of little finger (body structure)|9|N||
+C4543050|ENG|S|L14524070|PF|S17631727|Y|A28885369|3506454019|734404002||SNOMEDCT_US|FN|734404002|Structure of lateral femoral cutaneous nerve of left lower limb (body structure)|9|N||
+C4543051|ENG|S|L14516426|PF|S17631729|Y|A28887476|3506456017|734405001||SNOMEDCT_US|FN|734405001|Structure of lateral femoral cutaneous nerve of right lower limb (body structure)|9|N||
+C4544911|ENG|S|L14516474|PF|S17632011|Y|A28888149|3526860015|737123005||SNOMEDCT_US|FN|737123005|Structure of posterior horn of lateral meniscus of left knee (body structure)|9|N||
+C4544912|ENG|S|L14534324|PF|S17632013|Y|A28894828|3526863018|737124004||SNOMEDCT_US|FN|737124004|Structure of posterior horn of lateral meniscus of right knee (body structure)|9|N||
+C4545078|ENG|S|L14526616|PF|S17631538|Y|A28894850|3527543010|737364008||SNOMEDCT_US|FN|737364008|Structure of anterior horn of lateral meniscus of left knee (body structure)|9|N||
+C4545083|ENG|S|L14534289|PF|S17631540|Y|A28899203|3527555016|737370002||SNOMEDCT_US|FN|737370002|Structure of anterior horn of lateral meniscus of right knee (body structure)|9|N||
+C4545132|ENG|S|L14526638|PF|S17631719|Y|A28892658|3527862015|737449007||SNOMEDCT_US|FN|737449007|Structure of lateral condyle of left femur (body structure)|9|N||
+C4545133|ENG|S|L14521553|PF|S17631723|Y|A28879217|3527864019|737450007||SNOMEDCT_US|FN|737450007|Structure of lateral condyle of right femur (body structure)|9|N||
+C4545705|ENG|S|L14521552|PF|S17631721|Y|A28906533|3620854012|758658000||SNOMEDCT_US|FN|758658000|Structure of lateral condyle of left tibia (body structure)|9|N||
+C4545706|ENG|S|L14516425|PF|S17631725|Y|A28904261|3620856014|758659008||SNOMEDCT_US|FN|758659008|Structure of lateral condyle of right tibia (body structure)|9|N||
+C4545851|ENG|S|L14518925|PF|S17631731|Y|A28897571|3634366010|761946009||SNOMEDCT_US|FN|761946009|Structure of lateral malleolus of left fibula (body structure)|9|N||
+C4545852|ENG|S|L14521557|PF|S17631733|Y|A28895409|3634368011|761947000||SNOMEDCT_US|FN|761947000|Structure of lateral malleolus of right fibula (body structure)|9|N||
+C4546407|ENG|S|L14516441|PF|S17631791|Y|A28884495|3637257015|762886000||SNOMEDCT_US|FN|762886000|Structure of left lateral plantar nerve (body structure)|9|N||
+C4546408|ENG|S|L14516482|PF|S17632089|Y|A28908894|3637258013|762887009||SNOMEDCT_US|FN|762887009|Structure of right lateral plantar nerve (body structure)|9|N||
+C4706649|ENG|S|L14910493|PF|S18135361|Y|A29515826|3645048016|763873000||SNOMEDCT_US|FN|763873000|Structure of lateral collateral ligament of left knee joint (body structure)|9|N||
+C4706650|ENG|S|L14894733|PF|S18135363|Y|A29557137|3645049012|763874006||SNOMEDCT_US|FN|763874006|Structure of lateral collateral ligament of right knee joint (body structure)|9|N||
+C4707031|ENG|S|L14906526|PF|S18135365|Y|A29567714|3654485018|764651000||SNOMEDCT_US|FN|764651000|Structure of lateral condyle of left humerus (body structure)|9|N||
+C4707032|ENG|S|L14898595|PF|S18135367|Y|A29567715|3654489012|764652007||SNOMEDCT_US|FN|764652007|Structure of lateral condyle of right humerus (body structure)|9|N||
+C4707109|ENG|S|L14918872|PF|S18103198|Y|A29541898|3654970018|764748003||SNOMEDCT_US|FN|764748003|Bone structure of lateral cuneiform of left foot (body structure)|9|N||
+C4707110|ENG|S|L14891418|PF|S18103200|Y|A29526384|3654971019|764749006||SNOMEDCT_US|FN|764749006|Bone structure of lateral cuneiform of right foot (body structure)|9|N||
+C4707267|ENG|S|L14898596|PF|S18135369|Y|A29505811|3656036015|765006008||SNOMEDCT_US|FN|765006008|Structure of lateral surface of left thigh (body structure)|9|N||
+C4707268|ENG|S|L14902498|PF|S18135371|Y|A29557540|3656040012|765007004||SNOMEDCT_US|FN|765007004|Structure of lateral surface of right thigh (body structure)|9|N||

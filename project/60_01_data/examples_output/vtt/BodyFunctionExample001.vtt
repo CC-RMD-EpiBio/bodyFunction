@@ -1,0 +1,139 @@
+#<---------------------------------------------------------------------->
+#<Meta Data>
+#<Tags file|confirmation|path of default tags file>
+#<File History|VTT file format version|User name|Time stamp>
+#<---------------------------------------------------------------------->
+FILE_SAVE|Version 1|v3NLP|2020-10-02_12_48_06
+FILE_SAVE|VTT.2010.0|v3NLP|10/2/20 12:48:06 PM
+#<---------------------------------------------------------------------->
+#<Text Content>
+#<---------------------------------------------------------------------->
+
+January 12, 2018
+
+Chief Complaint:
+  The patient was admitted to the ER with chest pain and rom on his left side. He also was complaining of rom in his feet.
+
+FUNCTIONAL STATUS: 
+   He is independent in activities of daily living and ambulation.   
+
+PHYSICAL EXAMINATION: 
+   He is alert, oriented x3, and cooperative. His active range of motion and strength are within functional limits throughout.
+
+MEDICATIONS
+  Zoloft 10 mg take as needed. 
+
+FAMILY HISTORY:
+ Brother had stroke three years ago.
+
+Musculoskeletal Evaluation: 
+
+Bilateral lower Extremities: 
+
+(from MtSamples)
+
+EXTREMITIES: Orthopedic evaluation of the left knee reveals there to be well-healed portholes. 
+He does have some medial joint line swelling. Negative ballottement. He has significant pain 
+to palpation of the medial joint line, none of the lateral joint line. He has no pain to 
+palpation on the popliteal fossa. Range of motion is approximately -5 degrees to 95 degrees of flexion. 
+It should be noted that she has extreme hyperextension on the right with 95+ degrees of flexion on the right. 
+He has a click with McMurray. Negative anterior-posterior drawer.
+No varus or valgus instability noted. Positive patellar grind test. Calf is soft and nontender. 
+Gait is stable and antalgic on the left.
+
+STRENGTH:
+RIGHT LOWER EXTREMITY:
+Knee extension 5/5, hip flexion 5/5, knee flexion 4/5, internal and external hip rotation was 4/5. 
+With manual muscle testing of knee flexion, hip, internal and external rotation, the patient reports 
+an increase in right SI joint pain to 8/10.
+
+LEFT LOWER EXTREMITY:
+Hip flexion 5/5, knee extension 5/5, knee flexion 4/5, hip internal and external rotation 4/5, with 
+slight increase in pain level with manual muscle testing and resistance. It must be noted that PT 
+did not apply as much resistance during manual muscle testing, secondary to the 8/10 pain elicited 
+during the right lower extremity.
+
+#<---------------------------------------------------------------------->
+#<Tags Configuration>
+#<Name|Category|Bold|Italic|Underline|Display|FR|FG|FB|BR|BG|BB|FontFamily|FontSize>
+#<---------------------------------------------------------------------->
+highlight||false|false|false|true|0|0|0|192|192|192|Monospaced|+0
+#<---------------------------------------------------------------------->
+Snippet||false|false|false|true|0|0|0|255|255|0|Monospaced|+0
+True||false|false|false|true|0|0|0|0|255|0|Monospaced|+0
+False||false|false|false|true|0|0|0|255|0|0|Monospaced|+0
+Uncertain||false|false|false|true|0|0|0|255|175|175|Monospaced|+0
+BodyFunctionMention||false|false|false|true|255|255|255|64|64|64|Monospaced|+0
+Qualifier||false|false|false|true|0|0|0|255|0|0|Monospaced|+0
+Strength||false|false|false|true|0|0|0|255|250|250|Monospaced|+0
+RangeOfMotion||false|false|false|true|0|0|0|255|255|0|Monospaced|+0
+Reflex||false|false|false|true|0|0|0|255|255|0|Monospaced|+0
+BodyLocation||false|false|false|true|0|0|0|0|255|0|Monospaced|+0
+AssertedEvidence||false|false|false|true|255|255|255|255|0|255|Monospaced|+0
+AttributionIsPatientEvidence||false|false|false|true|0|0|0|0|255|255|Monospaced|+0
+BFQualifier||false|false|false|true|255|255|255|0|0|255|Monospaced|+0
+ConditionalEvidence||false|false|false|true|255|255|255|255|0|0|Monospaced|+0
+ContentHeading||false|false|false|true|0|0|0|178|122|122|Monospaced|+0
+Date||false|false|false|true|0|0|0|178|140|0|Monospaced|+0
+FamilyHistoryEvidence||false|false|false|true|0|0|0|178|178|0|Monospaced|+0
+LexicalElement||false|false|false|true|0|0|0|0|178|0|Monospaced|+0
+Line||false|false|false|true|255|255|255|178|0|178|Monospaced|+0
+NegationEvidence||false|false|false|true|0|0|0|0|178|178|Monospaced|+0
+Number||false|false|false|true|255|255|255|0|0|178|Monospaced|+0
+SectionHeadingDelimiter||false|false|false|true|0|0|0|128|128|0|Monospaced|+0
+SectionName||false|false|false|true|0|0|0|0|255|0|Monospaced|+0
+SectionZone||false|false|false|true|255|255|255|255|0|255|Monospaced|+0
+SemanticWindow||false|false|false|true|0|0|0|255|200|0|Monospaced|+0
+Sentence||false|false|false|true|0|0|0|255|255|0|Monospaced|+0
+UnitOfMeasure||false|false|false|true|0|0|0|0|255|255|Monospaced|+0
+WordToken||false|false|false|true|255|255|255|0|0|255|Monospaced|+0
+#<---------------------------------------------------------------------->
+#<MarkUps Information>
+#<Offset|Length|TagName|TagCategory|Annotation|TagText>
+#<---------------------------------------------------------------------->
+  93|15|BodyFunctionMention||cuis=null<::>categories=null<::>otherInfo=null<::>id=gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyFunctionAnnotator_0<::>sectionName=null<::>conceptNames=null<::>marked=false<::>inProse=false<::>assertionStatus=null<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=null<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>bodyFunctionType=null<::>location=null<::>qualifier=null<::>|rom on his left
+  93| 3|RangeOfMotion  ||cuis=E0319518:E0319520:C0080078:M050000<::>categories=RangeOfMotion:ccdaSectionName<::>otherInfo=null<::>id=BodyRangeOfMotionAnnotator_0<::>sectionName=Chief Complaint<::>conceptNames=rom<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|rom
+ 104| 4|BodyLocation   ||cuis=E0037100:E0037123:E0037124:E0037125:BL00000<::>categories=BodyLaterality<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=Chief Complaint<::>conceptNames=leave<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|left
+ 142| 3|BodyFunctionMention||cuis=E0319518:E0319520:C0080078:M050000<::>categories=RangeOfMotion:ccdaSectionName<::>otherInfo=null<::>id=BodyRangeOfMotionAnnotator_0<::>sectionName=Chief Complaint<::>conceptNames=rom<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|rom
+ 324|75|BodyFunctionMention||cuis=null<::>categories=null<::>otherInfo=null<::>id=gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyFunctionAnnotator_2<::>sectionName=null<::>conceptNames=null<::>marked=false<::>inProse=false<::>assertionStatus=null<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=null<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>bodyFunctionType=null<::>location=null<::>qualifier=null<::>|active range of motion and strength are within functional limits throughout
+ 324|22|RangeOfMotion  ||cuis=c0000000<::>categories=RangeOfMotion<::>otherInfo=null<::>id=BodyRangeOfMotionAnnotator_0<::>sectionName=PHYSICAL EXAMINATION<::>conceptNames=citation<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|active range of motion
+ 351| 8|Strength       ||cuis=E0058122:C0237897:C0808080:M050000<::>categories=BodyStrength:BodyStrength:ccdaSectionName<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=PHYSICAL EXAMINATION<::>conceptNames=strength<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|strength
+ 389|10|BodyLocation   ||cuis=E0060834:E0060835:BL00000<::>categories=BodyLaterality<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=PHYSICAL EXAMINATION<::>conceptNames=throughout<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|throughout
+ 752|87|BodyFunctionMention||cuis=null<::>categories=null<::>otherInfo=null<::>id=gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyFunctionAnnotator_3<::>sectionName=null<::>conceptNames=null<::>marked=false<::>inProse=false<::>assertionStatus=null<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=null<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>bodyFunctionType=null<::>location=null<::>qualifier=null<::>|significant pain  to palpation of the medial joint line, none of the lateral joint line
+ 797| 5|BodyLocation   ||cuis=E0036231:E0036232:E0036233:C0022417<::>categories=BodyLocation<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=EXTREMITIES<::>conceptNames=joint<::>marked=true<::>inProse=false<::>assertionStatus=Negated<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|joint
+ 821| 7|Strength       ||cuis=E0036950:E0234042:bs000003<::>categories=BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=EXTREMITIES<::>conceptNames=lateral<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|lateral
+ 829| 5|BodyLocation   ||cuis=E0036231:E0036232:E0036233:C0022417<::>categories=BodyLocation<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=EXTREMITIES<::>conceptNames=joint<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|joint
+ 894|68|BodyFunctionMention||cuis=null<::>categories=null<::>otherInfo=null<::>id=gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyFunctionAnnotator_4<::>sectionName=null<::>conceptNames=null<::>marked=false<::>inProse=false<::>assertionStatus=null<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=null<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>bodyFunctionType=null<::>location=null<::>qualifier=null<::>|Range of motion is approximately -5 degrees to 95 degrees of flexion
+ 894|15|RangeOfMotion  ||cuis=C0080078:M050000<::>categories=RangeOfMotion:ccdaSectionName<::>otherInfo=null<::>id=BodyRangeOfMotionAnnotator_0<::>sectionName=palpation<::>conceptNames=range of motion<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|Range of motion
+ 955| 7|Strength       ||cuis=E0028142:C0231452:C1525443<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=palpation<::>conceptNames=flexion<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|flexion
+ 997|76|BodyFunctionMention||cuis=null<::>categories=null<::>otherInfo=null<::>id=gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyFunctionAnnotator_5<::>sectionName=null<::>conceptNames=null<::>marked=false<::>inProse=false<::>assertionStatus=null<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=null<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>bodyFunctionType=null<::>location=null<::>qualifier=null<::>|extreme hyperextension on the right with 95+ degrees of flexion on the right
+1005|14|RangeOfMotion  ||cuis=E0070553:C0231451:BQ000010<::>categories=RangeOfMotion:Qualifier<::>otherInfo=null<::>id=BodyRangeOfMotionAnnotator_0<::>sectionName=palpation<::>conceptNames=hyperextension<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=true<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|hyperextension
+1027| 5|BodyLocation   ||cuis=E0053603:E0053604:E0053606:E0312522:BL00000<::>categories=BodyLaterality<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=palpation<::>conceptNames=right<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=true<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|right
+1053| 7|Strength       ||cuis=E0028142:C0231452:C1525443<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=palpation<::>conceptNames=flexion<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=true<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|flexion
+1068| 5|BodyLocation   ||cuis=E0053603:E0053604:E0053606:E0312522:BL00000<::>categories=BodyLaterality<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=palpation<::>conceptNames=right<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=true<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|right
+1281| 8|BodyFunctionMention||cuis=E0058122:C0237897:C0808080:M050000<::>categories=BodyStrength:BodyStrength:ccdaSectionName<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=STRENGTH<::>conceptNames=strength<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|STRENGTH
+1314|97|BodyFunctionMention||cuis=null<::>categories=null<::>otherInfo=null<::>id=gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyFunctionAnnotator_7<::>sectionName=null<::>conceptNames=null<::>marked=false<::>inProse=false<::>assertionStatus=null<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=null<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>bodyFunctionType=null<::>location=null<::>qualifier=null<::>|Knee extension 5/5, hip flexion 5/5, knee flexion 4/5, internal and external hip rotation was 4/5
+1314|14|BodyLocation   ||cuis=E0556309:BS000001<::>categories=BodyStrength:BodyLocation<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=knee extension<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|Knee extension
+1334| 3|BodyLocation   ||cuis=E0031697:C0446557<::>categories=BodyLocation<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=hip<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|hip
+1338| 7|Strength       ||cuis=E0028142:C0231452:C1525443<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=flexion<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|flexion
+1351| 4|BodyLocation   ||cuis=E0036581:E0036582:C1283838:C1963703<::>categories=BodyLocation:BodyLocation<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=knee<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|knee
+1356| 7|Strength       ||cuis=E0028142:C0231452:C1525443<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=flexion<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|flexion
+1369|34|RangeOfMotion  ||cuis=c00000000<::>categories=RangeOfMotion<::>otherInfo=null<::>id=BodyRangeOfMotionAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=hip rotation<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|internal and external hip rotation
+1419|21|Strength       ||cuis=C0699782:C0204051<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=Manual muscle testing<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|manual muscle testing
+1444| 4|BodyLocation   ||cuis=E0036581:E0036582:C1283838:C1963703<::>categories=BodyLocation:BodyLocation<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=knee<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|knee
+1449| 7|Strength       ||cuis=E0028142:C0231452:C1525443<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=flexion<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|flexion
+1458|35|RangeOfMotion  ||cuis=c00000000<::>categories=RangeOfMotion<::>otherInfo=null<::>id=BodyRangeOfMotionAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=hip rotation<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|hip, internal and external rotation
+1531| 5|BodyLocation   ||cuis=E0053603:E0053604:E0053606:E0312522:BL00000<::>categories=BodyLaterality<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=RIGHT LOWER EXTREMITY<::>conceptNames=right<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|right
+1583|172|BodyFunctionMention||cuis=null<::>categories=null<::>otherInfo=null<::>id=gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyFunctionAnnotator_8<::>sectionName=null<::>conceptNames=null<::>marked=false<::>inProse=false<::>assertionStatus=null<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=null<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>bodyFunctionType=null<::>location=null<::>qualifier=null<::>|Hip flexion 5/5, knee extension 5/5, knee flexion 4/5, hip internal and external rotation 4/5, with  slight increase in pain level with manual muscle testing and resistance
+1583| 3|BodyLocation   ||cuis=E0031697:C0446557<::>categories=BodyLocation<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=hip<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|Hip
+1587| 7|Strength       ||cuis=E0028142:C0231452:C1525443<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=flexion<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|flexion
+1600|14|BodyLocation   ||cuis=E0556309:BS000001<::>categories=BodyStrength:BodyLocation<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=knee extension<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|knee extension
+1620| 4|BodyLocation   ||cuis=E0036581:E0036582:C1283838:C1963703<::>categories=BodyLocation:BodyLocation<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=knee<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|knee
+1625| 7|Strength       ||cuis=E0028142:C0231452:C1525443<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=flexion<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|flexion
+1638|34|RangeOfMotion  ||cuis=c00000000<::>categories=RangeOfMotion<::>otherInfo=null<::>id=BodyRangeOfMotionAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=hip rotation<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|hip internal and external rotation
+1719|21|Strength       ||cuis=C0699782:C0204051<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=Manual muscle testing<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|manual muscle testing
+1745|10|Strength       ||cuis=E0052981:BS000000<::>categories=BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=resistance<::>marked=true<::>inProse=false<::>assertionStatus=Asserted<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|resistance
+1805|110|BodyFunctionMention||cuis=null<::>categories=null<::>otherInfo=null<::>id=gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyFunctionAnnotator_9<::>sectionName=null<::>conceptNames=null<::>marked=false<::>inProse=false<::>assertionStatus=null<::>conditionalStatus=false<::>historicalStatus=false<::>subjectStatus=null<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>bodyFunctionType=null<::>location=null<::>qualifier=null<::>|resistance during manual muscle testing, secondary to the 8/10 pain elicited  during the right lower extremity
+1805|10|Strength       ||cuis=E0052981:BS000000<::>categories=BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=resistance<::>marked=true<::>inProse=false<::>assertionStatus=Negated<::>conditionalStatus=true<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|resistance
+1823|21|Strength       ||cuis=C0699782:C0204051<::>categories=BodyStrength:BodyStrength<::>otherInfo=null<::>id=BodyStrengthAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=Manual muscle testing<::>marked=true<::>inProse=false<::>assertionStatus=Negated<::>conditionalStatus=true<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|manual muscle testing
+1894|21|BodyLocation   ||cuis=E0689799:C4037925<::>categories=BodyLocation<::>otherInfo=null<::>id=BodyLocationAnnotator_0<::>sectionName=LEFT LOWER EXTREMITY<::>conceptNames=right lower extremity<::>marked=true<::>inProse=false<::>assertionStatus=Negated<::>conditionalStatus=true<::>historicalStatus=false<::>subjectStatus=Patient<::>attributedToPatient=false<::>eventDate=null<::>statementDate=null<::>referenceDate=null<::>|right lower extremity
