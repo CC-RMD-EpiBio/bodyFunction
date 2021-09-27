@@ -88,5 +88,5 @@ The application classifies the *qualifier* as part of finding that mention.
 #Example UIMA XMI Output
 
   Here is a screen shot of the UIMA Annotation Viewer viewing a file processed by the application.  
-  <img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/60_10_doc/BodyFunctionUIMAXMI_Output.png" width=900 />
+  <img src="./60_10_doc/BodyFunctionUIMAXMI_Output.png" width=900 />
 
