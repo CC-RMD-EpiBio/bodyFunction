@@ -90,3 +90,6 @@ The application classifies the *qualifier* as part of finding that mention.
   Here is a screen shot of the UIMA Annotation Viewer viewing a file processed by the application.  
   <img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionUIMAXMI_Output.png" width=1000 />
 
+#Example of GATE Output
+  Here is a screen shot of the GATE Viewer viewing a file processed by the application.
+<img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionGATE_ExampleOutput.png" width=1000 />
