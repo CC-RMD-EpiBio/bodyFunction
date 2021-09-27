@@ -24,6 +24,7 @@ Those directories that start with 00 are direct copies (a white lie) of modules 
  | 60_05_annotators   | This is where the source code for the UIMA annotators for this project reside |
  | 60_08_pipelines    | This is where the source code for the UIMA pipeline definitions reside |
  | 60_09_applications | This is where the source code for the applications/mains for the project reside |
+ | 60_10_doc          | Some useful documentation |
 
 # General Comments About This Project
 
