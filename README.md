@@ -22,7 +22,7 @@ A fully formed mention includes:
 The application classifies the *qualifier* as part of finding that mention.
 
 # Useful Distribution Contents
--  **./bin/BodyFunctionApplication-jar-with-dependencies.jar**  This is the executable application jar 
+-  **[./bin/BodyFunctionApplication-jar-with-dependencies.jar](https://github.com/CC-RMD-EpiBio/bodyFunction/raw/main/bin/BodyFunctionApplication-jar-with-dependencies.jar)**  This is the executable application jar 
 -  ./project                                                Where the source code and dependencies for Body Function is
 
 # Application Invocation
