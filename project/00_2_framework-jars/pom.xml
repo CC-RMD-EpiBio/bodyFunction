@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+    <!-- =================================================== -->
+    <!--          unmavendJars                               -->
+    <!-- =================================================== -->
+  <groupId>gov.nih.cc.rmd.framework</groupId>
+  <artifactId>00_framework-jars</artifactId>
+  <packaging>jar</packaging>
+  <version>2021.02.0</version>
+
+  <description> Framework jars installs framework-legacy jars in leue of picking these up from a nexus server 
+                Sources to these are in the libSrcJars directory.  All of these modules come from the
+                framework-legacy github repo in the the 00_legacy maven modules.
+</description>
+
+  <parent>
+    <groupId>gov.nih.cc.rmd.framework</groupId>
+    <artifactId>00-nlp-parent</artifactId>
+    <version>2021.02.0</version>
+  </parent>
+
+
+    <!-- =================================================== -->
+    <!--  Properties - The global stuff                      -->
+    <!-- =================================================== -->
+
+
+    <!-- =================================================== -->
+    <!-- Build Phase                                         -->
+    <!-- =================================================== -->
+    <build>
+ <plugins>
+
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-install-plugin</artifactId>
+            <version>2.4</version>
+            <executions>
+
+                <execution>
+                    <id>inst_01</id>
+                    <phase>initialize</phase>
+                    <goals>
+                        <goal>install-file</goal>
+                    </goals>
+                    <configuration>
+                        <createChecksum>true</createChecksum> 
+                        <file>lib/01-nlp-resources-2021.02.0.jar</file>
+                        <groupId>gov.nih.cc.rmd.framework</groupId>
+                         <artifactId>01-nlp-resources</artifactId>
+                         <version>2021.02.0</version>
+                         <packaging>jar</packaging>
+                    </configuration>
+                </execution>
+
+                <execution>
+                    <id>inst_03</id>
+                    <phase>initialize</phase>
+                    <goals>
+                        <goal>install-file</goal>
+                    </goals>
+                    <configuration>
+                        <createChecksum>true</createChecksum> 
+                        <file>lib/03-nlp-type-descriptors-2021.02.0.jar</file>
+                        <groupId>gov.nih.cc.rmd.framework</groupId>
+                        <artifactId>03-nlp-type-descriptors</artifactId>
+                        <version>2021.02.0</version>
+                        <packaging>jar</packaging>
+                    </configuration>
+                </execution>
+                <execution>
+                    <id>inst_04</id>
+                    <phase>initialize</phase>
+                    <goals>
+                        <goal>install-file</goal>
+                    </goals>
+                    <configuration>
+                        <createChecksum>true</createChecksum> 
+                        <file>lib/04.0-nlp-util-2021.02.0.jar</file>
+                        <groupId>gov.nih.cc.rmd.framework</groupId>
+                        <artifactId>04.0-nlp-util</artifactId>
+                        <version>2021.02.0</version>
+                        <packaging>jar</packaging>
+                    </configuration>
+                </execution>
+
+                <execution>
+                    <id>inst_04.1</id>
+                    <phase>initialize</phase>
+                    <goals>
+                        <goal>install-file</goal>
+                    </goals>
+                    <configuration>
+                        <createChecksum>true</createChecksum> 
+                        <file>lib/04.1-nlp-vUtil-2021.02.0.jar</file>
+                        <groupId>gov.nih.cc.rmd.framework</groupId>
+                        <artifactId>04.1-nlp-vUtil</artifactId>
+                        <version>2021.02.0</version>
+                        <packaging>jar</packaging>
+                    </configuration>
+                </execution>
+
+                <execution>
+                    <id>inst_05</id>
+                    <phase>initialize</phase>
+                    <goals>
+                        <goal>install-file</goal>
+                    </goals>
+                    <configuration>
+                        <createChecksum>true</createChecksum> 
+                        <file>lib/05-nlp-annotators-2021.02.0.jar</file>
+                        <groupId>gov.nih.cc.rmd.framework</groupId>
+                        <artifactId>05-nlp-annotators</artifactId>
+                        <version>2021.02.0</version>
+                        <packaging>jar</packaging>
+                    </configuration>
+                </execution>
+
+                <execution>
+                    <id>inst_06</id>
+                    <phase>initialize</phase>
+                    <goals>
+                        <goal>install-file</goal>
+                    </goals>
+                    <configuration>
+                        <createChecksum>true</createChecksum> 
+                        <file>lib/06-nlp-marshallers-2021.02.0.jar</file>
+                        <groupId>gov.nih.cc.rmd.framework</groupId>
+                        <artifactId>06-nlp-marshallers</artifactId>
+                        <version>2021.02.0</version>
+                        <packaging>jar</packaging>
+                    </configuration>
+                </execution>
+
+                <execution>
+                    <id>inst_07</id>
+                    <phase>initialize</phase>
+                    <goals>
+                        <goal>install-file</goal>
+                    </goals>
+                    <configuration>
+                        <createChecksum>true</createChecksum> 
+                        <file>lib/07.0-nlp-pUtils-2021.02.0.jar</file>
+                        <groupId>gov.nih.cc.rmd.framework</groupId>
+                        <artifactId>07.0-nlp-pUtils</artifactId>
+                        <version>2021.02.0</version>
+                        <packaging>jar</packaging>
+                    </configuration>
+                </execution>
+
+                <execution>
+                    <id>inst_08</id>
+                    <phase>initialize</phase>
+                    <goals>
+                        <goal>install-file</goal>
+                    </goals>
+                    <configuration>
+                        <createChecksum>true</createChecksum> 
+                        <file>lib/08-nlp-pipelines-2021.02.0.jar</file>
+                        <groupId>gov.nih.cc.rmd.framework</groupId>
+                        <artifactId>08-nlp-pipelines</artifactId>
+                        <version>2021.02.0</version>
+                        <packaging>jar</packaging>
+                    </configuration>
+                </execution>
+
+            </executions>
+
+
+        </plugin>            
+    </plugins>
+</build>
+</project>

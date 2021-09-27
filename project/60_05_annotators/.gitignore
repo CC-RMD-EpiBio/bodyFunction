@@ -1,0 +1,13 @@
+/.classpath
+/.project
+target/
+/bin
+.DS_Store
+/.idea/
+flap.iml
+.metadata/
+.settings/
+*.log
+tree
+*~
+#*

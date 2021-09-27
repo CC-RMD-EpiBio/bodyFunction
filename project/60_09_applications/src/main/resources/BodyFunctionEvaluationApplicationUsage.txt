@@ -1,0 +1,29 @@
+
+Mental Function Sentences From Interpersonal Interactions and Relationships Entity Annotations
+
+Description
+The program MentalFunctionSentenceFromMentionsApplication-jar-with-dependencies.jar reads in GATE files that have been annotated with
+interpersonal interactions and relationship entity level mentions.  This program finds the sentences these entity level mentions are in
+and creates the following labels.
+
+Output Types/Labels
+
+True are annotations in the output that are sentences that have a mention in them.  These are mostly for the VTT output files
+False are annotations in in the output that are sentences that do not have mentions in them. These are mostly for the VTT output files.
+MentalFunctionSentence are the annotations that are utterances that have a mention in them.
+These are potential mentions. These are equivalant to the True annotations.  When the tool that annotates
+from raw text files with no human annotations, all potental sentences that could have a mention in them will be of the
+type MentalFunctionSentence.
+Interpersonal_Interactions_and_Relationships are the (human) annotations picked up from the GATE annotated files
+
+
+Program
+java -jar $FRAMEWORK_HOME/10_libs/MentalFunctionSentenceFromMentionsApplication-jar-with-dependencies.jar 
+    --gateHome=
+    --inputDir=
+    --outputDir=
+    --outputTypes=
+    --version
+
+
+For more detail see https://$framework_wiki_home/01_Sandboxes/811_mentalFunctionSentenceProject/MentalFunctionSentencesFromIPIREntityAnnotations

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+    <!-- =================================================== -->
+    <!--          bodyFunction applications    -->
+    <!-- =================================================== -->
+  <groupId>gov.nih.cc.rmd.framework</groupId>
+  <artifactId>60_09-bodyFunction-Application</artifactId>
+  <packaging>jar</packaging>
+  <version>2020.05.0</version>
+
+  <description>BodyFunction Application runs the pojectName pipeline </description>
+
+    <!-- ======================================================= -->
+    <!--   Parent Pom - look here for global framework settings  -->
+    <!--   including                                             -->
+    <!--      Distribution Managment                             -->
+    <!--      Java versions                                      -->
+    <!--      Plugin Management and plugins                      -->
+    <!--      Dependencies                                       -->
+    <!-- ======================================================= -->
+  <parent>
+    <groupId>gov.nih.cc.rmd.framework</groupId>
+    <artifactId>60_01-bodyFunction-parent</artifactId>
+    <version>2020.05.0</version>
+  </parent>
+
+
+    <!-- =================================================== -->
+    <!--  IMPORTANT NOTE HERE: Need to install a             -->
+    <!--                       non git'able resource.        -->
+    <!--   (This is only for the development version)                                                    -->
+    <!-- The SentenceModelPythonWindowsJar dependency comes from a non-git'able resource project         -->
+    <!-- currently in //ccresearch/Shares/FAB/RMD-Data/EpiBioStat/NLP/softwareRepos/910_02_unmavenedJars -->
+    <!-- YOu will need to do a mvn install in this directory to install the resources                    -->
+    <!-- before installing this project.                     -->
+    <!--                                                     -->
+    <!-- =================================================== -->
+
+
+
+    <!-- =================================================== -->
+    <dependencies>
+      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_03-bodyFunction-type-descriptors</artifactId> <version>2020.05.0</version></dependency>
+      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_05-bodyFunction-annotators      </artifactId> <version>2020.05.0</version></dependency>
+      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_08-bodyFunction-pipelines       </artifactId> <version>2020.05.0</version></dependency>
+      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_01_bodyFunction_resources       </artifactId> <version>2020.05.0</version></dependency>
+
+      <dependency><groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>01-nlp-resources                           </artifactId> </dependency>
+      <dependency><groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>06-nlp-marshallers                         </artifactId> </dependency>
+      <dependency><groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>08-nlp-pipelines                           </artifactId> </dependency>
+      <dependency><groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.0-nlp-util                              </artifactId> </dependency>
+      <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>07.0-nlp-pUtils                           </artifactId> </dependency>
+
+     <dependency> <groupId>org.slf4j                    </groupId> <artifactId>slf4j-nop       </artifactId> <version>1.7.32</version> </dependency>
+   
+    </dependencies>
+
+
+    <!-- =================================================== -->
+    <!-- Build Phase                                         -->
+    <!-- =================================================== -->
+    <build>
+
+        <!-- =================================================== -->
+        <!-- Build Plugin's                                      -->
+        <!-- =================================================== -->
+        <plugins>
+
+            <!-- ##################################################################### -->
+            <!-- Build an executable jar for main application                          -->
+            <!-- ##################################################################### -->
+            <plugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-assembly-plugin</artifactId>
+              <version>2.4</version>
+              <executions>
+
+               <execution>
+                <id>executable_0</id>
+                  <configuration>
+                     <archive>
+                        <manifest>
+                          <mainClass>gov.nih.cc.rmd.nlp.framework.pipeline.applications.BodyFunctionApplication</mainClass> 
+                        </manifest>
+                     </archive>
+                     <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                     </descriptorRefs>
+                     <finalName>BodyFunctionApplication</finalName>
+                     <outputDirectory>${project.build.directory}/../../60_01_libs</outputDirectory>
+                     <dependencies>
+                       <dependency><groupId>gov.nih.cc.rmd.bodyFunction.nlp.framework</groupId><artifactId>${project.artifactId}</artifactId></dependency>
+                     </dependencies>
+                  </configuration>
+                  <phase>install</phase>
+                  <goals>
+                    <goal>single</goal>
+                  </goals>
+               </execution>
+
+               <execution>
+                <id>executable_1</id>
+                  <configuration>
+                     <archive>
+                        <manifest>
+                          <mainClass>gov.nih.cc.rmd.nlp.framework.pipeline.applications.BodyFunctionEvaluationApplication</mainClass> 
+                        </manifest>
+                     </archive>
+                     <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                     </descriptorRefs>
+                     <finalName>BodyFunctionEvaluationApplication</finalName>
+                     <outputDirectory>${project.build.directory}/../../60_01_libs</outputDirectory>
+                     <dependencies>
+                       <dependency><groupId>gov.nih.cc.rmd.bodyFunction.nlp.framework</groupId><artifactId>${project.artifactId}</artifactId></dependency>
+                     </dependencies>
+                  </configuration>
+                  <phase>install</phase>
+                  <goals>
+                    <goal>single</goal>
+                  </goals>
+               </execution>
+             </executions>
+
+      </plugin>
+     </plugins>
+    </build>
+</project>

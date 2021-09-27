@@ -1,0 +1,18 @@
+SegmentBTRISIntoTrainingAndTesting
+
+   This program takes the set of 500 files that have been annotated and are in two serial data stores
+   (one for each of the annotators), and segments these back into the training/testing divide that
+   originally was set at the beginning of the project.
+   
+   This program is run after the GATE_Corpus2_UIMAApplication, a program which creates individual 
+   GATE xml files out of the serial data stores.   
+   
+   This program is necessary to maintain the same split for publication sake, to make sure no testing
+   data gets used for training when we re-run after updating the data. 
+
+
+   java  SegmentBTRISIntoTrainingAndTesting 
+       --inputDir=./combinedDir
+       --testingDir=./testingDir
+       --trainingDir=./trainingDir
+       --testFilesName=./testFiles

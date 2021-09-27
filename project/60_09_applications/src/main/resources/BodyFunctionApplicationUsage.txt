@@ -1,0 +1,62 @@
+
+BodyFunctionApplication
+
+Body Function Defined
+Body functions are the physiological or psychological functions of body systems. Body functions
+are mentioned in clinical text when there is concern for or documentation of pathologies around body
+function or body function assessment. Body Function information is commonly collected during
+physical exams to provide information on potential pathologies within underlying body systems or
+structures. While there are many specific kinds of body function, this tool finds
+mentions of strength, range of motion (ROM), and reflexes. 
+
+Description
+The program BodyFunctionApplication-jar-with-dependencies.jar reads in text files and finds mentions of body function.   This program takes command line parameters in the form of name=value. 
+
+Output Types/Labels
+   The program will create annotations for the following annotation types.   These annotation types output are specified in a colon delimited list to the parameter --outputTypes=.  By default, all of the below annotation types are specified. 
+   
+
+   BodyFunctionMention - these are mentions that include a body function type, one or more qualifiers, and an optional body location.  
+   Strength      - these are mentions of body strength
+   RangeOfMotion - these are mentions of body range of motion
+   Reflex        - these are mentions of body function reflex
+   BodyLocation  - these are indications of laterality or body part associated with the body function.
+   BFQualifier   - this is numeric or enumerated value indicating at or above normal functioning values (+1); below normal functioning values(-1), or the mention is ambiguous(0)
+   
+   
+Input Formats
+   This program can read in data from the following formats.  The input format is specified by the --inputFormat= parameter.   
+     TEXT_READER        - This is the default.  This reader assumes input assumed to be UTF-8, ASCII-7 formatted files.  It is possible to feed in Windows page-code formatted files, but there is no translation is done to UTF-8, and any characters that are out of range will be passed along as-is.  Text tokens that include non-ascii range characters will fail to match dictionary based lookups.
+     XMI_READER         - This reader will read in Apache-UIMA formatted XMI files. 
+     GATE_READER        - This reader will read in GATE formatted xml files.
+     GATE_CORPUS_READER - This reader will read in files within a GATE serial datastore.  
+
+
+Output Formats
+   This program can return annotated files in the following formats.  These formats can be turned on by specifying them in a colon delimited list to the --outputFormat= parameter. This is the default output format.
+      XMI_WRITER         - This is the standard Apache UIMA format. Apache UIMA 2.10 code was used. To interpret this format, the type descriptors will be needed.  The main type descriptor can be found 
+                           at 60_03_type_descriptors/src/main/resources/gov/nih/cc/rmd/framework/bodyFunction/BodyFunctionModel.xml 
+                           See https://uima.apache.org for documentation to use UIMA.   
+                           
+      GATE_WRITER        - This is the GATE-NLP xml document format.  See https://gate.ac.uk for documentation to use GATE.  GATE 9 codebase was used for this functionality. 
+      GATE_CORPUS_WRITER - This is the GATE-NLP serial-datastore format.  All files read in will be put into a corpus named $CORPUS_NAME in this this format. 
+      VTT_WRITER         - This is a lightweight text format used by the VTT application. VTT (Visual Tagging Tool) is a simple, lightweight portable Java based annotation tool, created and distributed by the National Library of Medicine.  See https://lexsrv3.nlm.nih.gov/Specialist/Summary/vtt.html for more information about VTT. 
+      TEXT_WRITER        - This is the text that was processed.  This format is sometimes useful to view as an output, when the input came from a non text format, such as UIMA's xmi, GATE's xml, input formats [or drawn from embedded database queries - the current version of framework-legacy does not have this capability] 
+      BIO_WRITER         - This is the Begin, Inside, Outside format useful to use with the Stanford Core NLP toolkit.
+      CSV_WRITER         - This is output in pipe delimited formatted text files.
+      SNIPPET_WRITER     - This is a VTT format, where each $focus annotation has been segmented into it's own "snippet", with 3 lines before and 3 lines after surrounding it.  Each $focus mention is labeled with a true|false annotation.  
+
+
+Program
+java -jar $FRAMEWORK_HOME/10_libs/BodyFunctionApplication-jar-with-dependencies.jar 
+    --gateHome=
+    --inputDir=
+    --outputDir=     if not filled out, defaults to the value of $inputDir_[dateStamp]
+    --outputTypes=   one or more of the above labels, colon delimited.  if not filled out, all the labels are preserved.
+    --outputFormat=  Output file types.  This can be a XMI_WRITER:GATE_WRITER:VTT_WRITER:TEXT_WRITER:BIO_WRITER:CSV_WRITER:SNIPPET_WRITER
+    
+    
+    --addNewLines=[false|true]  Inserts newlines if the text has no newlines when set to true.  Default is set to false.
+    --deIdentified=[false|true]  Removes redaction pieces and replaces them with whitespace when set to true. Default is set to false.
+
+For more detail see https://$framework_wiki_home/01_Sandboxes/600_BodyFunction/60_10_doc/ExtractingBodyFunctionMentionsFromNotes.html
