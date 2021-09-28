@@ -115,6 +115,6 @@ The application classifies the *qualifier* as part of finding that mention.
   This software is licenced for use by a Berkely-like agreement.  See [LICENSE](LICENSE) for details.
 
 # Acknowlegements
-  See the [acknowledgments](acknowlegements.md) file for what software we use and attribute. 
+  See the [acknowledgments](acknowldgements.md) file for what software we use and attribute. 
 
 
