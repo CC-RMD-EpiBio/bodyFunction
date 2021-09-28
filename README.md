@@ -102,7 +102,7 @@ The application classifies the *qualifier* as part of finding that mention.
 
   Here is a screen shot of the VTT Viewer viewing a file processed by the application.
 
-<img src="/60_10_doc/BodyFunctionVTT_Example.png" width=1000 />
+<img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionVTT_Example.png" width=1000 />
 
 # Publications and Presentations
 
