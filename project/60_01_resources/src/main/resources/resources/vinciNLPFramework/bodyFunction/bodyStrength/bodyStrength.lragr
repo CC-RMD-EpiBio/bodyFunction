@@ -8,13 +8,13 @@ C0086486|ionic strength|<noun>|<base>|ionic strength|ionic strength|BodyStrength
 C0086486|ionic strengths|<noun>|<base>|Ionic Strengths|Ionic Strengths|BodyStrength|MSH|D009994|n|0||||PM|C0086486|A2.1.3
 C0086486|strengths, ionic|<noun>|<base>|Strengths, Ionic|Strengths, Ionic|BodyStrength|MSH|D009994|n|0||||PM|C0086486|A2.1.3
 C0086486|strength, ionic|<noun>|<base>|Strength, Ionic|Strength, Ionic|BodyStrength|MSH|D009994|n|0||||PM|C0086486|A2.1.3
-C0151786|decreased muscle strength|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2
-C0151786|decreased in strength|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2
-C0151786|decreased coordination and strength|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2
-C0151786|decreased strength and coordination|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2
-C0151786|decreased hand strength and coordination|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2
-C0151786|decreased muscle strength|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|SNOMEDCT_US|26544005|n|0||||SY|C0151786|A2.2.2
-C0151786|muscle strength reduced|<noun>|<base>|Muscle strength reduced|Muscle strength reduced|BodyStrength|SNOMEDCT_US|26544005|n|0||||SY|C0151786|A2.2.2
+C0151786|decreased muscle strength|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2|-1
+C0151786|decreased in strength|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2|-1
+C0151786|decreased coordination and strength|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2|-1
+C0151786|decreased strength and coordination|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2|-1
+C0151786|decreased hand strength and coordination|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|LNC|LA25264-5|n|0||||LA|C0151786|A2.2.2|-1
+C0151786|decreased muscle strength|<noun>|<base>|Decreased muscle strength|Decreased muscle strength|BodyStrength:Qualifier|SNOMEDCT_US|26544005|n|0||||SY|C0151786|A2.2.2|-1
+C0151786|muscle strength reduced|<noun>|<base>|Muscle strength reduced|Muscle strength reduced|BodyStrength|SNOMEDCT_US|26544005|n|0||||SY|C0151786|A2.2.2|-1
 C0203999|kinetic activities for strengthening|<noun>|<base>|Kinetic activities for strengthening|Kinetic activities for strengthening|BodyStrength|SNOMEDCT_US|61502001|n|0||||PT|C0203999|B1.3.1.3
 C0203999|kinetic activities to increase strength|<noun>|<base>|Kinetic activities to increase strength|Kinetic activities to increase strength|BodyStrength|SNOMEDCT_US|61502001|n|0||||SY|C0203999|B1.3.1.3
 C0203999|kinetic activities for strengthening (procedure)|<noun>|<base>|Kinetic activities for strengthening (procedure)|Kinetic activities for strengthening (procedure)|BodyStrength|SNOMEDCT_US|61502001|n|0||||OF|C0203999|B1.3.1.3
@@ -123,6 +123,7 @@ C0808080|strength (attribute)|<noun>|<base>|STRENGTH (attribute)|STRENGTH (attri
 C0808080|strength|<noun>|<base>|Strength|Strength|BodyStrength|LNC|LP30317-9|n|0||||LPN|C0808080|A2.1
 C0808080|strength|<noun>|<base>|Strength|Strength|BodyStrength|LNC|MTHU051575|n|0||||LS|C0808080|A2.1
 C0808080|strength|<noun>|<base>|Strength|Strength|BodyStrength|LNC|MTHU001445|n|0||||CN|C0808080|A2.1
+C0808080|shength|<noun>|<base>|Strength|Strength|BodyStrength|RMD
 C0872279|strength training|<noun>|<base>|Strength Training|Strength Training|BodyStrength|NCI|C154219|n|0||||SY|C0872279|B1.3.1.3
 C0872279|strength training|<noun>|<base>|Strength Training|Strength Training|BodyStrength|MSH|D055070|n|0||||ET|C0872279|B1.3.1.3
 C0872279|training, strength|<noun>|<base>|Training, Strength|Training, Strength|BodyStrength|MSH|D055070|n|0||||PM|C0872279|B1.3.1.3
@@ -4919,27 +4920,27 @@ C0231452|elbow flexors|<noun>|<plural>|Flexion, function|Flexion, function|BodyS
 C0231452|elbow flexor|<noun>|<plural>|Flexion, function|Flexion, function|BodyStrength:BodyLocation|SNOMEDCT_US|9964006|n|0||||FN|C0231452|B2.2.1.1.2
 C0231452|wrist flexors|<noun>|<plural>|Flexion, function|Flexion, function|BodyStrength:BodyLocation|SNOMEDCT_US|9964006|n|0||||FN|C0231452|B2.2.1.1.2
 C0231452|wrist flexor|<noun>|<plural>|Flexion, function|Flexion, function|BodyStrength:BodyLocation|SNOMEDCT_US|9964006|n|0||||FN|C0231452|B2.2.1.1.2
-C3714552|weakness|<adj>|<positive>|Weakness|Weakness|BodyStrength:Qualifier|Weakness|Weakness
-C3714552|lower extremity weakness|<adj>|<positive>|Weakness|Weakness|BodyStrength:Qualifier|Weakness|Weakness
+C3714552|weakness|<adj>|<positive>|Weakness|Weakness|BodyStrength:Qualifier|Weakness|Weakness|-1
+C3714552|lower extremity weakness|<adj>|<positive>|Weakness|Weakness|BodyStrength:Qualifier|Weakness|Weakness|-1
 C3714552|weak|<adj>|<positive>|Weakness|Weakness|BodyStrength|Weakness|Weakness
 bs000001|dorsiflexion|<noun>|<base>|dorsiflexion|dorsiflexion|BodyStrength|RMD|
 bs000001|dorsiflexor|<noun>|<base>|dorsiflexion|dorsiflexion|BodyStrength|RMD|
 bs000001|df|<noun>|<base>|dorsiflexion|dorsiflexion|BodyStrength|RMD|
-#bs000002|full strength|<noun>|<base>|full strength|full strength|BodyStrength:Qualifier|RMD|
+#bs000002|full strength|<noun>|<base>|full strength|full strength|BodyStrength:Qualifier|RMD|+1
 bs000003|lateral strength|<noun>|<base>|lateral strength|lateral strength|BodyStrength|RMD|
 bs000003|lateral|<noun>|<base>|lateral strength|lateral strength|BodyStrength|RMD|
 bs000004|tip strength|<noun>|<base>|tip strength|tip strength|BodyStrength|RMD|
 bs000004|tip pinch|<noun>|<base>|tip strength|tip strength|BodyStrength|RMD|
 bs000004|lateral pinch|<noun>|<base>|tip strength|tip strength|BodyStrength|RMD|
 bs000004|tip|<noun>|<base>|tip strength|tip strength|BodyStrength|RMD|
-bs000005|full strength and rom|<noun>|<base>|full strength and rom|full strength and rom|BodyStrength:Qualifier:RangeOfMotion|RMD|
-bs000005|full strength and range of motion|<noun>|<base>|full strength and rom|full strength and rom|BodyStrength:Qualifier:RangeOfMotion|RMD|
+bs000005|full strength and rom|<noun>|<base>|full strength and rom|full strength and rom|BodyStrength:Qualifier:RangeOfMotion|RMD|+1
+bs000005|full strength and range of motion|<noun>|<base>|full strength and rom|full strength and rom|BodyStrength:Qualifier:RangeOfMotion|RMD|+1
 C0000726|abdominal|<noun>|<base>|Abdominal|Abdominal|BodyLocation|LNC|LP35080-8|n|0||||LPN|T029|Body Location or Region
 C2230444|weakness of triceps of both arms|<noun>|<base>|weakness of tricepts of both arms|weakness of tricepts of both arms|BodyStrength:BodyLocation|SNOMEDCT_US|  
 C2230444|weakness of triceps|<noun>|<base>|weakness of tricepts of both arms|weakness of tricepts of both arms|BodyStrength:BodyLocation|SNOMEDCT_US|  
 C2230444|tricep weakness|<noun>|<base>|weakness of tricepts of both arms|weakness of tricepts of both arms|BodyStrength:BodyLocation|SNOMEDCT_US|  
 C2230444|triceps|<noun>|<base>|weakness of tricepts of both arms|weakness of tricepts of both arms|BodyStrength:BodyLocation|SNOMEDCT_US|  
-C0581877|abdominal weakness|<noun>|<base>|abdominal weakness|abdominal weakness|BodyStrength:BodyLocation:Qualifier|SNOMEDCT_US|  
+C0581877|abdominal weakness|<noun>|<base>|abdominal weakness|abdominal weakness|BodyStrength:BodyLocation:Qualifier|SNOMEDCT_US|-1
 C0581877|abdominal|<noun>|<base>|abdominal weakness|abdominal weakness|BodyStrength:BodyLocation|SNOMEDCT_US|  
 C0577655|quadriceps weakness|<noun>|<base>|quadriceps weakness|quadriceps weakness|BodyStrength:BodyLocation|SNOMEDCT_US| 
 C0577655|weakness of the quadriceps|<noun>|<base>|quadriceps weakness|quadriceps weakness|BodyStrength:BodyLocation|SNOMEDCT_US| 
@@ -5026,5 +5027,13 @@ C2176948|shoulder elevation|<noun>|<base>|scapular elevation strength|scapular e
 BS000000|trials|<noun>|<base>|trials|trials|BodyStrength|RMD
 #BS000000|musculoskeletal|<noun>|<base>|||BodyStrength:ccdaSectionName|RMD
 BS000000|neurological|<noun>|<base>|||BodyStrength:ccdaSectionName:BodyLocation:RangeOfMotion|RMD
-C0221629|proximal muscle weakness|<noun>|<base>|proximal muscle weakness|proximal muscle weakness|BodyStrength:Qualifier|SNOMEDCT_US
-C0151786|muscle weakness|<noun>|<base>|muscle weakness|muscle weakness|BodyStrength|Qualifier|SNOMEDCT_US
+C0221629|proximal muscle weakness|<noun>|<base>|proximal muscle weakness|proximal muscle weakness|BodyStrength:Qualifier|SNOMEDCT_US|-1
+C0151786|muscle weakness|<noun>|<base>|muscle weakness|muscle weakness|BodyStrength:Qualifier|SNOMEDCT_US|-1
+BS000002|strength and tone|<noun>|<base>|strength and tone|strength and tone|BodyStrength|RMD
+BS000002|tone and strength|<noun>|<base>|strength and tone|strength and tone|BodyStrength|RMD
+C1836901|muscle strength normal|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH
+C1836901|muscles are normal in bulk tone and strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH|+1
+C1836901|muscles are normal in bulk, tone and strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH|+1
+C1836901|normal strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH|+1
+C1836901|normal muscle strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH|+1
+C1836901|normal muscle strength and tone|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH|+1

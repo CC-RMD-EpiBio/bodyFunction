@@ -852,5 +852,9 @@ C0080078|range of joint movement|<noun>|<base>|Range of Motion, Articular|Range 
 C0576197|normal active range of ankle extension|<noun>|<base>|normal active range of ankle extension|normal active range of ankle extension|RangeOfMotion|SNOWMEDCT_US
 C0181061|goniometers|<noun>|<plural>|Goniometers|Goniometers|RangeOfMotion|CHV
 C0181061|goniometer|<noun>|<base>|Goniometers|Goniometers|RangeOfMotion|CHV
-ROM00000||gh er|<noun>|<base>|gh er|gh er|RangeOfMotion:BodyLocation|CHV
+ROM00000|gh er|<noun>|<base>|gh er|gh er|RangeOfMotion:BodyLocation|CHV
+ROM00001|range of motion normal|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD
+ROM00001|rom normal|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD
+ROM00001|normal range of motion|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD
+ROM00001|normal rom|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD
 

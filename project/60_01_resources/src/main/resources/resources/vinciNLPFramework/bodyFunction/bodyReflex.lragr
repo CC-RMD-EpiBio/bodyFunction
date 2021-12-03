@@ -12,11 +12,18 @@ C0000000|reflexes|<noun>|<plural>|reflex|reflex|BodyReflex|asserted|None
 C0000000|reflex|<noun>|<base>|reflex|reflex|BodyReflex|asserted|None
 C0000000|deep reflexes|<noun>|<plural>|deep reflex|deep reflex|BodyReflex|asserted|None
 C0000000|deep reflex|<noun>|<plural>|deep reflex|deep reflex|BodyReflex|asserted|None
-C0000000|deep tendon reflexes|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|deep tendon reflexes|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|deep tendon reflex|<noun>|<base>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|deep reflex tendon|<noun>|<base>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|deep reflexes tendon|<noun>|<base>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|dtr|<noun>|<base>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|dtrs|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|dtr's|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|myostatic reflex|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
 C0000000|jerks|<verb>|<plural>|jerk|jerk|BodyReflex|asserted|None
 C0000000|jerk|<verb>|<base>|jerk|jerk|BodyReflex|asserted|None
-C0000000|clonus|<verb>|<base>|clonus|clonus|BodyReflex:Qualifier|asserted|None
-C0000000|ankle clonus|<verb>|<base>|clonus|clonus|BodyReflex:Qualifier:BodyLocation|asserted|None
+C0000000|clonus|<verb>|<base>|clonus|clonus|BodyReflex:Qualifier|asserted|None|-1
+C0000000|ankle clonus|<verb>|<base>|clonus|clonus|BodyReflex:Qualifier:BodyLocation|asserted|None|-1
 C0234147|knee reflex|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
 C0234147|knee jerks|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
 C0234147|knee jerk|<noun>|<base>|knee reflex|knee reflex|BodyReflex:BodyLocation|SNOMEDCT_US|
@@ -50,7 +57,51 @@ C0230953|winged scapula|<noun>|<base>|winged scapula|winged scapula|BodyReflex:B
 C0230953|winged scapulas|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
 C0230953|scapulae alata|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
 C0230953|scapulas winged|<noun>|<base>|winged scapula|winged scapula|BodyReflex:BodyLocation|ICD
-BL00000|plantar|<noun>|<base>|||BodyLocation:BodyReflex
-BR00000|plantars|<noun>|<base>|||BodyLocation:BodyReflex
-BL00000|planter|<noun>|<base>|||BodyLocation:BodyReflex
-BR00000|planters|<noun>|<base>|||BodyLocation:BodyReflex
+C0278131|plantar reflex|<noun>|<base>|plantar reflex|plantar reflex|BodyLocation:BodyReflex
+C0278131|pr|<noun>|<base>|plantar reflex|plantar reflex|BodyLocation:BodyReflex
+C0278131|plantars|<noun>|<plural>|plantar reflex|plantar reflex|BodyLocation:BodyReflex
+C0278131|planters|<noun>|<plural>|plantar reflex|plantar reflex|BodyLocation:BodyReflex
+C0034935|babinski|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski positive|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski reflexes|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski sign|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski sign pos|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski sign positive|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski signs|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski's phenomenon|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski's reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski's sign|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski's signs|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinskis reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensor plantar reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensor plantar reflexes|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensor plantar response|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensor plantar responses|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensors plantar responses|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|great toe paradoxical extensor reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|paradoxical extensor reflex, great toe|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|plantar extensor response|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|plantar response extensor|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|positive babinski|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|positive babinski response|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|positive babinski sign|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex babinski positive|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex plantar extensor|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex plantar upgoing|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex, babinski|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex, babinski's|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflexes, babinski|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|sign babinski present|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|upgoing plantar reflexes|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|upgoing plantars|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0702182|eye movement observation|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|eye movement observation|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|Extraocular eye movement|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|Extraocular eye movements|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|eye movement|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|eye movements|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|eom|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|eoms|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C3842092|motor function normal|<noun>|<base>|motor function normal|motor function normal|BodyReflex:BodyLocation:Qualifier|+1
+C3842092|normal motor function|<noun>|<base>|motor function normal|motor function normal|BodyReflex:BodyLocation:Qualifier|+1

@@ -3299,4 +3299,14 @@ BQ000047|reflexes are absent|<noun>|<base>|||Qualifier|-1
 BQ000047|no movements|<noun>|<base>|||Qualifier|-1
 BQ000047|no movement|<noun>|<base>|||Qualifier|-1
 BQ000048|i+|<noun>|<base>|||Qualifier|+1
+BQ000049|normal and symmetric|<noun>|<base>|normal and symmetric|normal and symmetric|Qualifier|+1
 
+
+C1836901|muscle strength normal|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
+C1836901|muscles are normal in bulk tone and strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
+C1836901|muscles are normal in bulk, tone and strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
+C1836901|normal strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
+C1836901|normal muscle strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
+C1836901|normal muscle strength and tone|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
+
+C0151786|muscle weakness|<noun>|<base>|muscle weakness|muscle weakness|BodyStrength:Qualifier|-1
