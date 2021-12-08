@@ -853,8 +853,16 @@ C0576197|normal active range of ankle extension|<noun>|<base>|normal active rang
 C0181061|goniometers|<noun>|<plural>|Goniometers|Goniometers|RangeOfMotion|CHV
 C0181061|goniometer|<noun>|<base>|Goniometers|Goniometers|RangeOfMotion|CHV
 ROM00000|gh er|<noun>|<base>|gh er|gh er|RangeOfMotion:BodyLocation|CHV
-ROM00001|range of motion normal|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD
-ROM00001|rom normal|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD
-ROM00001|normal range of motion|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD
-ROM00001|normal rom|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD
-
+ROM00001|range of motion normal|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD|+1
+ROM00001|rom normal|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD|+1
+ROM00001|normal range of motion|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD|+1
+ROM00001|normal rom|<noun>|<base>|range of motion normal|RangeOfMotion:Qualifier|RMD|+1
+C0231589|limitation of joint movement|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1
+C0231589|limitation of joint movements|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1
+C0231589|limitation of joints|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1
+C0231589|decreased rom|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1
+C0231589|decreasing rom|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1
+C0231589|decreased range of motion|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1
+C0231589|range of motion decreased|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1
+C0231589|range of motion are decreased and painful|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1
+C0231589|range of motion decreased and painful|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|RMD|-1

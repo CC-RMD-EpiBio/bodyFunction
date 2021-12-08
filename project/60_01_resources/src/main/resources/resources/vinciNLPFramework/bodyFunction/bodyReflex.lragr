@@ -97,11 +97,25 @@ C0034935|upgoing plantar reflexes|Babinski reflex|Babinski reflex|BodyLocation:B
 C0034935|upgoing plantars|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
 C0702182|eye movement observation|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
 C0702182|eye movement observation|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
-C0702182|Extraocular eye movement|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
-C0702182|Extraocular eye movements|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|extraocular eye movement|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|extraocular eye movements|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|extra ocular eye movement|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|extra ocular eye movements|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|extra-ocular eye movement|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
+C0702182|extra-ocular eye movements|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
 C0702182|eye movement|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
 C0702182|eye movements|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
 C0702182|eom|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
 C0702182|eoms|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
 C3842092|motor function normal|<noun>|<base>|motor function normal|motor function normal|BodyReflex:BodyLocation:Qualifier|+1
 C3842092|normal motor function|<noun>|<base>|motor function normal|motor function normal|BodyReflex:BodyLocation:Qualifier|+1
+C0489815|deep tendon reflexes|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|deep tendon reflex|<noun>|<base>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|deep reflex tendon|<noun>|<base>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|deep reflexes tendon|<noun>|<base>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|dtr|<noun>|<base>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|dtrs|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|dtr's|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0489815|myostatic reflex|<noun>|<plural>|deep tenden reflex|deep tendon reflex|BodyReflex|asserted|None
+C0520451|corneal reflex|<noun>|<base>|corneal reflex|corneal reflex|BodyReflex:BodyLocation
+C0520451|corneal reflexes|<noun>|<plural>|corneal reflex|corneal reflex|BodyReflex:BodyLocation

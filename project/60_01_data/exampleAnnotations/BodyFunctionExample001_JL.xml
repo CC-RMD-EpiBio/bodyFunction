@@ -70,7 +70,8 @@ during the right lower extremity.
 
 <!-- Named annotation set -->
 
-<AnnotationSet Name="Original markups">
+<AnnotationSet Name="Body Function">
+
 <Annotation Id="0" Type="paragraph" StartNode="1" EndNode="17">
 </Annotation>
 <Annotation Id="1" Type="paragraph" StartNode="19" EndNode="158">
@@ -329,6 +330,7 @@ during the right lower extremity.
 </Annotation>
 <Annotation Id="99" Type="Qualifier" StartNode="1005" EndNode="1019">
 </Annotation>
+
 </AnnotationSet>
 
 </GateDocument>

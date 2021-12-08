@@ -75,6 +75,7 @@ pn000011|well healed|<noun>|<base>|well healed|well healed|ConfoundingTerm|
 pn000011|CN VII|<noun>|<base>|||ConfoundingTerm|
 pn000011|CN VIII|<noun>|<base>|||ConfoundingTerm|
 pn000012|normal shape|<noun>|<base>|||ConfoundingTerm|
+pn000012|normal gait|<noun>|<base>|||ConfoundingTerm|
 pn000013|change in position|<noun>|<base>|||ConfoundingTerm|
 pn000014|sensory loss|<noun>|<base>|||ConfoundingTerm|
 pn000015|dynamometer measured in pounds of strength|<noun>|<base>|||ConfoundingTerm|
@@ -143,6 +144,7 @@ pn0000000|tone|<noun>|<base>|||confoundingTerm
 pn0000000|pain score|<noun>|<base>|||confoundingTerm
 pn0000000|joint stiffness|<noun>|<base>|||confoundingTerm
 pn0000000|muscle bulk and tone|<noun>|<base>|||confoundingTerm
+pn0000000|muscle tone|<noun>|<base>|||confoundingTerm
 pn0000000|tracheal deviation|<noun>|<base>|||confoundingTerm
 pn0000000|neck stiffness|<noun>|<base>|||confoundingTerm
 pn0000000|warm|<noun>|<base>|||confoundingTerm

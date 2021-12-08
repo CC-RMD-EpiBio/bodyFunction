@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='windows-1252'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <GateDocument version="3">
 <!-- The document's features-->
 
@@ -57,27 +57,24 @@ symmetrically,<Node id="1493"/> <Node id="1494"/>tongue midline<Node id="1508"/>
 
 <Node id="1569"/>Muscle strength<Node id="1584"/>: <Node id="1586"/>4<Node id="1587"/> at <Node id="1591"/>right side<Node id="1601"/>,<Node id="1602"/> 0<Node id="1604"/> at<Node id="1607"/> left UE<Node id="1615"/>. <Node id="1617"/>No movements<Node id="1629"/> 'observed at<Node id="1642"/> left LE<Node id="1650"/>.
 <Node id="1652"/>DTR<Node id="1655"/>: <Node id="1657"/>0-1 <Node id="1661"/>at<Node id="1663"/> left side<Node id="1673"/>, and<Node id="1678"/> 'I+<Node id="1682"/> at<Node id="1685"/> right side<Node id="1696"/>.
-<Node id="1698"/>Plantar reflex<Node id="1712"/>: <Node id="1714"/>Extensor response<Node id="1731"/> <Node id="1732"/>bilaterally
+<Node id="1698"/>Plantar reflex<Node id="1712"/>: <Node id="1714"/>Extensor response<Node id="1731"/> bilaterally
 
 <Node id="1745"/>8trenth:
  UERlvu : 5/5  a*ERmva' uvaperk: wnl but hip alurava'e3kv  ua  o/5 
- Patient believes he will be at full strength within aurave; afivlue .<Node id="1892"/></TextWithNodes>
+ Patient believes he will be at full strength within aurave; afivlue .<Node id="1892"/>
+
+Impairments Identified: <Node id="1918"/>ROM<Node id="1921"/> <Node id="1922"/>deficits<Node id="1930"/>, radiating symptoms, <Node id="1952"/>L hand<Node id="1958"/> <Node id="1959"/>weakness<Node id="1967"/>, pain
+disturbs sleep, pain with basic care, ADL's, and recreational activities.
+
+<Node id="2049"/>Reflexes Exam<Node id="2062"/>:                            <Node id="2091"/>2+<Node id="2093"/> <Node id="2094"/>biceps<Node id="2100"/>, <Node id="2102"/>2+<Node id="2104"/> <Node id="2105"/>triceps<Node id="2112"/> , <Node id="2115"/>2+<Node id="2117"/> <Node id="2118"/>patellar<Node id="2126"/> , <Node id="2129"/>2+<Node id="2131"/> <Node id="2132"/>Achilles<Node id="2140"/></TextWithNodes>
 <!-- The default annotation set -->
 
 <AnnotationSet>
-<Annotation Id="66" Type="Body Function Context" StartNode="1569" EndNode="1584">
-<Feature>
-  <Name className="java.lang.String">Context Type</Name>
-  <Value className="java.lang.String">BF Type: Strength</Value>
-</Feature>
-</Annotation>
-<Annotation Id="114" Type="Possible Body Function" StartNode="1745" EndNode="1892">
-</Annotation>
 </AnnotationSet>
 
 <!-- Named annotation set -->
 
-<AnnotationSet Name="BodyFunction">
+<AnnotationSet Name="Body Function">
 <Annotation Id="7" Type="Qualifier" StartNode="93" EndNode="98">
 </Annotation>
 <Annotation Id="8" Type="Body location" StartNode="89" EndNode="93">
@@ -244,6 +241,12 @@ symmetrically,<Node id="1493"/> <Node id="1494"/>tongue midline<Node id="1508"/>
 </Annotation>
 <Annotation Id="65" Type="Body Function" StartNode="1494" EndNode="1508">
 </Annotation>
+<Annotation Id="66" Type="Body Function Context" StartNode="1569" EndNode="1584">
+<Feature>
+  <Name className="java.lang.String">Context Type</Name>
+  <Value className="java.lang.String">BF Type: Strength</Value>
+</Feature>
+</Annotation>
 <Annotation Id="69" Type="Qualifier" StartNode="1586" EndNode="1587">
 <Feature>
   <Name className="java.lang.String">Category </Name>
@@ -293,8 +296,6 @@ symmetrically,<Node id="1493"/> <Node id="1494"/>tongue midline<Node id="1508"/>
   <Name className="java.lang.String">Category </Name>
   <Value className="java.lang.String">-1</Value>
 </Feature>
-</Annotation>
-<Annotation Id="82" Type="Body location" StartNode="1732" EndNode="1892">
 </Annotation>
 <Annotation Id="83" Type="Body Function" StartNode="1678" EndNode="1696">
 </Annotation>
@@ -374,6 +375,86 @@ symmetrically,<Node id="1493"/> <Node id="1494"/>tongue midline<Node id="1508"/>
   <Value className="java.lang.String">1</Value>
 </Feature>
 </Annotation>
+<Annotation Id="115" Type="Qualifier" StartNode="1959" EndNode="1967">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="116" Type="Qualifier" StartNode="1922" EndNode="1930">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="118" Type="Body location" StartNode="1952" EndNode="1958">
+</Annotation>
+<Annotation Id="119" Type="Body location" StartNode="1959" EndNode="1967">
+</Annotation>
+<Annotation Id="120" Type="Body Function Type" StartNode="1959" EndNode="1967">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 44432004 (Strength)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="121" Type="Body Function Type" StartNode="1918" EndNode="1921">
+<Feature>
+  <Name className="java.lang.String">Function</Name>
+  <Value className="java.lang.String">SCTID: 364564000 (ROM)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="122" Type="Body Function" StartNode="1918" EndNode="1930">
+</Annotation>
+<Annotation Id="123" Type="Body Function" StartNode="1952" EndNode="1967">
+</Annotation>
+<Annotation Id="124" Type="Possible Body Function" StartNode="1745" EndNode="1892">
+</Annotation>
+<Annotation Id="125" Type="Body location" StartNode="2094" EndNode="2100">
+</Annotation>
+<Annotation Id="126" Type="Body location" StartNode="2105" EndNode="2112">
+</Annotation>
+<Annotation Id="127" Type="Body location" StartNode="2118" EndNode="2126">
+</Annotation>
+<Annotation Id="128" Type="Body location" StartNode="2132" EndNode="2140">
+</Annotation>
+<Annotation Id="129" Type="Qualifier" StartNode="2091" EndNode="2093">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="130" Type="Qualifier" StartNode="2102" EndNode="2104">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="Qualifier" StartNode="2115" EndNode="2117">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="132" Type="Qualifier" StartNode="2129" EndNode="2131">
+<Feature>
+  <Name className="java.lang.String">Category </Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="133" Type="Body Function Context" StartNode="2049" EndNode="2062">
+<Feature>
+  <Name className="java.lang.String">Context Type</Name>
+  <Value className="java.lang.String">BF Type: Reflexes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="134" Type="Body Function" StartNode="2091" EndNode="2100">
+</Annotation>
+<Annotation Id="135" Type="Body Function" StartNode="2102" EndNode="2112">
+</Annotation>
+<Annotation Id="136" Type="Body Function" StartNode="2115" EndNode="2126">
+</Annotation>
+<Annotation Id="137" Type="Body Function" StartNode="2129" EndNode="2140">
+</Annotation>
 </AnnotationSet>
 
 <!-- Named annotation set -->
@@ -391,7 +472,7 @@ symmetrically,<Node id="1493"/> <Node id="1494"/>tongue midline<Node id="1508"/>
 </Annotation>
 <Annotation Id="5" Type="paragraph" StartNode="1263" EndNode="1298">
 </Annotation>
-<Annotation Id="6" Type="paragraph" StartNode="1300" EndNode="1892">
+<Annotation Id="6" Type="paragraph" StartNode="1300" EndNode="2140">
 </Annotation>
 </AnnotationSet>
 

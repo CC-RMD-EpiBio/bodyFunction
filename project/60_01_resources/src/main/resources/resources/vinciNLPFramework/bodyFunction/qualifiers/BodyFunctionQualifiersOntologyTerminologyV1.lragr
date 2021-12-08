@@ -3254,6 +3254,7 @@ C1270988|equal, round, reactive to|<noun>|<base>|pupils equal and reactive to li
 C1270988|equal, round, reactive|<noun>|<base>|pupils equal and reactive to light and accommodation|pupils equal and reactive to light and accommodation|BodyLocation:BodyReflex:Qualifier|+1
 C1270988|equal and reactive|<noun>|<base>|pupils equal and reactive to light and accommodation|pupils equal and reactive to light and accommodation|BodyLocation:BodyReflex:Qualifier|+1
 C1270988|equally reactive to light|<noun>|<base>|pupils equal and reactive to light and accommodation|pupils equal and reactive to light and accommodation|BodyLocation:BodyReflex:Qualifier|+1
+C1270988|reactive to light|<noun>|<base>|pupils equal and reactive to light and accommodation|pupils equal and reactive to light and accommodation|BodyLocation:BodyReflex:Qualifier|+1
 C1270988|equally reactive|<noun>|<base>|pupils equal and reactive to light and accommodation|pupils equal and reactive to light and accommodation|BodyLocation:BodyReflex:Qualifier|+1
 BQ000019|can raise right arm above head|<noun>|<base>|||Qualifier|+1
 BQ000019|can raise left arm above head|<noun>|<base>|||Qualifier|+1
@@ -3283,7 +3284,7 @@ BQ000036|stiffness|<noun>|<base>|||Qualifier|-1
 BQ000037|no hoffman's sign|<noun>|<base>|||Qualifier|+1
 BQ000038|drooping|<noun>|<base>|||Qualifier|-1
 BQ000039|tongue is midline|<noun>|<base>|||Qualifer:BodyLocation:Reflex|+1
-BQ000039|midline|<noun>|<base>|||Qualifer:BodyLocation:Reflex|+1
+BQ000039|midline|<noun>|<base>|||Qualifer:BodyLocation|+1
 BQ000039|protrudeds tongue to midline|<noun>|<base>|||Qualifier:BodyLocation:Reflex|+1
 BQ000040|unobtainable|<noun>|<base>|||Qualifier|-1
 BQ000041|flexor|<noun>|<base>|||Qualifier|0
@@ -3300,13 +3301,14 @@ BQ000047|no movements|<noun>|<base>|||Qualifier|-1
 BQ000047|no movement|<noun>|<base>|||Qualifier|-1
 BQ000048|i+|<noun>|<base>|||Qualifier|+1
 BQ000049|normal and symmetric|<noun>|<base>|normal and symmetric|normal and symmetric|Qualifier|+1
-
-
 C1836901|muscle strength normal|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
 C1836901|muscles are normal in bulk tone and strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
 C1836901|muscles are normal in bulk, tone and strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
 C1836901|normal strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
 C1836901|normal muscle strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
 C1836901|normal muscle strength and tone|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|+1
-
 C0151786|muscle weakness|<noun>|<base>|muscle weakness|muscle weakness|BodyStrength:Qualifier|-1
+C0231589|decreasing rom|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|-1
+C0231589|decreased range of motion|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|-1
+BQ000050|decreased and painful|<noun>|<base>|decreased and painful|decreased and painful|Qualifier|-1
+BL00001|move in the midline|<noun>|<base>|||Qualifier|0

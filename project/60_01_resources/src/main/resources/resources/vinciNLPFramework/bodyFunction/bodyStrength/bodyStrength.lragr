@@ -5027,8 +5027,9 @@ C2176948|shoulder elevation|<noun>|<base>|scapular elevation strength|scapular e
 BS000000|trials|<noun>|<base>|trials|trials|BodyStrength|RMD
 #BS000000|musculoskeletal|<noun>|<base>|||BodyStrength:ccdaSectionName|RMD
 BS000000|neurological|<noun>|<base>|||BodyStrength:ccdaSectionName:BodyLocation:RangeOfMotion|RMD
-C0221629|proximal muscle weakness|<noun>|<base>|proximal muscle weakness|proximal muscle weakness|BodyStrength:Qualifier|SNOMEDCT_US|-1
-C0151786|muscle weakness|<noun>|<base>|muscle weakness|muscle weakness|BodyStrength:Qualifier|SNOMEDCT_US|-1
+C0221629|proximal muscle weakness|<noun>|<base>|proximal muscle weakness|proximal muscle weakness|BodyStrength:Qualifier:BodyLocation|SNOMEDCT_US|-1
+C0151786|muscle weakness|<noun>|<base>|muscle weakness|muscle weakness|BodyStrength:Qualifier:BodyLocation|SNOMEDCT_US|-1
+C0151786|weakness of muscles|<noun>|<base>|muscle weakness|muscle weakness|BodyStrength:Qualifier:BodyLocation|SNOMEDCT_US|-1
 BS000002|strength and tone|<noun>|<base>|strength and tone|strength and tone|BodyStrength|RMD
 BS000002|tone and strength|<noun>|<base>|strength and tone|strength and tone|BodyStrength|RMD
 C1836901|muscle strength normal|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH
@@ -5037,3 +5038,42 @@ C1836901|muscles are normal in bulk, tone and strength|<noun>|<base>|muscle stre
 C1836901|normal strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH|+1
 C1836901|normal muscle strength|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH|+1
 C1836901|normal muscle strength and tone|<noun>|<base>|muscle strength normal|muscle strength normal|BodyStrength:BodyLocation:Qualifier|MSH|+1
+BS000003|balance, endurance, strength, coordination|<noun>|<base>|balance, endurance, strength, coordination|balance, endurance, strength, coordination|BodyStrength|RMD|
+BS000004|strength and sensation|<noun>|<base>|strength and sensation|strength and sensation|BodyStrength|RMD|
+BS000005|strength and sensation intact|<noun>|<base>|strength and sensation intact|strength and sensation intact|BodyStrength:Qualifier|RMD|+1
+C0018989|hemiparesis|<noun>|<base>|hemiparesis|hemiparesis|BodyStrength:Qualifier:BodyLocation|RMD|-1
+C0018989|weakness on one side of the body|<noun>|<base>|hemiparesis|hemiparesis|BodyStrength:Qualifier:BodyLocation|RMD|-1
+C0018989|paresis of one side of the body|<noun>|<base>|hemiparesis|hemiparesis|BodyStrength:Qualifier:BodyLocation|RMD|-1
+C0018989|paresis unilateral|<noun>|<base>|hemiparesis|hemiparesis|BodyStrength:Qualifier:BodyLocation|RMD|-1
+C0018991|hemiplegia|<noun>|<base>|hemiplegia|hemiplegia|BodyStrength:Qualifier:BodyLocation|RMD|-1
+C0427055|facial paresis|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|weakness of face muscles|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|face muscles weakness|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|facial weakness|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|facial muscle weakness|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|weakness of facial musculature|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|descreased strength of facial muscles|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|weakness of face|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|facial droop|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|face droop|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|face muscle weakness|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0427055|muscle weakness of face|<noun>|<base>|facial paresis|facial paresis|BodyStrength:Qualifier:BodyLocation|MSH|-1
+C0728985|cervical spine|<noun>|<base>|cervical spine|cervical spine|BodyLocation|MTH|
+C0728985|cervical spines|<noun>|<plural>|cervical spine|cervical spine|BodyLocation|MTH|
+C0728985|c-spine|<noun>|<base>|cervical spine|cervical spine|BodyLocation|MTH|
+C0728985|c spine|<noun>|<base>|cervical spine|cervical spine|BodyLocation|MTH|
+C0728985|cervical spinal column|<noun>|<base>|cervical spine|cervical spine|BodyLocation|MTH|
+C0728985|skeletal system of the neck|<noun>|<base>|cervical spine|cervical spine|BodyLocation|MTH|
+C0728985|cervical region of vertebral column|<noun>|<base>|cervical spine|cervical spine|BodyLocation|MTH|
+C0728985|cervical vertebrae|<noun>|<base>|cervical spine|cervical spine|BodyLocation|MTH|
+C0728985|Cervical vertebral column|<noun>|<base>|cervical spine|cervical spine|BodyLocation|MTH|
+C3887615|lumbar spine structure|<noun>|<base>|lumbar spine structure|lumbar spine structure|BodyLocation|MTH|
+C3887615|lumbar spine|<noun>|<base>|lumbar spine structure|lumbar spine structure|BodyLocation|MTH|
+C3887615|l spine|<noun>|<base>|lumbar spine structure|lumbar spine structure|BodyLocation|MTH|
+C3887615|l-spine|<noun>|<base>|lumbar spine structure|lumbar spine structure|BodyLocation|MTH|
+C0581269|thoracic spine structure|<noun>|<base>|Thoracic spine structure|Thoracic spine structure|BodyLocation|MTH|
+C0581269|thoracic spine|<noun>|<base>|Thoracic spine structure|Thoracic spine structure|BodyLocation|MTH|
+C0581269|t spine|<noun>|<base>|Thoracic spine structure|Thoracic spine structure|BodyLocation|MTH|
+C0581269|t-spine|<noun>|<base>|Thoracic spine structure|Thoracic spine structure|BodyLocation|MTH|
+C0581269|thoracic vertebral column|<noun>|<base>|Thoracic spine structure|Thoracic spine structure|BodyLocation|MTH|
+C0581269|thoracic region of vertebral column|<noun>|<base>|Thoracic spine structure|Thoracic spine structure|BodyLocation|MTH|
