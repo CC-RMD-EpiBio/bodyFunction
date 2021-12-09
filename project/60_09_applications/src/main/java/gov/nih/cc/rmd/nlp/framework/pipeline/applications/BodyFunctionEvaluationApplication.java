@@ -138,7 +138,7 @@ public class BodyFunctionEvaluationApplication {
     String       logDir = U.getOption(pArgs, "--logDir=",   outputDir + "/logs" ); 
     String   printToLog = U.getOption(pArgs, "--printToLog=", "true");
     String   printToConsole = U.getOption(pArgs, "--printToConsole=", "true");
-    String  outputTypes = U.getOption(pArgs, "--outputTypes=" ,"BodyLocation:BodyFunction:BodyFunctionKind:Strength:RangeOfMotion:BFQualifier:LexicalElement:Gold:Copper:TruePositive:FalsePositive:FalseNegative:FalsePostitive:TP:TN:FP:FN" );
+ //   String  outputTypes = U.getOption(pArgs, "--outputTypes=" ,"BodyLocation:BodyFunction:BodyFunctionKind:Strength:RangeOfMotion:BFQualifier:LexicalElement:Gold:Copper:TruePositive:FalsePositive:FalseNegative:FalsePostitive:TP:TN:FP:FN" );
     String    evalTypes =  U.getOption(pArgs, "--evalTypes=" ,"Body_Function:Body_location:Body_Function_TType:BFQualifier" );
     String profilePerformanceLogging = U.getOption(pArgs,  "--profilePerformanceLogging=", "false");
     String setMetaDataHeader = U.getOption(pArgs,  "--setMetaDataHeader=", "false");
@@ -175,13 +175,14 @@ public class BodyFunctionEvaluationApplication {
     String evaluateBodyFunction     = U.getOption(pArgs,   "--evaluateBodyFunction=", "false" ); 
     String evaluateBodyFunctionType = U.getOption(pArgs,   "--evaluateBodyFunctionType=", "false" ); 
     String evaluateBodyLocation     = U.getOption(pArgs,   "--evaluateBodyLocation=", "false" ); 
-    String evaluateQualifier        = U.getOption(pArgs,   "--evaluateQualifier=", "false" ); 
-    String removePossibleBodyFunctionAnnotations =  U.getOption(pArgs, "--removePossibleBodyFunctionAnnotations=", "true" );
+    String evaluateQualifier        = U.getOption(pArgs,   "--evaluateQualifier=", "true" ); 
+    String removePossibleBodyFunctionAnnotations =  U.getOption(pArgs, "--removePossibleBodyFunctionAnnotations=", "false" );
     String evaluatePolarity          = U.getOption(pArgs,   "--evaluatePolarity=", "false");
    
  
     String reportTitle              = U.getOption( pArgs,  "--reportTitle=", "Default") ;
-                                     
+  
+    String typeDescriptor = U.getOption( pArgs, "--typeDescriptor=", "gov.nih.cc.rmd.framework.bodyFunction.BodyFunctionModel");
   
     String addNewLines = U.getOption(pArgs,  "--addNewLines=", "false" );  
     String deIdentified = U.getOption(pArgs,  "--deIdentified=", "false" ); 
@@ -200,7 +201,7 @@ public class BodyFunctionEvaluationApplication {
         "--printToConsole=" + printToConsole,
         
         "--setMetaDataHeader=" + setMetaDataHeader,
-        "--outputTypes=" + outputTypes,
+  //      "--outputTypes=" + outputTypes,
         "--evalTypes=" + evalTypes,
         "--focusLabel=" + focusLabel,
         "--sampleRate=" + sampleRate, 
@@ -221,6 +222,7 @@ public class BodyFunctionEvaluationApplication {
         "--reportTitle=" + reportTitle,
         "--addNewLines=" + addNewLines,
         "--deIdentified=" + deIdentified,
+        "--typeDescriptor=" + typeDescriptor,
         "--version=" + version
       
        
