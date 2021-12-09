@@ -76,7 +76,7 @@ public class BodyFunctionFromGATEApplication {
       // application.createReader( FrameworkBaselineApplication.MULTI_RECORD_FILE_READER, args);
       //   application.createReader(FrameworkBaselineApplication.GATE_READER, args);
        // application.createReader(FrameworkBaselineApplication.TEXT_READER, args);
-        application.createReader( pArgs);
+        application.createReader( args);
 
       // ------------------
       // Create a writers to write out the processed cas's (write out xmi, vtt files, stat file, and concordance file)
@@ -133,7 +133,7 @@ public class BodyFunctionFromGATEApplication {
     
     // -------------------------------------
     // Input Reader
-    String inputFormat = U.getOption(pArgs, "--inputFormat=", FrameworkBaselineApplication.TEXT_READER_ );
+    String inputFormat = U.getOption(pArgs, "--inputFormat=", FrameworkBaselineApplication.GATE_READER_ );
     
     
     // -------------------------------------
@@ -183,7 +183,7 @@ public class BodyFunctionFromGATEApplication {
         "--printToConsole=" + printToConsole,
         
         "--setMetaDataHeader=" + setMetaDataHeader,
-        "--outputTypes=" + outputTypes,
+    //    "--outputTypes=" + outputTypes,
         "--focusLabel=" + focusLabel,
         "--sampleRate=" + sampleRate, 
         "--snippetsPerFile=" + snippetsPerFile,

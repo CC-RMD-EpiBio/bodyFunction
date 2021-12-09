@@ -492,6 +492,7 @@ private boolean LookForBodyFunctionQualifierScalesInUtterance(JCas pJCas, Annota
       for (  Annotation aNumber : numbers ) 
         if ( aNumber != null ) {
         
+      
           List<Annotation> numberTerms = UIMAUtil.fuzzyFindAnnotationsBySpan(pJCas, LexicalElement.typeIndexID, aNumber.getBegin(), aNumber.getEnd() );
           
           if ( numberTerms != null && !numberTerms.isEmpty() ) {
@@ -714,12 +715,21 @@ private final void filterOutPainQualifiers(JCas pJCas, Annotation pQualifier) {
   String qualifier = pQualifier.getCoveredText();
  
   
+  
   if ( utterance != null ) {
    
     String utteranceString  = utterance.getCoveredText();
     boolean andNotSeen = false;
-    if ( utteranceString.toLowerCase().contains(" and "))
+    if ( utteranceString.toLowerCase().contains(" and ") ) {// || utteranceString.toLowerCase().contains(", ") || utteranceString.toLowerCase().contains("; ")) {
+     
+      // ---------------------------
+      //  tbd
+      // limit the scope for a confounding term to be within the bounds of a phrase   
+      //                                                             don't block --->         xxxx confounding term xxxx , xxxx qualifier
+      //                                                             don't block --->       qualifier xxxx , xxxx confounding term xxxxx
+      //                                                             block->                 qualifier xxxx counfounding term xxxxx
       andNotSeen = true;
+    }
     
     List<Annotation> terms = UIMAUtil.getAnnotationsBySpan(pJCas, LexicalElement.typeIndexID, utterance.getBegin(), utterance.getEnd());
     if ( terms != null && !terms.isEmpty()) {
@@ -799,6 +809,7 @@ private void filterOutBadContextQualifier(JCas pJCas, Annotation pQualifier) {
    boolean conditional = ((BFQualifier) pQualifier).getConditionalStatus();
    boolean subjective = ((BFQualifier) pQualifier).getAttributedToPatient();
    // String aboutPatient = ((BFQualifier) pQualifier).getSubjectStatus();
+   
    
    
    /*

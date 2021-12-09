@@ -176,7 +176,7 @@ pn0000000|degree of disability|<noun>|<base>|||confoundingTerm
 pn0000000|increased neck apin|<noun>|<base>|||confoundingTerm
 pn0000000|pec minor|<noun>|<base>|||confoundingTerm
 pn0000000|pectoralis minor|<noun>|<base>|||confoundingTerm
-pn0000000|each|<noun>|<base>|||confoundingTerm
+#pn0000000|each|<noun>|<base>|||confoundingTerm
 pn0000000|10x|<noun>|<base>|||confoundingTerm
 pn0000000|reps|<noun>|<base>|||confoundingTerm
 pn0000000|severe increase in in pain|<noun>|<base>|||confoundingTerm
@@ -202,3 +202,4 @@ pn0000000|auscultation|<noun>|<base>|||confoundingTerm
 pn0000000|longer|<noun>|<base>|||confoundingTerm
 pn0000000|description|<noun>|<base>|||confoundingTerm
 pn0000000|hearing|<noun>|<base>|||confoundingTerm
+pn0000000|patellar grind test|<noun>|<base>|||confoundingTerm
