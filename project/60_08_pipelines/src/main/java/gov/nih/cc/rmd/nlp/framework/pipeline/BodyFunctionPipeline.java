@@ -11,6 +11,7 @@ import gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyLocationAnnotator
 import gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyRangeOfMotionAnnotator;
 import gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyReflexAnnotator;
 import gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyStrengthAnnotator;
+import gov.nih.cc.rmd.nlp.framework.utils.U;
 
 // =================================================
 /**
@@ -65,7 +66,8 @@ import gov.nih.cc.rmd.nlp.framework.annotator.bodyFunction.BodyStrengthAnnotator
 
 	    FrameworkPipeline pipeline = new FrameworkPipeline(pArgs);
 	    UimaContextParameter argsParameter = new UimaContextParameter("args",  pArgs, "String",  true, true);
-      pipeline.setTypeDescriptorClassPath("gov.nih.cc.rmd.framework.bodyFunction.BodyFunctionModel");  //<--- in the 60_03-type.descriptor/src/main/resources ... folder
+	    String typeDescriptor = U.getOption( pArgs, "--typeDescriptor=", "gov.nih.cc.rmd.framework.bodyFunction.BodyFunctionModel");
+      pipeline.setTypeDescriptorClassPath(typeDescriptor);  //<--- in the 60_03-type.descriptor/src/main/resources ... folder
 	   
       
      

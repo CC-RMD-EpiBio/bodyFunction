@@ -115,7 +115,7 @@ import gov.nih.cc.rmd.nlp.framework.annotator.shapes.UnitOfMeasureAnnotator;
   public FrameworkPipeline createPipeline(String[] pArgs) {
 
 	    FrameworkPipeline pipeline = new FrameworkPipeline(pArgs);
-	    pipeline.setTypeDescriptorClassPath("gov.nih.cc.rmd.FrameworkAndCtakes");   // <----- this might be ignored if the config file is used
+	    pipeline.setTypeDescriptorClassPath("gov.nih.cc.rmd.framework.Model");   // <----- this might be ignored if the config file is used
 	    
       setPipeline( pipeline, pArgs);
 	   
