@@ -62,39 +62,39 @@ C0278131|pr|<noun>|<base>|plantar reflex|plantar reflex|BodyLocation:BodyReflex
 C0278131|plantars|<noun>|<plural>|plantar reflex|plantar reflex|BodyLocation:BodyReflex
 C0278131|planters|<noun>|<plural>|plantar reflex|plantar reflex|BodyLocation:BodyReflex
 C0034935|babinski|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski positive|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski reflexes|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski sign|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski sign pos|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski sign positive|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski signs|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski's phenomenon|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski's reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski's sign|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinski's signs|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|babinskis reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|extensor plantar reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|extensor plantar reflexes|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|extensor plantar response|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|extensor plantar responses|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|extensors plantar responses|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|great toe paradoxical extensor reflex|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|paradoxical extensor reflex, great toe|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|plantar extensor response|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|plantar response extensor|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|positive babinski|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|positive babinski response|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|positive babinski sign|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|reflex babinski positive|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|reflex plantar extensor|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|reflex plantar upgoing|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|reflex, babinski|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|reflex, babinski's|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|reflexes, babinski|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|sign babinski present|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|upgoing plantar reflexes|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
-C0034935|upgoing plantars|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski positive|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski reflex|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski reflexes|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski sign|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski sign pos|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski sign positive|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski signs|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski's phenomenon|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski's reflex|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski's sign|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinski's signs|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|babinskis reflex|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensor plantar reflex|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensor plantar reflexes|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensor plantar response|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensor plantar responses|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|extensors plantar responses|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|great toe paradoxical extensor reflex|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|paradoxical extensor reflex, great toe|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|plantar extensor response|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|plantar response extensor|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|positive babinski|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|positive babinski response|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|positive babinski sign|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex babinski positive|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex plantar extensor|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex plantar upgoing|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex, babinski|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflex, babinski's|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|reflexes, babinski|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|sign babinski present|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|upgoing plantar reflexes|<noun>|<base>|Babinski reflex|Babinski reflex|BodyLocation:BodyReflex
+C0034935|upgoing plantars|Babinski reflex|<noun>|<base>|Babinski reflex|BodyLocation:BodyReflex
 C0702182|eye movement observation|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
 C0702182|eye movement observation|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex
 C0702182|extraocular eye movement|<noun>|<base>|eye movement observation|eye movement observation|BodyLocation:BodyReflex

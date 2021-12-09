@@ -502,9 +502,11 @@ C0442797|decreasing|<adj>|<positive>|Decreasing|Decreasing|Qualifier|Decreasing|
 #C0205125|deep|<adj>|<positive>|Deep|Deep|Qualifier|Deep|Measurement property
 C1628485|defaecation reflex finding|<adj>|<positive>|Defaecation reflex finding|Defaecation reflex finding|Qualifier:BodyReflex|Defaecation reflex finding|Observation of reflex
 C1628485|defecation reflex finding|<adj>|<positive>|Defecation reflex finding|Defecation reflex finding|Qualifier:BodyReflex|Defecation reflex finding|Observation of reflex
-C0011155|deficiency|<adj>|<positive>|deficiency|deficiency|Qualifier|deficiency|Degree findings
-C0011155|deficiency of|<adj>|<positive>|Deficiency of|Deficiency of|Qualifier|Deficiency of|Degree findings
-C0011155|deficient|<adj>|<positive>|Deficient|Deficient|Qualifier|Deficient|Degree findings
+C0011155|deficiency|<adj>|<positive>|deficiency|deficiency|Qualifier|deficiency|Degree findings|-1
+C0011155|deficiency of|<adj>|<positive>|Deficiency of|Deficiency of|Qualifier|Deficiency of|Degree findings|-1
+C0011155|deficient|<adj>|<positive>|Deficient|Deficient|Qualifier|Deficient|Degree findings|-1
+C0011155|deficit|<noun>|<base>|Deficiency of|Deficiency of|Qualifier|Deficiency of|Degree findings|-1
+C0011155|deficits|<noun>|<plural>|Deficiency of|Deficiency of|Qualifier|Deficiency of|Degree findings|-1
 #C0441889|degree|<noun>|<base>|Degree|Degree|Qualifier|Degree|Ranked categories
 C0441889|degrees|<noun>|<plural>|Degree|Degree|Qualifier|Degree|Ranked categories
 C0442795|degree findings|<adj>|<positive>|Degree findings|Degree findings|Qualifier|Degree findings|Degree findings
@@ -681,6 +683,8 @@ C1304535|entitic|<adj>|<positive>|Entitic|Entitic|Qualifier|Entitic|Measurement 
 C0337095|entrance|<adj>|<positive>|Entrance|Entrance|Qualifier|Entrance|Physical hazard
 C0332120|eo|<adj>|<positive>|EO|EO|Qualifier|EO|General information qualifier
 C0702182|eom - extraocular movement|<adj>|<positive>|EOM - Extraocular movement|EOM - Extraocular movement|Qualifier|EOM - Extraocular movement|Observation of reflex
+C0702182|eom|<adj>|<positive>|EOM - Extraocular movement|EOM - Extraocular movement|Qualifier|EOM - Extraocular movement|Observation of reflex
+C0702182|eoms|<adj>|<positive>|EOM - Extraocular movement|EOM - Extraocular movement|Qualifier|EOM - Extraocular movement|Observation of reflex
 C0439089|equal symbol =|<adj>|<positive>|Equal symbol =|Equal symbol =|Qualifier|Equal symbol =|Mathematical sign
 C0439089|equals|<adj>|<positive>|Equals|Equals|Qualifier|Equals|Mathematical sign
 C0332241|equivocal|<adj>|<positive>|Equivocal|Equivocal|Qualifier|Equivocal|Degree findings
@@ -3232,6 +3236,8 @@ C3714552|severe weakness|<adj>|<positive>|Weakness|Weakness|BodyStrength:Qualifi
 BQ000011|essentially unaffected|<noun>|<base>|essentially unaffected|essentially unaffected|Qualifier|+1
 BQ000012|emoi|<noun>|<base>|extraocular movements intact|extraocular movements intact|Qualifier:BodyLocation:BodyReflex|+1
 BQ000012|extraocular movements intact|<noun>|<base>|extraocular movements intact|extraocular movements intact|Qualifier:BodyReflex|+1
+BQ000012|eoms intact|<noun>|<base>|extraocular movements intact|extraocular movements intact|Qualifier:BodyReflex|+1
+BQ000012|eom's intact|<noun>|<base>|extraocular movements intact|extraocular movements intact|Qualifier:BodyReflex|+1
 C0497254|musculoskeletal positive|<noun>|<base>|musculoskeletal|musculoskeletal|BodyStrength:BodyLocation:Qualifier|-1
 C0497254|musculoskeletal negative|<noun>|<base>|musculoskeletal|musculoskeletal|BodyStrength:BodyLocation:Qualifier|+1
 C0205494|neurological positive|<noun>|<base>|neurologic|neurologic|BodyReflex:BodyLocation:Qualifier|-1
@@ -3241,7 +3247,7 @@ BQ000012|functional strength|<noun>|<base>|||Qualifier|0
 BQ000013|almost full|<noun>|<base>|||Qualifier|0
 BQ000014|tight|<noun>|<base>|||Qualifier|-1
 BQ000015|upgoing|<noun>|<base>|||Qualifier|-1
-BQ000016|eomi|<noun>|<base>|||BodyLocation:BodyReflex:Qualifier|+1
+BQ000016|eomi|<noun>|<base>|extra occular movements intact|extra occular movements intact|BodyLocation:BodyReflex:Qualifier|+1
 BQ000017|perrl|<noun>|<base>|||Qualifier:BodyLocation:BodyReflex|+1
 BQ000017|perrl/eomi|<noun>|<base>|||Qualifier:BodyLocation:BodyReflex|+1
 BQ000018|tender to passive movement|<noun>|<base>|||Qualifier|-1
@@ -3291,7 +3297,7 @@ BQ000041|flexor|<noun>|<base>|||Qualifier|0
 BQ000042|able to extend the|<noun>|<base>|||Qualifier|+1
 BQ000043|able to oppose the|<noun>|<base>|||Qualifier|+1
 BQ000044|able to make|<noun>|<base>|||Qualifier|+1
-BQ000045|can walk well|<noun>|<base>|||Qualifier|+1
+#BQ000045|can walk well|<noun>|<base>|||Qualifier|+1
 BQ000045|drop|<noun>|<base>|||Qualifier|0
 BQ000046|foot drop|<noun>|<base>|||Qualifier|0
 BQ000046|foot-drop|<noun>|<base>|||Qualifier|0
@@ -3312,3 +3318,5 @@ C0231589|decreasing rom|<noun>|<base>|limitation of joint movement|limitation of
 C0231589|decreased range of motion|<noun>|<base>|limitation of joint movement|limitation of joint movement|RangeOfMotion:Qualifier|-1
 BQ000050|decreased and painful|<noun>|<base>|decreased and painful|decreased and painful|Qualifier|-1
 BL00001|move in the midline|<noun>|<base>|||Qualifier|0
+C0264122|atrophy, disuse|<noun>|<base>|atrophy, disuse|atrophy, disuse|Qualifier|-1
+C0264122|atrophy|<noun>|<base>|atrophy, disuse|atrophy, disuse|Qualifier|-1
