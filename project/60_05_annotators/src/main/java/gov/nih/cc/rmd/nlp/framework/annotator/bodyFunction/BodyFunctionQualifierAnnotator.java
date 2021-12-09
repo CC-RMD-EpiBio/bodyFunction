@@ -1204,7 +1204,7 @@ private String opositeCategory(String pCategory) {
  private final String assignStrengthPolarity(String pValue) {
   String returnVal = "notAssignedYet";
   
-  if      ( pValue.contains("5/5"))  
+  if      ( pValue.contains("5/5") )  
     returnVal = "+1";
   else if ( pValue.contains("/5" ))  
     returnVal = "-1";
@@ -1268,13 +1268,13 @@ private String assignReflexPolarity(String coveredText) {
   
   if ( coveredText.contains("0" ))
       returnVal = "-1";
-  else if ( coveredText.contains("1") || coveredText.contains("1+"))
+  else if ( coveredText.contains("1") || coveredText.contains("1+") ||  coveredText.contains("+1" ))
     returnVal = "-1";
-  else if ( coveredText.contains("2") || coveredText.contains("2+"))
+  else if ( coveredText.contains("2") || coveredText.contains("2+")  || coveredText.contains("+2"))
     returnVal = "+1";
-  else if ( coveredText.contains("3") || coveredText.contains("3+"))
+  else if ( coveredText.contains("3") || coveredText.contains("3+")  || coveredText.contains("+3"))
     returnVal = "0";
-  else if ( coveredText.contains("4") || coveredText.contains("4+"))
+  else if ( coveredText.contains("4") || coveredText.contains("4+")  || coveredText.contains("+4"))
     returnVal = "-1";
   else if ( coveredText.toLowerCase().contains("clonus"))
     returnVal = "-1";
