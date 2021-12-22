@@ -787,7 +787,7 @@ c00000000|internal and external hip rotation|<noun>|<base>|hip rotation|hip rota
 c00000000|external and internal hip rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
 c00000000|hip external and internal rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
 c00000000|hip internal and external rotation|<noun>|<base>|hip rotation|hip rotation|RangeOfMotion|rmd
-ROM000002|full range of motion|<noun>|<base>|full range of motion|full range of motion|RangeOfMotion:Qualifier|RMD|
+ROM000002|full range of motion|<noun>|<base>|full range of motion|full range of motion|RangeOfMotion:Qualifier|RMD|+1
 ROM000003|abduct|<noun>|<base>|abduct|abduct|RangeOfMotion|RMD|
 ROM000003|abduction|<noun>|<base>|abduct|abduct|RangeOfMotion|RMD|
 C0231456|abduction|<noun>|<base>|abduction|abduction|RangeOfMotion|RMD|

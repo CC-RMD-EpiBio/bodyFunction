@@ -84,7 +84,7 @@ public class BodyFunctionEvaluationApplication {
       application.addWriter(FrameworkBaselineApplication.XMI_WRITER, args);
      // application.addWriter(FrameworkBaselineApplication.SNIPPET_WRITER, args);
        application.addWriter(FrameworkBaselineApplication.GATE_WRITER, args);
-    // application.addWriter(FrameworkBaselineApplication.TEXT_WRITER, args);
+       application.addWriter(FrameworkBaselineApplication.TEXT_WRITER, args);
      application.addWriters(args); 
      
      
