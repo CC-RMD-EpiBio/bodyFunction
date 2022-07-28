@@ -98,8 +98,9 @@ public class BodyFunctionHumanAnnotationStatsAnnotator extends JCasAnnotator_Imp
      int qualifers =  process_Qualifier( pJCas,pDocumentType, pDocumentName);
      int mentions =  process_BodyFunction( pJCas, pDocumentType, pDocumentName);
      int contexts = process_Contexts( pJCas, pDocumentType, pDocumentName );
+     int possibleBFs = process_possibleBFs( pJCas, pDocumentType, pDocumentName);
       
-      processDocStats( pJCas, pDocumentType, pDocumentName,  bodyLocations, functionTypes[STRENGTH], functionTypes[ROM], functionTypes[REFLEX], qualifers, mentions, contexts);
+      processDocStats( pJCas, pDocumentType, pDocumentName,  bodyLocations, functionTypes[STRENGTH], functionTypes[ROM], functionTypes[REFLEX], qualifers, mentions, contexts, possibleBFs);
       
       
       
@@ -111,6 +112,7 @@ public class BodyFunctionHumanAnnotationStatsAnnotator extends JCasAnnotator_Imp
        totalAmbiguous+= functionTypes[AMBIGUOUS];
        totalQualifiers+= qualifers;
        totalContexts+=contexts;
+       totalPossibleBF+=possibleBFs;
        
        
       
@@ -125,6 +127,7 @@ public class BodyFunctionHumanAnnotationStatsAnnotator extends JCasAnnotator_Imp
        meanQualifiers = (double) totalQualifiers /(double)totalFiles;
        meanBodyFunctions = (double) totalBodyFunctions / (double)totalFiles;
        meanContexts = (double) totalContexts / (double)  totalFiles ;
+       meanPossibleBf = ((double) totalPossibleBF / (double) totalFiles);
        
        
       
@@ -153,10 +156,11 @@ public class BodyFunctionHumanAnnotationStatsAnnotator extends JCasAnnotator_Imp
    * @param pQualifiers
    * @param pMentions
    * @param pContexts 
+   * @param possibleBFs 
    * 
   */
   // =================================================
- private final void processDocStats(JCas pJCas, String pDocType, String pDocName, int pLocations, int pStrength, int pROM, int pReflex, int pQualifiers, int pMentions, int pContexts ) {
+ private final void processDocStats(JCas pJCas, String pDocType, String pDocName, int pLocations, int pStrength, int pROM, int pReflex, int pQualifiers, int pMentions, int pContexts, int possibleBFs ) {
     
     String docText = pJCas.getDocumentText();
     int docLength = docText.length();
@@ -172,7 +176,7 @@ public class BodyFunctionHumanAnnotationStatsAnnotator extends JCasAnnotator_Imp
      meanTokens = (double) totalTokens /(double) this.totalFiles;
     
     // "DocType|DocName|NumChars|NumLines|NumTokens|BodyLocation|Strength|Rom|Reflex|Qualifier|BodyFunction";
-    String buff = pDocType + "|" + pDocName + "|" + docLength + "|" + numberOfLines + "|" + numberOfTokens + "|" + pLocations + "|" + pStrength + "|" + pROM + "|" + pReflex + "|" + pQualifiers  + "|" + pMentions + "|" + pContexts ;   
+    String buff = pDocType + "|" + pDocName + "|" + docLength + "|" + numberOfLines + "|" + numberOfTokens + "|" + pLocations + "|" + pStrength + "|" + pROM + "|" + pReflex + "|" + pQualifiers  + "|" + pMentions + "|" + pContexts + "|" + possibleBFs ;   
  
     
     this.stats.add( buff);
@@ -398,7 +402,35 @@ List<Annotation> manualContexts  = UIMAUtil.getAnnotations(pJCas, gov.nih.cc.rmd
   return returnVal;
 } // end Method process_BodyFunction() --------
 
- 
+
+//=================================================
+/**
+* process_PossibleBFs
+* 
+* @param pJCas
+* @param pDocumentName 
+* @param pDocumentType 
+* @return int  number of body function mentions
+*/
+//=================================================
+private final int process_possibleBFs(JCas pJCas, String pDocumentType, String pDocumentName) {
+
+List<Annotation> manualpossibleBFs  = UIMAUtil.getAnnotations(pJCas, gov.nih.cc.rmd.gate.Possible_Body_Function.typeIndexID, true);
+
+int returnVal = 0;
+if ( manualpossibleBFs != null && !manualpossibleBFs.isEmpty() ) {
+  returnVal = manualpossibleBFs.size();
+  for ( Annotation possibleBF : manualpossibleBFs ) {
+   
+    catalogGATEAnnotations( pJCas,  pDocumentType, pDocumentName,  possibleBF, null);
+
+  }
+}
+
+return returnVal;
+} // end Method process_BodyFunction() --------
+
+
 
 // =================================================
 /**
@@ -511,6 +543,8 @@ public void destroy() {
     out.print("The total number of Ambiguous annotations are " + this.totalAmbiguous + "\n" );
     out.print("The total number of Qualifier annotations are " + this.totalQualifiers + "\n" );
     out.print("The total number of body function annotations are " + this.totalBodyFunctions + "\n" );
+    out.print("The total number of contexts are " + this.totalContexts + "\n");
+    out.print("The total number of possible BFS are " + this.totalPossibleBF + "\n");
     
     Set<String> keys = this.docTypeHash.keySet();
     for ( String key : keys ) {
@@ -532,12 +566,13 @@ public void destroy() {
     out.print("The mean number of Qualifier annotations are " + df.format(this.meanQualifiers) + "\n" );
     out.print("The mean number of body function annotations are " + df.format(this.meanBodyFunctions) + "\n" );
     out.print("The mean number of body function contexts are " + df.format(this.meanContexts) + "\n" );
-        
+  // out.print("The mean number of possibleBF's are " + df.format(this.meanPossibleBf + "\n"));
+    
+    
     out.print("The mean number of chars per document are " + df.format(this.meanChars) + "\n" );
     out.print("The mean number of lines per document are " + this.meanLines + "\n" );
     out.print("The mean number of tokens per document are " + df.format( this.meanTokens) + "\n" );
-    
-    
+   
     
    out.close();
   
@@ -636,6 +671,7 @@ public void destroy() {
   int totalQualifiers = 0;
   int totalBodyFunctions = 0;
   int totalContexts = 0;
+  int totalPossibleBF = 0;
   
   
   double meanAnnotations  = 0.0;
@@ -646,6 +682,7 @@ public void destroy() {
   double meanQualifiers = 0.0;
   double meanBodyFunctions = 0;
   double meanContexts = 0;
+  double meanPossibleBf = 0.0;
   
   int totalChars = 0;
   int totalLines = 0;
@@ -653,6 +690,7 @@ public void destroy() {
   double meanChars = 0.0;
   double meanLines = 0.0;
   double meanTokens = 0.0;
+  
   
   
   HashMap<String, int[]> docTypeHash = new HashMap<String , int[]>(500);

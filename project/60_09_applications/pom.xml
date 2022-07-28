@@ -122,6 +122,29 @@
                     <goal>single</goal>
                   </goals>
                </execution>
+
+               <execution>
+                <id>executable_3</id>
+                  <configuration>
+                     <archive>
+                        <manifest>
+                          <mainClass>gov.nih.cc.rmd.nlp.framework.pipeline.applications.BodyFunctionHumanAnnotationStatsApplication</mainClass> 
+                        </manifest>
+                     </archive>
+                     <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                     </descriptorRefs>
+                     <finalName>BodyFunctionHumanAnnotationsStatsApplication</finalName>
+                     <outputDirectory>${project.build.directory}/../../60_01_libs</outputDirectory>
+                     <dependencies>
+                       <dependency><groupId>gov.nih.cc.rmd.bodyFunction.nlp.framework</groupId><artifactId>${project.artifactId}</artifactId></dependency>
+                     </dependencies>
+                  </configuration>
+                  <phase>install</phase>
+                  <goals>
+                    <goal>single</goal>
+                  </goals>
+               </execution>
              </executions>
 
       </plugin>
