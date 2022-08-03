@@ -7,7 +7,7 @@
   <!-- ====================================================== -->
   <groupId>gov.nih.cc.rmd.framework</groupId>
   <artifactId>00-nlp-parent</artifactId>
-  <version>2021.02.0</version>
+  <version>2022.09.0</version>
   <packaging>pom</packaging>
   <name>${project.groupId}: ${project.artifactId}</name>
   <description>Contains the list of dependencies for all framework projects</description>
@@ -28,17 +28,7 @@
   <!-- Where to pick up the parent poms -->
   <!-- ======================================================= -->
   <repositories>
- <!--
-    <repository>
-      <id>inlp-nexus</id>
-      <name>inlp Nexus</name>
-          <        url>http://inlp.bmi.utah.edu/nexus/content/groups/public</url   >
-      <url>https://qtzeng.smhs.gwu.edu/nexus/content/groups/public</url> 
-      <releases>
-        <updatePolicy>never</updatePolicy>
-      </releases>
-    </repository>
--->
+
     <repository>
       <id>central repository-nexus</id>
       <name>central repo Nexus</name>
@@ -48,19 +38,8 @@
       </releases>
     </repository>
   </repositories>
+
   <pluginRepositories>
- <!--
-    <pluginRepository>
-      <id>inlp-nexus</id>
-      <name>inlp Nexus</name>
-      <    url>http://inlp.bmi.utah.edu/nexus/content/groups/public</url   >
-      <url>https://qtzeng.smhs.gwu.edu/nexus/content/groups/public</url>
-      <releases>
-	<enabled>true></enabled>
-	<updatePolicy>never</updatePolicy>
-      </releases>
-    </pluginRepository>
--->
   </pluginRepositories>
 
   <!-- =================================================== -->
@@ -68,34 +47,14 @@
   <!-- =================================================== -->
   <distributionManagement>
 
-    <site>
-      <id>inlp</id>
-      <name>Deployment Server</name>
-      <!-- url>scp://inlp.bmi.utah.edu/var/www/html/sites/${project.groupId}/${project.artifactId}/${project.version}/</url -->
-    </site>
 
     <repository>
       <id>nexus</id>
       <name>Nexus Staging Repo</name>
-      <!-- url>http://inlp.bmi.utah.edu/nexus/service/local/repositories/releases/content</url -->
       <releases>
         <updatePolicy>never</updatePolicy>
       </releases>
     </repository>
-
-    <!--
-       <repository>
-      <id>mavenCentral</id>
-      <name>Nexus Main Repo</name>
-      <url>https://repo1.maven.org/maven2/</url>
-    </repository>
-    -->
-
-    <snapshotRepository>
-       <id>nexus_snapshots</id>
-       <name>Nexus Snapshot Repo</name>
-       <url>http://inlp.bmi.utah.edu/nexus/content/repositories/snapshots</url>
-    </snapshotRepository>
 
   </distributionManagement>
 
@@ -109,17 +68,17 @@
       <!-- =================================================== -->
       <!-- Framework Functionalities                           -->
       <!-- =================================================== -->
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>01-nlp-resources       </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>03-nlp-type-descriptors</artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.0-nlp-util          </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.1-nlp-vUtil         </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.2-nlp-tUtil         </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>05-nlp-annotators      </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>06-nlp-marshallers     </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>07.0-nlp-pUtils        </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>08-nlp-pipelines       </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>09-nlp-applications    </artifactId> <version>2021.02.0</version> </dependency>
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>nlp-apis               </artifactId> <version>2021.02.0</version> </dependency> 
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>01-nlp-resources       </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>03-nlp-type-descriptors</artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.0-nlp-util          </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.1-nlp-vUtil         </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.2-nlp-tUtil         </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>05-nlp-annotators      </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>06-nlp-marshallers     </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>07.0-nlp-pUtils        </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>08-nlp-pipelines       </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>09-nlp-applications    </artifactId> <version>2022.09.0</version> </dependency>
+        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>nlp-apis               </artifactId> <version>2022.09.0</version> </dependency> 
 
 
       <!-- =================================================== -->

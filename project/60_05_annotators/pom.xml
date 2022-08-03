@@ -7,7 +7,7 @@
   <!-- ====================================================== -->
   <groupId>gov.nih.cc.rmd.framework</groupId>
   <artifactId>60_05-bodyFunction-annotators</artifactId>
-  <version>2020.05.0</version>
+  <version>2022.09.0</version>
   <packaging>jar</packaging>
   <description>bodyFunction Annotators</description>
 
@@ -21,7 +21,7 @@
   <parent>
     <groupId>gov.nih.cc.rmd.framework</groupId>
     <artifactId>60_01-bodyFunction-parent</artifactId>
-    <version>2020.05.0</version>
+    <version>2022.09.0</version>
   </parent>
 
   <dependencies>
@@ -30,7 +30,7 @@
     <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.0-nlp-util                                </artifactId>  </dependency>
     <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.2-nlp-tUtil                               </artifactId>  </dependency>
     <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>04.1-nlp-vUtil                               </artifactId>  </dependency>
-    <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>60_03-bodyFunction-type-descriptors</artifactId> <version>2020.05.0</version></dependency>
+    <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>60_03-bodyFunction-type-descriptors</artifactId> <version>2022.09.0</version></dependency>
   </dependencies>
 </project>
 

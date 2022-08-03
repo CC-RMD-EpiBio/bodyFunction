@@ -23,17 +23,10 @@
   <parent>
     <groupId>gov.nih.cc.rmd.framework</groupId>
     <artifactId>00-nlp-parent</artifactId>
-    <version>2021.02.0</version>
+    <version>2022.09.0</version>
     <relativePath></relativePath>
   </parent>
 
-  <!-- =================================================== -->
-  <!-- SCM                                                 -->
-  <!-- =================================================== -->
-  <scm>
-    <connection>scm:git:http://v3nlp.bmi.utah.edu/gitblit/git/framework/thirdParty.git/</connection>
-    <url>http://v3nlp.bmi.utah.edu/gitblit/git/framework/thirdParty.git/</url>  
-  </scm>
 
     <!-- =================================================== -->
     <!--  Properties - The global stuff                      -->

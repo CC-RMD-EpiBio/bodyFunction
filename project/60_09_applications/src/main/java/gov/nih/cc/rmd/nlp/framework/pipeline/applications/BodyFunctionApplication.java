@@ -165,8 +165,8 @@ public class BodyFunctionApplication {
    
     
     String localTerminologyFiles = U.getOption(pArgs, "--localTerminologyFiles=",
-        "resources/vinciNLPFramework/term/2011/SPECIALIST_PART1.LRAGR" + ":"  + 
-        "resources/vinciNLPFramework/term/2011/SPECIALIST_PART2.LRAGR" + ":"  +
+        "resources/vinciNLPFramework/term/2020AA/SPECIALIST_00.LRAGR" + ":"  + 
+        "resources/vinciNLPFramework/term/2020AA/SPECIALIST_01.LRAGR" + ":"  +
         BodyFunctionAnnotator.BodyFunction_LRAGR_FILES  + ":" + 
         SyntaticPipeline.SyntaticMinimalTerminologyFiles + ":" + 
         AssertionAnnotator.EvidenceLRAGRFiles
@@ -174,7 +174,7 @@ public class BodyFunctionApplication {
   
     String addNewLines = U.getOption(pArgs,  "--addNewLines=", "false" );  
     String deIdentified = U.getOption(pArgs,  "--deIdentified=", "false" ); 
-    String version = "2021-09-22.0";
+    String version = "2022-08-03.0";
     
     String args[] = {
         

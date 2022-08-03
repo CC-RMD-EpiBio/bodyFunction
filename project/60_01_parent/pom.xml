@@ -7,7 +7,7 @@
   <!-- ====================================================== -->
   <groupId>gov.nih.cc.rmd.framework</groupId>
   <artifactId>60_01-bodyFunction-parent</artifactId>
-  <version>2020.05.0</version>
+  <version>2022.09.0</version>
   <packaging>pom</packaging>
   <name>${project.groupId}: ${project.artifactId}</name>
   <description>Contains the list of dependencies for the bodyFunction projects</description>
@@ -23,7 +23,7 @@
   <parent>
     <groupId>gov.nih.cc.rmd.framework</groupId>
     <artifactId>00-nlp-parent</artifactId>
-    <version>2021.02.0</version>
+    <version>2022.09.0</version>
   </parent>
 
   <!-- =================================================== -->
@@ -31,11 +31,6 @@
   <!-- =================================================== -->
   <dependencyManagement>
     <dependencies>
-
-      <!-- =================================================== -->
-      <!-- other Framework Functionalities                     -->
-      <!-- =================================================== -->
-        <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>01-nlp-resources       </artifactId> <version>2021.02.0</version> </dependency>
 
     </dependencies>
   </dependencyManagement>

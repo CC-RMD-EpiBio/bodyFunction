@@ -8,7 +8,7 @@
   <groupId>gov.nih.cc.rmd.framework</groupId>
   <artifactId>60_09-bodyFunction-Application</artifactId>
   <packaging>jar</packaging>
-  <version>2020.05.0</version>
+  <version>2022.09.0</version>
 
   <description>BodyFunction Application runs the pojectName pipeline </description>
 
@@ -23,29 +23,16 @@
   <parent>
     <groupId>gov.nih.cc.rmd.framework</groupId>
     <artifactId>60_01-bodyFunction-parent</artifactId>
-    <version>2020.05.0</version>
+    <version>2022.09.0</version>
   </parent>
 
 
     <!-- =================================================== -->
-    <!--  IMPORTANT NOTE HERE: Need to install a             -->
-    <!--                       non git'able resource.        -->
-    <!--   (This is only for the development version)                                                    -->
-    <!-- The SentenceModelPythonWindowsJar dependency comes from a non-git'able resource project         -->
-    <!-- currently in //ccresearch/Shares/FAB/RMD-Data/EpiBioStat/NLP/softwareRepos/910_02_unmavenedJars -->
-    <!-- YOu will need to do a mvn install in this directory to install the resources                    -->
-    <!-- before installing this project.                     -->
-    <!--                                                     -->
-    <!-- =================================================== -->
-
-
-
-    <!-- =================================================== -->
     <dependencies>
-      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_03-bodyFunction-type-descriptors</artifactId> <version>2020.05.0</version></dependency>
-      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_05-bodyFunction-annotators      </artifactId> <version>2020.05.0</version></dependency>
-      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_08-bodyFunction-pipelines       </artifactId> <version>2020.05.0</version></dependency>
-      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_01_bodyFunction_resources       </artifactId> <version>2020.05.0</version></dependency>
+      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_03-bodyFunction-type-descriptors</artifactId> <version>2022.09.0</version></dependency>
+      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_05-bodyFunction-annotators      </artifactId> <version>2022.09.0</version></dependency>
+      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_08-bodyFunction-pipelines       </artifactId> <version>2022.09.0</version></dependency>
+      <dependency> <groupId>gov.nih.cc.rmd.framework        </groupId> <artifactId>60_01_bodyFunction_resources       </artifactId> <version>2022.09.0</version></dependency>
 
       <dependency><groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>01-nlp-resources                           </artifactId> </dependency>
       <dependency><groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>06-nlp-marshallers                         </artifactId> </dependency>

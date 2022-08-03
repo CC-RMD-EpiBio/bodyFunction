@@ -8,14 +8,14 @@
   <groupId>gov.nih.cc.rmd.framework</groupId>
   <artifactId>unmavenedJars</artifactId>
   <packaging>jar</packaging>
-  <version>2021.02.0</version>
+  <version>2022.09.0</version>
 
   <description> Unmavened jars installs local 3rd party jars that are not in a nexus server </description>
 
   <parent>
     <groupId>gov.nih.cc.rmd.framework</groupId>
     <artifactId>00-nlp-parent</artifactId>
-    <version>2021.02.0</version>
+    <version>2022.09.0</version>
   </parent>
 
 
@@ -35,24 +35,6 @@
             <artifactId>maven-install-plugin</artifactId>
             <version>2.4</version>
             <executions>
-                <execution>
-                    <id>inst_01</id>
-                    <phase>initialize</phase>
-                    <goals>
-                        <goal>install-file</goal>
-                    </goals>
-                    <configuration>
-                        <createChecksum>true</createChecksum> 
-                        <!-- config for file 01 -->
-                        <file>lib/LibSVM-1.0.10.jar</file>
-
-                        <!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/LibSVM -->
-                        <groupId>nz.ac.waikato.cms.weka</groupId>
-                        <artifactId>LibSVM</artifactId>
-                        <version>1.0.10</version>
-                        <packaging>jar</packaging>
-                    </configuration>
-                </execution>
 
                 <execution>
                     <id>inst_02</id>
@@ -84,23 +66,6 @@
                         <groupId>org.bodil.openjdk</groupId>
                         <artifactId>nashorn</artifactId>
                         <version>0.1.0.2013020801</version>
-                        <packaging>jar</packaging>
-                    </configuration>
-                </execution>
-
-                <execution>
-                    <id>inst_04</id>
-                    <phase>initialize</phase>
-                    <goals>
-                        <goal>install-file</goal>
-                    </goals>
-                    <configuration>
-                        <createChecksum>true</createChecksum> 
-                        <!-- These are ctakes ae descriptors that don't usually get bundled up into jars-->
-                        <file>lib/ctakes4.0.desc.jar</file>
-                        <groupId>org.apache.ctakes</groupId>
-                        <artifactId>ctakes-desc</artifactId>
-                        <version>4.0</version>
                         <packaging>jar</packaging>
                     </configuration>
                 </execution>

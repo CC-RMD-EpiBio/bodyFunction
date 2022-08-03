@@ -8,7 +8,7 @@
   <!-- =================================================== -->
   <groupId>gov.nih.cc.rmd.framework</groupId>
   <artifactId>60_03-bodyFunction-type-descriptors</artifactId>
-  <version>2020.05.0</version>
+  <version>2022.09.0</version>
   <packaging>jar</packaging>
   <description>framework type descriptor mojo generation </description>
 
@@ -18,7 +18,7 @@
   <parent>
     <groupId>gov.nih.cc.rmd.framework</groupId>
     <artifactId>60_01-bodyFunction-parent</artifactId>
-    <version>2020.05.0</version>
+    <version>2022.09.0</version>
   </parent>
 
   <!-- =================================================== -->
@@ -32,7 +32,7 @@
   <dependencies>
     <dependency> <groupId>org.apache.uima</groupId>          <artifactId>uimaj-core               </artifactId> </dependency>
     <dependency> <groupId>org.apache.uima</groupId>          <artifactId>uimaj-document-annotation</artifactId> </dependency>
-    <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>03-nlp-type-descriptors  </artifactId> <version>2021.02.0</version></dependency>
+    <dependency> <groupId>gov.nih.cc.rmd.framework</groupId> <artifactId>03-nlp-type-descriptors  </artifactId> </dependency>
  
   </dependencies>
 
