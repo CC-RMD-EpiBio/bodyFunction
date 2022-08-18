@@ -17,7 +17,10 @@ The application classifies the *qualifier* as part of finding the mention.
 -  ./project                                                Where the source code and dependencies for Body Function is
 -  [Publications and Presentations](https://github.com/CC-RMD-EpiBio/bodyFunction#publications-and-presentations)
 
-# Application Invocation
+# Example Application Invocation
+  > java -jar BodyFunctionApplication-jar-with-dependencies.jar --inputDir=..\project\60_01_data\examples --outputDir=.\bf_example_outputDir
+
+# Application Usage
 The application is run from the command line: 
  
     > java -jar BodyFunctionApplication-jar-with-dependencies.jar [Options]
@@ -91,6 +94,13 @@ Here is a screen shot of the GATE Viewer viewing a file processed by the applica
 Here is a screen shot of the VTT Viewer viewing a file processed by the application.
 
 <img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionVTT_Example.png" width=1000 />
+
+
+# Example Text Data
+Two exemplar files are distributed that include body function mentions in them. 
+  
+-  [BodyFunctionExamle00.txt](https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_01_data/examples/BodyFunctionExample001.txt)
+-  [bf_ssa_examples01.txt](https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_01_data/examples/bf_ssa_examples_01.txt)
 
 # Publications and Presentations
 
