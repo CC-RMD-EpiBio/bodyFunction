@@ -115,7 +115,14 @@ This application reads in data from the following formats.  The input format is 
 # License
 All source code and documentation contained in this package are distributed under the terms in the [LICENSE](LICENSE) file (modified BSD). 
 
-# Acknowlegements
+# Building From Source Code
+This repo includes both the source code for the Body Function application, along with those jars which are dependencies which are not distributed via a nexus service.  See the [project/readme.md](https://github.com/CC-RMD-EpiBio/bodyFunction/tree/main/project#readme) for details.
+
+Note: This repo relies on functionality from the repo/project *Java-NLP-Framework*. For conviencence, those jars in which the Body Function repo relies upon are included in this repo. However, the sources for Java-NLP-Framework are available from the [java-NLP-Framework repo](https://github.com/CC-RMD-EpiBio/java-nlp-framework).  See the [readme.md](https://github.com/CC-RMD-EpiBio/java-nlp-framework#readme) for details.
+
+
+# Acknowledgments
+
 See the [acknowledgments](acknowldgements.md) file for what software we use and attribute. 
 
 
