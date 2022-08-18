@@ -20,6 +20,32 @@ The application classifies the *qualifier* as part of finding the mention.
 # Example Application Invocation
   > java -jar BodyFunctionApplication-jar-with-dependencies.jar --inputDir=..\project\60_01_data\examples --outputDir=.\bf_example_outputDir
 
+
+# Example Text Data
+Two exemplar files are distributed that include body function mentions in them. 
+  
+-  [BodyFunctionExamle00.txt](https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_01_data/examples/BodyFunctionExample001.txt)
+-  [bf_ssa_examples01.txt](https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_01_data/examples/bf_ssa_examples_01.txt)
+
+# Example UIMA XMI Output
+
+Here is a screen shot of the UIMA Annotation Viewer viewing a file processed by the application.
+  
+  <img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionUIMAXMI_Output.png" width=1000 />
+
+# Example of GATE Output
+
+Here is a screen shot of the GATE Viewer viewing a file processed by the application.
+
+<img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionGATE_ExampleOutput.png" width=1000 />
+
+# Example of VTT Output
+
+Here is a screen shot of the VTT Viewer viewing a file processed by the application.
+
+<img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionVTT_Example.png" width=1000 />
+
+
 # Application Usage
 The application is run from the command line: 
  
@@ -77,30 +103,7 @@ This application reads in data from the following formats.  The input format is 
  - *GATE_READER*        - This reader will read in GATE formatted xml files.
  - *GATE_CORPUS_READER* - This reader will read in files within a GATE serial datastore.  
 
-# Example UIMA XMI Output
 
-Here is a screen shot of the UIMA Annotation Viewer viewing a file processed by the application.
-  
-  <img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionUIMAXMI_Output.png" width=1000 />
-
-# Example of GATE Output
-
-Here is a screen shot of the GATE Viewer viewing a file processed by the application.
-
-<img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionGATE_ExampleOutput.png" width=1000 />
-
-# Example of VTT Output
-
-Here is a screen shot of the VTT Viewer viewing a file processed by the application.
-
-<img src="https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_10_doc/BodyFunctionVTT_Example.png" width=1000 />
-
-
-# Example Text Data
-Two exemplar files are distributed that include body function mentions in them. 
-  
--  [BodyFunctionExamle00.txt](https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_01_data/examples/BodyFunctionExample001.txt)
--  [bf_ssa_examples01.txt](https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/project/60_01_data/examples/bf_ssa_examples_01.txt)
 
 # Publications and Presentations
 
