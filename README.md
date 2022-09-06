@@ -110,7 +110,7 @@ This application reads in data from the following formats.  The input format is 
 |Title     | Citation | Description |
 | -------- | -------- | ------------| 
 |**Extracting Body Function from Clinical Text** |*G Divita, J Lo, C Zhou, K Coale, E Rasch*. **Extracting Body Function from Clinical Text**  Proceedings of the Second Workshop on Artificial Intelligence for Function, Disability, and Health (AI4Function 2021), Online, August 20-21, 2021. Edited by: Denis Newman-Griffis, Bart Desmet, Ayah Zirikly, Suzanne Tamang, Hongfang Liu Submitted by: Denis Newman-Griffis Published on CEUR-WS: 15-Aug-2021ONLINE: [Vol-2926 paper 3](http://ceur-ws.org/Vol-2926/paper3.pdf) |This paper describes finding Body Function (BF) mentions within clinical text. Body Function is noted in clinical documents to provide information on potential pathologies within underlying body systems or structures. BF mentions are embedded in highly formatted structures where the formats include implied scoping boundaries that confound existing NLP segmentation and document decomposition techniques. We have created two extraction systems: a dictionary lookup rule-based version, and a conditional random field (CRF)|
-|**Extracting Body Function from Clinical Text** |[Powerpoint Presentation to SSA Aug 26, 2021](/project/60_10_doc/ExtractingBodyFunctionFromClinicalText_SSAPresentation.pptx)|Presentation of this work to SSA.
+
 
 # License
 All source code and documentation contained in this package are distributed under the terms in the [LICENSE](LICENSE) file (modified BSD). 
