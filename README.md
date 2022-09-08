@@ -103,13 +103,17 @@ This application reads in data from the following formats.  The input format is 
  - *GATE_READER*        - This reader will read in GATE formatted xml files.
  - *GATE_CORPUS_READER* - This reader will read in files within a GATE serial datastore.  
 
-
+# Annotation Guidelines
+It is important to understand how the training and testing annotations were created.  Much work went into codifying what should be coded and how. The guidelines were greatly consulted to insure annotations were consistent and correct. The guidelines for Body Function can be found [here](https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main/annotation_guidelines/Body_Function_GUIDELINES_updated.pdf), along with an appendix of common acronyms and abbreviations can be found [here](https://github.com/CC-RMD-EpiBio/bodyFunction/blob/main//annotation_guidelines/Appendix A_Common Acronyms and Abbreviations.pdf)
 
 # Publications and Presentations
 
 |Title     | Citation | Description |
 | -------- | -------- | ------------| 
 |**Extracting Body Function from Clinical Text** |*G Divita, J Lo, C Zhou, K Coale, E Rasch*. **Extracting Body Function from Clinical Text**  Proceedings of the Second Workshop on Artificial Intelligence for Function, Disability, and Health (AI4Function 2021), Online, August 20-21, 2021. Edited by: Denis Newman-Griffis, Bart Desmet, Ayah Zirikly, Suzanne Tamang, Hongfang Liu Submitted by: Denis Newman-Griffis Published on CEUR-WS: 15-Aug-2021ONLINE: [Vol-2926 paper 3](http://ceur-ws.org/Vol-2926/paper3.pdf) |This paper describes finding Body Function (BF) mentions within clinical text. Body Function is noted in clinical documents to provide information on potential pathologies within underlying body systems or structures. BF mentions are embedded in highly formatted structures where the formats include implied scoping boundaries that confound existing NLP segmentation and document decomposition techniques. We have created two extraction systems: a dictionary lookup rule-based version, and a conditional random field (CRF)|
+
+|**Extracting Body Function Information Using Rule-based Methods: Highlighting Structure and Formatting Challenges in Clinical Text**| Divita G, Coale K, Camacho Maldonado J, Jiménez Silva R, Rasch E. **Extracting Body Function Information Using Rule-based Methods: Highlighting Structure and Formatting Challenges in Clinical Text** [Frontiers in Digital Health.:162.](
+https://%20http//journal.frontiersin.org/article/10.3389/fdgth.2022.914171/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Digital_Health&id=914171)|This paper is the follow-up paper running and tuning the application to work with the even more challenging SSA claimant data, which was from paper sources, OCR'd, from vendors across the U.S.|
 
 
 # License
